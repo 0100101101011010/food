@@ -2,8 +2,10 @@
 # This file contains configuration flags to customize your site
 #
 
+title: Jellie's Bakery
+
 # Name of your site (displayed in the header)
-name: Jellie's Bakery
+name: Kelly Zhang
 
 # Short bio or description (displayed in the header)
 description: >- # this means to ignore newlines until "baseurl:"
