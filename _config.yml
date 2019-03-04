@@ -94,6 +94,9 @@ gems:
 
 plugins: [jekyll-paginate, jekyll-seo-tag]
 
+include:
+  ["_pages"]
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
