@@ -40,21 +40,9 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
             <h3 class="panel-title">recipe notes</h3>
           </div>
           <div class="panel-body">
-
-          <ul>
-            <li>you can use fresh thyme (1 or 2 tbsp would work) instead of dried</li>
-            <li>to make vegan</li>
-            <li>800 g tomato (1 can = 800 g)</li>
-            <li>400 g dry lentil</li>
-            <li>60 g spinach (1 cup = 30 g)</li>
-            <li>2 carrot</li>
-            <li>4 celery stalk</li>
-            <li>2 bay leaf</li>
-            <li>1/2 tbsp dried thyme</li>
-            <li>2 L water</li>
-            <li>5 g chicken bouillon (1 cube = 5 g)</li>
-            <li>6 g salt (6 g = 2 tsp kosher salt or 1 tsp fine salt)</li>
-          </ul>
+          <p>this recipe is super forgiving and easy to customize! for example, if you want a thicker stew-like meal, just reduce the water by a quarter. you can substitute double the amount of fresh thyme for dried. the spinach can be swapped out for kale or swiss chard or left out altogether.</p>
+          <b>to make vegan:</b>
+          <p>use 2 L of vegetable stock instead of water and chicken bouillon.</p>
           </div>
         </div>
     </div>
