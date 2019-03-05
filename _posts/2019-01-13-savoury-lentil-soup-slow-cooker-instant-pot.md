@@ -40,7 +40,7 @@ excerpt: "A delicious soup that lasts for over a week in the fridge, and keeps w
             <h3 class="panel-title">nutritional information</h3>
           </div>
           <div class="panel-body">
-            <iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=6383824&measure=16230578&labelType=AMERICAN_2016" frameborder="0"></iframe>
+            <iframe title="CRONOMETER.com" width="320" height="540" src="https://cronometer.com/facts.html?food=6383824&measure=16230578&labelType=AMERICAN" frameborder="0"></iframe>
           </div>
         </div>
     </div>
