@@ -18,7 +18,7 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
   "prepTime": "PT15M",
   "totalTime": "PT4H15M",
   "datePublished": "2019-01-13",
-  "description": "{{ post.excerpt | jsonify }}",
+  "description": {{ post.excerpt | jsonify }},
   "image": "bananabread.jpg",
   "recipeIngredient": [
     "3 or 4 ripe bananas, smashed",
