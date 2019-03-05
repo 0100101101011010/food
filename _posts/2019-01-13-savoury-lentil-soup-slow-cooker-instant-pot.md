@@ -44,7 +44,22 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
     "calories": "197 calories",
     "fatContent": "9 grams fat"
   },
-  "recipeInstructions": "Preheat the oven to 350 degrees. Mix in the ingredients in a bowl. Add the flour last. Pour the mixture into a loaf pan and bake for one hour.",
+  "recipeInstructions": [{
+    "@type": "HowToStep",
+    "text": "Chop onion, carrot, and celery into small pieces. Roughly chop spinach. Mince garlic."
+  },{
+    "@type": "HowToStep",
+    "text": "Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up."
+  },{
+    "@type": "HowToStep",
+    "text": "Add garlic and saute until water is almost gone."
+  },{
+    "@type": "HowToStep",
+    "text": "Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times."
+  },{
+    "@type": "HowToStep",
+    "text": "Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)"
+  }]  
   "recipeYield": "8 servings",
   "suitableForDiet": "http://schema.org/LowFatDiet"
 }
@@ -132,11 +147,11 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
             <h3 class="panel-title">instructions (instant pot)</h3>
           </div>
           <div class="panel-body">
-            <ol><li>chop onion, carrot, and celery into small pieces (think about how you like your soups&mdash;you want the chunks small enough to eat in one bite comfortably). roughly chop spinach. mince garlic.</li>
-            <li>turn instant pot to SAUTE mode on MORE. add 2 tbsp water. add onion and saute until most of the water is dried up.</li>
-            <li>add garlic and cook until pot is almost dry.</li>
-            <li>add rest of the ingredients and stir a couple times.</li>
-            <li>turn instant pot to SLOW COOK mode. leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours.</li></ol>
+            <ol><li>Chop onion, carrot, and celery into small pieces (think about how you like your soups&mdash;you want the chunks small enough to eat in one bite comfortably). Roughly chop spinach. Mince garlic.</li>
+            <li>Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up.</li>
+            <li>Add garlic and sautee until water is almost gone.</li>
+            <li>Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.</li>
+            <li>Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)</li></ol>
           </div>
         </div>
     </div>
