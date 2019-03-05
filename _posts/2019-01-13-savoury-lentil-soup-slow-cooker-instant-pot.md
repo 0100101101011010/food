@@ -59,7 +59,7 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
   },{
     "@type": "HowToStep",
     "text": "Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)"
-  }]  
+  }],  
   "recipeYield": "8 servings",
   "suitableForDiet": "http://schema.org/LowFatDiet"
 }
