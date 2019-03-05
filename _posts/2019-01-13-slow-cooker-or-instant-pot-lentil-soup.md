@@ -9,7 +9,7 @@ tags: [widtw]
 
 
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-12">
         <div class="panel panel-primary">
           <div class="panel-heading">
             <h3 class="panel-title">ingredients</h3>
@@ -30,8 +30,10 @@ tags: [widtw]
           </div>
         </div>
     </div>
+</div>
 
-   <div class="col-md-4">
+<div class="row">
+   <div class="col-md-6">
         <div class="panel panel-success">
           <div class="panel-heading">
             <h3 class="panel-title">instructions (instant pot)</h3>
@@ -46,7 +48,7 @@ tags: [widtw]
         </div>
     </div>
 
-    <div class="col-md-4">
+    <div class="col-md-6">
          <div class="panel panel-success">
            <div class="panel-heading">
              <h3 class="panel-title">instructions (slow cooker)</h3>
