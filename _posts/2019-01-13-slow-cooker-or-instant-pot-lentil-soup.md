@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Slow Cooker or Instant Pot Lentil Soup Recipe"
+title: "Slow Cooker or Instant Pot Lentil Soup Recipe (vegan + omni options)"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: savoury
@@ -9,7 +9,7 @@ tags: [widtw]
 
 
 <div class="row">
-    <div class="col-md-12">
+    <div class="col-md-6">
         <div class="panel panel-primary">
           <div class="panel-heading">
             <h3 class="panel-title">ingredients</h3>
@@ -39,7 +39,7 @@ tags: [widtw]
             <h3 class="panel-title">instructions (instant pot)</h3>
           </div>
           <div class="panel-body">
-            <li>chop onion, carrot, celery, and tomato (if using fresh) into small pieces (think about how you like your soups&emdash;you want the chunks small enough to eat in one bite comfortably). roughly chop spinach. mince garlic.</li>
+            <li>chop onion, carrot, celery, and tomato (if using fresh) into small pieces (think about how you like your soups&mdash;you want the chunks small enough to eat in one bite comfortably). roughly chop spinach. mince garlic.</li>
             <li>turn instant pot to SAUTE mode on MORE. add 2 tbsp water. add onion and saute until most of the water is dried up.</li>
             <li>add garlic and cook until pot is almost dry.</li>
             <li>add rest of the ingredients and stir a couple times.</li>
