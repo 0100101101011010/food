@@ -54,8 +54,12 @@ tags: [widtw]
              <h3 class="panel-title">instructions (slow cooker)</h3>
            </div>
            <div class="panel-body">
-             <li>chop onion, carrot, celery, and tomato (if using fresh) into small pieces (think about how you like your soups&emdash;you want the chunks small enough to eat in one bite comfortably). roughly chop spinach. mince garlic.</li>
-             <li></li>
+             <li>chop onion, carrot, celery, and tomato (if using fresh) into small pieces (think about how you like your soups&mdash;you want the chunks small enough to eat in one bite comfortably). roughly chop spinach. mince garlic.</li>
+             <li>heat skillet on medium heat. add 2 tbsp water. add onion and saute.</li>
+             <li>meanwhile, add rest of ingredients except garlic to slow cooker.</li>
+             <li>when there's only a little water left in the skillet, add the garlic to the onions.</li>
+             <li>when water is nearly all gone, transfer garlic and onions to the slow cooker.</li>
+             <li>leave slow cooker on HIGH for 4 hours or LOW for 8 hours.</li>
            </div>
          </div>
      </div>
