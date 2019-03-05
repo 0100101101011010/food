@@ -14,9 +14,10 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
   "@context": "http://schema.org",
   "@type": "Recipe",
   "author": "Kelly Zhang",
+  "keywords": "vegan, soup, meal, diet, weight loss, healthy",
   "cookTime": "PT4H",
   "prepTime": "PT15M",
-  "totalTime": "PT4H15M",
+  "totalTime": "PT4H",
   "cookingMethod": "Slow Cooking",
   "datePublished": "2019-01-13",
   "description": "A light yet filling soup that's less than 200 calories and has 13 g of protein and 7 g of fiber. It's perfect for meal prep, and freezes well. Vegan and omni options!",
@@ -45,6 +46,11 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
     "userInteractionCount": "140"
   },
   "name": "Savoury Lentil Soup in the Slow Cooker or Instant Pot",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "CAD",
+    "value": "10"
+  },
   "nutrition": {
     "@type": "NutritionInformation",
     "calories": "197 calories",
@@ -60,6 +66,29 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
     "sodiumContent": "416.3 milligrams sodium",
     "servingSize": "1.5 cups"
   },
+  
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Slow cooker or Instant Pot"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Skillet (if using slow cooker method)",
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Spatula"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Kitchen knife",
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Food scale (recommended to count calories accurately)",
+    }
+  ],
   
   "recipeCategory": "soup",
   "recipeCuisine": "Canadian",
