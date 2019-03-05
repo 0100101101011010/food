@@ -40,9 +40,45 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
             <h3 class="panel-title">recipe notes</h3>
           </div>
           <div class="panel-body">
-          <p>this recipe is super forgiving and easy to customize! for example, if you want a thicker stew-like meal, just reduce the water by a quarter. you can substitute double the amount of fresh thyme for dried. the spinach can be swapped out for kale or swiss chard or left out altogether.</p>
-          <b>to make vegan:</b>
-          <p>use 2 L of vegetable stock instead of water and chicken bouillon.</p>
+          <table>
+<thead>
+<tr>
+<th>ACTIVE TIME</th>
+<th>15 min</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PASSIVE TIME</td>
+<td>4–9 hours</td>
+</tr>
+<tr>
+<td>TOTAL TIME</td>
+<td>4–9 hours</td>
+</tr>
+<tr>
+<td>SERVINGS</td>
+<td>8</td>
+</tr>
+<tr>
+<td>CALORIES</td>
+<td>200 cal per serving</td>
+</tr>
+<tr>
+<td>COST</td>
+<td>$0.16 per serving</td>
+</tr>
+<tr>
+<td>FRIDGE</td>
+<td>refrigerate for up to 8 days</td>
+</tr>
+<tr>
+<td>FREEZER</td>
+<td>freeze for several months</td>
+</tr>
+</tbody>
+</table>
+
           </div>
         </div>
     </div>
@@ -91,11 +127,11 @@ When it comes to meal prep, my recipes follow three guiding principles.
 
 I'm very happy to report that this recipe is all three!
 
-I'm not into fresh herbs at all... every college student who tries to cook at home knows the struggle of buying a handful of cilantro or parsley for a recipe, only to have to throw away the wilted remainder a week later. There's nothing more stressful than knowing you have produce going bad in your fridge but not having a recipe to use it in. I don't want my life to be dictated by herbs!! That's why when I come up with recipes, I only use dried spices and herbs. These babies don't go bad for a long time, plus they don't take up space in the fridge.
+I'm not into fresh herbs at all... every college student who tries to cook at home knows the struggle of buying a handful of cilantro or parsley for a recipe, only to have to throw away the wilted remainder a week later. There's nothing more stressful than knowing you have produce going bad in your fridge but not having a recipe to use it in. I don't want my life to be run by herbs!! That's why when I come up with recipes, I try to stick to dried spices and herbs. These babies don't go bad for a long time, plus they don't take up space in the fridge.
 
-I also try to make my recipes versatile. When it comes to vegetables, you can also find substitutes between
+I also try to make my recipes versatile. This soup is super flexible on the vegetables. You can add in vegetables, like tomatoes, squash, mushrooms, etc. or substitute one for another. It's great for dumping some leftovers in!
 
-[Lentil veggie stew](https://weelicious.com/2011/01/02/crock-pot-lentil-veggie-stew/), made in my Instant pot. Instead of olive oil, I used sesame oil (which smells amazing btw), and half a tablespoon of dried thyme instead of fresh. I left out the chopped tomatoes and leeks, since I don't like either of those veggies, and subbed spinach for kale. This soup is awesome! The first day I brought this to work, I didn't even heat it up in the microwave and just ate it cold at my desk (long story involving key cards but basically I was locked out of the kitchen), and it was still pretty good.
+This soup is awesome! The first day I brought this to work, I didn't even heat it up in the microwave and just ate it cold at my desk (didn't have access to a microwave back then, long story), and it was still pretty good.
 
 In fact, I had it for breakfast, lunch *and* dinner that day, and had four containers left to spare.
 
