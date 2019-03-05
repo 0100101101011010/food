@@ -90,7 +90,7 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
     "http://schema.org/HinduDiet",
     "http://schema.org/KosherDiet",
     "http://schema.org/LowLactoseDiet"
-  ],
+  ]
 }
 </script>
 
