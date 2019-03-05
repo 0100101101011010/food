@@ -17,6 +17,7 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
   "cookTime": "PT4H",
   "prepTime": "PT15M",
   "totalTime": "PT4H15M",
+  "cookingMethod": "Slow Cooking",
   "datePublished": "2019-01-13",
   "description": "A light yet filling soup that's less than 200 calories and has 13 g of protein and 7 g of fiber. It's perfect for meal prep, and freezes well. Vegan and omni options!",
   "image": "http://kellyzhang.me/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg",
@@ -42,8 +43,21 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
   "nutrition": {
     "@type": "NutritionInformation",
     "calories": "197 calories",
-    "fatContent": "9 grams fat"
+    "carbohydrateContent": "36.1 grams carbohydrate",
+    "fiberContent": "6.6 grams fiber",
+    "sugarContent": "3 grams sugar",
+    "cholesterolContent": "0 milligrams cholesterol",
+    "fatContent": "0.7 grams fat",
+    "saturatedFatContent": "0.1 grams saturated fat",
+    "unsaturatedFatContent": "0.1 grams unsaturated fat",
+    "transFatContent": "6.6 grams trans fat",
+    "proteinContent": "13.1 grams protein",
+    "sodiumContent": "416.3 milligrams sodium",
+    "servingSize": "1.5 cups"
   },
+  
+  "recipeCategory": "soup",
+  "recipeCuisine": "Canadian",
   "recipeInstructions": [{
     "@type": "HowToStep",
     "text": "Chop onion, carrot, and celery into small pieces. Roughly chop spinach. Mince garlic."
