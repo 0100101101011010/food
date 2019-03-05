@@ -10,39 +10,6 @@ excerpt: "A delicious, filling yet light soup that's less than 200 calories and 
 img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "author": "Kelly Zhang",
-
-  "totalTime": "PT4H",
-
-  "datePublished": "2019-01-13",
-  "description": "{{ post.excerpt | jsonify }}",
-  "image": "{{ post.img }}",
-  "recipeIngredient": [
-    "3 or 4 ripe bananas, smashed",
-    "1 egg",
-    "3/4 cup of sugar"
-  ],
-  "interactionStatistic": {
-    "@type": "InteractionCounter",
-    "interactionType": "http://schema.org/Comment",
-    "userInteractionCount": "140"
-  },
-  "name": "Mom's World Famous Banana Bread",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "240 calories",
-    "fatContent": "9 grams fat"
-  },
-
-  "recipeInstructions": "Preheat the oven to 350 degrees. Mix in the ingredients in a bowl. Add the flour last. Pour the mixture into a loaf pan and bake for one hour.",
-  "recipeYield": "1 loaf",
-  "suitableForDiet": "http://schema.org/LowFatDiet"
-}
-</script>
 
 <div class="row">
     <div class="col-md-6">
