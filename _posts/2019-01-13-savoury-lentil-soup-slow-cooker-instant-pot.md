@@ -14,8 +14,8 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 * 2 garlic clove
 * 800 g tomato (1 can = 800 g)
 
-400 g dry lentil
-60 g spinach (1 cup = 30 g)
+- [ ] 400 g dry lentil
+- [ ] 60 g spinach (1 cup = 30 g)
 2 carrot
 4 celery stalk
 2 bay leaf
@@ -25,7 +25,7 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 6 g salt (6 g = 2 tsp kosher salt or 1 tsp fine salt)
 
 <div class="row">
-    
+
 
     <div class="col-md-6">
         <div class="panel panel-primary">
@@ -39,7 +39,7 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
     </div>
 </div>
 
-I can't believe it's February already! Last month, I was settling into my co-op job and trying to get used to real "Adulthood."  Now things have fallen into a kind of routine, although I'm still figuring a lot of things out.Even though I had a lot of fun cooking last term, I've really discovered
+This is one of the first meals I cooked after moving to Toronto.
 
 When it comes to meal prep, my recipes follow three guiding principles.
 
