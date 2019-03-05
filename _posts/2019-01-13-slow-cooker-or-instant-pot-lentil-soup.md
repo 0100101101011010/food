@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Slow Cooker or Instant Pot Lentil Soup Recipe (vegan + omni options)"
+title: "Savoury Lentil Soup in the Slow Cooker or Instant Pot (Vegan & Omni Options)"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
-categories: savoury
+categories: recipe
 tags: [widtw]
 ---
 
