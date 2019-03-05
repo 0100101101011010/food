@@ -1,5 +1,5 @@
 ---
-layout: postrecipe
+layout: post
 title: "Savoury Lentil Soup in the Slow Cooker or Instant Pot"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
