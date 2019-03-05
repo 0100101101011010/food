@@ -5,7 +5,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [200cal, vegan, vegetarian, omni, soup]
-excerpt: "A light yet filling soup that's less than 200 calories and has 13 g of protein and 7 g of fiber. It lasts for over a week in the fridge, and freezes well. Vegan and omni options!"
+excerpt: "A light yet filling soup that's less than 200 calories and has 13 g of protein and 7 g of fiber. It's perfect for meal prep, and freezes well. Vegan and omni options!"
 img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 ---
 
