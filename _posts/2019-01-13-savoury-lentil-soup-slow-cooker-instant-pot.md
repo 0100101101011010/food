@@ -99,7 +99,7 @@ I also try to make my recipes versatile. When it comes to vegetables, you can al
 
 In fact, I had it for breakfast, lunch *and* dinner that day, and had four containers left to spare.
 
-<div class="row" style= "float:right;position: relative; top: -80px;">
+<div class="row" style= "float:right;position: relative;">
 
     <div class="col-md-6">
         <div class="panel panel-primary">
