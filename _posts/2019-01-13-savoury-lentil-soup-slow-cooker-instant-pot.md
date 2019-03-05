@@ -41,39 +41,39 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
           </div>
           <div class="panel-body">
           <table>
-<thead>
+
 <tr>
 <th>ACTIVE TIME</th>
-<th>15 min</th>
+<td>15 min</td>
 </tr>
-</thead>
+
 <tbody>
 <tr>
-<td>PASSIVE TIME</td>
+<th>PASSIVE TIME</th>
 <td>4–9 hours</td>
 </tr>
 <tr>
-<td>TOTAL TIME</td>
+<th>TOTAL TIME</th>
 <td>4–9 hours</td>
 </tr>
 <tr>
-<td>SERVINGS</td>
+<th>SERVINGS</th>
 <td>8</td>
 </tr>
 <tr>
-<td>CALORIES</td>
+<th>CALORIES</th>
 <td>200 cal per serving</td>
 </tr>
 <tr>
-<td>COST</td>
+<th>COST</th>
 <td>$0.16 per serving</td>
 </tr>
 <tr>
-<td>FRIDGE</td>
+<th>FRIDGE</th>
 <td>refrigerate for up to 8 days</td>
 </tr>
 <tr>
-<td>FREEZER</td>
+<th>FREEZER</th>
 <td>freeze for several months</td>
 </tr>
 </tbody>
@@ -116,6 +116,11 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
          </div>
      </div>
 </div>
+
+<p>This recipe is super forgiving and easy to customize! For example, if you want a thicker stew-like meal, just reduce the water by a quarter. You can substitute double the amount of fresh thyme for dried. The spinach can be swapped out for kale or swiss chard or left out altogether.</p>
+<p>The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame oil. But having done it with just water since then, I don't think the taste is hugely affected. If you're not counting calories, feel free to add some oil to make it more fragrant!</p>
+<b>To make vegan:</b>
+<p>Use 2 L of vegetable stock instead of water and chicken bouillon.</p>
 
 I can't believe it's February already! Last month, I was settling into my co-op job and trying to get used to real "Adulthood."  Now things have fallen into a kind of routine, although I'm still figuring a lot of things out.Even though I had a lot of fun cooking last term, I've really discovered
 
