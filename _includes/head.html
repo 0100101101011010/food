@@ -12,9 +12,9 @@
     {% if post.jsonld %}
         {% include {{post.jsonld}}.html %}
     {% else %}
-        {% include sdDEFAULT.html %}
+        {% include sdBlogPosting.html %}
     {% endif %}
 {% else %}
-    {% include sdDEFAULT.html %}
+    {% include sdBlogPosting.html %}
 {% endif %}
 </head>
