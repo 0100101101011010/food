@@ -18,26 +18,34 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
   "prepTime": "PT15M",
   "totalTime": "PT4H15M",
   "datePublished": "2019-01-13",
-  "description": {{ post.excerpt | jsonify }},
-  "image": "bananabread.jpg",
+  "description": "A light yet filling soup that's less than 200 calories and has 13 g of protein and 7 g of fiber. It's perfect for meal prep, and freezes well. Vegan and omni options!",
+  "image": "http://kellyzhang.me/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg",
   "recipeIngredient": [
-    "3 or 4 ripe bananas, smashed",
-    "1 egg",
-    "3/4 cup of sugar"
+    "1 yellow onion",
+    "2 garlic cloves",
+    "400 g dried lentils",
+    "60 g spinach",
+    "2 carrots",
+    "4 celery stalks",
+    "2 bay leaves",
+    "0.5 tbsp dried thyme",
+    "2 L water",
+    "5 g chicken bouillon",
+    "6 g salt"
   ],
   "interactionStatistic": {
     "@type": "InteractionCounter",
     "interactionType": "http://schema.org/Comment",
     "userInteractionCount": "140"
   },
-  "name": "Mom's World Famous Banana Bread",
+  "name": "Savoury Lentil Soup in the Slow Cooker or Instant Pot",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "240 calories",
+    "calories": "197 calories",
     "fatContent": "9 grams fat"
   },
   "recipeInstructions": "Preheat the oven to 350 degrees. Mix in the ingredients in a bowl. Add the flour last. Pour the mixture into a loaf pan and bake for one hour.",
-  "recipeYield": "1 loaf",
+  "recipeYield": "8 servings",
   "suitableForDiet": "http://schema.org/LowFatDiet"
 }
 </script>
