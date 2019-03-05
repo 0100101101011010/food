@@ -21,6 +21,11 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
   "datePublished": "2019-01-13",
   "description": "A light yet filling soup that's less than 200 calories and has 13 g of protein and 7 g of fiber. It's perfect for meal prep, and freezes well. Vegan and omni options!",
   "image": "http://kellyzhang.me/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "8"
+  },
   "recipeIngredient": [
     "1 yellow onion",
     "2 garlic cloves",
@@ -75,7 +80,17 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
     "text": "Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)"
   }],  
   "recipeYield": "8 servings",
-  "suitableForDiet": "http://schema.org/LowFatDiet"
+  "suitableForDiet": [
+    "http://schema.org/LowFatDiet",
+    "http://schema.org/GlutenFreeDiet",
+    "http://schema.org/VeganDiet",
+    "http://schema.org/VegetarianDiet",
+    "http://schema.org/LowCalorieDiet",
+    "http://schema.org/HalalDiet",
+    "http://schema.org/HinduDiet",
+    "http://schema.org/KosherDiet",
+    "http://schema.org/LowLactoseDiet",
+  ]
 }
 </script>
 
