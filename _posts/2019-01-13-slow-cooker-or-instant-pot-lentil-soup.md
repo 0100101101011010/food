@@ -5,6 +5,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [widtw]
+excerpt: "A delicious soup that lasts for over a week in the fridge, "
 ---
 
 
