@@ -5,7 +5,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [widtw]
-excerpt: "A delicious soup that lasts for over a week in the fridge, with vegan and omni options!"
+excerpt: "A delicious soup that lasts for over a week in the fridge, and keeps well in the freezer, with vegan and omni options!"
 ---
 
 
