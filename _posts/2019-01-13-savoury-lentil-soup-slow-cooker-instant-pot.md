@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Savoury Lentil Soup in the Slow Cooker or Instant Pot (Vegan & Omni Options)"
+title: "Savoury Lentil Soup in the Slow Cooker or Instant Pot"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [widtw]
-excerpt: "A delicious soup that lasts for over a week in the fridge, "
+excerpt: "A delicious soup that lasts for over a week in the fridge, with vegan and omni options!"
 ---
 
 
