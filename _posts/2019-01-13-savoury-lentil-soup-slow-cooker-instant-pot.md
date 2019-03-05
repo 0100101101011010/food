@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: postrecipe
 title: "Savoury Lentil Soup in the Slow Cooker or Instant Pot"
-jsonld: "sdRecipe"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe

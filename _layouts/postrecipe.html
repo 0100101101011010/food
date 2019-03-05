@@ -1,9 +1,45 @@
 ---
 layout: default
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "author": "{{ post.author | jsonify }}",
+
+  "totalTime": " {{post.time | jsonify }}",
+
+  "datePublished": "{{ post.date | jsonify }}",
+  "description": "{{ post.excerpt | jsonify }}",
+  "image": "{{ post.img }}",
+  "recipeIngredient": [
+    "3 or 4 ripe bananas, smashed",
+    "1 egg",
+    "3/4 cup of sugar"
+  ],
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": "http://schema.org/Comment",
+    "userInteractionCount": "140"
+  },
+  "name": "Mom's World Famous Banana Bread",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "240 calories",
+    "fatContent": "9 grams fat"
+  },
+
+  "recipeInstructions": "Preheat the oven to 350 degrees. Mix in the ingredients in a bowl. Add the flour last. Pour the mixture into a loaf pan and bake for one hour.",
+  "recipeYield": "1 loaf",
+  "suitableForDiet": "http://schema.org/LowFatDiet"
+}
+</script>
+
+
 <div class="row">
 <div class="col-md-8">
-    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <article class="post">
 
           <header class="post-header">
             <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
