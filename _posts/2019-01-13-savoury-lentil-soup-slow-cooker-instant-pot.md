@@ -6,6 +6,7 @@ permalink: /:categories/:title/
 categories: recipe
 tags: [widtw]
 excerpt: "A delicious soup that lasts for over a week in the fridge, and keeps well in the freezer, with vegan and omni options!"
+img: /images/recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 ---
 
 
