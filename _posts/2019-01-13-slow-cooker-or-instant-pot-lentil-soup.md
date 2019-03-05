@@ -15,32 +15,48 @@ tags: [widtw]
             <h3 class="panel-title">ingredients</h3>
           </div>
           <div class="panel-body">
-            <p>1 yellow onion</p>
-            <p>2 garlic clove</p>
-            <p>800 g tomato (1 can = 800 g)</p>
-            <p>400 g dry lentil</p>
-            <p>60 g spinach (1 cup = 30 g)</p>
-            <p>2 carrot</p>
-            <p>4 celery stalk</p>
-            <p>2 bay leaf</p>
-            <p>1/2 tbsp dried thyme</p>
-            <p>2 L water</p>
-            <p>5 g chicken bouillon (1 cube = 5 g)</p>
-            <p>6 g salt (6 g = 2 tsp kosher salt or 1 tsp fine salt)</p>
+            <ul><li>1 yellow onion</li>
+            <li>2 garlic clove</li>
+            <li>800 g tomato (1 can = 800 g)</li>
+            <li>400 g dry lentil</li>
+            <li>60 g spinach (1 cup = 30 g)</li>
+            <li>2 carrot</li>
+            <li>4 celery stalk</li>
+            <li>2 bay leaf</li>
+            <li>1/2 tbsp dried thyme</li>
+            <li>2 L water</li>
+            <li>5 g chicken bouillon (1 cube = 5 g)</li>
+            <li>6 g salt (6 g = 2 tsp kosher salt or 1 tsp fine salt)</li></ul>
           </div>
         </div>
     </div>
 
-   <div class="col-md-8">
+   <div class="col-md-4">
         <div class="panel panel-success">
           <div class="panel-heading">
-            <h3 class="panel-title">instructions</h3>
+            <h3 class="panel-title">instructions (instant pot)</h3>
           </div>
           <div class="panel-body">
-            Panel content
+            <li>chop onion, carrot, celery, and tomato (if using fresh) into small pieces (think about how you like your soups&emdash;you want the chunks small enough to eat in one bite comfortably). roughly chop spinach. mince garlic.</li>
+            <li>turn instant pot to SAUTE mode on MORE. add 2 tbsp water. add onion and saute until most of the water is dried up.</li>
+            <li>add garlic and cook until pot is almost dry.</li>
+            <li>add rest of the ingredients and stir a couple times.</li>
+            <li>turn instant pot to SLOW COOK mode. leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours.</li>
           </div>
         </div>
     </div>
+
+    <div class="col-md-4">
+         <div class="panel panel-success">
+           <div class="panel-heading">
+             <h3 class="panel-title">instructions (slow cooker)</h3>
+           </div>
+           <div class="panel-body">
+             <li>chop onion, carrot, celery, and tomato (if using fresh) into small pieces (think about how you like your soups&emdash;you want the chunks small enough to eat in one bite comfortably). roughly chop spinach. mince garlic.</li>
+             <li></li>
+           </div>
+         </div>
+     </div>
 </div>
 
 I can't believe it's February already! Last month, I was settling into my co-op job and trying to get used to real "Adulthood."  Now things have fallen into a kind of routine, although I'm still figuring a lot of things out.Even though I had a lot of fun cooking last term, I've really discovered
