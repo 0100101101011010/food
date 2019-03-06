@@ -66,7 +66,7 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
     "sodiumContent": "416.3 milligrams sodium",
     "servingSize": "1.5 cups"
   },
-  
+
   "tool": [
     {
       "@type": "HowToTool",
@@ -74,7 +74,7 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
     },
     {
       "@type": "HowToTool",
-      "name": "Skillet (if using slow cooker method)",
+      "name": "Skillet (if using slow cooker method)"
     },
     {
       "@type": "HowToTool",
@@ -82,14 +82,14 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
     },
     {
       "@type": "HowToTool",
-      "name": "Kitchen knife",
+      "name": "Kitchen knife"
     },
     {
       "@type": "HowToTool",
-      "name": "Food scale (recommended to count calories accurately)",
+      "name": "Food scale (recommended to count calories accurately)"
     }
   ],
-  
+
   "recipeCategory": "soup",
   "recipeCuisine": "Canadian",
   "recipeInstructions": [{
