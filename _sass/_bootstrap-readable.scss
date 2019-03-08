@@ -13,10 +13,10 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
-@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan|Exo:400,700');
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan|Varela+Round');
 
 html {
-  font-family: "Exo", monospace, sans-serif;
+  font-family: "Varela Round", monospace;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -1089,7 +1089,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Exo", monospace, Times, serif;
+  font-family: "Varela Round", monospace, Times, serif;
   font-size: 20px;
   line-height: 1.6;
   color: #333333;
@@ -1191,7 +1191,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Exo", monospace;
+  font-family: "Varela Round", monospace;
   font-weight: bold;
   line-height: 1.1;
   color: inherit;
@@ -4491,7 +4491,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left !important;
   }
   .navbar-right {
-    font-family: "Exo", monospace;
+    font-family: "Varela Round", monospace;
     font-weight: bold;
     float: right !important;
     margin-right: -15px;
@@ -6383,7 +6383,7 @@ button.close {
   width: 20px;
   height: 20px;
   line-height: 1;
-  font-family: "Exo";
+  font-family: "Varela Round";
 }
 .carousel-control .icon-prev:before {
   content: '\2039';
@@ -6801,13 +6801,13 @@ button.close {
   }
 }
 .btn {
-  font-family: "Exo", monospace;
+  font-family: "Varela Round", monospace;
 }
 legend {
-  font-family: "Exo", monospace;
+  font-family: "Varela Round", monospace;
 }
 .input-group-addon {
-  font-family: "Exo", monospace;
+  font-family: "Varela Round", monospace;
 }
 .nav .open > a,
 .nav .open > a:hover,
@@ -6815,14 +6815,14 @@ legend {
   border: 1px solid #ddd;
 }
 .pagination {
-  font-family: "Exo", monospace;
+  font-family: "Varela Round", monospace;
 }
 .pagination-lg > li > a,
 .pagination-lg > li > span {
   padding: 14px 24px;
 }
 .pager {
-  font-family: "Exo", monospace;
+  font-family: "Varela Round", monospace;
 }
 .pager a {
   color: #333333;
@@ -6850,7 +6850,7 @@ legend {
   text-decoration: underline;
 }
 .label {
-  font-family: "Exo", monospace;
+  font-family: "Varela Round", monospace;
   font-weight: normal;
 }
 .label-default {
@@ -6860,7 +6860,7 @@ legend {
 .badge {
   padding: 1px 7px 5px;
   vertical-align: 2px;
-  font-family: "Exo", monospace;
+  font-family: "Varela Round", monospace;
   font-weight: normal;
 }
 .panel {
