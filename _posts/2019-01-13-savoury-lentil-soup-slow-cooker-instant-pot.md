@@ -166,15 +166,15 @@ The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame o
 
 ![savoury vegan lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-1.jpg){:width="60%"}{: .image-left}
 
-I can't believe it's February already! Last month, I was settling into my co-op job and trying to get used to real "Adulthood."  Now things have fallen into a kind of routine, although I'm still figuring a lot of things out. Even though I had a lot of fun cooking last term, most importantly I learned that making food takes a lot of time. To be honest, by the end of four months, I was almost a little burned out. So my New Year's resolution for this year
+I can't believe it's February already! Last month, I was settling into my co-op job and trying to get used to real "Adulthood."  Now things have fallen into a kind of routine, although I'm still figuring a lot of things out. Even though I had a lot of fun cooking last term, most importantly I learned that making food takes a lot of time. To be honest, by the end of four months, I was almost a little burned out. So my New Year's resolution for this year is to meal prep more and spend less time in the kitchen.
 
-When it comes to meal prep, my recipes follow three guiding principles.
+When it comes to meal prep, my recipes follow three guiding principles:
 
 1. Keeps well in the fridge (and, ideally, the freezer too)
 1. Tasty (to curb my urges to eat out)
 1. Low effort
 
-I'm very happy to report that this recipe is all three!
+I'm very happy to report that this lentil soup is all three!
 
 I'm not into fresh herbs at all... every college student who tries to cook at home knows the struggle of buying a handful of cilantro or parsley for a recipe, only to have to throw away the wilted remainder a week later. There's nothing more stressful than knowing you have produce going bad in your fridge but not having a recipe to use it in. I don't want my life to be run by herbs!! That's why when I come up with recipes, I try to stick to dried spices and herbs. These babies don't go bad for a long time, plus they don't take up space in the fridge.
 
