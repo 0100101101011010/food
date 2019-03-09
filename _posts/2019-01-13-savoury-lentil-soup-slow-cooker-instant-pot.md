@@ -160,11 +160,13 @@ This recipe is super forgiving and easy to customize! For example, if you want a
 
 The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame oil. But having done it with just water since then, I don't think the taste is hugely affected. If you're not counting calories, feel free to add some oil to make it more fragrant!
 
-** * Vegan:** Use 2 L of vegetable stock instead of water and chicken bouillon.
+* **Vegan:** Use 2 L of vegetable stock instead of water and chicken bouillon.
 
-![savoury vegan lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-1.jpg){:width="100%"}{: .image-left}
+## Enjoy!
 
-I can't believe it's February already! Last month, I was settling into my co-op job and trying to get used to real "Adulthood."  Now things have fallen into a kind of routine, although I'm still figuring a lot of things out.Even though I had a lot of fun cooking last term, I've really discovered
+![savoury vegan lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-1.jpg){:width="60%"}{: .image-left}
+
+I can't believe it's February already! Last month, I was settling into my co-op job and trying to get used to real "Adulthood."  Now things have fallen into a kind of routine, although I'm still figuring a lot of things out. Even though I had a lot of fun cooking last term, most importantly I learned that making food takes a lot of time. To be honest, by the end of four months, I was almost a little burned out. So my New Year's resolution for this year
 
 When it comes to meal prep, my recipes follow three guiding principles.
 
