@@ -126,11 +126,11 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 ## Ingredients
 
 * 1 yellow onion
-* 2 garlic clove
+* 2 garlic cloves
 * 400 g dry lentil
 * 60 g spinach (1 cup = 30 g)
-* 2 carrot
-* 4 celery stalk
+* 2 carrots
+* 4 celery stalks
 * 2 bay leaf
 * 1/2 tbsp dried thyme
 * 2 L water
