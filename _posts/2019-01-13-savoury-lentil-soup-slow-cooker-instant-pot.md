@@ -123,8 +123,6 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 }
 </script>
 
-![savoury vegan lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-1.jpg){:width="30%"}{: .image-left}
-
 ## Ingredients
 
 * 1 yellow onion
@@ -162,6 +160,8 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 <p>The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame oil. But having done it with just water since then, I don't think the taste is hugely affected. If you're not counting calories, feel free to add some oil to make it more fragrant!</p>
 <b>To make vegan:</b>
 <p>Use 2 L of vegetable stock instead of water and chicken bouillon.</p>
+
+![savoury vegan lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-1.jpg){:width="100%"}{: .image-left}
 
 I can't believe it's February already! Last month, I was settling into my co-op job and trying to get used to real "Adulthood."  Now things have fallen into a kind of routine, although I'm still figuring a lot of things out.Even though I had a lot of fun cooking last term, I've really discovered
 
