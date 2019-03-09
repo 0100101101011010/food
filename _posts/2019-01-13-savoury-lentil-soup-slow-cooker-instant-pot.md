@@ -134,7 +134,7 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 * 2 bay leaf
 * 1/2 tbsp dried thyme
 * 2 L water
-* 5 g chicken bouillon (1 cube = 5 g)
+* 5 g chicken bouillon* (1 cube = 5 g)
 * 6 g salt (6 g = 2 tsp kosher salt or 1 tsp fine salt)
 
 ## Instructions
@@ -156,10 +156,11 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 | **FRIDGE**       | refrigerate for up to 8 days |
 | **FREEZER**      | freeze for several months    |
 
-<p>This recipe is super forgiving and easy to customize! For example, if you want a thicker stew-like meal, just reduce the water by a quarter. You can substitute double the amount of fresh thyme for dried. The spinach can be swapped out for kale or swiss chard or left out altogether.</p>
-<p>The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame oil. But having done it with just water since then, I don't think the taste is hugely affected. If you're not counting calories, feel free to add some oil to make it more fragrant!</p>
-<b>To make vegan:</b>
-<p>Use 2 L of vegetable stock instead of water and chicken bouillon.</p>
+This recipe is super forgiving and easy to customize! For example, if you want a thicker stew-like meal, just reduce the water by a quarter. You can substitute double the amount of fresh thyme for dried. The spinach can be swapped out for kale or swiss chard or left out altogether.
+
+The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame oil. But having done it with just water since then, I don't think the taste is hugely affected. If you're not counting calories, feel free to add some oil to make it more fragrant!
+
+** * Vegan:** Use 2 L of vegetable stock instead of water and chicken bouillon.
 
 ![savoury vegan lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-1.jpg){:width="100%"}{: .image-left}
 
