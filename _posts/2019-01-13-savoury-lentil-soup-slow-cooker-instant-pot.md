@@ -123,6 +123,8 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 }
 </script>
 
+![savoury vegan lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-1.jpg){:width="30%"}{: .image-left}
+
 ## Ingredients
 
 * 1 yellow onion

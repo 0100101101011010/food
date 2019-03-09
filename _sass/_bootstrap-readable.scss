@@ -1120,9 +1120,24 @@ a:focus {
 figure {
   margin: 0;
 }
+
+
 img {
+  display: block;
+  // margin: 0 0 1rem;
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
   vertical-align: middle;
 }
+
+.image-left {
+  display: block;
+  margin-left: 8px;
+  margin-right: auto;
+  float: right;
+}
+
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
