@@ -160,7 +160,7 @@ This recipe is super forgiving and easy to customize! For example, if you want a
 
 The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame oil. But having done it with just water since then, I don't think the taste is hugely affected. If you're not counting calories, feel free to add some oil to make it more fragrant!
 
-* **Vegan:** Use 2 L of vegetable stock instead of water and chicken bouillon.
+\* **Vegan:** Use 2 L of vegetable stock instead of water and chicken bouillon.
 
 ## Enjoy!
 
