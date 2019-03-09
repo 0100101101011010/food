@@ -148,13 +148,13 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 ## Recipe notes
 
 |--------------|------------------------------|
-| *ACTIVE TIME*  | 15 min                       |
-| *TOTAL TIME*   | 4–9 hours                    |
-| *SERVINGS*     | 8                            |
-| *CALORIES*     | 200 cal per serving          |
-| *COST*         | CAD $0.35 per serving        |
-| *FRIDGE*       | refrigerate for up to 8 days |
-| *FREEZER*      | freeze for several months    |
+| **ACTIVE TIME**  | 15 min                       |
+| **TOTAL TIME**   | 4–9 hours                    |
+| **SERVINGS**     | 8                            |
+| **CALORIES**     | 200 cal per serving          |
+| **COST**         | CAD $0.35 per serving        |
+| **FRIDGE**       | refrigerate for up to 8 days |
+| **FREEZER**      | freeze for several months    |
 
 <p>This recipe is super forgiving and easy to customize! For example, if you want a thicker stew-like meal, just reduce the water by a quarter. You can substitute double the amount of fresh thyme for dried. The spinach can be swapped out for kale or swiss chard or left out altogether.</p>
 <p>The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame oil. But having done it with just water since then, I don't think the taste is hugely affected. If you're not counting calories, feel free to add some oil to make it more fragrant!</p>
