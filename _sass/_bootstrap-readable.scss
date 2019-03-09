@@ -5612,7 +5612,7 @@ button.list-group-item-danger.active:focus {
 }
 .panel > .table-bordered,
 .panel > .table-responsive > .table-bordered {
-  border: 0;
+  border: 2;
 }
 .panel > .table-bordered > thead > tr > th:first-child,
 .panel > .table-responsive > .table-bordered > thead > tr > th:first-child,
@@ -5663,7 +5663,7 @@ button.list-group-item-danger.active:focus {
   border-bottom: 0;
 }
 .panel > .table-responsive {
-  border: 0;
+  border: 2;
   margin-bottom: 0;
 }
 .panel-group {
