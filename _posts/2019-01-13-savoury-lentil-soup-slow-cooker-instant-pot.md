@@ -123,113 +123,39 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 }
 </script>
 
+## Ingredients
 
-<div class="row">
-    <div class="col-md-6">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">ingredients</h3>
-          </div>
-          <div class="panel-body">
-            <ul>
-              <li>1 yellow onion</li>
-              <li>2 garlic clove</li>
-              <li>400 g dry lentil</li>
-              <li>60 g spinach (1 cup = 30 g)</li>
-              <li>2 carrot</li>
-              <li>4 celery stalk</li>
-              <li>2 bay leaf</li>
-              <li>1/2 tbsp dried thyme</li>
-              <li>2 L water</li>
-              <li>5 g chicken bouillon (1 cube = 5 g)</li>
-              <li>6 g salt (6 g = 2 tsp kosher salt or 1 tsp fine salt)</li>
-            </ul>
-          </div>
-        </div>
-    </div>
+* 1 yellow onion
+* 2 garlic clove
+* 400 g dry lentil
+* 60 g spinach (1 cup = 30 g)
+* 2 carrot
+* 4 celery stalk
+* 2 bay leaf
+* 1/2 tbsp dried thyme
+* 2 L water
+* 5 g chicken bouillon (1 cube = 5 g)
+* 6 g salt (6 g = 2 tsp kosher salt or 1 tsp fine salt)
 
-    <div class="col-md-6">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">recipe notes</h3>
-          </div>
-          <div class="panel-body">
-          <table>
+## Instructions
 
-<tr>
-<th>ACTIVE TIME</th>
-<td>15 min</td>
-</tr>
+1. Chop onion, carrot, and celery into small pieces (think about how you like your soups—you want the chunks small enough to eat in one bite comfortably). Roughly chop spinach. Mince garlic.
+1. Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up.
+1. Add garlic and sautee until water is almost gone.
+1. Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.
+1. Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)
 
-<tbody>
-<tr>
-<th>PASSIVE TIME</th>
-<td>4–9 hours</td>
-</tr>
-<tr>
-<th>TOTAL TIME</th>
-<td>4–9 hours</td>
-</tr>
-<tr>
-<th>SERVINGS</th>
-<td>8</td>
-</tr>
-<tr>
-<th>CALORIES</th>
-<td>200 cal per serving</td>
-</tr>
-<tr>
-<th>COST</th>
-<td>$0.16 per serving</td>
-</tr>
-<tr>
-<th>FRIDGE</th>
-<td>refrigerate for up to 8 days</td>
-</tr>
-<tr>
-<th>FREEZER</th>
-<td>freeze for several months</td>
-</tr>
-</tbody>
-</table>
+## Recipe notes
 
-          </div>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-   <div class="col-md-6">
-        <div class="panel panel-success">
-          <div class="panel-heading">
-            <h3 class="panel-title">instructions (instant pot)</h3>
-          </div>
-          <div class="panel-body">
-            <ol><li>Chop onion, carrot, and celery into small pieces (think about how you like your soups&mdash;you want the chunks small enough to eat in one bite comfortably). Roughly chop spinach. Mince garlic.</li>
-            <li>Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up.</li>
-            <li>Add garlic and sautee until water is almost gone.</li>
-            <li>Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.</li>
-            <li>Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)</li></ol>
-          </div>
-        </div>
-    </div>
-
-    <div class="col-md-6">
-         <div class="panel panel-success">
-           <div class="panel-heading">
-             <h3 class="panel-title">instructions (slow cooker)</h3>
-           </div>
-           <div class="panel-body">
-             <ol><li>chop onion, carrot, celery, and tomato (if using fresh) into small pieces (think about how you like your soups&mdash;you want the chunks small enough to eat in one bite comfortably). roughly chop spinach. mince garlic.</li>
-             <li>heat skillet on medium heat. add 2 tbsp water. add onion and saute.</li>
-             <li>meanwhile, add rest of ingredients except garlic to slow cooker.</li>
-             <li>when there's only a little water left in the skillet, add the garlic to the onions.</li>
-             <li>when water is nearly all gone, transfer garlic and onions to the slow cooker.</li>
-             <li>leave slow cooker on HIGH for 4 hours or LOW for 8 hours.</li></ol>
-           </div>
-         </div>
-     </div>
-</div>
+| ACTIVE TIME  | 15 min                       |
+|--------------|------------------------------|
+| PASSIVE TIME | 4–9 hours                    |
+| TOTAL TIME   | 4–9 hours                    |
+| SERVINGS     | 8                            |
+| CALORIES     | 200 cal per serving          |
+| COST         | CAD $0.35 per serving        |
+| FRIDGE       | refrigerate for up to 8 days |
+| FREEZER      | freeze for several months    |
 
 <p>This recipe is super forgiving and easy to customize! For example, if you want a thicker stew-like meal, just reduce the water by a quarter. You can substitute double the amount of fresh thyme for dried. The spinach can be swapped out for kale or swiss chard or left out altogether.</p>
 <p>The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame oil. But having done it with just water since then, I don't think the taste is hugely affected. If you're not counting calories, feel free to add some oil to make it more fragrant!</p>
