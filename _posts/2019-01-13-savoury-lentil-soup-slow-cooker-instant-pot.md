@@ -147,7 +147,7 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 
 ## Recipe notes
 
-|--------------|------------------------------|
+|------------------|------------------------------|
 | **ACTIVE TIME**  | 15 min                       |
 | **TOTAL TIME**   | 4–9 hours                    |
 | **SERVINGS**     | 8                            |
