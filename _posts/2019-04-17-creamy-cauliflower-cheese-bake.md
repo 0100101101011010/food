@@ -106,8 +106,6 @@ img: recipe-creamy-cauliflower-cheese-bake.jpg
 
 ## Instructions
 
-![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-1.jpg){:width="60%"}{: .image-left}
-
 1. Steam cauliflower until tender. I used my Instant Pot's STEAM function (3 min @ high).
 1. While you let the cauliflower cool, add butter and flour to a medium saucepan on medium heat and whisk together.
 1. When thoroughly mixed, add milk and turn heat down to low. Whisk frequently until sauce thickens.
@@ -117,6 +115,8 @@ img: recipe-creamy-cauliflower-cheese-bake.jpg
 1. Bake at 375° F on the second-to-top rack for 25–30 minutes, or until golden on top.
 
 ## Recipe notes
+
+![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-1.jpg){:width="40%"}{: .image-left}
 
 |------------------|------------------------------|
 | **ACTIVE TIME**  | 20 min                       |
@@ -129,7 +129,7 @@ img: recipe-creamy-cauliflower-cheese-bake.jpg
 
 You can also mix in some sliced cremini mushrooms to bulk it up and add more veggies. If you aren't vegetarian, add some bacon bits for an even richer, more savoury flavour.
 
-## Enjoy!
+## Cheese, cheese, cheese
 
 ![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-2.jpg){:width="60%"}{: .image-left}
 
