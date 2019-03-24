@@ -5,7 +5,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [200cal, vegan, vegetarian, omni, soup]
-excerpt: "(And the tastiest too!) These simple 4-ingredient ladoos taste so authentic! They are so creamy and delicious I couldn't stop eating them even before they cooled down. I brought them into work and everyone loved them."
+excerpt: "(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious I couldn't stop eating them even before they cooled down. My friends at work loved them."
 img: recipe-easiest-ladoos-ever-8.jpg
 ---
 
