@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Easiest Ladoos Recipe Ever!"
+title: "The Easiest Ladoos Ever!"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
