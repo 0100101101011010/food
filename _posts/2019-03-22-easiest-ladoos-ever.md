@@ -151,7 +151,7 @@ After initially mixing chickpea flour into the butter, it will look very crumbly
 
 ![butter begins oozing out when mixture is ready](/food/images/recipe-easiest-ladoos-ever-2.jpg){:width="100%"}{: .image-left}
 
-Eventually (and it may feel like forever), the butter will kind of leave the mixture.
+Eventually (and it may feel like forever), the chickpea flour will darken, and butter will kind of leave the mixture.
 
 ![mixture becomes a paste](/food/images/recipe-easiest-ladoos-ever-3.jpg){:width="100%"}{: .image-left}
 
