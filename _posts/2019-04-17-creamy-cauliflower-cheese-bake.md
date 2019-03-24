@@ -133,6 +133,6 @@ You can also mix in some sliced cremini mushrooms to bulk it up and add more veg
 
 ![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-2.jpg){:width="60%"}{: .image-left}
 
-One thing I've learned about cheese is that for 90% of recipes out there, it doesn't really matter what kind you use. I have had success straight up subbing mozzarella for cheddar cheese. Chances are it's that rich, dairy taste you crave in a dish rather than the nuances of a particular cheese itself (and this is coming from a cheese superfan). For this recipe, any kind of firm cheese will do. Mozzarella, cheddar, Oka, friulano, doesn't matter they all work.
+One thing I've learned about cheese is that for 90% of recipes out there, it doesn't really matter what kind you use. I have had success straight up subbing mozzarella for cheddar cheese. Chances are it's that rich, dairy taste you crave in a dish rather than the nuances of a particular cheese itself (and this is coming from a cheese superfan). For this recipe, any kind of firm cheese will do. Mozzarella, cheddar, Monterey jack, Oka, friulano, doesn't matter they all work.
 
 Therefore, my advice for my home cooks out there is to just buy whatever firm cheese is on sale and use it as an all-purpose cheese for every recipe. Unless you're preparing a fancy once-in-a-while dinner, there's no need to go out to a grocery store and buy a specific cheese for one recipe.
