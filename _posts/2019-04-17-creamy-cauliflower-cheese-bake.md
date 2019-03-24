@@ -5,7 +5,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [200cal, vegetarian, omni, casserole]
-excerpt: "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma."
+excerpt: "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side."
 img: recipe-creamy-cauliflower-cheese-bake.jpg
 ---
 
@@ -20,7 +20,7 @@ img: recipe-creamy-cauliflower-cheese-bake.jpg
   "totalTime": "PT4H",
   "cookingMethod": "Baking",
   "datePublished": "2019-03-17",
-  "description": "A light yet filling soup that's less than 200 calories and has 13 g of protein and 7 g of fiber. It's perfect for meal prep, and freezes well. Vegan and omni options!",
+  "description": "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side.",
   "image": "http://kellyzhang.me/food/images/recipe-creamy-cauliflower-cheese-bake.jpg",
   "aggregateRating": {
     "@type": "AggregateRating",
