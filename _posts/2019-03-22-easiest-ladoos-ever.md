@@ -42,7 +42,7 @@ img: recipe-easiest-ladoos-ever-8.jpg
   "estimatedCost": {
     "@type": "MonetaryAmount",
     "currency": "CAD",
-    "value": "10"
+    "value": "0.20"
   },
   "nutrition": {
     "@type": "NutritionInformation",
@@ -71,23 +71,23 @@ img: recipe-easiest-ladoos-ever-8.jpg
     }
   ],
 
-  "recipeCategory": "soup",
-  "recipeCuisine": "Canadian",
+  "recipeCategory": "dessert",
+  "recipeCuisine": "Indian",
   "recipeInstructions": [{
     "@type": "HowToStep",
-    "text": "Chop onion, carrot, and celery into small pieces. Roughly chop spinach. Mince garlic."
+    "text": "Melt butter or ghee in a small saucepan on medium heat."
   },{
     "@type": "HowToStep",
-    "text": "Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up."
+    "text": "Add chickpea flour and mix evenly with a spatula or wooden spoon to form a crumbly mixture."
   },{
     "@type": "HowToStep",
-    "text": "Add garlic and saute until water is almost gone."
+    "text": "Stir continuously until butter starts to come out of the mixture, creating a paste that resembles thick peanut butter. (You may want to turn heat to medium-low at this point, so you can be lazier and stir less often while reducing the chance of burning  it.) This step takes a looong time so don't get impatient or give up hope! Your first sign that the mixture is almost there is when it starts getting darker in places."
   },{
     "@type": "HowToStep",
-    "text": "Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times."
+    "text": "Turn off the heat and mix in the powdered sugar and cardamom."
   },{
     "@type": "HowToStep",
-    "text": "Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)"
+    "text": "When it has cooled enough to handle, take handfuls of the mixture and roll with your palms into ping pong-sized balls. Place on a piece of plastic wrap or parchment paper and let it cool before enjoying (optional)."
   }],  
   "recipeYield": "8 servings",
   "suitableForDiet": [
