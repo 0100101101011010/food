@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Creamy Cauliflower Chseese Bake"
+title: "Creamy Cauliflower Cheese Bake"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
-tags: [200cal, vegetarian, omni, soup]
+tags: [200cal, vegetarian, omni, casserole]
 excerpt: "Make a delicious soup for 200 calories that's high in fiber and protein. It's perfect for meal prep, and freezes well. Vegan and omni options!"
-img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
+img: recipe-creamy-cauliflower-cheese-bake.jpg
 ---
 
 <script type="application/ld+json">
@@ -18,14 +18,14 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
   "cookTime": "PT4H",
   "prepTime": "PT15M",
   "totalTime": "PT4H",
-  "cookingMethod": "Slow Cooking",
-  "datePublished": "2019-01-13",
+  "cookingMethod": "Baking",
+  "datePublished": "2019-03-17",
   "description": "A light yet filling soup that's less than 200 calories and has 13 g of protein and 7 g of fiber. It's perfect for meal prep, and freezes well. Vegan and omni options!",
-  "image": "http://kellyzhang.me/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg",
+  "image": "http://kellyzhang.me/food/images/recipe-creamy-cauliflower-cheese-bake.jpg",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "5",
-    "reviewCount": "8"
+    "ratingValue": "4",
+    "reviewCount": "7"
   },
   "recipeIngredient": [
     "1 yellow onion",
@@ -67,30 +67,7 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
     "servingSize": "1.5 cups"
   },
 
-  "tool": [
-    {
-      "@type": "HowToTool",
-      "name": "Slow cooker or Instant Pot"
-    },
-    {
-      "@type": "HowToTool",
-      "name": "Skillet (if using slow cooker method)"
-    },
-    {
-      "@type": "HowToTool",
-      "name": "Spatula"
-    },
-    {
-      "@type": "HowToTool",
-      "name": "Kitchen knife"
-    },
-    {
-      "@type": "HowToTool",
-      "name": "Food scale (recommended to count calories accurately)"
-    }
-  ],
-
-  "recipeCategory": "soup",
+  "recipeCategory": "casserole",
   "recipeCuisine": "Canadian",
   "recipeInstructions": [{
     "@type": "HowToStep",
@@ -110,90 +87,52 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
   }],  
   "recipeYield": "8 servings",
   "suitableForDiet": [
-    "http://schema.org/LowFatDiet",
-    "http://schema.org/GlutenFreeDiet",
-    "http://schema.org/VeganDiet",
     "http://schema.org/VegetarianDiet",
     "http://schema.org/LowCalorieDiet",
     "http://schema.org/HalalDiet",
     "http://schema.org/HinduDiet",
-    "http://schema.org/KosherDiet",
-    "http://schema.org/LowLactoseDiet"
+    "http://schema.org/KosherDiet"
   ]
 }
 </script>
 
 ## Ingredients
 
-* 1 yellow onion
-* 2 garlic cloves
-* 400 g dry lentil
-* 60 g spinach (1 cup = 30 g)
-* 2 carrots
-* 4 celery stalks
-* 2 bay leaf
-* 1/2 tbsp dried thyme
-* 2 L water
-* 5 g chicken bouillon* (1 cube = 5 g)
-* 6 g salt (6 g = 2 tsp kosher salt or 1 tsp fine salt)
+* 1 head of Cauliflower
+* 25 g butter (about 2 tbsp)
+* 10 g flour (about 2 tbsp)
+* 150 mL milk
+* 1 cup roughly chopped cheese (I used marbled cheddar)
 
 ## Instructions
 
-1. Chop onion, carrot, and celery into small pieces (think about how you like your soups—you want the chunks small enough to eat in one bite comfortably). Roughly chop spinach. Mince garlic.
-1. Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up.
-1. Add garlic and sautee until water is almost gone.
-1. Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.
-1. Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)
+![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-1.jpg){:width="60%"}{: .image-left}
+
+1. Steam cauliflower until tender. I used my Instant Pot's STEAM function (3 min @ high).
+1. While you let the cauliflower cool, add butter and flour to a medium saucepan on medium heat and whisk together.
+1. When thoroughly mixed, add milk and turn heat down to low. Whisk frequently until sauce thickens.
+1. Stir in two-thirds of the cheese and turn off heat.
+1. When cauliflower is cool enough to handle, break into small florets and add to saucepan. Stir, coating all the florets.
+1. Pour into a small glass casserole dish (or foil-lined baking pan) and sprinkle remaining cheese on top.
+1. Bake at 375° F on the second-to-top rack for 25–30 minutes, or until golden on top.
 
 ## Recipe notes
 
 |------------------|------------------------------|
-| **ACTIVE TIME**  | 15 min                       |
-| **TOTAL TIME**   | 4–9 hours                    |
-| **SERVINGS**     | 8                            |
+| **ACTIVE TIME**  | 20 min                       |
+| **TOTAL TIME**   | 1 hour                       |
+| **SERVINGS**     | 4 (more if eating as a side) |
 | **CALORIES**     | 200 cal per serving          |
 | **COST**         | CAD $0.35 per serving        |
-| **FRIDGE**       | refrigerate for up to 8 days |
+| **FRIDGE**       | refrigerate for up to 5 days (but it's best straight out of the oven when the top layer is super crispy) |
 | **FREEZER**      | freeze for several months    |
 
-This recipe is super forgiving and easy to customize! For example, if you want a thicker stew-like meal, just reduce the water by a quarter. You can substitute double the amount of fresh thyme for dried. The spinach can be swapped out for kale or swiss chard or left out altogether.
-
-The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame oil. But having done it with just water since then, I don't think the taste is hugely affected. If you're not counting calories, feel free to add some oil to make it more fragrant!
-
-\* **Vegan:** Use 2 L of vegetable stock instead of water and chicken bouillon.
+You can also mix in some sliced cremini mushrooms to bulk it up and add more veggies. If you aren't vegetarian, add some bacon bits for an even richer, more savoury flavour.
 
 ## Enjoy!
 
-![savoury vegan lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-1.jpg){:width="60%"}{: .image-left}
+![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-2.jpg){:width="60%"}{: .image-left}
 
-I can't believe it's February already! Last month, I was settling into my co-op job and trying to get used to real "Adulthood."  Now things have fallen into a kind of routine, although I'm still figuring a lot of things out. Even though I had a lot of fun cooking last term, most importantly I learned that making food takes a lot of time. To be honest, by the end of four months, I was almost a little burned out. So my New Year's resolution for this year is to meal prep more and spend less time in the kitchen.
+One thing I've learned about cheese is that for 90% of recipes out there, it doesn't really matter what kind you use. I have had success straight up subbing mozzarella for cheddar cheese. Chances are it's that rich, dairy taste you crave in a dish rather than the nuances of a particular cheese itself (and this is coming from a cheese superfan). For this recipe, any kind of firm cheese will do. Mozzarella, cheddar, Oka, friulano, doesn't matter they all work.
 
-When it comes to meal prep, my recipes follow three guiding principles:
-
-1. Keeps well in the fridge (and, ideally, the freezer too)
-1. Tasty (to curb my urges to eat out)
-1. Low effort
-
-I'm very happy to report that this lentil soup is all three!
-
-I'm not into fresh herbs at all... every college student who tries to cook at home knows the struggle of buying a handful of cilantro or parsley for a recipe, only to have to throw away the wilted remainder a week later. There's nothing more stressful than knowing you have produce going bad in your fridge but not having a recipe to use it in. I don't want my life to be run by herbs!! That's why when I come up with recipes, I try to stick to dried spices and herbs. These babies don't go bad for a long time, plus they don't take up space in the fridge.
-
-I also try to make my recipes versatile. This soup is super flexible on the vegetables. You can add in vegetables, like tomatoes, squash, mushrooms, etc. or substitute one for another. It's great for dumping some leftovers in!
-
-This soup is awesome! The first day I brought this to work, I didn't even heat it up in the microwave and just ate it cold at my desk (didn't have access to a microwave back then, long story), and it was still pretty good.
-
-In fact, I had it for breakfast, lunch *and* dinner that day, and had four containers left to spare.
-
-<div class="row" style= "float:right;position: relative;">
-
-    <div class="col-md-6">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">nutritional information</h3>
-          </div>
-          <div class="panel-body">
-            <iframe title="CRONOMETER.com" width="320" height="500" src="https://cronometer.com/facts.html?food=6383824&measure=16230578&labelType=AMERICAN" frameborder="0"></iframe>
-          </div>
-        </div>
-    </div>
-</div>
+Therefore, my advice for my home cooks out there is to just buy whatever firm cheese is on sale and use it as an all-purpose cheese for every recipe. Unless you're preparing a fancy once-in-a-while dinner, there's no need to go out to a grocery store and buy a specific cheese for one recipe.
