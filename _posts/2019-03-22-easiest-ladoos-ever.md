@@ -91,11 +91,8 @@ img: recipe-easiest-ladoos-ever-8.jpg
   }],  
   "recipeYield": "8 servings",
   "suitableForDiet": [
-    "http://schema.org/LowFatDiet",
     "http://schema.org/GlutenFreeDiet",
-    "http://schema.org/VeganDiet",
     "http://schema.org/VegetarianDiet",
-    "http://schema.org/LowCalorieDiet",
     "http://schema.org/HalalDiet",
     "http://schema.org/HinduDiet",
     "http://schema.org/KosherDiet",
