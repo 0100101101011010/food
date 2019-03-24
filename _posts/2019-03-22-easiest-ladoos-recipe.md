@@ -132,7 +132,7 @@ img: recipe-easiest-ladoos-ever-8.jpg
 | **FRIDGE**       | haven't tried yet, but i imagine they last a very long time in the fridge and also probably a week at least at room temperature |
 | **FREEZER**      | haven't tried yet    |
 
-![warm besan ladoos](/food/images/recipe-easiest-ladoos-ever.jpg){:width="60%"}{: .image-left}
+![warm besan ladoos](/food/images/recipe-easiest-ladoos-ever.jpg){:width="40%"}{: .image-left}
 
 Cooling the ladoos is optional, but the inner texture is different when eaten warm (more chewy, like peanut butter) vs room temperature (crumbly and "flaky"). I like both! This is what the inside of a still-warm ladoo looks like. Very similar to peanut butter cookie dough!
 
