@@ -106,7 +106,7 @@ img: recipe-creamy-cauliflower-cheese-bake.jpg
 
 ## Instructions
 
-1. Steam cauliflower until tender. I used my Instant Pot's STEAM function (3 min @ high).
+1. Steam cauliflower until fall-apart tender. I used my Instant Pot's STEAM function (5 min @ high).
 1. While you let the cauliflower cool, add butter and flour to a medium saucepan on medium heat and whisk together.
 1. When thoroughly mixed, add milk and turn heat down to low. Whisk frequently until sauce thickens.
 1. Stir in two-thirds of the cheese and turn off heat.
