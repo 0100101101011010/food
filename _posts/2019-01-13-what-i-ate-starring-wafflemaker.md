@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: foodventures
 title: "What I Ate This Week: starring my mini wafflemaker"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
