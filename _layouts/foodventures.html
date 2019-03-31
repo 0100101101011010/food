@@ -5,34 +5,23 @@ layout: default
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  "@type": "Recipe",
-  "author": "{{ foodventures.author | jsonify }}",
+  "@type": "BlogPosting",
+  "author": "{{ page.author | jsonify }}",
 
-  "totalTime": " {{post.time | jsonify }}",
-
+  "speakable": " {{page.content | jsonify }}",
+  "keywords": "{{ page.tags | jsonify }}",
   "datePublished": "{{ post.date | jsonify }}",
   "description": "{{ page.excerpt | jsonify }}",
   "image": "{{ post.img }}",
-  "recipeIngredient": [
-    "3 or 4 ripe bananas, smashed",
-    "1 egg",
-    "3/4 cup of sugar"
-  ],
+
   "interactionStatistic": {
     "@type": "InteractionCounter",
     "interactionType": "http://schema.org/Comment",
     "userInteractionCount": "140"
   },
-  "name": "Mom's World Famous Banana Bread",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "240 calories",
-    "fatContent": "9 grams fat"
-  },
+  "name": "{{page.title | jsonify}}",
+  "headline": "{{page.title}}",
 
-  "recipeInstructions": "Preheat the oven to 350 degrees. Mix in the ingredients in a bowl. Add the flour last. Pour the mixture into a loaf pan and bake for one hour.",
-  "recipeYield": "1 loaf",
-  "suitableForDiet": "http://schema.org/LowFatDiet"
 }
 </script>
 
