@@ -14,13 +14,35 @@ published: false
 
 This week's theme, I guess, is making do with some random assortment of ingredients while you are missing half your kitchen essentials. I've been relying heavily on baked goods and stuff I can cook in my Instant Pot (when am I not?) because my pots and pans are back in Waterloo at the moment.
 
-## Instructions
+## Monday: Egg waffles
 
-1. Chop onion, carrot, and celery into small pieces (think about how you like your soups—you want the chunks small enough to eat in one bite comfortably). Roughly chop spinach. Mince garlic.
-1. Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up.
-1. Add garlic and sautee until water is almost gone.
-1. Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.
-1. Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)
+![egg waffles](/food/images/foodventures-egg-waffles.jpg){:width="50%"}{: .image-left}
+
+My new Blendtec jar came in today! The first things I made with it were these egg waffles. I've seen a recipe for this floating around, but since I was so eager to break in the blender jar I just went ahead and tried to engineer my own waffles without thinking about it first. My wafflemaker has handled some pretty weird things I've thrown at it, so I figured eggs should be no different, right?
+
+I preheated my waffle iron, cracked a few eggs into the Blendtec, added half a bell pepper and half an onion, some salt and pepper, and blended it on the lowest speed setting until everything looked fairly pureed.
+
+Maybe not surprisingly, it didn't turn out as well as I imagined. The first two waffles I dropped into the iron came out very thin and was hard to get off the iron in one piece. Because the mixture was so runny, it couldn't form anything substantial. So then I added some flour... and some more for good measure.
+
+And that's how I got to the waffles in the picture. They definitely look pretty, and I have to say I got the timing down perfectly! However, the flavour was pretty disappointing. I was hoping for something like a cross between fried and scrambled eggs, you know, crispy on the outside and soft inside, with a decidedly eggy taste... The extra flour I added made these pretty bland, and kinda... bouncy. Also, I didn't add enough salt.
+
+## Tuesday: Swedish Sugar Cookies
+
+![swedish sugar cookies](/food/images/foodventures-swedish-sugar-cookies.jpg){:width="50%"}{: .image-left}
+
+Since, as mentioned, I'm short on ingredients this week, I tried out a very basic cookie recipe that doesn't need much beyond your barest baking essentials. According to the [Taste of Home](https://www.tasteofhome.com/recipes/sugar-cookies/) recipe page, these cookies originate from Sweden in the 1800's. With such a long past, you'd expect the recipe to have been perfected throughout the generations to become foolproof. Sadly these were some of the most disappointing cookies I've ever made.
+
+![swedish sugar cookies](/food/images/foodventures-swedish-sugar-cookies-2.jpg){:width="50%"}{: .image-left}
+
+Even just by looking at them, they seem pretty boring, don't they?
+
+I have to say this isn't necessarily the fault of the recipe, since I didn't follow it exactly. I didn't have butter on hand, so I substituted shortening. And I hadn't brought over my giant box of baking soda, so I used baking powder only. Minor changes, or so I thought, but it ended up having a big impact on the finished product.
+
+Also, it's my first time using the oven in my new apartment, and I think it may be hotter than most ovens. The bottoms of my cookies were almost burned when I pulled them out at the 10-minute mark, which is the shorter end of the recommended baking time listed in the recipe.
+
+Eating one of these was basically just biting into something crunchy with absolutely no flavour profile beyond "sweet." I felt pretty sad because the batch I made ended up yielding a lot of cookies (what is pictured is probably 1/4 of the whole thing), and I really didn't look forward to eating them. So I've frozen most of them and... will probably get around to finishing them off one day.
+
+All in all, even though everything from the taste and texture of these cookies
 
 ## Recipe notes
 
