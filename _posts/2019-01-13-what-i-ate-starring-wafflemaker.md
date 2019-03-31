@@ -58,7 +58,17 @@ This recipe is from [Maybe I Will](https://maybeiwill.com/3-healthy-tuna-recipes
 
 ## Thursday: Egg Waffles Again (With More Success)
 
-![egg waffles, second attempt](/food/images/egg-waffles-2.jpg){:width="40%"}{: .image-left}
+![egg waffles, second attempt](/food/images/foodventures-egg-waffles-2.jpg){:width="40%"}{: .image-left}
+
+So I tried making egg waffles again, this time using a [recipe](https://thecozycook.com/waffle-iron-omelette/) (skipping the cheese). So I did have more success this round, and the texture was on point, but the taste was still not quite there. When I eat eggs I want something that's really savoury and filling. This doesn't exactly hit the spot, but it's not bad! I think I will keep experimenting with making these until I find the perfect formula, since the idea of waffle-shaped eggs remains super appealing to me.
+
+![egg waffles, second attempt](/food/images/foodventures-egg-waffles-3.jpg){:width="40%"}{: .image-left}
+
+I might try [this recipe](https://www.groundedandsurrounded.com/recipe/scrambled-egg-waffles/) next; it seems even simpler than the one I've just tried, so maybe if I can get the basics down using this technique I can then move on to adding in more veggies and stuff.
+
+## Friday: Tea Eggs
+
+![tea eggs](/food/images/foodventures-tea-eggs.jpg){:width="40%"}{: .image-left}
 
 So I tried making egg waffles again, this time using a [recipe](https://thecozycook.com/waffle-iron-omelette/) (skipping the cheese). So I did have more success this round, and the texture was on point, but the taste was still not quite there. When I eat eggs I want something that's really savoury and filling. This doesn't exactly hit the spot, but it's not bad! I think I will keep experimenting with making these until I find the perfect formula, since the idea of waffle-shaped eggs remains super appealing to me.
 
