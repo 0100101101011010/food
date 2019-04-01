@@ -66,13 +66,29 @@ So I tried making egg waffles again, this time using a [recipe](https://thecozyc
 
 I might try [this recipe](https://www.groundedandsurrounded.com/recipe/scrambled-egg-waffles/) next; it seems even simpler than the one I've just tried, so maybe if I can get the basics down using this technique I can then move on to adding in more veggies and stuff.
 
-## Friday: Tea Eggs, Seitan Steak and Peanut Butter Cookies
+## Friday: Tea Eggs, BBQ Seitan Ribs and Peanut Butter Cookies
 
 I actually started making these on Thursday. (I know, I don't blame you for thinking _how many eggs does this girl eat and is it healthy?!_ But I bought an 18-count carton of eggs this week so I have quite a lot to play with, and luckily I'm a fan of eggs in basically any form. I made ten of these eggs using this recipe and plan to eat one or two a day.)
 
-![tea eggs](/food/images/foodventures-tea-eggs.jpg){:width="40%"}{: .image-left}
+![tea eggs](/food/images/foodventures-tea-eggs.jpg){:width="50%"}{: .image-left}
 
 When I was a kid, my mom would make these tea eggs a few times a year and I always DEVOURED them. And since it's a pretty simple matter of boiling eggs and marinating them, I decided it was time I started making them myself. On the way to Toronto from Calgary after winter break, I brought with me a pack of old loose leaf black tea, which are essential for this recipe.
+
+For the marinade, I looked around at various recipes online but ultimately used my own formula. I'll make a post about this later.
+
+I pressure cooked the eggs on HIGH for 5 minutes, since I prefer a soft yolk, using the guidelines from [Pressure Cook Recipes](https://www.pressurecookrecipes.com/pressure-cooker-soft-hard-boiled-eggs/). I cooked the eggs directly in the marinade. I think heating the spices in the marinade releases more of their flavour.
+
+The egg yolks were surprisingly a lot firmer than I expected, but I still loved them! My family has always hardboiled eggs until they're absolutely firm, so this was definitely an improvement for me even though the yolk wasn't runny.
+
+![bbq seitan ribs](/food/images/foodventures-bbq-seitan-ribs.jpg){:width="50%"}{: .image-left}
+
+Now onto the seitan ribs, made using [this BOSH recipe](https://www.bosh.tv/recipes/bbq-seitan-ribs). This is my first time making seitan; my mom occasionally made it at home, but I don't have experience with it myself, but I absolutely should, because it's such a great source of vegetarian protein.
+
+Since the recipe repeatedly reassured me it was fine if the seitan "misbehaves" or gets "unruly," I wasn't too concerned that my final dough wasn't super smooth. But oh man, this mf was so hard to shape into that nice flat shape like the one in the recipe video. In the end, I sort of left it as a blob, like you can see in my photo, and went ahead and baked it.
+
+The texture was honestly not good. It was SO rubbery and tough, like trying to chew through a giant elastic band. I have no idea how people can compare this to meat. Additionally, this is one of those recipes that smells better than it tastes.
+
+![peanut butter cookies](/food/images/foodventures-peanut-butter-cookies.jpg){:width="40%"}{: .image-left}
 
 ## Saturday: Waffled Grilled cheese
 
