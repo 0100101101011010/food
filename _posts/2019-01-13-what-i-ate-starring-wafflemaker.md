@@ -74,4 +74,6 @@ I actually started making these on Thursday. (I know, I don't blame you for thin
 
 When I was a kid, my mom would make these tea eggs a few times a year and I always DEVOURED them. And since it's a pretty simple matter of boiling eggs and marinating them, I decided it was time I started making them myself. On the way to Toronto from Calgary after winter break, I brought with me a pack of old loose leaf black tea, which are essential for this recipe.
 
-## Saturday:
+## Saturday: Waffled Grilled cheese
+
+## Sunday: French Toast and Overnight Oats
