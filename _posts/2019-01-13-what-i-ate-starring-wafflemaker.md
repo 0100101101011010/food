@@ -66,10 +66,12 @@ So I tried making egg waffles again, this time using a [recipe](https://thecozyc
 
 I might try [this recipe](https://www.groundedandsurrounded.com/recipe/scrambled-egg-waffles/) next; it seems even simpler than the one I've just tried, so maybe if I can get the basics down using this technique I can then move on to adding in more veggies and stuff.
 
-## Friday: Tea Eggs
+## Friday: Tea Eggs, Seitan Steak and Peanut Butter Cookies
+
+I actually started making these on Thursday. (I know, I don't blame you for thinking _how many eggs does this girl eat and is it healthy?!_ But I bought an 18-count carton of eggs this week so I have quite a lot to play with, and luckily I'm a fan of eggs in basically any form. I made ten of these eggs using this recipe and plan to eat one or two a day.)
 
 ![tea eggs](/food/images/foodventures-tea-eggs.jpg){:width="40%"}{: .image-left}
 
-So I tried making egg waffles again, this time using a [recipe](https://thecozycook.com/waffle-iron-omelette/) (skipping the cheese). So I did have more success this round, and the texture was on point, but the taste was still not quite there. When I eat eggs I want something that's really savoury and filling. This doesn't exactly hit the spot, but it's not bad! I think I will keep experimenting with making these until I find the perfect formula, since the idea of waffle-shaped eggs remains super appealing to me.
+When I was a kid, my mom would make these tea eggs a few times a year and I always DEVOURED them. And since it's a pretty simple matter of boiling eggs and marinating them, I decided it was time I started making them myself. On the way to Toronto from Calgary after winter break, I brought with me a pack of old loose leaf black tea, which are essential for this recipe.
 
-I might try [this recipe](https://www.groundedandsurrounded.com/recipe/scrambled-egg-waffles/) next; it seems even simpler than the one I've just tried, so maybe if I can get the basics down using this technique I can then move on to adding in more veggies and stuff.
+## Saturday:
