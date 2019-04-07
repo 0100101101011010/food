@@ -25,11 +25,11 @@ And that's how I got to the waffles in the picture. They definitely look pretty,
 
 ## Tuesday: Swedish Sugar Cookies
 
-![swedish sugar cookies](/food/images/foodventures-swedish-sugar-cookies.jpg){:width="50%"}{: .image-left}
+![swedish sugar cookies](/food/images/foodventures-swedish-sugar-cookies.jpg){:width="40%"}{: .image-left}
 
 Since, as mentioned, I'm short on ingredients this week, I tried out a very basic cookie recipe that doesn't need much beyond your barest baking essentials. According to the [Taste of Home](https://www.tasteofhome.com/recipes/sugar-cookies/) recipe page, these cookies originate from Sweden in the 1800's. With such a long past, you'd expect the recipe to have been perfected throughout the generations to become foolproof. Sadly these were some of the most disappointing cookies I've ever made.
 
-![swedish sugar cookies](/food/images/foodventures-swedish-sugar-cookies-2.jpg){:width="50%"}{: .image-left}
+![swedish sugar cookies](/food/images/foodventures-swedish-sugar-cookies-2.jpg){:width="30%"}{: .image-left}
 
 Even just by looking at them, they seem pretty boring, don't they?
 
@@ -61,8 +61,6 @@ Maybe I'll add some Greek yogurt to see how that goes.
 
 So I tried making egg waffles again, this time using a [recipe](https://thecozycook.com/waffle-iron-omelette/) (skipping the cheese). So I did have more success this round, and the texture was on point, but the taste was still not quite there. When I eat eggs I want something that's really savoury and filling. This doesn't exactly hit the spot, but it's not bad! I think I will keep experimenting with making these until I find the perfect formula, since the idea of waffle-shaped eggs remains super appealing to me.
 
-![egg waffles, second attempt](/food/images/foodventures-egg-waffles-3.jpg){:width="30%"}{: .image-left}
-
 I might try [this recipe](https://www.groundedandsurrounded.com/recipe/scrambled-egg-waffles/) next; it seems even simpler than the one I've just tried, so maybe if I can get the basics down using this technique I can then move on to adding in more veggies and stuff.
 
 ## Friday: Tea Eggs, BBQ Seitan Ribs and Peanut Butter Cookies
@@ -91,7 +89,9 @@ The texture was honestly not good. It was SO rubbery and tough, like trying to c
 
 Friday was also the day I made the most successful batch of pb cookies yet. I mean, it's hard to run into a bad batch since you're essentially just eating shaped peanut butter, but these were on some next level with how soft and rich, and beautiful they were.
 
-The trick is to let these cookies cool on the baking sheet. They're too soft to pick up right out of the oven, but reach the perfect texture at room temperature. Definitely ate too many of these at once, and felt sick after :') Not the healthiest recipe, though, so I won't be making them that often.
+The trick is to let these cookies cool on the baking sheet. They're too soft to pick up right out of the oven, but reach the perfect texture at room temperature. Definitely ate too many of these at once, and felt sick after :')
+
+Not the healthiest recipe, so I won't be making them that often. It sucks that peanut butter is high in calories. How can something so bad taste so good...
 
 ## Saturday: Waffled Grilled cheese
 
