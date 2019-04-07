@@ -6,11 +6,11 @@ layout: default
 {
   "@context": "http://schema.org",
   "@type": "BlogPosting",
-  "author": "{{ page.author | jsonify }}",
+  "author": {{ page.author | jsonify }},
 
   "keywords": "{{ page.tags | jsonify }}",
   "datePublished": "{{ post.date | jsonify }}",
-  "description": "{{ page.excerpt | jsonify }}",
+  "description": {{ page.excerpt | jsonify }},
   "image": "{{ post.img }}",
 
   "interactionStatistic": {
