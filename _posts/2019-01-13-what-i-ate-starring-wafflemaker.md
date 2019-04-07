@@ -7,7 +7,6 @@ categories: foodventures
 tags: [200cal, vegan, vegetarian, omni, soup]
 excerpt: "This week has been so hectic. I'm getting settled into my new sublet, and cooking has been a bit strained at times because I'm still in the process of stocking my pantry with essentials."
 img: foodventures-jan-7-2019-2.jpg
-published: false
 ---
 
 ## An Exercise in Cooking with Half Your Pantry Missing
@@ -68,17 +67,17 @@ I might try [this recipe](https://www.groundedandsurrounded.com/recipe/scrambled
 
 ## Friday: Tea Eggs, BBQ Seitan Ribs and Peanut Butter Cookies
 
-I actually started making these on Thursday. (I know, I don't blame you for thinking _how many eggs does this girl eat and is it healthy?!_ But I bought an 18-count carton of eggs this week so I have quite a lot to play with, and luckily I'm a fan of eggs in basically any form. I made ten of these eggs using this recipe and plan to eat one or two a day.)
+Since tea eggs is an overnight process, I started making them on Thursday. (I know, I don't blame you for thinking _again?! how many eggs does this girl eat?!_ But I bought an 18-count carton of eggs this week so I have quite a lot to play with, and luckily I'm a fan of eggs in basically any form. I made ten of these eggs using this recipe and plan to eat one or two a day.)
 
 ![tea eggs](/food/images/foodventures-tea-eggs.jpg){:width="50%"}{: .image-left}
 
 When I was a kid, my mom would make these tea eggs a few times a year and I always DEVOURED them. And since it's a pretty simple matter of boiling eggs and marinating them, I decided it was time I started making them myself. On the way to Toronto from Calgary after winter break, I brought with me a pack of old loose leaf black tea, which are essential for this recipe.
 
-For the marinade, I looked around at various recipes online but ultimately used my own formula. I'll make a post about this later.
+For the marinade, I looked around at various recipes online but ultimately used my own formula.
 
 I pressure cooked the eggs on HIGH for 5 minutes, since I prefer a soft yolk, using the guidelines from [Pressure Cook Recipes](https://www.pressurecookrecipes.com/pressure-cooker-soft-hard-boiled-eggs/). I cooked the eggs directly in the marinade. I think heating the spices in the marinade releases more of their flavour.
 
-The egg yolks were surprisingly a lot firmer than I expected, but I still loved them! My family has always hardboiled eggs until they're absolutely firm, so this was definitely an improvement for me even though the yolk wasn't runny.
+The egg yolks were surprisingly a lot firmer than I expected, but I still loved them! My family has always hardboiled eggs until they're absolutely firm, so this was definitely an improvement for me even though the yolk wasn't runny. But I don't think the flavour was quite as strong as I wanted it to be, even though I soaked it for an entire day. I will try to go for an even longer marinating time the next time I make this.
 
 ![bbq seitan ribs](/food/images/foodventures-bbq-seitan-ribs.jpg){:width="50%"}{: .image-left}
 
@@ -86,10 +85,34 @@ Now onto the seitan ribs, made using [this BOSH recipe](https://www.bosh.tv/reci
 
 Since the recipe repeatedly reassured me it was fine if the seitan "misbehaves" or gets "unruly," I wasn't too concerned that my final dough wasn't super smooth. But oh man, this mf was so hard to shape into that nice flat shape like the one in the recipe video. In the end, I sort of left it as a blob, like you can see in my photo, and went ahead and baked it.
 
-The texture was honestly not good. It was SO rubbery and tough, like trying to chew through a giant elastic band. I have no idea how people can compare this to meat. Additionally, this is one of those recipes that smells better than it tastes.
+The texture was honestly not good. It was SO rubbery and tough, like trying to chew through a giant elastic band. I have no idea how people can compare this to steak. Additionally, this is one of those recipes that smells better than it tastes. It got a little better with a generous layer of sauce on top, but it was generally bland. Didn't reach that satiating, meaty level I was expecting. I'm not discouraged, though. I'm planning to try Veggie Rose's [deli meat](https://www.veggierose.com/single-post/2018/03/12/Vegan-Deli-Slices) recipe next. I've had this recipe on my mind for a while now.
 
 ![peanut butter cookies](/food/images/foodventures-peanut-butter-cookies.jpg){:width="40%"}{: .image-left}
 
+Friday was also the day I made the most successful batch of pb cookies yet. I mean, it's hard to run into a bad batch since you're essentially just eating shaped peanut butter, but these were on some next level with how soft and rich, and beautiful they were. The trick is to let these cookies cool on the baking sheet. They're too soft to pick up right out of the oven, but reach the perfect texture at room temperature. Definitely ate too many of these at once, and felt sick after :') Unfortunately not the healthiest recipe, though, so I won't be making them that often.
+
 ## Saturday: Waffled Grilled cheese
 
+![waffled grilled cheese](/food/images/foodventures-waffled-grilled-cheese.jpg){:width="40%"}{: .image-left}
+
+As I was making this, I suddenly thought of another perk to moving out/living on your own: being able to eat crustless sandwiches! At home leaving the crusts off bread would be unheard of, but now that I'm here my parents can't control how I eat my food hehe. (Don't worry, I didn't throw the crusts out. I'm storing them up in a ziploc in the freezer to turn into breadcrumbs when I have enough.)
+
+![waffled grilled cheese](/food/images/foodventures-waffled-grilled-cheese-2.jpg){:width="40%"}{: .image-left}
+
+So this is literally two slices of cheese (Monterey Jack, I believe) between two slices of bread and flattened in the waffle iron.
+
+Not an amazing success; I definitely should've kept them in the waffle maker longer to achieve that nice golden-brown colour, but I was impatient and hungry. The cheese had gotten warm, but could've been more gooey and melty. I'm certain that a few more minutes would've gotten this from mediocre to amazing.
+
 ## Sunday: French Toast and Overnight Oats
+
+![cast iron french toast](/food/images/foodventures-french-toast.jpg){:width="40%"}{: .image-left}
+
+Ya... I tried to make a nice Sunday brunch for myself and it turned into this. It turns out my cast iron skillet gets EXTREMELY hot, even on the absolutely lowest setting. I swear I only put the toast on there for ten seconds before I turned into this :-(
+
+Not a complete failure, though. The French toast (the non-burnt parts, at least) was delicious and so much easier to make than I expected. I'll just have to figure out how to keep my cast iron from burning food before cooking it.
+
+![overnight oats](/food/images/foodventures-overnight-oats.jpg){:width="40%"}{: .image-left}
+
+Overnight oats: not the most picturesque meal out there. But seriously really good! This month is the first time I've had overnight oats and I was surprised by how yummy and satisfying they are.
+
+This jar is for bringing to the office tomorrow. It's got almonds, rolled oats, honey, vanilla extract, and honey. Very basic but tasty!
