@@ -97,9 +97,9 @@ Not the healthiest recipe, so I won't be making them that often. It sucks that p
 
 As I was making this, I suddenly thought of another perk to moving out/living on your own: being able to eat crustless sandwiches! At home leaving the crusts off bread would be unheard of, but now that I'm here my parents can't control how I eat my food hehe. (Don't worry, I didn't throw the crusts out. I'm storing them up in a ziploc in the freezer to turn into breadcrumbs when I have enough.)
 
-![waffled grilled cheese](/food/images/foodventures-waffled-grilled-cheese-2.jpg){:width="40%"}{: .image-left}
-
 So this is literally two slices of cheese (Monterey Jack, I believe) between two slices of bread and flattened in the waffle iron.
+
+![waffled grilled cheese](/food/images/foodventures-waffled-grilled-cheese-2.jpg){:width="40%"}{: .image-left}
 
 Not an amazing success; I definitely should've kept them in the waffle maker longer to achieve that nice golden-brown colour, but I was impatient and hungry. The cheese had gotten warm, but could've been more gooey and melty. I'm certain that a few more minutes would've gotten this from mediocre to amazing.
 
