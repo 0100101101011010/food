@@ -25,11 +25,9 @@ And that's how I got to the waffles in the picture. They definitely look pretty,
 
 ## Tuesday: Swedish Sugar Cookies
 
-![swedish sugar cookies](/food/images/foodventures-swedish-sugar-cookies.jpg){:width="40%"}{: .image-left}
+![swedish sugar cookies](/food/images/foodventures-swedish-sugar-cookies.jpg){:width="50%"}{: .image-left}
 
 Since, as mentioned, I'm short on ingredients this week, I tried out a very basic cookie recipe that doesn't need much beyond your barest baking essentials. According to the [Taste of Home](https://www.tasteofhome.com/recipes/sugar-cookies/) recipe page, these cookies originate from Sweden in the 1800's. With such a long past, you'd expect the recipe to have been perfected throughout the generations to become foolproof. Sadly these were some of the most disappointing cookies I've ever made.
-
-![swedish sugar cookies](/food/images/foodventures-swedish-sugar-cookies-2.jpg){:width="30%"}{: .image-left}
 
 Even just by looking at them, they seem pretty boring, don't they?
 
