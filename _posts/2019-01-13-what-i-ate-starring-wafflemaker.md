@@ -49,7 +49,7 @@ so it hasn't been a complete waste!
 
 ## Wednesday: Tuna Cottage Cheese "Salad"
 
-![tuna cottage cheese salad](/food/images/foodventures-tuna-cottage-cheese.jpg){:width="40%"}{: .image-left}
+![tuna cottage cheese salad](/food/images/foodventures-tuna-cottage-cheese.jpg){:width="30%"}{: .image-left}
 
 This recipe is from [Maybe I Will](https://maybeiwill.com/3-healthy-tuna-recipes-that-will-rock/). It's meant to be a dip, but since I didn't have crackers, I just ate it on its own. It was okay, but I added way more pepper than called for and it was still pretty tasteless. Also a bit too watery. I was hoping it would turn out more like a classic tuna salad taste, but I guess you can't really replace mayo with cottage cheese!
 
