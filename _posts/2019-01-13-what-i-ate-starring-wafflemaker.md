@@ -89,7 +89,9 @@ The texture was honestly not good. It was SO rubbery and tough, like trying to c
 
 ![peanut butter cookies](/food/images/foodventures-peanut-butter-cookies.jpg){:width="40%"}{: .image-left}
 
-Friday was also the day I made the most successful batch of pb cookies yet. I mean, it's hard to run into a bad batch since you're essentially just eating shaped peanut butter, but these were on some next level with how soft and rich, and beautiful they were. The trick is to let these cookies cool on the baking sheet. They're too soft to pick up right out of the oven, but reach the perfect texture at room temperature. Definitely ate too many of these at once, and felt sick after :') Unfortunately not the healthiest recipe, though, so I won't be making them that often.
+Friday was also the day I made the most successful batch of pb cookies yet. I mean, it's hard to run into a bad batch since you're essentially just eating shaped peanut butter, but these were on some next level with how soft and rich, and beautiful they were.
+
+The trick is to let these cookies cool on the baking sheet. They're too soft to pick up right out of the oven, but reach the perfect texture at room temperature. Definitely ate too many of these at once, and felt sick after :') Not the healthiest recipe, though, so I won't be making them that often.
 
 ## Saturday: Waffled Grilled cheese
 
