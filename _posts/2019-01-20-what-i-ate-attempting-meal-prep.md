@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What I Ate This Week: starring the mini wafflemaker
-author: Kelly Zhang
+title: "What I Ate This Week: starring the mini wafflemaker"
+author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: foodventures
 tags: [200cal, vegan, vegetarian, omni, soup]
