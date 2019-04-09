@@ -6,13 +6,34 @@ layout: default
 {
   "@context": "http://schema.org",
   "@type": "Recipe",
-  "author": "Kelly Zhang",
-  "keywords": "volume eating, low calorie, weight loss, filling recipe, high fiber",
+
+  "mainEntityOfPage": {
+     "@type": "blogPost",
+     "@id": {{page.baseurl | jsonify}}
+      },
+
+  "dateModified": {{ page.date | jsonify }},
+  "datePublished": {{ page.date | jsonify }},
+  "publisher": "Hi I'm Kelly and I Love My Life",
+
+  "author": {{ page.author | jsonify }},
+  "keywords": {{ page.keywords | jsonify }},
+  "description": {{ page.excerpt | jsonify }},
+  "image": "http://kellyzhang.me/food/images/{{ page.img }}",
+
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": "http://schema.org/Comment",
+    "userInteractionCount": {{ page.comments | jsonify }}
+    },
+
+  "name": {{page.title | jsonify}},
+  "headline": {{page.title | jsonify}},
+
   "cookTime": "PT4H",
   "prepTime": "PT15M",
   "totalTime": "PT4H",
   "cookingMethod": "Baking",
-  "datePublished": "2019-03-17",
   "description": "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side.",
   "image": "http://kellyzhang.me/food/images/recipe-creamy-cauliflower-cheese-bake.jpg",
   "aggregateRating": {
