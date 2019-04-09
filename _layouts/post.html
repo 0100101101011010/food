@@ -1,14 +1,45 @@
 ---
 layout: default
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+
+  "mainEntityOfPage": {
+     "@type": "blogPost",
+     "@id": {{page.baseurl | jsonify}}
+      },
+
+  "dateModified": {{ page.date | jsonify }},
+  "datePublished": {{ page.date | jsonify }},
+  "publisher": "Hi I'm Kelly and I Love My Life",
+
+  "author": {{ page.author | jsonify }},
+  "keywords": {{ page.keywords | jsonify }},
+  "description": {{ page.excerpt | jsonify }},
+  "image": "http://kellyzhang.me/food/images/{{ page.img }}",
+
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": "http://schema.org/Comment",
+    "userInteractionCount": {{ page.comments | jsonify }}
+    },
+
+  "name": {{page.title | jsonify}},
+  "headline": {{page.title | jsonify}}
+
+}
+</script>
+
 <div class="row">
 <div class="col-md-8">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
           <header class="post-header">
-            <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-            <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-
+            <h1 class="post-title">{{ page.title }}</h1>
+            <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • {{ page.author }}{% endif %}</p>
           </header>
 
           <div class="post-content" itemprop="articleBody">
