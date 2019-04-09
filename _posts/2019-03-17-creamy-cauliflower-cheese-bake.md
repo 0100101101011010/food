@@ -15,52 +15,26 @@ cooktime: "PT4H"
 preptime: "PT15M"
 totaltime: "PT4H"
 
+cost: "1"
+calories: "197 calories"
+servings: "8"
+
 cookingmethod: "baking"
+recipecategory: "casserole"
+cuisine: "Canadian"
 
 rating: "4"
 reviews: "7"
+
+
+ingredients:
+ - 1 head of cauliflower
+ - 25 g butter (about 2 tbsp)
+ - 10 g flour (about 2 tbsp)
+ - 150 mL milk
+ - 1 cup roughly chopped cheese (I used marbled cheddar)
 ---
 
-
-  "recipeIngredient": [
-    "1 yellow onion",
-    "2 garlic cloves",
-    "400 g dried lentils",
-    "60 g spinach",
-    "2 carrots",
-    "4 celery stalks",
-    "2 bay leaves",
-    "0.5 tbsp dried thyme",
-    "2 L water",
-    "5 g chicken bouillon",
-    "6 g salt"
-  ],
-  "interactionStatistic": {
-    "@type": "InteractionCounter",
-    "interactionType": "http://schema.org/Comment",
-    "userInteractionCount": "140"
-  },
-  "name": "Savoury Lentil Soup in the Slow Cooker or Instant Pot",
-  "estimatedCost": {
-    "@type": "MonetaryAmount",
-    "currency": "CAD",
-    "value": "10"
-  },
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "197 calories",
-    "carbohydrateContent": "36.1 grams carbohydrate",
-    "fiberContent": "6.6 grams fiber",
-    "sugarContent": "3 grams sugar",
-    "cholesterolContent": "0 milligrams cholesterol",
-    "fatContent": "0.7 grams fat",
-    "saturatedFatContent": "0.1 grams saturated fat",
-    "unsaturatedFatContent": "0.1 grams unsaturated fat",
-    "transFatContent": "6.6 grams trans fat",
-    "proteinContent": "13.1 grams protein",
-    "sodiumContent": "416.3 milligrams sodium",
-    "servingSize": "1.5 cups"
-  },
 
   "recipeCategory": "casserole",
   "recipeCuisine": "Canadian",
@@ -80,7 +54,7 @@ reviews: "7"
     "@type": "HowToStep",
     "text": "Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)"
   }],  
-  "recipeYield": "8 servings",
+
   "suitableForDiet": [
     "http://schema.org/VegetarianDiet",
     "http://schema.org/LowCalorieDiet",
@@ -88,8 +62,7 @@ reviews: "7"
     "http://schema.org/HinduDiet",
     "http://schema.org/KosherDiet"
   ]
-}
-</script>
+
 
 ## Ingredients
 
@@ -99,7 +72,11 @@ reviews: "7"
 * 150 mL milk
 * 1 cup roughly chopped cheese (I used marbled cheddar)
 
-
+<ul>
+  {% for item in page.ingredients %}
+    <li>{{ item }}</li>
+  {% endfor %}
+</ul>
 
 ## Instructions
 
