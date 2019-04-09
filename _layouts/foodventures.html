@@ -11,15 +11,15 @@ layout: default
   "keywords": "{{ page.tags | jsonify }}",
   "datePublished": "{{ page.date | jsonify }}",
   "description": {{ page.excerpt | jsonify }},
-  "image": "{{ page.img }}",
+  "image": "http://kellyzhang.me/food/images/{{ page.img }}",
 
   "interactionStatistic": {
     "@type": "InteractionCounter",
     "interactionType": "http://schema.org/Comment",
     "userInteractionCount": "140"
   },
-  "name": "{{page.title | jsonify}}",
-  "headline": "{{page.title}}",
+  "name": {{page.title | jsonify}},
+  "headline": {{page.title | jsonify}},
 
 }
 </script>
