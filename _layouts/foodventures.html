@@ -6,6 +6,12 @@ layout: default
 {
   "@context": "http://schema.org",
   "@type": "BlogPosting",
+
+  "mainEntityOfPage": {
+         "@type": "blogPost",
+         "@id": "{{page.url}}"
+      },
+
   "publisher": "Hi I'm Kelly and I Love My Life"
   "author": {{ page.author | jsonify }},
 
