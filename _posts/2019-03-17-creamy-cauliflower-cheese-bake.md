@@ -9,7 +9,7 @@ excerpt: "A light and healthy casserole that doesn't taste healthy or light! You
 img: recipe-creamy-cauliflower-cheese-bake.jpg
 
 comments: "1"
-keywords: [ "volume eating," "low calorie", "weight loss", "filling recipe", "high fiber", ]
+keywords: [ "volume eating," "low calorie", "weight loss", "filling recipe", "high fiber" ]
 
 cooktime: "PT4H"
 preptime: "PT15M"
