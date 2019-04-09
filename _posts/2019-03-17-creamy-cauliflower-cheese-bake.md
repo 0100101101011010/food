@@ -38,12 +38,6 @@ ingredients:
 
 ## Ingredients
 
-* 1 head of Cauliflower
-* 25 g butter (about 2 tbsp)
-* 10 g flour (about 2 tbsp)
-* 150 mL milk
-* 1 cup roughly chopped cheese (I used marbled cheddar)
-
 <ul>
   {% for item in page.ingredients %}
     <li>{{ item }}</li>
