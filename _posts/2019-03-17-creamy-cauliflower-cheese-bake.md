@@ -7,18 +7,19 @@ categories: recipe
 tags: [200cal, vegetarian, omni, casserole]
 excerpt: "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side."
 img: recipe-creamy-cauliflower-cheese-bake.jpg
+
+comments: "1"
+keywords: [ "volume eating," "low calorie", "weight loss", "filling recipe", "high fiber" ]
+
+cooktime: "PT4H"
+preptime: "PT15M"
+totaltime: "PT4H"
+
+cookingmethod: "baking"
+
+
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "author": "Kelly Zhang",
-  "keywords": "volume eating, low calorie, weight loss, filling recipe, high fiber",
-  "cookTime": "PT4H",
-  "prepTime": "PT15M",
-  "totalTime": "PT4H",
-  "cookingMethod": "Baking",
   "datePublished": "2019-03-17",
   "description": "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side.",
   "image": "http://kellyzhang.me/food/images/recipe-creamy-cauliflower-cheese-bake.jpg",

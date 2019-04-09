@@ -30,10 +30,10 @@ layout: default
   "name": {{page.title | jsonify}},
   "headline": {{page.title | jsonify}},
 
-  "cookTime": "PT4H",
-  "prepTime": "PT15M",
-  "totalTime": "PT4H",
-  "cookingMethod": "Baking",
+  "cookTime": {{page.cooktime | jsonify}},
+  "prepTime": {{page.preptime | jsonify}},
+  "totalTime": {{page.totaltime | jsonify}},
+  "cookingMethod": {{page.cookingmethod | jsonify}},
   "description": "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side.",
   "image": "http://kellyzhang.me/food/images/recipe-creamy-cauliflower-cheese-bake.jpg",
   "aggregateRating": {
