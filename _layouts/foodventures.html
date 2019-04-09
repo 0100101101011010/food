@@ -14,10 +14,9 @@ layout: default
 
   "dateModified": {{ page.date | jsonify }},
   "datePublished": {{ page.date | jsonify }},
-
   "publisher": "Hi I'm Kelly and I Love My Life"
-  "author": {{ page.author | jsonify }},
 
+  "author": {{ page.author | jsonify }},
   "keywords": {{ page.keywords | jsonify }},
   "description": {{ page.excerpt | jsonify }},
   "image": "http://kellyzhang.me/food/images/{{ page.img }}",
@@ -27,6 +26,7 @@ layout: default
     "interactionType": "http://schema.org/Comment",
     "userInteractionCount": {{ page.comments | jsonify }},
   },
+
   "name": {{page.title | jsonify}},
   "headline": {{page.title | jsonify}}
 
