@@ -16,7 +16,7 @@ layout: default
   "interactionStatistic": {
     "@type": "InteractionCounter",
     "interactionType": "http://schema.org/Comment",
-    "userInteractionCount": "140"
+    "userInteractionCount": {{ page.comments | jsonify }},
   },
   "name": {{page.title | jsonify}},
   "headline": {{page.title | jsonify}}

@@ -8,6 +8,7 @@ tags: [200cal, vegan, vegetarian, omni, soup]
 keywords: [ "healthy diet", "what i ate", "waffle maker", "creative uses for waffle maker" ]
 excerpt: "This week has been so hectic. I'm getting settled into my new sublet, and cooking has been a bit strained at times because I'm still in the process of stocking my pantry with essentials."
 img: foodventures-jan-7-2019-2.jpg
+comments: "2"
 ---
 
 This week's theme, I guess, is making do with some random assortment of ingredients while you are missing half your kitchen essentials. I've been relying heavily on baked goods and stuff I can cook in my Instant Pot (when am I not?) because my pots and pans are back in Waterloo at the moment.
