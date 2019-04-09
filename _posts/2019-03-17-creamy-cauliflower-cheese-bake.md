@@ -17,8 +17,8 @@ totaltime: "PT4H"
 
 cookingmethod: "baking"
 
-rating: 4
-reviews: 7
+rating: "4"
+reviews: "7"
 ---
 
 
