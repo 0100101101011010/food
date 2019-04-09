@@ -12,11 +12,13 @@ layout: default
          "@id": "{{page.url | jsonify}}"
       },
 
+  "dateModified": {{ page.date | jsonify }},
+  "datePublished": {{ page.date | jsonify }},
+
   "publisher": "Hi I'm Kelly and I Love My Life"
   "author": {{ page.author | jsonify }},
 
   "keywords": {{ page.keywords | jsonify }},
-  "datePublished": {{ page.date | jsonify }},
   "description": {{ page.excerpt | jsonify }},
   "image": "http://kellyzhang.me/food/images/{{ page.img }}",
 
