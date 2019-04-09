@@ -8,7 +8,7 @@ layout: default
   "@type": "BlogPosting",
   "author": {{ page.author | jsonify }},
 
-  "keywords": "{{ page.tags | jsonify }}",
+  "keywords": [ {{ page.keywords | jsonify }} ],
   "datePublished": "{{ page.date | jsonify }}",
   "description": {{ page.excerpt | jsonify }},
   "image": "http://kellyzhang.me/food/images/{{ page.img }}",
