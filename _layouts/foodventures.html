@@ -8,8 +8,8 @@ layout: default
   "@type": "BlogPosting",
 
   "mainEntityOfPage": {
-         "@type": "blogPost",
-         "@id": http://kellyzhang.me/food{{page.url | jsonify}}
+     "@type": "blogPost",
+     "@id": http://kellyzhang.me/food{{page.url | jsonify}}
       },
 
   "dateModified": {{ page.date | jsonify }},
@@ -25,7 +25,7 @@ layout: default
     "@type": "InteractionCounter",
     "interactionType": "http://schema.org/Comment",
     "userInteractionCount": {{ page.comments | jsonify }},
-  },
+    },
 
   "name": {{page.title | jsonify}},
   "headline": {{page.title | jsonify}}
