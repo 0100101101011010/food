@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: "Creamy Cauliflower Cheese Bake"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
