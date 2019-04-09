@@ -9,9 +9,9 @@ layout: default
   "author": {{ page.author | jsonify }},
 
   "keywords": "{{ page.tags | jsonify }}",
-  "datePublished": "{{ post.date | jsonify }}",
+  "datePublished": "{{ page.date | jsonify }}",
   "description": {{ page.excerpt | jsonify }},
-  "image": "{{ post.img }}",
+  "image": "{{ page.img }}",
 
   "interactionStatistic": {
     "@type": "InteractionCounter",
