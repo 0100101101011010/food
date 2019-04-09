@@ -9,7 +9,7 @@ layout: default
 
   "mainEntityOfPage": {
      "@type": "blogPost",
-     "@id": {{page.baseurl}}
+     "@id": {{page.baseurl | jsonify}}
       },
 
   "dateModified": {{ page.date | jsonify }},
