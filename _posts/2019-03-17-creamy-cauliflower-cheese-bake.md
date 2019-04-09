@@ -17,17 +17,11 @@ totaltime: "PT4H"
 
 cookingmethod: "baking"
 
-
+rating: 4
+reviews: 7
 ---
 
-  "datePublished": "2019-03-17",
-  "description": "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side.",
-  "image": "http://kellyzhang.me/food/images/recipe-creamy-cauliflower-cheese-bake.jpg",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4",
-    "reviewCount": "7"
-  },
+
   "recipeIngredient": [
     "1 yellow onion",
     "2 garlic cloves",
