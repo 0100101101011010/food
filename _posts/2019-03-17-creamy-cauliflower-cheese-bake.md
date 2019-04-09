@@ -36,34 +36,6 @@ ingredients:
 ---
 
 
-  "recipeCategory": "casserole",
-  "recipeCuisine": "Canadian",
-  "recipeInstructions": [{
-    "@type": "HowToStep",
-    "text": "Chop onion, carrot, and celery into small pieces. Roughly chop spinach. Mince garlic."
-  },{
-    "@type": "HowToStep",
-    "text": "Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up."
-  },{
-    "@type": "HowToStep",
-    "text": "Add garlic and saute until water is almost gone."
-  },{
-    "@type": "HowToStep",
-    "text": "Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times."
-  },{
-    "@type": "HowToStep",
-    "text": "Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)"
-  }],  
-
-  "suitableForDiet": [
-    "http://schema.org/VegetarianDiet",
-    "http://schema.org/LowCalorieDiet",
-    "http://schema.org/HalalDiet",
-    "http://schema.org/HinduDiet",
-    "http://schema.org/KosherDiet"
-  ]
-
-
 ## Ingredients
 
 * 1 head of Cauliflower
