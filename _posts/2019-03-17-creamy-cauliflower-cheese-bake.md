@@ -62,14 +62,6 @@ instructions:
   {% endfor %}
 </ol>
 
-1. Steam cauliflower until almost fall-apart tender. I used my Instant Pot's STEAM function (5 min @ high).
-1. While you let the cauliflower cool, add butter and flour to a medium saucepan on medium heat and whisk together.
-1.
-1.
-1.
-1.
-1.
-
 ## Recipe notes
 
 ![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-1.jpg){:width="40%"}{: .image-left}
