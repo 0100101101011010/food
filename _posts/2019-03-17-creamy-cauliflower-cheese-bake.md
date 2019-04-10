@@ -69,7 +69,7 @@ instructions:
 
 ## Recipe notes
 
-![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-1.jpg){:width="40%"}{: .image-left}
+![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-1.jpg){:width="40%"}{: .image-right}
 
   **ACTIVE TIME:** 20 min
 
