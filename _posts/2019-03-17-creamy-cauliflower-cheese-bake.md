@@ -37,6 +37,12 @@ ingredients:
 instructions:
  - Steam cauliflower until almost fall-apart tender. I used my Instant Pot's STEAM function (5 min @ high).
  - While you let the cauliflower cool, add butter and flour to a medium saucepan on medium heat and whisk together.
+ - When thoroughly mixed, add milk and turn heat down to low. Whisk frequently until sauce thickens.
+ - Stir in two-thirds of the cheese and turn off heat.
+ - When cauliflower is cool enough to handle, break into small florets and add to saucepan. Stir, coating all the florets.
+ - Pour into a small glass casserole dish (or foil-lined baking pan) and sprinkle remaining cheese on top.
+ - Bake at 375° F on the second-to-top rack for 25–30 minutes, or until golden on top.
+
 ---
 
 
@@ -50,13 +56,19 @@ instructions:
 
 ## Instructions
 
+<ol>
+  {% for item in page.instructions %}
+    <li>{{ item }}</li>
+  {% endfor %}
+</ol>
+
 1. Steam cauliflower until almost fall-apart tender. I used my Instant Pot's STEAM function (5 min @ high).
 1. While you let the cauliflower cool, add butter and flour to a medium saucepan on medium heat and whisk together.
-1. When thoroughly mixed, add milk and turn heat down to low. Whisk frequently until sauce thickens.
-1. Stir in two-thirds of the cheese and turn off heat.
-1. When cauliflower is cool enough to handle, break into small florets and add to saucepan. Stir, coating all the florets.
-1. Pour into a small glass casserole dish (or foil-lined baking pan) and sprinkle remaining cheese on top.
-1. Bake at 375° F on the second-to-top rack for 25–30 minutes, or until golden on top.
+1.
+1.
+1.
+1.
+1.
 
 ## Recipe notes
 
