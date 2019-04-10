@@ -33,6 +33,10 @@ ingredients:
  - 10 g flour (about 2 tbsp)
  - 150 mL milk
  - 1 cup roughly chopped cheese (I used marbled cheddar)
+
+ instructions:
+ - Steam cauliflower until almost fall-apart tender. I used my Instant Pot's STEAM function (5 min @ high).
+ - While you let the cauliflower cool, add butter and flour to a medium saucepan on medium heat and whisk together.
 ---
 
 

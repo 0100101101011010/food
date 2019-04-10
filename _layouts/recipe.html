@@ -55,10 +55,12 @@ layout: default
   "recipeYield": {{page.servings | jsonify}},
 
   "recipeCategory": {{page.recipecategory | jsonify}},
-  "recipeCuisine": {{page.cuisine | jsonify}}
+  "recipeCuisine": {{page.cuisine | jsonify}},
 
 
   "recipeIngredient": {{ page.ingredients | jsonify }},
+
+  "recipeInstructions": {{ page.instructions | jsonify }}
 
 }
 </script>
