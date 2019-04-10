@@ -113,7 +113,7 @@ Ya... I tried to make a nice Sunday brunch for myself and it turned into this. I
 
 Not a complete failure, though. The French toast (the non-burnt parts, at least) was delicious and so much easier to make than I expected. I'll just have to figure out how to keep my cast iron from burning food before cooking it.
 
-![overnight oats](/food/images/foodventures-overnight-oats.jpg){:width="40%"}{: .image-right}
+![overnight oats](/food/images/foodventures-overnight-oats.jpg){:width="40%"}{: .image-left}
 
 Overnight oats: not the most picturesque meal out there. But seriously really good! This month is the first time I've had overnight oats and I was surprised by how yummy and satisfying they are.
 
