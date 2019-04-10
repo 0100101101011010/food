@@ -147,14 +147,20 @@ img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
 
 ## Recipe notes
 
-|------------------|------------------------------|
-| **ACTIVE TIME**  | 15 min                       |
-| **TOTAL TIME**   | 4–9 hours                    |
-| **SERVINGS**     | 8                            |
-| **CALORIES**     | 200 cal per serving          |
-| **COST**         | CAD $0.35 per serving        |
-| **FRIDGE**       | refrigerate for up to 8 days |
-| **FREEZER**      | freeze for several months    |
+
+**ACTIVE TIME:** 15 min
+
+**TOTAL TIME:** 4–9 hours
+
+**SERVINGS:** 8
+
+**CALORIES:** 200 cal per serving
+
+**COST:** CAD $0.35 per serving
+
+**FRIDGE:** refrigerate for up to 8 days
+
+**FREEZER:** freeze for several months
 
 This recipe is super forgiving and easy to customize! For example, if you want a thicker stew-like meal, just reduce the water by a quarter. You can substitute double the amount of fresh thyme for dried. The spinach can be swapped out for kale or swiss chard or left out altogether.
 
@@ -183,17 +189,3 @@ I also try to make my recipes versatile. This soup is super flexible on the vege
 This soup is awesome! The first day I brought this to work, I didn't even heat it up in the microwave and just ate it cold at my desk (didn't have access to a microwave back then, long story), and it was still pretty good.
 
 In fact, I had it for breakfast, lunch *and* dinner that day, and had four containers left to spare.
-
-<div class="row" style= "float:right;position: relative;">
-
-    <div class="col-md-6">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">nutritional information</h3>
-          </div>
-          <div class="panel-body">
-            <iframe title="CRONOMETER.com" width="320" height="500" src="https://cronometer.com/facts.html?food=6383824&measure=16230578&labelType=AMERICAN" frameborder="0"></iframe>
-          </div>
-        </div>
-    </div>
-</div>
