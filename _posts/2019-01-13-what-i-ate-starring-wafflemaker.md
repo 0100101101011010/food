@@ -85,7 +85,7 @@ Since the recipe repeatedly reassured me it was fine if the seitan "misbehaves" 
 
 The texture was honestly not good. It was SO rubbery and tough, like trying to chew through a giant elastic band. I have no idea how people can compare this to steak. Additionally, this is one of those recipes that smells better than it tastes. It got a little better with a generous layer of sauce on top, but it was generally bland. Didn't reach that satiating, meaty level I was expecting. I'm not discouraged, though. I'm planning to try Veggie Rose's [deli meat](https://www.veggierose.com/single-post/2018/03/12/Vegan-Deli-Slices) recipe next. I've had this recipe on my mind for a while now.
 
-![peanut butter cookies](/food/images/foodventures-peanut-butter-cookies.jpg){:width="40%"}{: .image-right}
+![peanut butter cookies](/food/images/foodventures-peanut-butter-cookies.jpg){:width="30%"}{: .image-right}
 
 Friday was also the day I made the most successful batch of pb cookies yet. I mean, it's hard to run into a bad batch since you're essentially just eating shaped peanut butter, but these were on some next level with how soft and rich, and beautiful they were.
 
