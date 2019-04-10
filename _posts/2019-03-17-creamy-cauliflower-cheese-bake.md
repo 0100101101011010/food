@@ -74,15 +74,19 @@ instructions:
 **ACTIVE TIME:** 20 min
 **TOTAL TIME:** 1 hour
 **SERVINGS:** 4 (more if eaten as a side)
+**CALORIES:** 200 cal per serving 
+**COST:** CAD $0.35 per serving
+**FRIDGE:** refrigerate for up to 5 days (but it's best straight out of the oven when the top layer is super crispy)
+**FREEZER:** freeze for several months
 
 |------------------|------------------------------|
 | **ACTIVE TIME**  | 20 min                       |
 | **TOTAL TIME**   | 1 hour                       |
 | **SERVINGS**     | 4 (more if eating as a side) |
-| **CALORIES**     | 200 cal per serving          |
-| **COST**         | CAD $0.35 per serving        |
-| **FRIDGE**       | refrigerate for up to 5 days (but it's best straight out of the oven when the top layer is super crispy) |
-| **FREEZER**      | freeze for several months    |
+| **CALORIES**     |          |
+|         |         |
+|       |  |
+|      |     |
 
 You can also mix in some sliced cremini mushrooms to bulk it up and add more veggies. If you aren't vegetarian, add some bacon bits for an even richer, more savoury flavour.
 
