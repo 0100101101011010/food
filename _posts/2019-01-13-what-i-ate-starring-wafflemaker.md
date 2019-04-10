@@ -15,7 +15,7 @@ This week's theme, I guess, is making do with some random assortment of ingredie
 
 ## Monday: Egg waffles
 
-![egg waffles](/food/images/foodventures-egg-waffles.jpg){:width="50%"}{: .image-left}
+![egg waffles](/food/images/foodventures-egg-waffles.jpg){:width="50%"}{: .image-right}
 
 My new Blendtec jar came in today! The first things I made with it were these egg waffles. I've seen a recipe for this floating around, but since I was so eager to break in the blender jar I just went ahead and tried to engineer my own waffles without thinking about it first. My wafflemaker has handled some pretty weird things I've thrown at it, so I figured eggs should be no different, right?
 
