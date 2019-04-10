@@ -9,8 +9,8 @@ layout: default
 
   "mainEntityOfPage": {
      "@type": "Recipe",
-     "@id": {{page.baseurl | jsonify}}
-      },
+     "@id": {{page.baseurl | jsonify}},
+
 
   "dateModified": {{ page.date | jsonify }},
   "datePublished": {{ page.date | jsonify }},
@@ -60,8 +60,9 @@ layout: default
 
   "recipeIngredient": {{ page.ingredients | jsonify }},
 
-  "recipeInstructions": {{ page.instructions | jsonify }}
+  "recipeInstructions": {{ page.instructions | jsonify }},
 
+},
 }
 </script>
 
