@@ -1138,6 +1138,13 @@ img {
   float: right;
 }
 
+.image-right {
+  display: block;
+  margin-right: 8px;
+  margin-left: auto;
+  float: left;
+}
+
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
