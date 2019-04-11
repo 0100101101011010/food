@@ -101,7 +101,7 @@ As I was making this, I suddenly thought of another perk to moving out/living on
 
 So this is literally two slices of cheese (Monterey Jack, I believe) between two slices of bread and flattened in the waffle iron.
 
-![waffled grilled cheese](/food/images/foodventures-waffled-grilled-cheese-2.jpg){:width="60%"}{: .image-right}
+![waffled grilled cheese](/food/images/foodventures-waffled-grilled-cheese-2.jpg){:width="50%"}{: .image-right}
 
 Not an amazing success; I definitely should've kept them in the waffle maker longer to achieve that nice golden-brown colour, but I was impatient and hungry. The cheese had gotten warm, but could've been more gooey and melty. I'm certain that a few more minutes would've gotten this from mediocre to amazing.
 
