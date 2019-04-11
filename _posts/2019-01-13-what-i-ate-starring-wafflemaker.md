@@ -95,7 +95,7 @@ Not the healthiest recipe, so I won't be making them that often. It sucks that p
 
 ## Saturday: Waffled Grilled cheese
 
-![waffled grilled cheese](/food/images/foodventures-waffled-grilled-cheese.jpg){:width="40%"}{: .image-left}
+![waffled grilled cheese](/food/images/foodventures-waffled-grilled-cheese.jpg){:width="50%"}{: .image-left}
 
 As I was making this, I suddenly thought of another perk to moving out/living on your own: being able to eat crustless sandwiches! At home leaving the crusts off bread would be unheard of, but now that I'm here my parents can't control how I eat my food hehe. (Don't worry, I didn't throw the crusts out. I'm storing them up in a ziploc in the freezer to turn into breadcrumbs when I have enough.)
 
