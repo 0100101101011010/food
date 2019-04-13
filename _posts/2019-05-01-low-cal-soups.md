@@ -5,7 +5,7 @@ author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
 tags: [200cal, vegan, vegetarian, omni, soup]
-keywords: [ "healthy diet", "what i ate", "baking", "bread", "no-knead bread", "easy recipes" ]
+keywords: [ "healthy diet", "weight loss", "soup", "1200isplenty" ]
 excerpt: "I am so excited to throw in my endorsements, along with the millions of others who've already tried it, for Jim Lahey's no-knead bread recipe."
 img: foodventures-apr-14-2019.jpg
 comments: "2"
