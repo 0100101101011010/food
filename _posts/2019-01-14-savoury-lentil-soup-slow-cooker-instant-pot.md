@@ -79,6 +79,8 @@ instructions:
 
 ![nutrition information for savoury lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-nutrition.jpg){:width="100%"}{: .image-right}
 
+
+
 ## Recipe notes
 
 **FRIDGE:** refrigerate for up to 8 days
