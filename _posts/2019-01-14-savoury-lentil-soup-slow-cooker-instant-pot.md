@@ -20,8 +20,8 @@ cooktime: "PT4H"
 preptime: "PT15M"
 totaltime: "PT4H"
 
-cost: "1"
-calories: "197 calories"
+cost: "0.34"
+calories: "168 calories"
 servings: "8"
 
 cookingmethod: "slow cooking"
@@ -80,11 +80,11 @@ instructions:
 
 **TOTAL TIME:** 4–9 hours
 
-**SERVINGS:** 8
+**SERVINGS:** {{page.servings}}
 
-**CALORIES:** 200 cal per serving
+**CALORIES:** {{page.calories}} / serving
 
-**COST:** CAD $0.35 per serving
+**COST:** CAD ${{page.cost}} per serving
 
 **FRIDGE:** refrigerate for up to 8 days
 
