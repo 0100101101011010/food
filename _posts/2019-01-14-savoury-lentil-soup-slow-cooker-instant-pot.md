@@ -109,8 +109,8 @@ I'm very happy to report that this lentil soup is all three!
 
 I'm not into fresh herbs at all... every college student who tries to cook at home knows the struggle of buying a handful of cilantro or parsley for a recipe, only to have to throw away the wilted remainder a week later. There's nothing more stressful than knowing you have produce going bad in your fridge but not having a recipe to use it in. I don't want my life to be run by herbs!! That's why when I come up with recipes, I try to stick to dried spices and herbs. These babies don't go bad for a long time, plus they don't take up space in the fridge.
 
-I also try to make my recipes versatile. This soup is super flexible on the vegetables. You can add in vegetables, like tomatoes, squash, mushrooms, etc. or substitute one for another. It's great for dumping some leftovers in!
+I also try to make my recipes versatile. This one is super flexible on the vegetables. You can add in whatever you have, like tomatoes, squash, kale, mushrooms, etc. It's great for dumping leftovers in!
 
-This soup is awesome! The first day I brought this to work, I didn't even heat it up in the microwave and just ate it cold at my desk (didn't have access to a microwave back then, long story), and it was still pretty good.
+The first day I brought my soup to work, I didn't even heat it up in the microwave and just ate it cold at my desk (didn't have access to a microwave back then, long story), and it was still tasty. My conclusion, essentially, is that it is just that good.
 
-In fact, I had it for breakfast, lunch *and* dinner that day, and had four containers left to spare.
+In fact, I had it for breakfast, lunch *and* dinner that day, and had four containers left to spare. I think you can easily prep this for a week and eat it for lunch everyday without getting tired of it, but if you need more variety in your life, it keeps really well in the freezer to enjoy later. I like to let it cool down to at least room temperature, then pour one or two servings into a ziploc bag and lay flat in the freezer until it freezes into a space-saving flat square. To defrost, you can either leave it in the fridge overnight or soak it in a basin of cool water if you're in a hurry!
