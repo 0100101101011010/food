@@ -1,5 +1,4 @@
 ---
-published: false
 layout: recipe
 title: "Savoury Lentil Soup in the Slow Cooker or Instant Pot"
 author: "Kelly Zhang"
