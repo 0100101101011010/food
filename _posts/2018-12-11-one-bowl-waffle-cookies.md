@@ -18,8 +18,8 @@ keywords:
  - baking
  - creative ideas
 
-cooktime: "PT4H"
-preptime: "PT15M"
+cooktime: "PT1H"
+preptime: "PT1H"
 totaltime: "PT4H"
 
 cost: "1"

@@ -1,5 +1,6 @@
 ---
-layout: post
+published: false
+layout: recipe
 title: "Savoury Lentil Soup in the Slow Cooker or Instant Pot"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
@@ -7,143 +8,70 @@ categories: recipe
 tags: [200cal, vegan, vegetarian, omni, soup]
 excerpt: "Make a delicious soup for 200 calories that's high in fiber and protein. It's perfect for meal prep, and freezes well. Vegan and omni options!"
 img: recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg
+
+comments: "4"
+keywords:
+ - weight loss
+ - diet recipe
+ - wholesome
+ - health recipes
+ - pulses
+
+cooktime: "PT4H"
+preptime: "PT15M"
+totaltime: "PT4H"
+
+cost: "1"
+calories: "197 calories"
+servings: "8"
+
+cookingmethod: "slow cooking"
+recipecategory: "soup"
+cuisine: "Canadian"
+
+rating: "5"
+reviews: "8"
+
+
+ingredients:
+ - 1 yellow onion
+ - 2 garlic cloves
+ - 400 g dried lentils
+ - 60 g spinach
+ - 2 carrots
+ - 4 celery stalks
+ - 2 bay leaves
+ - 0.5 tbsp dried thyme
+ - 2 L water
+ - 5 g chicken bouillon powder
+ - 6 g salt
+
+instructions:
+ - Chop onion, carrot, and celery into small pieces (think about how you like your soups—you want the chunks small enough to eat in one bite comfortably). Roughly chop spinach. Mince garlic.
+ - Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up.
+ - Add garlic and sautee until water is almost gone.
+ - Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.
+ - Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)
+
+
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "author": "Kelly Zhang",
-  "keywords": "vegan, soup, meal, diet, weight loss, healthy",
-  "cookTime": "PT4H",
-  "prepTime": "PT15M",
-  "totalTime": "PT4H",
-  "cookingMethod": "Slow Cooking",
-  "datePublished": "2019-01-13",
-  "description": "A light yet filling soup that's less than 200 calories and has 13 g of protein and 7 g of fiber. It's perfect for meal prep, and freezes well. Vegan and omni options!",
-  "image": "http://kellyzhang.me/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot.jpg",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5",
-    "reviewCount": "8"
-  },
-  "recipeIngredient": [
-    "1 yellow onion",
-    "2 garlic cloves",
-    "400 g dried lentils",
-    "60 g spinach",
-    "2 carrots",
-    "4 celery stalks",
-    "2 bay leaves",
-    "0.5 tbsp dried thyme",
-    "2 L water",
-    "5 g chicken bouillon",
-    "6 g salt"
-  ],
-  "interactionStatistic": {
-    "@type": "InteractionCounter",
-    "interactionType": "http://schema.org/Comment",
-    "userInteractionCount": "140"
-  },
-  "name": "Savoury Lentil Soup in the Slow Cooker or Instant Pot",
-  "estimatedCost": {
-    "@type": "MonetaryAmount",
-    "currency": "CAD",
-    "value": "10"
-  },
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "197 calories",
-    "carbohydrateContent": "36.1 grams carbohydrate",
-    "fiberContent": "6.6 grams fiber",
-    "sugarContent": "3 grams sugar",
-    "cholesterolContent": "0 milligrams cholesterol",
-    "fatContent": "0.7 grams fat",
-    "saturatedFatContent": "0.1 grams saturated fat",
-    "unsaturatedFatContent": "0.1 grams unsaturated fat",
-    "transFatContent": "6.6 grams trans fat",
-    "proteinContent": "13.1 grams protein",
-    "sodiumContent": "416.3 milligrams sodium",
-    "servingSize": "1.5 cups"
-  },
-
-  "tool": [
-    {
-      "@type": "HowToTool",
-      "name": "Slow cooker or Instant Pot"
-    },
-    {
-      "@type": "HowToTool",
-      "name": "Skillet (if using slow cooker method)"
-    },
-    {
-      "@type": "HowToTool",
-      "name": "Spatula"
-    },
-    {
-      "@type": "HowToTool",
-      "name": "Kitchen knife"
-    },
-    {
-      "@type": "HowToTool",
-      "name": "Food scale (recommended to count calories accurately)"
-    }
-  ],
-
-  "recipeCategory": "soup",
-  "recipeCuisine": "Canadian",
-  "recipeInstructions": [{
-    "@type": "HowToStep",
-    "text": "Chop onion, carrot, and celery into small pieces. Roughly chop spinach. Mince garlic."
-  },{
-    "@type": "HowToStep",
-    "text": "Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up."
-  },{
-    "@type": "HowToStep",
-    "text": "Add garlic and saute until water is almost gone."
-  },{
-    "@type": "HowToStep",
-    "text": "Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times."
-  },{
-    "@type": "HowToStep",
-    "text": "Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)"
-  }],  
-  "recipeYield": "8 servings",
-  "suitableForDiet": [
-    "http://schema.org/LowFatDiet",
-    "http://schema.org/GlutenFreeDiet",
-    "http://schema.org/VeganDiet",
-    "http://schema.org/VegetarianDiet",
-    "http://schema.org/LowCalorieDiet",
-    "http://schema.org/HalalDiet",
-    "http://schema.org/HinduDiet",
-    "http://schema.org/KosherDiet",
-    "http://schema.org/LowLactoseDiet"
-  ]
-}
-</script>
 
 ## Ingredients
 
-* 1 yellow onion
-* 2 garlic cloves
-* 400 g dry lentils
-* 60 g spinach (1 cup = 30 g)
-* 2 carrots
-* 4 celery stalks
-* 2 bay leaf
-* 1/2 tbsp dried thyme
-* 2 L water
-* 5 g chicken bouillon* (1 cube = 5 g)
-* 6 g salt (6 g = 2 tsp kosher salt or 1 tsp fine salt)
+<ul>
+  {% for item in page.ingredients %}
+    <li>{{ item }}</li>
+  {% endfor %}
+</ul>
 
 ## Instructions
 
-1. Chop onion, carrot, and celery into small pieces (think about how you like your soups—you want the chunks small enough to eat in one bite comfortably). Roughly chop spinach. Mince garlic.
-1. Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up.
-1. Add garlic and sautee until water is almost gone.
-1. Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.
-1. Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)
+<ol>
+  {% for item in page.instructions %}
+    <li>{{ item }}</li>
+  {% endfor %}
+</ol>
 
 ## Recipe notes
 
