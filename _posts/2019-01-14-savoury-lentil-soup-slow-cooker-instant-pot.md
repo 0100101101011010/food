@@ -56,7 +56,9 @@ instructions:
 ---
 
 > **ACTIVE TIME:** 15 min / **TOTAL TIME:** 4–9 hours  
-> **SERVINGS:** {{page.servings}} / **CALORIES:** {{page.calories}} per serving / **COST:** CAD ${{page.cost}} per serving
+> **SERVINGS:** {{page.servings}}  
+> **CALORIES:** {{page.calories}} per serving  
+> **COST:** CAD ${{page.cost}} per serving
 
 ## Ingredients
 
