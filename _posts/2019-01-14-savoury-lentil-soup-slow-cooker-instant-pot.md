@@ -74,6 +74,9 @@ instructions:
   {% endfor %}
 </ol>
 
+> **FRIDGE:** refrigerate for up to 8 days
+> **FREEZER:** freeze for several months
+
 ## Nutrition and Cost Breakdown
 
 ![nutrition information for savoury lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-nutrition.jpg){:width="100%"}{: .image-right}
@@ -81,10 +84,6 @@ instructions:
 
 
 ## Recipe notes
-
-**FRIDGE:** refrigerate for up to 8 days
-
-**FREEZER:** freeze for several months
 
 This recipe is super forgiving and easy to customize! For example, if you want a thicker stew-like meal, just reduce the water by a quarter. You can substitute double the amount of fresh thyme for dried. The spinach can be swapped out for kale or swiss chard or left out altogether.
 
