@@ -55,7 +55,7 @@ instructions:
 
 ---
 
-> **ACTIVE TIME:** 15 min / **TOTAL TIME:** 4–9 hours
+> **ACTIVE TIME:** 15 min / **TOTAL TIME:** 4–9 hours  
 > **SERVINGS:** {{page.servings}} / **CALORIES:** {{page.calories}} per serving / **COST:** CAD ${{page.cost}} per serving
 
 ## Ingredients
@@ -74,7 +74,7 @@ instructions:
   {% endfor %}
 </ol>
 
-> **FRIDGE:** refrigerate for up to 8 days
+> **FRIDGE:** refrigerate for up to 8 days  
 > **FREEZER:** freeze for several months
 
 ## Nutrition and Cost Breakdown
