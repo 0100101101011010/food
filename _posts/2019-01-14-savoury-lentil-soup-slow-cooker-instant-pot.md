@@ -54,7 +54,9 @@ instructions:
 
 
 ---
+**ACTIVE TIME:** 15 min / **TOTAL TIME:** 4–9 hours
 
+**SERVINGS:** {{page.servings}} / **CALORIES:** {{page.calories}} per serving / **COST:** CAD ${{page.cost}} per serving
 
 ## Ingredients
 
@@ -74,17 +76,7 @@ instructions:
 
 ## Recipe notes
 
-![nutrition information for savoury lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-nutrition.jpg){:width="50%"}{: .image-right}
-
-**ACTIVE TIME:** 15 min
-
-**TOTAL TIME:** 4–9 hours
-
-**SERVINGS:** {{page.servings}}
-
-**CALORIES:** {{page.calories}} / serving
-
-**COST:** CAD ${{page.cost}} per serving
+![nutrition information for savoury lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-nutrition.jpg){:width="70%"}{: .image-right}
 
 **FRIDGE:** refrigerate for up to 8 days
 
