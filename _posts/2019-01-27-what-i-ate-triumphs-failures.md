@@ -1,5 +1,5 @@
 ---
-published: false
+
 layout: post
 title: "What I Ate This Week: lots of triumphs and failures"
 author: Kelly Zhang
