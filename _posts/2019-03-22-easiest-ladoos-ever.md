@@ -21,7 +21,7 @@ cooktime: "PT1H"
 preptime: "PT1H"
 totaltime: "PT1H"
 
-cost: "0.02"
+cost: "0.11"
 calories: "99 calories"
 servings: "12"
 
