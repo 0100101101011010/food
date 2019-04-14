@@ -57,7 +57,7 @@ Maybe I'll add some Greek yogurt to see how that goes.
 
 ## Thursday: Egg Waffles Again (With More Success)
 
-![egg waffles, second attempt](/food/foodventures/images/egg-waffles-2.jpg){:width="30%"}{: .image-left}
+![egg waffles, second attempt](/food/foodventures/images/egg-waffles-1.jpg){:width="30%"}{: .image-left}
 
 So I tried making egg waffles again, this time using a [recipe](https://thecozycook.com/waffle-iron-omelette/) (skipping the cheese). So I did have more success this round, and the texture was on point, but the taste was still not quite there. When I eat eggs I want something that's really savoury and filling. This doesn't exactly hit the spot, but it's not bad! I think I will keep experimenting with making these until I find the perfect formula, since the idea of waffle-shaped eggs remains super appealing to me.
 

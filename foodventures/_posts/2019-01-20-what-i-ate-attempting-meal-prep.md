@@ -21,7 +21,7 @@ Now that I've got an access card for the office, I can start bringing microwavea
 
 ## Monday: Savoury Lentil Soup and Avocado Melt
 
-![lentil soup at the office](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-3.jpg){:width="50%"}{: .image-right}
+![lentil soup at the office](/food/recipe/images/savoury-lentil-soup-slow-cooker-instant-pot-3.jpg){:width="50%"}{: .image-right}
 
 I technically started [this recipe](/food/recipe/savoury-lentil-soup-slow-cooker-instant-pot/) on Sunday, because it's a slow cooker recipe and I wanted it to be ready for packing into my lunch on Monday morning. It's my own concoction and it tastes AMAZING! I'm so happy and surprised that throwing vegetables and water in a pot overnight turned out so well, but it makes sense since carrots, celery, and onions are the base of any vegetable stock, and this soup has them all.
 
