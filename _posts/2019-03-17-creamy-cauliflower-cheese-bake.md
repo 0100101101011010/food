@@ -20,9 +20,9 @@ cooktime: "PT4H"
 preptime: "PT15M"
 totaltime: "PT4H"
 
-cost: "1"
-calories: "197 calories"
-servings: "8"
+cost: "0.80"
+calories: "220 calories"
+servings: "4"
 
 cookingmethod: "baking"
 recipecategory: "casserole"
@@ -33,11 +33,11 @@ reviews: "7"
 
 
 ingredients:
- - 1 head of cauliflower
+ - 1 medium head or 550 g of cauliflower
  - 25 g butter (about 2 tbsp)
  - 10 g flour (about 2 tbsp)
  - 150 mL milk
- - 1 cup roughly chopped cheese (I used marbled cheddar)
+ - 1 cup or 113 g of roughly chopped cheese (I used marbled cheddar)
 
 instructions:
  - Steam cauliflower until almost fall-apart tender. I used my Instant Pot's STEAM function (5 min @ high).
