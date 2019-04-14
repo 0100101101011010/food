@@ -71,7 +71,7 @@ instructions:
 
 ## Recipe notes
 
-![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-1.jpg){:width="40%"}{: .image-right}
+![creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-1.jpg){:width="40%"}{: .image-right}
 
   **ACTIVE TIME:** 20 min
 
@@ -91,7 +91,7 @@ You can also mix in some sliced cremini mushrooms to bulk it up and add more veg
 
 ## Cheese, cheese, cheese
 
-![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-2.jpg){:width="60%"}{: .image-left}
+![creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-2.jpg){:width="60%"}{: .image-left}
 
 One thing I've learned about cheese is that for 90% of recipes out there, it doesn't really matter what kind you use. I have had success straight up subbing mozzarella for cheddar cheese. Chances are it's that rich, dairy taste you crave in a dish rather than the nuances of a particular cheese itself (and this is coming from a cheese superfan). For this recipe, any kind of firm cheese will do. Mozzarella, cheddar, Monterey jack, Oka, friulano, doesn't matter they all work.
 

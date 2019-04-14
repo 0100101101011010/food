@@ -81,7 +81,7 @@ instructions:
 
 ## Nutrition and Cost Breakdown
 
-![nutrition information for savoury lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-nutrition.jpg){:width="100%"}{: .image-right}
+![nutrition information for savoury lentil soup](/food/recipe/images/savoury-lentil-soup-slow-cooker-instant-pot-nutrition.jpg){:width="100%"}{: .image-right}
 
 
 
@@ -95,7 +95,7 @@ The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame o
 
 ## Enjoy!
 
-![savoury vegan lentil soup](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-1.jpg){:width="60%"}{: .image-right}
+![savoury vegan lentil soup](/food/recipe/images/savoury-lentil-soup-slow-cooker-instant-pot-1.jpg){:width="60%"}{: .image-right}
 
 I can't believe it's February already! Last month, I was settling into my co-op job and trying to get used to real "Adulthood."  Now things have fallen into a kind of routine, although I'm still figuring a lot of things out. Even though I had a lot of fun cooking last term, most importantly I learned that making food takes a lot of time. To be honest, by the end of four months, I was almost a little burned out. So my New Year's resolution for this year is to meal prep more and spend less time in the kitchen.
 

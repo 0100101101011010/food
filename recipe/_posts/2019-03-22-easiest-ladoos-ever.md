@@ -74,13 +74,13 @@ instructions:
 
 ## Nutrition and Cost Breakdown
 
-![nutrition and cost information for ladoos](/food/images/recipe-easiest-ladoos-ever-nutrition.jpg){:width="100%"}{: .image-right}
+![nutrition and cost information for ladoos](/food/recipe/images/easiest-ladoos-ever-nutrition.jpg){:width="100%"}{: .image-right}
 
 ## Recipe notes
 
 I used my [Blendtec](https://amzn.to/2FrvF89) to grind up the cardamom pods. You could also use a mortar and pestle to grind them up. Note that it doesn't have to be super uniform and fine.
 
-![warm besan ladoos](/food/images/recipe-easiest-ladoos-ever.jpg){:width="40%"}{: .image-left}
+![warm besan ladoos](/food/recipe/images/easiest-ladoos-ever.jpg){:width="40%"}{: .image-left}
 
 See the step-by-step pictures below for an idea of what your recipe should look like at each stage; it's important not to rush the process!
 
@@ -98,30 +98,30 @@ A lot of ladoo recipes call for other ingredients to add in like cashews or othe
 
 ## Photos
 
-![ladoo mixture will initially look crumbly](/food/images/recipe-easiest-ladoos-ever-1.jpg){:width="100%"}{: .image-left}
+![ladoo mixture will initially look crumbly](/food/recipe/images/easiest-ladoos-ever-1.jpg){:width="100%"}{: .image-left}
 
 After initially mixing chickpea flour into the butter, it will look very crumbly and dry.
 
-![butter begins oozing out when mixture is ready](/food/images/recipe-easiest-ladoos-ever-2.jpg){:width="100%"}{: .image-left}
+![butter begins oozing out when mixture is ready](/food/recipe/images/easiest-ladoos-ever-2.jpg){:width="100%"}{: .image-left}
 
 Eventually (and it may feel like forever), the chickpea flour will darken, butter will start leaking out, and the dough will look wet.
 
-![mixture becomes a paste](/food/images/recipe-easiest-ladoos-ever-3.jpg){:width="100%"}{: .image-left}
+![mixture becomes a paste](/food/recipe/images/easiest-ladoos-ever-3.jpg){:width="100%"}{: .image-left}
 
 At this point, you can turn the heat off.
 
-![pouring sugar into ladoo mixture](/food/images/recipe-easiest-ladoos-ever-4.jpg){:width="100%"}{: .image-left}
+![pouring sugar into ladoo mixture](/food/recipe/images/easiest-ladoos-ever-4.jpg){:width="100%"}{: .image-left}
 
 Add sugar and cardamom to the ladoos.
 
-![mixing cardamom and sugar into mixture](/food/images/recipe-easiest-ladoos-ever-5.jpg){:width="100%"}{: .image-left}
+![mixing cardamom and sugar into mixture](/food/recipe/images/easiest-ladoos-ever-5.jpg){:width="100%"}{: .image-left}
 
 Mixing thoroughly...
 
-![ladoo mixture should not stick](/food/images/recipe-easiest-ladoos-ever-6.jpg){:width="100%"}{: .image-left}
+![ladoo mixture should not stick](/food/recipe/images/easiest-ladoos-ever-6.jpg){:width="100%"}{: .image-left}
 
 If it's ready, the mixture should not stick to the saucepan or your hands when you start handling it.
 
-![roll into ladoo!](/food/images/recipe-easiest-ladoos-ever-7.jpg){:width="100%"}{: .image-left}
+![roll into ladoo!](/food/recipe/images/easiest-ladoos-ever-7.jpg){:width="100%"}{: .image-left}
 
 Roll into small balls!
