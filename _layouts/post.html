@@ -49,21 +49,20 @@ layout: default
             </div>
 
       </article>
+
+  <div class="row">
+
+    <h2 class="post-title">Comments</h2>
+
+      {% include talkyard-comments.html %}
+
+      <!-- {% if site.disqus-shortname %}
+       {% include disqus.html %}
+      {% endif %} -->
+
   </div>
 
-  <div class="col-md-8">
-
-  <h2 class="post-title">Comments</h2>
-
-    {% include talkyard-comments.html %}
-
-    <!-- {% if site.disqus-shortname %}
-     {% include disqus.html %}
-    {% endif %} -->
-
-  </div>
-
-  <div class="col-md-8">
+  <div class="row">
     <ul class="pager">
      {% if page.next.url %}
             <li><a class="next" href="{{page.next.url | prepend: site.baseurl}}">&laquo; {{page.next.title}}</a></li>
@@ -74,6 +73,8 @@ layout: default
     </ul>
   </div>
 
+
+  </div>
 
 {% include sidebar.html %}
 
