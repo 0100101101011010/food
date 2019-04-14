@@ -50,6 +50,13 @@ instructions:
 
 ---
 
+> **ACTIVE TIME:** 20 min  
+> **TOTAL TIME:** 1 hour  
+> **SERVINGS:** {{page.servings}}  
+> **CALORIES:** {{page.calories}} per serving  
+> **COST:** CAD ${{page.cost}} per serving  
+> **FRIDGE:** refrigerate for up to 5 days (but it's best straight out of the oven when the top layer is super crispy)  
+> **FREEZER:** freeze for several months
 
 ## Ingredients
 
@@ -70,20 +77,6 @@ instructions:
 ## Recipe notes
 
 ![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-1.jpg){:width="40%"}{: .image-right}
-
-  **ACTIVE TIME:** 20 min
-
-  **TOTAL TIME:** 1 hour
-
-  **SERVINGS:** 4 (more if eaten as a side)
-
-  **CALORIES:** 200 cal per serving
-
-  **COST:** CAD $0.35 per serving
-
-  **FRIDGE:** refrigerate for up to 5 days (but it's best straight out of the oven when the top layer is super crispy)
-
-  **FREEZER:** freeze for several months
 
 You can also mix in some sliced cremini mushrooms to bulk it up and add more veggies. If you aren't vegetarian, add some bacon bits for an even richer, more savoury flavour.
 
