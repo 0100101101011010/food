@@ -4,7 +4,7 @@ title: "The Easiest Ladoos Ever!"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
-tags: [100 hi]
+tags: [100 calories]
 excerpt: "(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious I couldn't stop eating them even before they cooled down. My coworkers loved them."
 img: recipe-easiest-ladoos-ever-cover.jpg
 
