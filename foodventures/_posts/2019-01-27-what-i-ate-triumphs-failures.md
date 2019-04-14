@@ -21,30 +21,30 @@ comments: "0"
 
 ## Monday:
 
-![navy bean soup](/food/images/foodventures-navy-bean-soup.jpg){:width="50%"}{: .image-right}
+![navy bean soup](/food/foodventures/images/navy-bean-soup.jpg){:width="50%"}{: .image-right}
 
 ## Tuesday: Thin Mint Overnight Oats and Spinach Gnocchi
 
-![thin mint overnight oats](/food/images/foodventures-thin-mint-overnight-oats.jpg){:width="50%"}{: .image-right}
+![thin mint overnight oats](/food/foodventures/images/thin-mint-overnight-oats.jpg){:width="50%"}{: .image-right}
 
-![spinach gnocchi](/food/images/foodventures-spinach-gnocchi.jpg){:width="50%"}{: .image-right}
+![spinach gnocchi](/food/foodventures/images/spinach-gnocchi.jpg){:width="50%"}{: .image-right}
 
-![vegetable stock](/food/images/foodventures-vegetable-stock.jpg){:width="50%"}{: .image-right}
+![vegetable stock](/food/foodventures/images/vegetable-stock.jpg){:width="50%"}{: .image-right}
 
 ## Wednesday: Tofu Avocado Mousse
 
-![tofu avocado mousse](/food/images/foodventures-tofu-avocado-mousse.jpg){:width="50%"}{: .image-right}
+![tofu avocado mousse](/food/foodventures/images/tofu-avocado-mousse.jpg){:width="50%"}{: .image-right}
 
-![tofu grilled cheese](/food/images/foodventures-tofu-grilled-cheese.jpg){:width="50%"}{: .image-right}
+![tofu grilled cheese](/food/foodventures/images/tofu-grilled-cheese.jpg){:width="50%"}{: .image-right}
 
-![peanut butter oats](/food/images/foodventures-peanut-butter-oats.jpg){:width="50%"}{: .image-right}
+![peanut butter oats](/food/foodventures/images/peanut-butter-oats.jpg){:width="50%"}{: .image-right}
 
 ## Thursday: Matcha Overnight Oats
 
-![matcha overnight oats](/food/images/foodventures-matcha-overnight-oats.jpg){:width="50%"}{: .image-right}
+![matcha overnight oats](/food/foodventures/images/matcha-overnight-oats.jpg){:width="50%"}{: .image-right}
 
-![the modern bowl at cactus club](/food/images/foodventures-cactus-club.jpg){:width="50%"}{: .image-right}
+![the modern bowl at cactus club](/food/foodventures/images/cactus-club.jpg){:width="50%"}{: .image-right}
 
 ## Friday:
 
-![tofu avocado mousse](/food/images/foodventures-tofu-avocado-mousse.jpg){:width="50%"}{: .image-right}
+![tofu avocado mousse](/food/foodventures/images/tofu-avocado-mousse.jpg){:width="50%"}{: .image-right}
