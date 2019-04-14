@@ -7,7 +7,7 @@ categories: foodventures
 tags: [200 calories]
 keywords: [ "healthy diet", "weight loss", "soup", "1200isplenty" ]
 excerpt: "I am so excited to throw in my endorsements, along with the millions of others who've already tried it, for Jim Lahey's no-knead bread recipe."
-img: foodventures-apr-14-2019.jpg
+img: /food/foodventures/images/apr-14-2019.jpg
 comments: "2"
 published: false
 ---

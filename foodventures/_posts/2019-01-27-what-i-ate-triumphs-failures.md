@@ -5,7 +5,7 @@ title: "What I Ate This Week: lots of triumphs and failures"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
-tags: 
+tags:
 keywords:
  - healthy diet
  - what i ate
@@ -15,7 +15,7 @@ keywords:
  - plant-based
  - office lunches
 excerpt: "I didn't cook as much this week since I went back to Waterloo for the weekend and went out for every meal."
-img: foodventures-jan-27-2019.jpg
+img: /food/foodventures/images/jan-27-2019.jpg
 comments: "0"
 ---
 
