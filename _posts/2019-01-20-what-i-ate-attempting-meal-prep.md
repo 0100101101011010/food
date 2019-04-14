@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: "What I Ate This Week: attempting meal prep"
 author: Kelly Zhang
