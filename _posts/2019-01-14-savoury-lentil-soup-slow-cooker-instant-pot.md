@@ -31,7 +31,6 @@ cuisine: "Canadian"
 rating: "5"
 reviews: "8"
 
-
 ingredients:
  - 1 yellow onion
  - 2 garlic cloves
