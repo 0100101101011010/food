@@ -75,7 +75,7 @@ My friend came over for the weekend to celebrate her birthday in Toronto, so we 
 
 ![presotea bubble tea](/food/images/foodventures-presotea.jpg){:width="30%"}{: .image-left}
 
-For dim sum, we went to an all-day place, [Dim Sum King](https://www.dimsumkingrestaurant.com/) in Chinatown, stopping to get bbt first at [Presotea](https://www.presotea.ca/home). Their large size is huge so we got a regular and large size to share between the four of us.
+For dim sum, we went to an all-day place, [Dim Sum King](https://www.dimsumkingrestaurant.com/) in Chinatown, stopping to get bbt first at [Presotea](https://www.presotea.ca/home). Their large size is huge so we got a regular and large size to share between the four of us. I wish I could remember the name of the drink we got, because I think it's a special edition, but I can't! All I know is it's white and has some special sort of white pearl in it too. Oh bubble tea, I don't think of you often, but when I start drinking I can't stop.
 
 Dim Sum King was a great experience. Since we went at an off time, I think around 4 pm, it wasn't crowded or noisy, and our server was really nice (pretty unexpected at a Chinese restaurant, lemme tell u). I think he was concerned about how much food we ordered though because he said that the amount we had decided on was good for five to six people. You know what, maybe he just underestimated how much four girls could eat.
 
