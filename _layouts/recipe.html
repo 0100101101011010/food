@@ -106,10 +106,17 @@ layout: default
           </div>
 
     </article>
+    
     <div class="row">
-        {% if site.disqus-shortname %}
+
+      <h1 class="post-title">Comments</h1>
+
+        <!-- {% if site.disqus-shortname %}
          {% include disqus.html %}
-        {% endif %}
+        {% endif %} -->
+
+
+        {% include talkyard-comments.html %}
     </div>
 
 
