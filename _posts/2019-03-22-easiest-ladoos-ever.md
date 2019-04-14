@@ -80,11 +80,11 @@ instructions:
 
 I used my [Blendtec](https://amzn.to/2FrvF89) to grind up the cardamom pods. You could also use a mortar and pestle to grind them up. Note that it doesn't have to be super uniform and fine.
 
-See pictures below for an idea of what your recipe should look like at each stage; it's important not to rush the process!
+![warm besan ladoos](/food/images/recipe-easiest-ladoos-ever.jpg){:width="40%"}{: .image-left}
+
+See the step-by-step pictures below for an idea of what your recipe should look like at each stage; it's important not to rush the process!
 
 Because this recipe is made with chickpea flour, it also has the benefit of being gluten-free, for those with celiac disease. Also, ghee is lactose-free, so that's a good option for the lactose-intolerant peeps.
-
-![warm besan ladoos](/food/images/recipe-easiest-ladoos-ever.jpg){:width="40%"}{: .image-left}
 
 Cooling the ladoos is optional, but the inner texture is different when eaten warm (more chewy, like peanut butter) vs room temperature (crumbly and "flaky"). I like both! This is what the inside of a still-warm ladoo looks like. Very similar to peanut butter cookie dough!
 
