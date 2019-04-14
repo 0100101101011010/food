@@ -5,7 +5,7 @@ title: "One-Bowl Waffle Cookies"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
-tags: [200 calories]
+tags: [200 calories, sweet]
 excerpt: "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side."
 img: recipe-one-bowl-waffle-cookies-cover.jpg
 
