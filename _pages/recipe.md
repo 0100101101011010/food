@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Showing posts in "foodventures"
-permalink: /foodventures/
+title: Showing posts in "recipe"
+permalink: /recipe/
 ---
 
-<h1>Posts in "foodventures"</h1>
+<h1>Showing posts in "recipe"</h1>
 
 <ul>
-  {% for post in site.categories.foodventures %}
+  {% for post in site.categories.recipe %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
       <i>{{ post.excerpt }}</i>
     </li>
