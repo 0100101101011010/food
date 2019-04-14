@@ -5,7 +5,7 @@ permalink: /foodventures/
 ---
 
 <ul>
-  {% for page in site.tags.foodventures %}
+  {% for page in site.categories.foodventures %}
     <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.date | date_to_string }})<br>
       {{ page.description }}
     </li>
