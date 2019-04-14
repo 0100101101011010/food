@@ -15,7 +15,7 @@ title: Browse Posts by Calorie Count
 
     <h3 class="tag-head">{{ tag_name }}</h3>
     <a name="{{ tag_name | slugize }}"></a>
-    <ul>
+
       {% for post in site.tags[tag_name] %}
         <article class="archive-item">
           <li>
@@ -24,7 +24,7 @@ title: Browse Posts by Calorie Count
           </li>
         </article>
       {% endfor %}
-    </ul>
+    
   </div>
 {% endfor %}
 </div>
