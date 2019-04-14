@@ -47,7 +47,7 @@ instructions:
  - When it has cooled enough to handle, take handfuls of the mixture and roll with your palms into ping pong-sized balls. Place on a piece of plastic wrap or parchment paper and let it cool before enjoying (optional).
 ---
 
-> **ACTIVE TIME:** 1 hour
+> **ACTIVE TIME:** 1 hour  
 > **TOTAL TIME:** 1 hour  
 > **SERVINGS:** {{page.servings}}  
 > **CALORIES:** {{page.calories}} per serving  
