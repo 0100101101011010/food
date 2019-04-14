@@ -13,7 +13,7 @@ title: Browse Posts by Calorie Count
     <div id="#{{ tag_name | slugize }}"></div>
     <p></p>
 
-    <h3 class="tag-head">"{{ tag_name }}"</h3>
+    <h3 class="tag-head">{{ tag_name }}</h3>
     <a name="{{ tag_name | slugize }}"></a>
     <ul>
       {% for post in site.tags[tag_name] %}
