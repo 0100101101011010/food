@@ -14,14 +14,16 @@ title: Browse Posts by Tags
 
     <h3 class="tag-head">"{{ tag_name }}"</h3>
     <a name="{{ tag_name | slugize }}"></a>
-    {% for post in site.tags[tag_name] %}
-    <article class="archive-item">
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>({{ post.date | date_to_string }})<br>
-        <i>{{ post.excerpt }}</i>
-      </li>
-    </article>
-    {% endfor %}
+    <ul>
+      {% for post in site.tags[tag_name] %}
+        <article class="archive-item">
+          <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> ({{ post.date | date_to_string }})<br>
+            <i>{{ post.excerpt }}</i>
+          </li>
+        </article>
+      {% endfor %}
+    </ul>
   </div>
 {% endfor %}
 </div>
