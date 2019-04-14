@@ -16,7 +16,8 @@ title: Browse Posts by Tags
     <a name="{{ tag_name | slugize }}"></a>
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>({{ post.date | date_to_string }})<br>
+        <i>{{ post.excerpt }}</i>
     </article>
     {% endfor %}
   </div>
