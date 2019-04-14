@@ -81,7 +81,7 @@ Dim Sum King was a great experience. Since we went at an off time, I think aroun
 
 I left feeling absolutely *stuffed* and definitely regretted eating so much, but I hadn't had dim sum in a while! The price was very good for the portions and you have to get the fried squid when you go there; it's the best I've tasted of any dim sum restaurant.
 
-## Sunday:
+## Sunday: Cakes and Banh Mis
 
 ![chocolate chip mini bundt cakes](/food/images/foodventures-chocolate-chip-mini-bundt-cakes.jpg.jpg){:width="50%"}{: .image-left}
 
