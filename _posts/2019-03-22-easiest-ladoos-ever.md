@@ -102,7 +102,7 @@ After initially mixing chickpea flour into the butter, it will look very crumbly
 
 ![butter begins oozing out when mixture is ready](/food/images/recipe-easiest-ladoos-ever-2.jpg){:width="100%"}{: .image-left}
 
-Eventually (and it may feel like forever), the chickpea flour will darken, and butter will kind of leave the mixture.
+Eventually (and it may feel like forever), the chickpea flour will darken, butter will start leaking out, and the dough will look wet.
 
 ![mixture becomes a paste](/food/images/recipe-easiest-ladoos-ever-3.jpg){:width="100%"}{: .image-left}
 
