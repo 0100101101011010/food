@@ -36,7 +36,7 @@ reviews: "4"
 ingredients:
  - 60 g butter or ghee (about 1/2 cup)
  - 1 heaping cup besan aka chickpea flour
- - 5 whole cardamom pods, blended into powder in a [high-speed blender](https://amzn.to/2FrvF89), or 1/4 tsp cardamom powder
+ - 5 whole cardamom pods, blended into powder in a high-speed blender, or 1/4 tsp cardamom powder
  - 1 cup powdered sugar (or less if you prefer)
 
 instructions:
@@ -77,6 +77,8 @@ instructions:
 ![nutrition and cost information for ladoos](/food/images/recipe-easiest-ladoos-ever-nutrition.jpg){:width="100%"}{: .image-right}
 
 ## Recipe notes
+
+I used my [Blendtec](https://amzn.to/2FrvF89) to grind up the cardamom pods. You could also use a mortar and pestle to grind them up. Note that it doesn't have to be super uniform and fine.
 
 See pictures below for an idea of what your recipe should look like at each stage; it's important not to rush the process!
 
