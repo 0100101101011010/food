@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /tags/
-title: Browse Posts by Tags
+title: Browse Posts by Calorie Count
 ---
 
-<h1>Browse Posts by Tags</h1>
+<h1>Browse Posts by Calorie Count</h1>
 
 <div id="archives">
 {% for tag in site.tags %}
