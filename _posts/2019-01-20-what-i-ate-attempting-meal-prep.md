@@ -27,7 +27,7 @@ I technically started this recipe on Sunday, because it's a slow cooker recipe a
 
 ![avocado melt](/food/images/foodventures-avocado-melt.jpg){:width="50%"}{: .image-left}
 
-This was a snack after work because I was feeling hungry. Clearly that little lunch container of lentil soup wasn't enough to keep me full for the rest of the day.
+As for this avocado melt, it was a snack after work because I was feeling hungry. Clearly that little lunch container of lentil soup wasn't enough to keep me full for the rest of the day.
 
 There are a lot of avocado toast and avocado sandwiches out there, but can you believe this is the first time I've ever put avocado on bread? My family eats them without preparation, like straight up cut one in half and eat with a spoon, and that's how I've always eaten them too. But seeing all the gorgeous Instagram photos of avocado toast finally made me curious enough to try, so I threw this together after browsing a few recipes for inspiration.
 
@@ -57,9 +57,11 @@ NOTE TO SELF: NEVER TRUST YOURSELF TO MAKE EXECUTIVE RECIPE DECISIONS AGAIN
 
 ## Thursday: Brownie Batter Chocolate Overnight Oats
 
-![savoury overnight oats failure](/food/images/foodventures-brownie-batter-chocolate-overnight-oats.jpg){:width="50%"}{: .image-left}
+![savoury overnight oats failure](/food/images/foodventures-brownie-batter-chocolate-overnight-oats.jpg){:width="40%"}{: .image-left}
 
-I had to get the taste from yesterday's oats out of my mouth so I tried a [recipe from Chocolate Covered Katie](https://chocolatecoveredkatie.com/2016/04/07/chocolate-overnight-oats-brownie-batter/comment-page-2/), who has so far never let me down. Notice the present tense, because these were SO GOOD!!! I used honey to sweeten it and tasted as I went until it was just barely sweet enough. Somehow it hits the perfect middle between tasting healthy and tasting like dessert. I could see myself eating this often in the future!
+I had to get the taste from yesterday's oats out of my mouth so I tried a [recipe from Chocolate Covered Katie](https://chocolatecoveredkatie.com/2016/04/07/chocolate-overnight-oats-brownie-batter/comment-page-2/), who has so far never let me down. Notice the present tense, because these were SO GOOD!!! I used honey to sweeten it and tasted as I went until it was just barely sweet enough.
+
+Filled me up for the whole morning and didn't make me feel bloated or deprived. Somehow it hits the perfect middle between tasting healthy and tasting like dessert. I could see myself eating this often in the future!
 
 ## Friday: Boring
 
