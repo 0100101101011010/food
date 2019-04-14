@@ -4,7 +4,7 @@ title: "What I Ate This Week: attempting meal prep"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
-tags: 
+tags:
 keywords:
  - healthy diet
  - what i ate
@@ -25,7 +25,7 @@ Now that I've got an access card for the office, I can start bringing microwavea
 
 I technically started [this recipe](/food/recipe/savoury-lentil-soup-slow-cooker-instant-pot/) on Sunday, because it's a slow cooker recipe and I wanted it to be ready for packing into my lunch on Monday morning. It's my own concoction and it tastes AMAZING! I'm so happy and surprised that throwing vegetables and water in a pot overnight turned out so well, but it makes sense since carrots, celery, and onions are the base of any vegetable stock, and this soup has them all.
 
-![avocado melt](/food/images/foodventures-avocado-melt.jpg){:width="50%"}{: .image-left}
+![avocado melt](/food/foodventures/images/avocado-melt.jpg){:width="50%"}{: .image-left}
 
 As for this avocado melt, it was a snack after work because I was feeling hungry. Clearly that little lunch container of lentil soup wasn't enough to keep me full for the rest of the day.
 
@@ -37,7 +37,7 @@ Now this was REALLY GOOD for someone who was starving, but I don't think I would
 
 The first time I made polvorones, I accidentally used too much butter and they were the most shapeless, greasiest cookies I've ever handled. My boyfriend also said they were the best cookies he'd ever tasted. Encouraged by this, I tried again, with the correct amount of butter but made the mistake of not sifting whole wheat flour...! And the difference in texture was very obvious.
 
-![polvorones](/food/images/foodventures-polvorones.jpg){:width="30%"}{: .image-right} ![polvorones](/food/images/foodventures-polvorones-1.jpg){:width="30%"}{: .image-right}
+![polvorones](/food/foodventures/images/polvorones.jpg){:width="30%"}{: .image-right} ![polvorones](/food/foodventures/images/polvorones-1.jpg){:width="30%"}{: .image-right}
 
 So this time, I was very careful, followed the recipe directions to the letter, and... they still turned out meh. Why? Because I had substituted Crisco for the butter.
 
@@ -47,7 +47,7 @@ In addition to some of the cookies flattening out rather than retaining their ba
 
 ## Wednesday: Savoury Overnight Oats Failure
 
-![savoury overnight oats failure](/food/images/foodventures-savoury-overnight-oats-failure.jpg){:width="50%"}{: .image-right}
+![savoury overnight oats failure](/food/foodventures/images/savoury-overnight-oats-failure.jpg){:width="50%"}{: .image-right}
 
 I'd been eating sweet overnight oats for the past week and wanted to switch things up a bit. So using my usual habit, I scrolled through a few different recipes online and tried the easiest one. Halfway through, I derailed from the recipe and decided to make a few of my own spice decisions, like adding some curry powder because I love curry and parsley because it looked nice.
 
@@ -57,7 +57,7 @@ NOTE TO SELF: NEVER TRUST YOURSELF TO MAKE EXECUTIVE RECIPE DECISIONS AGAIN
 
 ## Thursday: Brownie Batter Chocolate Overnight Oats
 
-![savoury overnight oats failure](/food/images/foodventures-brownie-batter-chocolate-overnight-oats.jpg){:width="40%"}{: .image-left}
+![savoury overnight oats failure](/food/foodventures/images/brownie-batter-chocolate-overnight-oats.jpg){:width="40%"}{: .image-left}
 
 I had to get the taste from yesterday's oats out of my mouth so I tried a [recipe from Chocolate Covered Katie](https://chocolatecoveredkatie.com/2016/04/07/chocolate-overnight-oats-brownie-batter/comment-page-2/), who has so far never let me down. Notice the present tense, because these were SO GOOD!!! I used honey to sweeten it and tasted as I went until it was just barely sweet enough.
 
@@ -73,13 +73,13 @@ I had the lentil soup again for lunch and dinner today, and overnight oats for b
 
 My friend came over for the weekend to celebrate her birthday in Toronto, so we ate out a lot today. I had made a navy bean soup last night, which we had for breakfast, then we stopped at a Thai place called [Sabai Sabai](http://www.sabaisabaito.ca/) and split a massaman curry for lunch since we would be eating dim sum later with other friends. The curry was AMAZING (forgot to take a pic) and I definitely wanna come back again sometime.
 
-![presotea bubble tea](/food/images/foodventures-presotea.jpg){:width="30%"}{: .image-left}
+![presotea bubble tea](/food/foodventures/images/presotea.jpg){:width="30%"}{: .image-left}
 
 For dim sum, we went to an all-day place, [Dim Sum King](https://www.dimsumkingrestaurant.com/) in Chinatown, stopping to get bbt first at [Presotea](https://www.presotea.ca/home). I've never paid much attention to Presotea, since my go-to's have been CoCo and Kung Fu Tea, but I had a really nice experience here.
 
 Their large size is huge so we got a regular and large size to share between the four of us. I wish I could remember the name of the drink we got, because I think it's a special edition, but I can't! All I know is it's white and has some special sort of white pearl in it too. Oh bubble tea, I don't think of you often, but when I start drinking I can't stop.
 
-![dim sum king](/food/images/foodventures-dim-sum-king.jpg){:width="70%"}{: .image-left}
+![dim sum king](/food/foodventures/images/dim-sum-king.jpg){:width="70%"}{: .image-left}
 
 Dim Sum King was a great experience. Since we went at an off time, I think around 4 pm, it wasn't crowded or noisy, and our server was really nice (pretty unexpected at a Chinese restaurant, lemme tell u). I think he was concerned about how much food we ordered though because he said that the amount we had decided on was good for five to six people. You know what, maybe he just underestimated how much four girls could eat.
 
@@ -87,11 +87,11 @@ I left feeling absolutely *stuffed* and definitely regretted eating so much, but
 
 ## Sunday: Cakes and Banh Mis
 
-![chocolate chip mini bundt cakes](/food/images/foodventures-chocolate-chip-mini-bundt-cakes.jpg){:width="50%"}{: .image-left}
+![chocolate chip mini bundt cakes](/food/foodventures/images/chocolate-chip-mini-bundt-cakes.jpg){:width="50%"}{: .image-left}
 
 You would think after all that food we ate yesterday we would want something healthier today... nah. It was the day of my friend's birthday so in the morning I made her and I [mini chocolate chip bundt cakes](https://www.allrecipes.com/recipe/259990/ghirardelli-chocolate-chip-mini-bundt-cakes/). This picture is awful, but trust me, it tasted good. Extremely unhealthy levels of butter, but that made the outside crisp into a golden brown that was so so satisfying to eat.
 
-![banh mi and kimchi fries from banh mi boys](/food/images/foodventures-banh-mi-boys.jpg){:width="50%"}{: .image-right}
+![banh mi and kimchi fries from banh mi boys](/food/foodventures/images/banh-mi-boys.jpg){:width="50%"}{: .image-right}
 
 
 And since she's wanted to try [Banh Mi Boys](http://www.banhmiboys.com/) for a while now, we stopped by the one on Yonge Street on the way to Union Station to catch her bus. For a fast food chain, it ended up taking a while, so she missed the bus, but don't worry she caught the next one in an hour, and we could eat our banh mi in peace.
