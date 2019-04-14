@@ -50,9 +50,12 @@ layout: default
 
     </article>
     <div class="row">
-        {% if site.disqus-shortname %}
+        <!-- {% if site.disqus-shortname %}
          {% include disqus.html %}
-        {% endif %}
+        {% endif %} -->
+
+
+        {% include talkyard-comments.html %}
     </div>
 
 
@@ -73,5 +76,4 @@ layout: default
 
 </div>
 
-{% include talkyard-comments.html %}
 {% include fb-script.html %}
