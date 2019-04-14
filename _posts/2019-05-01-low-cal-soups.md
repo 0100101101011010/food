@@ -4,7 +4,7 @@ title: "10 Low Cal Soups That Warm and Fill You Up — Under 200 Cal Each"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
-tags: [200]
+tags: [200, hi]
 keywords: [ "healthy diet", "weight loss", "soup", "1200isplenty" ]
 excerpt: "I am so excited to throw in my endorsements, along with the millions of others who've already tried it, for Jim Lahey's no-knead bread recipe."
 img: foodventures-apr-14-2019.jpg
