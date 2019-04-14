@@ -6,12 +6,12 @@ permalink: /:categories/:title/
 categories: foodventures
 tags: [200cal, vegan, vegetarian, omni, soup]
 keywords: [ "healthy diet", "what i ate", "waffle maker", "creative uses for waffle maker" ]
-excerpt: "This week has been so hectic. I'm getting settled into my new sublet, and cooking has been a bit strained at times because I'm still in the process of stocking my pantry with essentials."
+excerpt: "Been a hectic week. I'm getting settled into my new sublet, and cooking has been a struggle at times because I'm still in the process of stocking my pantry with essentials."
 img: foodventures-jan-13-2019-1.jpg
 comments: "2"
 ---
 
-This week has been so hectic. I'm getting settled into my new sublet, and cooking has been a bit strained at times because I'm still in the process of stocking my pantry with essentials. I've been relying heavily on baked goods and stuff I can cook in my Instant Pot (when am I not?) because my pots and pans are back in Waterloo at the moment.
+Been a hectic week. I'm getting settled into my new sublet, and cooking has been a struggle at times because I'm still in the process of stocking my pantry with essentials. I've been relying heavily on baked goods and stuff I can cook in my Instant Pot (when am I not?) because my pots and pans are back in Waterloo at the moment.
 
 ## Monday: Egg waffles
 
