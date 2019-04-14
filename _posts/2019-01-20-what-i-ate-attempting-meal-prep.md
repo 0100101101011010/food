@@ -19,7 +19,7 @@ comments: "0"
 
 Now that I've got an access card for the office, I can start bringing microwaveable food to reheat at lunchtime without fear of getting locked out! I really put effort into meal prepping most of my meals this week to save time.
 
-# Monday: Savoury Lentil Soup and Avocado Melt
+## Monday: Savoury Lentil Soup and Avocado Melt
 
 ![lentil soup at the office](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-3.jpg){:width="50%"}{: .image-right}
 
