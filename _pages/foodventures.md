@@ -4,7 +4,7 @@ title: Showing posts in "foodventures"
 permalink: /foodventures/
 ---
 
-<h1>Posts in "foodventures"</h1>
+<h1>Showing posts in "foodventures"</h1>
 
 <ul>
   {% for post in site.categories.foodventures %}
