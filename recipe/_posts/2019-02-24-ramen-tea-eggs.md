@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: recipe
 tags: [100 calories]
 excerpt: "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side."
-img: recipe-creamy-cauliflower-cheese-bake-cover.jpg
+img: /food/recipe/images/creamy-cauliflower-cheese-bake-cover.jpg
 
 comments: "1"
 keywords:

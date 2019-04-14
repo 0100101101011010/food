@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: recipe
 tags: [200 calories]
 excerpt: "Make a delicious soup for 200 calories that's high in fiber and protein. It's perfect for meal prep, and freezes well. Vegan and omni options!"
-img: recipe-savoury-lentil-soup-slow-cooker-instant-pot-cover.jpg
+img: /food/recipe/images/savoury-lentil-soup-slow-cooker-instant-pot-cover.jpg
 
 comments: "4"
 keywords:
