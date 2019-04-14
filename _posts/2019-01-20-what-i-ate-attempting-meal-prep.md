@@ -4,7 +4,7 @@ title: "What I Ate This Week: attempting meal prep"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
-tags: [200cal, vegan, vegetarian, omni, soup]
+tags: 
 keywords:
  - healthy diet
  - what i ate

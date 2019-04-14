@@ -4,7 +4,7 @@ title: "Creamy Cauliflower Cheese Bake"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
-tags: [200cal, vegetarian, omni, casserole]
+tags: [100]
 excerpt: "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side."
 img: recipe-creamy-cauliflower-cheese-bake-cover.jpg
 

@@ -4,7 +4,7 @@ title: "What I Ate This Week: How to Make a Successful No-Knead Bread and More"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
-tags: [200cal, vegan, vegetarian, omni, soup]
+tags: 
 keywords: [ "healthy diet", "what i ate", "baking", "bread", "no-knead bread", "easy recipes" ]
 excerpt: "I am so excited to throw in my endorsements, along with the millions of others who've already tried it, for Jim Lahey's no-knead bread recipe."
 img: foodventures-apr-14-2019.jpg

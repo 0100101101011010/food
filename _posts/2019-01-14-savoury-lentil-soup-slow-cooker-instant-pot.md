@@ -4,7 +4,7 @@ title: "Savoury Lentil Soup in the Slow Cooker or Instant Pot"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
-tags: [200cal, vegan, vegetarian, omni, soup]
+tags: [200]
 excerpt: "Make a delicious soup for 200 calories that's high in fiber and protein. It's perfect for meal prep, and freezes well. Vegan and omni options!"
 img: recipe-savoury-lentil-soup-slow-cooker-instant-pot-cover.jpg
 
