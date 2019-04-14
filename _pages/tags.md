@@ -4,6 +4,7 @@ permalink: /tags/
 title: Browse Posts by Tags
 ---
 
+<h1>Browse Posts by Tags</h1>
 
 <div id="archives">
 {% for tag in site.tags %}
