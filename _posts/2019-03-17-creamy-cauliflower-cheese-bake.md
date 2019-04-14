@@ -80,7 +80,9 @@ instructions:
 
 ## Recipe notes
 
-![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-1.jpg){:width="60%"}{: .image-right}
+![creamy cauliflower cheese bake](/food/images/recipe-creamy-cauliflower-cheese-bake-1.jpg){:width="50%"}{: .image-right}
+
+Make sure you really reduce the sauce before pouring it on the cauliflower—the cauliflower already contains lots of moisture, so it may become soggy if the sauce is too wet.
 
 You can also mix in some sliced cremini mushrooms to bulk it up and add more veggies. If you aren't vegetarian, add some bacon bits for an even richer, more savoury flavour.
 
