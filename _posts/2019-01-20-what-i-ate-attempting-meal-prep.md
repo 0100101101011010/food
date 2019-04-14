@@ -85,7 +85,7 @@ I left feeling absolutely *stuffed* and definitely regretted eating so much, but
 
 ## Sunday: Cakes and Banh Mis
 
-![chocolate chip mini bundt cakes](/food/images/foodventures-chocolate-chip-mini-bundt-cakes.jpg.jpg){:width="50%"}{: .image-left}
+![chocolate chip mini bundt cakes](/food/images/foodventures-chocolate-chip-mini-bundt-cakes.jpg){:width="50%"}{: .image-left}
 
 You would think after all that food we ate yesterday we would want something healthier today... nah. It was the day of my friend's birthday so in the morning I made her and I [mini chocolate chip bundt cakes](https://www.allrecipes.com/recipe/259990/ghirardelli-chocolate-chip-mini-bundt-cakes/). This picture is awful, but trust me, it tasted good. Extremely unhealthy levels of butter, but that made the outside crisp into a golden brown that was so so satisfying to eat.
 
