@@ -62,8 +62,37 @@ NOTE TO SELF: NEVER TRUST YOURSELF TO MAKE EXECUTIVE RECIPE DECISIONS AGAIN
 
 I had to get the taste from yesterday's oats out of my mouth so I tried a [recipe from Chocolate Covered Katie](https://chocolatecoveredkatie.com/2016/04/07/chocolate-overnight-oats-brownie-batter/comment-page-2/), who has so far never let me down. Notice the present tense, because these were SO GOOD!!! I used honey to sweeten it and tasted as I went until it was just barely sweet enough. Somehow it hits the perfect middle between tasting healthy and tasting like dessert. I could see myself eating this often in the future!
 
-## Friday:
+## Friday: Boring
 
-![savoury overnight oats failure](/food/images/foodventures-brownie-batter-chocolate-overnight-oats.jpg){:width="50%"}{: .image-right}
+![savoury overnight oats failure](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-2.jpg){:width="50%"}{: .image-right}
 
-I
+I had the lentil soup again for lunch and dinner today, and overnight oats for breakfast. Pretty boring but such is life under meal prep. Should I keep taking photos of my oats? I didn't today, because it tasted really good (a sugar-free matcha oats combo) but just looks like an unappetizing green soup.
+
+## Saturday: Day of Eating Out
+
+My friend came over for the weekend to celebrate her birthday in Toronto, so we ate out a lot today. I had made a navy bean soup last night, which we had for breakfast, then we stopped at a Thai place called [Sabai Sabai](http://www.sabaisabaito.ca/) and split a massaman curry for lunch since we would be eating dim sum later with other friends. The curry was AMAZING (forgot to take a pic) and I definitely wanna come back again sometime.
+
+![presotea bubble tea](/food/images/foodventures-presotea.jpg){:width="30%"}{: .image-left}
+
+For dim sum, we went to an all-day place, [Dim Sum King](https://www.dimsumkingrestaurant.com/) in Chinatown, stopping to get bbt first at [Presotea](https://www.presotea.ca/home). Their large size is huge so we got a regular and large size to share between the four of us.
+
+![dim sum king](/food/images/foodventures-dim-sum-king.jpg){:width="50%"}{: .image-left}
+
+Dim Sum King was a great experience. Since we went at an off time, I think around 4 pm, it wasn't crowded or noisy, and our server was really nice (pretty unexpected at a Chinese restaurant, lemme tell u). I think he was concerned about how much food we ordered though because he said that the amount we had decided on was good for five to six people. You know what, maybe he just underestimated how much four girls could eat.
+
+I left feeling absolutely *stuffed* and definitely regretted eating so much, but I hadn't had dim sum in a while! The price was very good for the portions and you have to get the fried squid when you go there; it's the best I've tasted of any dim sum restaurant.
+
+## Sunday:
+
+![chocolate chip mini bundt cakes](/food/images/foodventures-chocolate-chip-mini-bundt-cakes.jpg.jpg){:width="50%"}{: .image-left}
+
+You would think after all that food we ate yesterday we would want something healthier today... nah. It was the day of my friend's birthday so in the morning I made her and I [mini chocolate chip bundt cakes](https://www.allrecipes.com/recipe/259990/ghirardelli-chocolate-chip-mini-bundt-cakes/). This picture is awful, but trust me, it tasted good. Extremely unhealthy levels of butter, but that made the outside crisp into a golden brown that was so so satisfying to eat.
+
+![banh mi and kimchi fries from banh mi boys](/food/images/foodventures-banh-mi-boys.jpg){:width="50%"}{: .image-right}
+
+
+And since she's wanted to try [Banh Mi Boys](http://www.banhmiboys.com/) for a while now, we stopped by the one on Yonge Street on the way to Union Station to catch her bus. For a fast food chain, it ended up taking a while, so she missed the bus, but don't worry she caught the next one in an hour, and we could eat our banh mi in peace.
+
+My friend's a kimchi fiend so I told her to try the kimchi fries too, so we split that one. OMG how long's it been since I ate fries!!
+
+For some reason, though, I don't remember it tasting as good as it used to. Maybe that's just me, hyping it up in my head after being away for so long, but I thought the fries could use a bit more sauce and the flavour in my tofu wasn't quite there. [Bao Sandwich Bar](https://www.baosandwichbar.com/) has still got my vote for the best banh mi and best kimchi fries!
