@@ -15,7 +15,7 @@ Been a hectic week. I'm getting settled into my new sublet, and cooking has been
 
 ## Monday: Egg waffles
 
-![egg waffles](/food/images/foodventures-egg-waffles.jpg){:width="50%"}{: .image-right}
+![egg waffles](/food/foodventures/images/egg-waffles.jpg){:width="50%"}{: .image-right}
 
 My new Blendtec jar came in today! The first things I made with it were these egg waffles. I've seen a recipe for this floating around, but since I was so eager to break in the blender jar I just went ahead and tried to engineer my own waffles without thinking about it first. My wafflemaker has handled some pretty weird things I've thrown at it, so I figured eggs should be no different, right?
 
@@ -29,7 +29,7 @@ And that's how I got to the waffles in the picture. They definitely look pretty,
 
 Since, as mentioned, I'm short on ingredients this week, I tried out a very basic cookie recipe that doesn't need much beyond your barest baking essentials. According to the [Taste of Home](https://www.tasteofhome.com/recipes/sugar-cookies/) recipe page, these cookies originate from Sweden in the 1800's. With such a long past, you'd expect the recipe to have been perfected throughout the generations to become foolproof. Sadly these were some of the most disappointing cookies I've ever made.
 
-![swedish sugar cookies](/food/images/foodventures-swedish-sugar-cookies.jpg){:width="50%"}{: .image-left}
+![swedish sugar cookies](/food/foodventures/images/swedish-sugar-cookies.jpg){:width="50%"}{: .image-left}
 
 Even just by looking at them, they seem pretty boring, don't they?
 
@@ -49,7 +49,7 @@ so it hasn't been a complete waste!
 
 ## Wednesday: Tuna Cottage Cheese "Salad"
 
-![tuna cottage cheese salad](/food/images/foodventures-tuna-cottage-cheese.jpg){:width="30%"}{: .image-right}
+![tuna cottage cheese salad](/food/foodventures/images/tuna-cottage-cheese.jpg){:width="30%"}{: .image-right}
 
 This recipe is from [Maybe I Will](https://maybeiwill.com/3-healthy-tuna-recipes-that-will-rock/). It's meant to be a dip, but since I didn't have crackers, I just ate it on its own. It was okay, but I added way more pepper than called for and it was still pretty tasteless. Also a bit too watery. I was hoping it would turn out more like a classic tuna salad taste, but I guess you can't really replace mayo with cottage cheese!
 
@@ -57,7 +57,7 @@ Maybe I'll add some Greek yogurt to see how that goes.
 
 ## Thursday: Egg Waffles Again (With More Success)
 
-![egg waffles, second attempt](/food/images/foodventures-egg-waffles-2.jpg){:width="30%"}{: .image-left}
+![egg waffles, second attempt](/food/foodventures/images/egg-waffles-2.jpg){:width="30%"}{: .image-left}
 
 So I tried making egg waffles again, this time using a [recipe](https://thecozycook.com/waffle-iron-omelette/) (skipping the cheese). So I did have more success this round, and the texture was on point, but the taste was still not quite there. When I eat eggs I want something that's really savoury and filling. This doesn't exactly hit the spot, but it's not bad! I think I will keep experimenting with making these until I find the perfect formula, since the idea of waffle-shaped eggs remains super appealing to me.
 
@@ -67,7 +67,7 @@ I might try [this recipe](https://www.groundedandsurrounded.com/recipe/scrambled
 
 Since tea eggs is an overnight process, I started making them on Thursday. (I know, I don't blame you for thinking _again?! how many eggs does this girl eat?!_ But I bought an 18-count carton of eggs this week so I have quite a lot to play with, and luckily I'm a fan of eggs in basically any form. I made ten of these eggs using this recipe and plan to eat one or two a day.)
 
-![tea eggs](/food/images/foodventures-tea-eggs.jpg){:width="50%"}{: .image-left}
+![tea eggs](/food/foodventures/images/tea-eggs.jpg){:width="50%"}{: .image-left}
 
 When I was a kid, my mom would make these tea eggs a few times a year and I always DEVOURED them. And since it's a pretty simple matter of boiling eggs and marinating them, I decided it was time I started making them myself. On the way to Toronto from Calgary after winter break, I brought with me a pack of old loose leaf black tea, which are essential for this recipe.
 
@@ -77,7 +77,7 @@ I pressure cooked the eggs on HIGH for 5 minutes, since I prefer a soft yolk, us
 
 The egg yolks were surprisingly a lot firmer than I expected, but I still loved them! My family has always hardboiled eggs until they're absolutely firm, so this was definitely an improvement for me even though the yolk wasn't runny. But I don't think the flavour was quite as strong as I wanted it to be, even though I soaked it for an entire day. I will try to go for an even longer marinating time the next time I make this.
 
-![bbq seitan ribs](/food/images/foodventures-bbq-seitan-ribs.jpg){:width="50%"}{: .image-left}
+![bbq seitan ribs](/food/foodventures/images/bbq-seitan-ribs.jpg){:width="50%"}{: .image-left}
 
 Now onto the seitan ribs, made using [this BOSH recipe](https://www.bosh.tv/recipes/bbq-seitan-ribs). This is my first time making seitan; my mom occasionally made it at home, but I don't have experience with it myself, but I absolutely should, because it's such a great source of vegetarian protein.
 
@@ -85,7 +85,7 @@ Since the recipe repeatedly reassured me it was fine if the seitan "misbehaves" 
 
 The texture was honestly not good. It was SO rubbery and tough, like trying to chew through a giant elastic band. I have no idea how people can compare this to steak. Additionally, this is one of those recipes that smells better than it tastes. It got a little better with a generous layer of sauce on top, but it was generally bland. Didn't reach that satiating, meaty level I was expecting. I'm not discouraged, though. I'm planning to try Veggie Rose's [deli meat](https://www.veggierose.com/single-post/2018/03/12/Vegan-Deli-Slices) recipe next. I've had this recipe on my mind for a while now.
 
-![peanut butter cookies](/food/images/foodventures-peanut-butter-cookies.jpg){:width="30%"}{: .image-right}
+![peanut butter cookies](/food/foodventures/images/peanut-butter-cookies.jpg){:width="30%"}{: .image-right}
 
 Friday was also the day I made the most successful batch of pb cookies yet. I mean, it's hard to run into a bad batch since you're essentially just eating shaped peanut butter, but these were on some next level with how soft and rich, and beautiful they were.
 
@@ -95,25 +95,25 @@ Not the healthiest recipe, so I won't be making them that often. It sucks that p
 
 ## Saturday: Waffled Grilled cheese
 
-![waffled grilled cheese](/food/images/foodventures-waffled-grilled-cheese.jpg){:width="30%"}{: .image-left}
+![waffled grilled cheese](/food/foodventures/images/waffled-grilled-cheese.jpg){:width="30%"}{: .image-left}
 
 As I was making this, I suddenly thought of another perk to moving out/living on your own: being able to eat crustless sandwiches! At home leaving the crusts off bread would be unheard of, but now that I'm here my parents can't control how I eat my food hehe. (Don't worry, I didn't throw the crusts out. I'm storing them up in a ziploc in the freezer to turn into breadcrumbs when I have enough.)
 
 So this is literally two slices of cheese (Monterey Jack, I believe) between two slices of bread and flattened in the waffle iron.
 
-![waffled grilled cheese](/food/images/foodventures-waffled-grilled-cheese-2.jpg){:width="50%"}{: .image-right}
+![waffled grilled cheese](/food/foodventures/images/waffled-grilled-cheese-2.jpg){:width="50%"}{: .image-right}
 
 Not an amazing success; I definitely should've kept them in the waffle maker longer to achieve that nice golden-brown colour, but I was impatient and hungry. The cheese had gotten warm, but could've been more gooey and melty. I'm certain that a few more minutes would've gotten this from mediocre to amazing.
 
 ## Sunday: French Toast and Overnight Oats
 
-![cast iron french toast](/food/images/foodventures-french-toast.jpg){:width="40%"}{: .image-right}
+![cast iron french toast](/food/foodventures/images/french-toast.jpg){:width="40%"}{: .image-right}
 
 Ya... I tried to make a nice Sunday brunch for myself and it turned into this. It turns out my cast iron skillet gets EXTREMELY hot, even on the absolutely lowest setting. I swear I only put the toast on there for ten seconds before I turned into this :-(
 
 Not a complete failure, though. The French toast (the non-burnt parts, at least) was delicious and so much easier to make than I expected. I'll just have to figure out how to keep my cast iron from burning food before cooking it.
 
-![overnight oats](/food/images/foodventures-overnight-oats.jpg){:width="40%"}{: .image-left}
+![overnight oats](/food/foodventures/images/overnight-oats.jpg){:width="40%"}{: .image-left}
 
 Overnight oats: not the most picturesque meal out there. But seriously really good! This month is the first time I've had overnight oats and I was surprised by how yummy and satisfying they are.
 
