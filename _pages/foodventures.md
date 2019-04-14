@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Posts in FOODVENTURES
+title: pages in FOODVENTURES
 permalink: /foodventures/
 ---
 
 <ul>
-  {% for post in site.tags[page.tag] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-      {{ post.description }}
+  {% for page in site.tags[page.tag] %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.date | date_to_string }})<br>
+      {{ page.description }}
     </li>
   {% endfor %}
 </ul>
