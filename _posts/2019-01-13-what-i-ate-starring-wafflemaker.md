@@ -4,10 +4,10 @@ title: "What I Ate This Week: starring my mini wafflemaker"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
-tags: 
+tags:
 keywords: [ "healthy diet", "what i ate", "waffle maker", "creative uses for waffle maker" ]
 excerpt: "Been a hectic week. I'm getting settled into my new sublet, and cooking has been a struggle at times because I'm still in the process of stocking my pantry with essentials."
-img: foodventures-jan-13-2019.jpg
+img: /foodventures/images/jan-13-2019.jpg
 comments: "2"
 ---
 
