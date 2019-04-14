@@ -30,6 +30,9 @@ footer-links:
   twitter:
   youtube: # channel/<your_long_string> or user/<user-name>
 
+# Talkyard comments
+talkyard_server_url: https://comments-for-kellyzhang-me.talkyard.net
+talkyard_script_url: https://c1.ty-cdn.net/-/talkyard-comments.min.js
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
