@@ -7,7 +7,7 @@ permalink: /:categories/:title/
 categories: recipe
 tags: [200cal, vegetarian, omni, wafflemaker]
 excerpt: "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side."
-img: recipe-one-bowl-waffle-cookies.jpg
+img: recipe-one-bowl-waffle-cookies-cover.jpg
 
 comments: "4"
 keywords:

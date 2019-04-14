@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 categories: recipe
 tags: [200cal, vegan, vegetarian, omni, soup]
 excerpt: "(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious I couldn't stop eating them even before they cooled down. My coworkers loved them."
-img: recipe-easiest-ladoos-ever-8.jpg
+img: recipe-easiest-ladoos-ever-cover.jpg
 
 comments: "3"
 
