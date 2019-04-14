@@ -52,7 +52,7 @@ instructions:
 > **SERVINGS:** {{page.servings}}  
 > **CALORIES:** {{page.calories}} per serving  
 > **COST:** CAD ${{page.cost}} per serving  
-> **FRIDGE:** haven't tried yet, but they keep just fine at room temperature for a week
+> **FRIDGE:** haven't tried yet, but they keep just fine at room temperature for a week  
 > **FREEZER:** haven't tried yet
 
 ## Ingredients
