@@ -18,7 +18,7 @@ https://www.reddit.com/r/1200isplenty/comments/bcciyv/215_calorie_lunch_perfect_
 
 ## Savoury Lentil Soup
 
-You can't go wrong with [lentil soup](/food/recipe/savoury-lentil-soup-slow-cooker-instant-pot/)—it's hearty and full of fiber. The only downside is this one is made in a slow cooker—if you use a pressure cooker, you can take that down to about an hour.
+You can't go wrong with [lentil soup](/food/recipe/savoury-lentil-soup-slow-cooker-instant-pot/)—it's hearty and full of fiber. The only downside is this one is made in a slow cooker—but if you use a pressure cooker, you can take that down to less than an hour.
 
 ## Japanese Clear Soup
 

@@ -49,7 +49,8 @@ instructions:
  - Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up.
  - Add garlic and sautee until water is almost gone.
  - Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.
- - Turn instant pot to SLOW COOK mode. Leave on MORE for at least 4 hours, NORMAL for 7 hours, or LOW for 9 hours. (For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.)
+ - For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.
+ - For Instant Pot, set mode to PRESSURE COOK and leave on HIGH for 15 minutes, then natural release (or 18 minutes for quick release).
 
 
 ---
