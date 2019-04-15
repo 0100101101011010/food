@@ -65,7 +65,7 @@ Filled me up for the whole morning and didn't make me feel bloated or deprived. 
 
 ## Friday: Boring
 
-![savoury lentil soup for dinner](/food/images/recipe-savoury-lentil-soup-slow-cooker-instant-pot-2.jpg){:width="30%"}{: .image-right}
+![savoury lentil soup for dinner](/food/recipe/images/savoury-lentil-soup-slow-cooker-instant-pot-2.jpg){:width="30%"}{: .image-right}
 
 I had the lentil soup again for lunch and dinner today, and overnight oats for breakfast. Pretty boring but such is life under meal prep. Should I keep taking photos of my oats? I didn't today, because it tasted really good (a sugar-free matcha oats combo) but just looks like an unappetizing green soup.
 

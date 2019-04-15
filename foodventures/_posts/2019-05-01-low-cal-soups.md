@@ -16,6 +16,10 @@ published: false
 
 https://www.reddit.com/r/1200isplenty/comments/bcciyv/215_calorie_lunch_perfect_for_a_volume_eater/
 
+## Savoury Lentil Soup
+
+You can't go wrong with [lentil soup](/food/recipe/savoury-lentil-soup-slow-cooker-instant-pot/)—it's hearty and full of fiber. The only downside is this one is made in a slow cooker—if you use a pressure cooker, you can take that down to about an hour.
+
 ## Japanese Clear Soup
 
 https://old.reddit.com/r/1200isplenty/comments/bcdhom/japanese_clear_soup_150cal_for_3_cups_very_filling/
