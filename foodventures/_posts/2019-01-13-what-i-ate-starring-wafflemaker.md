@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Ate This Week: starring my mini wafflemaker"
+title: "What I Ate This Week: Jan 7–13"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures

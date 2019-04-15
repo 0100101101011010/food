@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Ate This Week: How to Make a Successful No-Knead Bread and More"
+title: "What I Ate This Week: Apr 8–14"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures

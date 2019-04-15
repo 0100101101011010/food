@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "What I Ate This Week: lots of triumphs and failures"
+title: "What I Ate This Week: Jan 21–27"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures

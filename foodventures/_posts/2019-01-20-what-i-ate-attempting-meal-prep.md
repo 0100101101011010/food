@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Ate This Week: attempting meal prep"
+title: "What I Ate This Week: Jan 14–20"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
