@@ -54,6 +54,8 @@ instructions:
 
 ---
 
+*Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious.*
+
 > **ACTIVE TIME:** 15 min  
 > **TOTAL TIME:** 4–9 hours  
 > **SERVINGS:** {{page.servings}}  
@@ -94,8 +96,6 @@ The first time I made this, I sauteed the onions and garlic in 1 tsp of sesame o
 \* **Vegan:** Use 2 L of vegetable stock instead of water and chicken bouillon.
 
 ## Enjoy!
-
-*Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious.*
 
 ![savoury vegan lentil soup](/food/recipe/images/savoury-lentil-soup-slow-cooker-instant-pot-1.jpg){:width="60%"}{: .image-right}
 

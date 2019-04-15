@@ -50,6 +50,8 @@ instructions:
 
 ---
 
+*A light and healthy casserole that doesn't taste healthy or light, and you won't feel have to feel guilty coming back for seconds! It's perfect as a main course or a side.*
+
 > **ACTIVE TIME:** 20 min  
 > **TOTAL TIME:** 1 hour  
 > **SERVINGS:** {{page.servings}}  
@@ -87,8 +89,6 @@ Make sure you really reduce the sauce before pouring it on the cauliflower—the
 You can also mix in some sliced cremini mushrooms to bulk it up and add more veggies. If you aren't vegetarian, add some bacon bits for an even richer, more savoury flavour.
 
 ## Cheese, cheese, cheese
-
-*A light and healthy casserole that doesn't taste healthy or light, and you won't feel have to feel guilty coming back for seconds! It's perfect as a main course or a side.*
 
 ![creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-2.jpg){:width="50%"}{: .image-left}
 
