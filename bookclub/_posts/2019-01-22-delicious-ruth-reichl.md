@@ -20,7 +20,7 @@ comments: "2"
 
 Ruth Reichl's novel, *Delicious*, about a girl finding herself and falling in love in New York City, while entangling a mystery surrounding famous cook James Beard, has the distinction of being the first book I hated reading in 2019!
 
-On the surface
+On the surface, there were lots for me to like about the premise of this book. I love NYC, love mysteries, and most of all, love baking. But the poor character development brought this promising concept crashing down completely. 
 
 Billie's character is oblivious to the point of incredulity. What is supposed to be a character flaw that endears her to readers makes me want to get so mad at her.
 
