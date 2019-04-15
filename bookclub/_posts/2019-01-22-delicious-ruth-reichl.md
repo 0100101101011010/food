@@ -13,7 +13,7 @@ keywords:
  - food in fiction
  - food novel
  - baking novel
-excerpt: "Been a hectic week. I'm getting settled into my new sublet, and cooking has been a struggle at times because I'm still in the process of stocking my pantry with essentials."
+excerpt: "Ruth Reichl's novel, Delicious, about a girl finding herself and falling in love in New York City, while entangling a mystery surrounding famous cook James Beard, has the distinction of being the first book I hated reading in 2019!"
 img: /bookclub/images/delicious-ruth-reichl.jpg
 comments: "2"
 ---
