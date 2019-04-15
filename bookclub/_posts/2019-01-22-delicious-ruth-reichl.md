@@ -18,7 +18,9 @@ img: /bookclub/images/delicious-ruth-reichl.jpg
 comments: "2"
 ---
 
-Ruth Reichl's novel, Delicious, about a girl finding herself and falling in love in New York City, while entangling a mystery surrounding famous cook James Beard, has the distinction of being the first book I hated reading in 2019!
+Ruth Reichl's novel, *Delicious*, about a girl finding herself and falling in love in New York City, while entangling a mystery surrounding famous cook James Beard, has the distinction of being the first book I hated reading in 2019!
+
+On the surface
 
 Billie's character is oblivious to the point of incredulity. What is supposed to be a character flaw that endears her to readers makes me want to get so mad at her.
 
