@@ -5,7 +5,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [100 calories]
-excerpt: "(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious I couldn't stop eating them even before they cooled down. My coworkers loved them."
+excerpt: "(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious, I couldn't stop eating them even before they cooled down. Did I mention it's a one-pot recipe?!"
 img: /food/recipe/images/easiest-ladoos-ever-cover.jpg
 
 comments: "3"
@@ -46,6 +46,8 @@ instructions:
  - Turn off the heat and mix in the powdered sugar and cardamom.
  - When it has cooled enough to handle, take handfuls of the mixture and roll with your palms into ping pong-sized balls. Place on a piece of plastic wrap or parchment paper and let it cool before enjoying (optional).
 ---
+
+*(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious, I couldn't stop eating them even before they cooled down. Did I mention it's a one-pot recipe?!*
 
 > **ACTIVE TIME:** 1 hour  
 > **TOTAL TIME:** 1 hour  

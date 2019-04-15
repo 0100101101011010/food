@@ -6,7 +6,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [200 calories]
-excerpt: "A light and healthy casserole that doesn't taste healthy or light! You can eat a big portion without feeling guilty, or going into a food coma. Perfect as a main course or a side."
+excerpt: "A light and healthy casserole that doesn't taste healthy or light, and you won't feel have to feel guilty coming back for seconds! It's perfect as a main course or a side."
 img: /food/recipe/images/one-bowl-waffle-cookies-cover.jpg
 
 comments: "4"

@@ -12,7 +12,7 @@ keywords:
  - MealPrepSunday
  - plant-based
  - office lunches
-excerpt: "Now that I've got an access card for the office, I can start bringing microwaveable food to reheat at lunchtime without fear of getting locked out!"
+excerpt: "Now that I've got an access card for the office, I can start bringing microwaveable food to reheat at lunchtime without fear of getting locked out! I really put effort into meal prepping most of my meals this week to save time."
 img: /food/foodventures/images/jan-20-2019.jpg
 comments: "0"
 ---
