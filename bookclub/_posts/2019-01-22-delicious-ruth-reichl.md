@@ -22,4 +22,4 @@ Billie's character is oblivious to the point of incredulity. What is supposed to
 
 Throughout the novel, Billie heaps lavish praise on her late sister, which is supposed to demonstrate just how low her self-esteem is... I guess? She considers Jeannie superior to herself in every way, while other characters fall over themselves trying to convince her otherwise. She steadfastly ignores everyone's efforts to point out her talents and gifts, continuing to efface herself in comparison to her amazing perfect superstar sister.
 
-The final reveal that Jeannie was involved in drugs before in drugs before her death? WOW, who would've guessed that the perfect sister isn't perfect at all! What a tasteful idea to conveniently make the deceased sibling a terrible person to make sure every one of us readers know what a wholesome lovely girl Billie is.
+>! The final reveal that Jeannie was involved in drugs before in drugs before her death? WOW, who would've guessed that the perfect sister isn't perfect at all! What a tasteful idea to conveniently make the deceased sibling a terrible person to let every one of us readers know what a wholesome, lovely girl Billie is.
