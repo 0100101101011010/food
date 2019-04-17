@@ -10,6 +10,8 @@ excerpt: "I am so excited to throw in my endorsements, along with the millions o
 img: /food/foodventures/images/apr-14-2019.jpg
 comments: "2"
 published: false
+
+discussion_id: 2019-05-01
 ---
 
 ## Itsu miso soup
