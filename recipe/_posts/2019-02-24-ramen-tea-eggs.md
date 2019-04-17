@@ -40,13 +40,8 @@ ingredients:
  - 1 cup roughly chopped cheese (I used marbled cheddar)
 
 instructions:
- - Steam cauliflower until almost fall-apart tender. I used my Instant Pot's STEAM function (5 min @ high).
- - While you let the cauliflower cool, add butter and flour to a medium saucepan on medium heat and whisk together.
- - When thoroughly mixed, add milk and turn heat down to low. Whisk frequently until sauce thickens.
- - Stir in two-thirds of the cheese and turn off heat.
- - When cauliflower is cool enough to handle, break into small florets and add to saucepan. Stir, coating all the florets.
- - Pour into a small glass casserole dish (or foil-lined baking pan) and sprinkle remaining cheese on top.
- - Bake at 375° F on the second-to-top rack for 25–30 minutes, or until golden on top.
+ - Set raw eggs on
+ - Mix soy sauce in a ziploc bag
 
 published: false
 
