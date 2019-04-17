@@ -48,6 +48,7 @@ instructions:
  - Pour into a small glass casserole dish (or foil-lined baking pan) and sprinkle remaining cheese on top.
  - Bake at 375° F on the second-to-top rack for 25–30 minutes, or until golden on top.
 
+discussion_id: 2019-03-17
 ---
 
 *A light and healthy casserole that doesn't taste healthy or light, and you won't feel have to feel guilty coming back for seconds! It's perfect as a main course or a side.*

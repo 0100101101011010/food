@@ -50,6 +50,8 @@ instructions:
  - Pour into a small glass casserole dish (or foil-lined baking pan) and sprinkle remaining cheese on top.
  - Bake at 375° F on the second-to-top rack for 25–30 minutes, or until golden on top.
 
+discussion_id: 2018-12-11
+
 ---
 
 

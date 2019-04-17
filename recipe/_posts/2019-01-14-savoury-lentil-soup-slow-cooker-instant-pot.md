@@ -52,7 +52,7 @@ instructions:
  - For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.
  - For Instant Pot, set mode to PRESSURE COOK and leave on HIGH for 15 minutes, then natural release (or 18 minutes for quick release).
 
-
+discussion_id: 2019-01-14
 ---
 
 *Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious.*
