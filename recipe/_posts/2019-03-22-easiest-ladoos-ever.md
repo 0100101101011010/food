@@ -46,7 +46,7 @@ instructions:
  - Turn off the heat and mix in the powdered sugar and cardamom.
  - When it has cooled enough to handle, take handfuls of the mixture and roll with your palms into ping pong-sized balls. Place on a piece of plastic wrap or parchment paper and let it cool before enjoying (optional).
 
- discussion_id: 2019-03-22
+discussion_id: 2019-03-22
 ---
 
 *(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious, I couldn't stop eating them even before they cooled down. Did I mention it's a one-pot recipe?!*
