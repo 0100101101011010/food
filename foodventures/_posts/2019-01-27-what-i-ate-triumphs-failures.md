@@ -27,6 +27,12 @@ Lots of misses in the kitchen this week, but discovered a few bombshell successe
 
 ![navy bean soup](/food/foodventures/images/navy-bean-soup.jpg){:width="50%"}{: .image-right}
 
+Actually, I made this on Friday, but with the exciting [Banh Mi Boys and birthday cakes](https://kellyzhang.me/food/foodventures/what-i-ate-attempting-meal-prep/) going around last weekend, I forgot to talk about this humble soup! This is a navy bean soup that's very warming and gives me chicken soup vibes, even though it's chicken-free (because I ran out of chicken stock...).
+
+After my successful [lentil soup](/food/recipe/savoury-lentil-soup-slow-cooker-instant-pot/) recipe two weeks ago, I felt encouraged to make another slow cooker soup. They're so easy, so healthy *and* so tasty.
+
+This recipe is from [Mom, What's For Dinner?](http://www.momwhatsfordinnerblog.com/2012/06/crock-pot-navy-bean-soup.html) and is another set-it-and-forget-it meal.
+
 ## Tuesday: Thin Mint Overnight Oats and Spinach Gnocchi
 
 ![thin mint overnight oats](/food/foodventures/images/thin-mint-overnight-oats.jpg){:width="50%"}{: .image-right}
