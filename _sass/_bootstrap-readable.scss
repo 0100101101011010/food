@@ -4515,7 +4515,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left !important;
   }
   .navbar-right {
-    font-family: "Varela Round", monospace;
+    font-family: $base-font-family, monospace;
     font-weight: bold;
     float: right !important;
     margin-right: -15px;
@@ -6783,7 +6783,7 @@ button.close {
   }
 }
 .navbar {
-  font-family: "Baloo Bhaijaan", monospace;
+  font-family: $base-font-family, monospace;
   text-align: center;
 }
 .navbar-nav,
