@@ -35,7 +35,7 @@ This recipe is from [Mom, What's For Dinner?](http://www.momwhatsfordinnerblog.c
 
 ## Tuesday: Thin Mint Overnight Oats and Spinach Gnocchi
 
-![thin mint overnight oats](/food/foodventures/images/thin-mint-overnight-oats.jpg){:width="30%"}{: .image-left}
+![thin mint overnight oats](/food/foodventures/images/thin-mint-overnight-oats.jpg){:width="20%"}{: .image-left}
 
 This is my second go with [Chocolate Covered Katie's Thin Mint Overnight Oats recipe](https://chocolatecoveredkatie.com/2017/02/23/thin-mint-cookie-overnight-oats/). The first time, I thought maybe I didn't add enough cocoa powder so it tasted kind of off. This time, I tried following the recipe exactly, except I swapped yogurt with cottage cheese. VERY DISAPPOINTING. It's very runny and doesn't taste like a thin mint at all. I'm going to throw my hat in for this one.
 
@@ -45,7 +45,7 @@ Spinach gnocchi: another disappointing recipe! I followed [a recipe from Carolin
 
 Also, I added literally the tiniest pinch of nutmeg, as per recipe, and that ended up making the whole thing taste so strange. I couldn't get rid of the pumpkin spice smell profile that the nutmeg evoked and it was honestly too disgusting.
 
-![vegetable stock](/food/foodventures/images/vegetable-stock.jpg){:width="50%"}{: .image-left}
+![vegetable stock](/food/foodventures/images/vegetable-stock.jpg){:width="40%"}{: .image-left}
 
 While recovering from the spinach gnocchi catastrophe, I did pull off one successful maneuver tonight, which was making another batch of vegetable stock. I have to say, I'm pretty good at this now. My freezer generally always has one full bag of veggie scraps, which I throw in the Instant Pot with eight cups of water and pressure cook @ HIGH for 30 minutes. Then I either quick release immediately, or wait ten minutes. (Depends on how I'm feeling; doesn't make a noticeable difference, imo).
 
