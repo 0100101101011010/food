@@ -47,6 +47,10 @@ Also, I added literally the tiniest pinch of nutmeg, as per recipe, and that end
 
 ![vegetable stock](/food/foodventures/images/vegetable-stock.jpg){:width="50%"}{: .image-right}
 
+While recovering from the spinach gnocchi catastrophe, I did pull off one successful maneuver tonight, which was making another batch of vegetable stock. I have to say, I'm pretty good at this now. My freezer generally always has one full bag of veggie scraps, which I throw in the Instant Pot with eight cups of water and pressure cook @ HIGH for 30 minutes. Then I either quick release immediately, or wait ten minutes. (Depends on how I'm feeling; doesn't make a noticeable difference, imo).
+
+Then I pour it through a strainer into a freezer bag (if I'm freezing) or a mason jar (if I plan to use it soon) and then I always have vegetable stock ready to go whenever I need it!
+
 ## Wednesday: Tofu Avocado Mousse
 
 ![tofu avocado mousse](/food/foodventures/images/tofu-avocado-mousse.jpg){:width="50%"}{: .image-right}
