@@ -41,7 +41,9 @@ This is my second go with this recipe. The first time, I thought maybe I didn't 
 
 ![spinach gnocchi](/food/foodventures/images/spinach-gnocchi.jpg){:width="50%"}{: .image-right}
 
-Spinach gnocchi: another disappointing recipe! I followed [a recipe from Caroline's Cooking](https://www.carolinescooking.com/potato-spinach-gnocchi/). No matter how much flour I added (over a cup more than what the recipe called for), the mixture was still relentlessly sticky
+Spinach gnocchi: another disappointing recipe! I followed [a recipe from Caroline's Cooking](https://www.carolinescooking.com/potato-spinach-gnocchi/). No matter how much flour I added (over a cup more than what the recipe called for), the mixture was still relentlessly sticky and too difficult to handle. I tried to shape them as best I could, but it was so time consuming that I ended up throwing a third of it out. This is coming from someone who hates wasting food.
+
+Also, I added literally the tiniest pinch of nutmeg, as per recipe, and that ended up making the whole thing taste so strange. I couldn't get rid of the pumpkin spice smell profile that the nutmeg evoked and it was honestly too disgusting.
 
 ![vegetable stock](/food/foodventures/images/vegetable-stock.jpg){:width="50%"}{: .image-right}
 
