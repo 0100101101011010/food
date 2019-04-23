@@ -37,9 +37,11 @@ This recipe is from [Mom, What's For Dinner?](http://www.momwhatsfordinnerblog.c
 
 ![thin mint overnight oats](/food/foodventures/images/thin-mint-overnight-oats.jpg){:width="50%"}{: .image-right}
 
-This is my second go with this recipe. The first time, I thought maybe I didn't add enough cocoa powder so it tasted kind of off. This time, I tried following the recipe exactly, except I swapped yogurt with cottage cheese. VERY DISAPPOINTING. It's still very runny and doesn't taste like a thin mint at all.
+This is my second go with this recipe. The first time, I thought maybe I didn't add enough cocoa powder so it tasted kind of off. This time, I tried following the recipe exactly, except I swapped yogurt with cottage cheese. VERY DISAPPOINTING. It's very runny and doesn't taste like a thin mint at all. I'm going to throw my hat in for this one.
 
 ![spinach gnocchi](/food/foodventures/images/spinach-gnocchi.jpg){:width="50%"}{: .image-right}
+
+Spinach gnocchi: another disappointing recipe! I followed [a recipe from Caroline's Cooking](https://www.carolinescooking.com/potato-spinach-gnocchi/). No matter how much flour I added (over a cup more than what the recipe called for), the mixture was still relentlessly sticky
 
 ![vegetable stock](/food/foodventures/images/vegetable-stock.jpg){:width="50%"}{: .image-right}
 
