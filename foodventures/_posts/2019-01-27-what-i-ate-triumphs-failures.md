@@ -66,7 +66,3 @@ OMGGG THIS IS SO GOOD! Almost all dessert tofu recipes call for silken tofu, but
 ![matcha overnight oats](/food/foodventures/images/matcha-overnight-oats.jpg){:width="50%"}{: .image-right}
 
 ![the modern bowl at cactus club](/food/foodventures/images/cactus-club.jpg){:width="50%"}{: .image-right}
-
-## Friday:
-
-![tofu avocado mousse](/food/foodventures/images/tofu-avocado-mousse.jpg){:width="50%"}{: .image-right}
