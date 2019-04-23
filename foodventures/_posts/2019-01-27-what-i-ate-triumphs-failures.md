@@ -53,7 +53,7 @@ I pour it through a strainer into a freezer bag (if I'm freezing) or a mason jar
 
 ## Wednesday: Tofu Avocado Mousse
 
-![tofu avocado mousse](/food/foodventures/images/tofu-avocado-mousse.jpg){:width="50%"}{: .image-right}
+![tofu avocado mousse](/food/foodventures/images/tofu-avocado-mousse.jpg){:width="40%"}{: .image-right}
 
 OMGGG THIS IS SO GOOD! Almost all dessert tofu recipes call for silken tofu, but I used regular fresh tofu. It worked really well. I used [this recipe from Plant-Based Cooking](https://www.plantbasedcooking.com/recipe/tasty-tofu-avocado-chocolate-mousse/) and can't recommend it enough. I made the recipe the night before and brought it in for work. A refreshing change from my overnight oats routine.
 
