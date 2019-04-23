@@ -45,7 +45,7 @@ Spinach gnocchi: another disappointing recipe! I followed [a recipe from Carolin
 
 Also, I added literally the tiniest pinch of nutmeg, as per recipe, and that ended up making the whole thing taste so strange. I couldn't get rid of the pumpkin spice smell profile that the nutmeg evoked and it was honestly too disgusting.
 
-![vegetable stock](/food/foodventures/images/vegetable-stock.jpg){:width="50%"}{: .image-right}
+![vegetable stock](/food/foodventures/images/vegetable-stock.jpg){:width="50%"}{: .image-left}
 
 While recovering from the spinach gnocchi catastrophe, I did pull off one successful maneuver tonight, which was making another batch of vegetable stock. I have to say, I'm pretty good at this now. My freezer generally always has one full bag of veggie scraps, which I throw in the Instant Pot with eight cups of water and pressure cook @ HIGH for 30 minutes. Then I either quick release immediately, or wait ten minutes. (Depends on how I'm feeling; doesn't make a noticeable difference, imo).
 
