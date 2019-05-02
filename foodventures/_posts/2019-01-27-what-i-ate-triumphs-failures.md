@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "What I Ate This Week: Jan 21–27"
 author: Kelly Zhang
