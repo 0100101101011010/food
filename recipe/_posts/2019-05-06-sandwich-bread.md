@@ -7,7 +7,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [100 calories]
-excerpt: "An easy beginner recipe to create the most versatile of breads: a perfectly light, fluffy sandwich loaf, like the kind you'd find at the grocery store. No need for a stand mixer or long, tiring periods of kneading."
+excerpt: "An easy beginner recipe to create the most versatile of breads: a perfectly light, fluffy sandwich loaf, like the kind you'd find at the grocery store, without using a stand mixer or spending a long time kneading."
 img: /food/recipe/images/sandwich-bread.jpg
 
 comments: "6"
@@ -39,16 +39,15 @@ reviews: "3"
 ingredients:
  - 7 g active dry yeast (or 6 g instant yeast)
  - 190 g water
- - 12 g white sugar (or honey)
+ - 12 g white sugar
  - 20 g vegetable oil
  - 300 g bread flour (most recipes say you can also use all-purpose flour, but I find all-purpose flour more sticky and hard to use)
  - 6 g fine salt
 
 instructions:
- - MIX INGREDIENTS. Pour the water into a large mixing bowl and stir in the yeast.
+ - MIX INGREDIENTS. Pour the water into a large mixing bowl and stir in the yeast and sugar.
  - Leave for ten minutes or until the yeast/water mixture forms a thick, foamy top layer (skip this step if you're using instant yeast).
- - Stir in the sugar or honey and the vegetable oil.
- - Pour in the bread flour and salt.
+ - Add the vegetable oil, bread flour, and salt, in that order.
  - Mix with a fork until roughly incorporated, then give the dough a few squeezes with your hands. Wipe the sides of the bowl with the dough if there are any large clumps of dough still clinging to the walls.
  - At this point, the dough should be able to hold a rough ball shape but still be quite sticky and gooey. If it is sticking ALL OVER your fingers when you pull away, rather than mostly lifting off with ease, your dough is too sticky. Try kneading for a minute more and if that doesn't work, add more flour 1 tbsp at a time. Turn the dough out onto the (clean!!) counter and flip the bowl over top, so it's covering the dough. (I've always used bread flour for this recipe and have never had the dough stick to the counter, but you may want to sprinkle a little bit of flour in case if you are using all-purpose flour or if your dough seems extremely sticky.)
  - Wait for five minutes.
@@ -56,7 +55,7 @@ instructions:
  - Wait another five minutes and repeat the previous steps twice. So in total, you should have spent fifteen minutes of waiting time and done the four-fold procedure three times.
  - FIRST RISE. This is the first (of three) long waiting periods. Simply leave the dough under the mixing bowl after the third fold and let it rest for an hour.
  - SECOND RISE. Remove the bowl and pat it down aggressively to get rid of all the air bubbles. This can take a while—see the animation for an example—but it's very fun. Like popping bubble wrap!
- - 
+ -
 
 discussion_id: 2019-03-22
 ---
