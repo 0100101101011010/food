@@ -51,9 +51,10 @@ instructions:
  - Mix with a fork until roughly incorporated, then give the dough a few squeezes with your hands. Wipe the sides of the bowl with the dough if there are any large clumps of dough still clinging to the walls.
  - At this point, the dough should be able to hold a rough ball shape but still be quite sticky and gooey. If it is sticking ALL OVER your fingers when you pull away, rather than mostly lifting off with ease, your dough is too sticky. Try kneading for a minute more and if that doesn't work, add more flour 1 tbsp at a time. Turn the dough out onto the (clean!!) counter and flip the bowl over top, so it's covering the dough. (I've always used bread flour for this recipe and have never had the dough stick to the counter, but you may want to sprinkle a little bit of flour in case if you are using all-purpose flour or if your dough seems extremely sticky.)
  - Wait for five minutes.
- - FOUR-FOLD PROCEDURE (replaces kneading). Remove the bowl and flatten the dough slightly by patting it down. Stretch the top portion and pull it down over the bottom, about 1/3 of the way down. Rotate the dough 90° and repeat with the new "top". Continue until you have folded the dough four times, and flip it over so the smooth side is facing up. It should be in a roughly rounded shape. Replace the bowl over the dough.
- - Wait another five minutes and repeat the previous steps twice. So in total, you should have spent fifteen minutes of waiting time and done the four-fold procedure three times.
- - FIRST RISE. This is the first (of three) long waiting periods. Simply leave the dough under the mixing bowl after the third fold and let it rest for an hour.
+ - "KNEADING" METHOD. Remove the bowl and flatten the dough slightly by patting it down. Stretch the top portion and pull it down over the bottom, about 1/3 of the way down. Rotate the dough 90° and repeat with the new "top". Continue until you have folded the dough four times, and flip it over so the smooth side is facing up. It should be in a roughly rounded shape. Replace the bowl over the dough.
+ - Wait for five minutes and repeat the folding procedure.
+ - Wait another five minutes and repeat the folding procedure.
+ - FIRST RISE. This is the first (of three) long waiting periods. Simply leave the dough under the mixing bowl after your third fold and let it rest for an hour.
  - SECOND RISE. Remove the bowl and pat it down aggressively to get rid of all the air bubbles. This can take a while—see the animation for an example—but it's very fun. Like popping bubble wrap!
  -
 
