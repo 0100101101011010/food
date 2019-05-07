@@ -54,11 +54,13 @@ I pour it through a strainer into a freezer bag (if I'm freezing) or a mason jar
 
 ![tofu avocado mousse](/food/foodventures/images/tofu-avocado-mousse.jpg){:width="40%"}{: .image-right}
 
-OMGGG THIS IS SO GOOD! Almost all dessert tofu recipes call for silken tofu, but I used regular fresh tofu. It worked really well. I used [this recipe from Plant-Based Cooking](https://www.plantbasedcooking.com/recipe/tasty-tofu-avocado-chocolate-mousse/) and can't recommend it enough. I made the recipe the night before and brought it in for work. I thought the avocado's taste might change from being oxidized overnight, but I couldn't tell at all. A refreshing change from my overnight oats routine.
+Tonight is a tofu kinda night!! First we have a chocolate tofu avocado mousse. Almost all dessert tofu recipes call for silken tofu, but I used regular fresh tofu. It worked really well. This recipe comes from [Plant-Based Cooking](https://www.plantbasedcooking.com/recipe/tasty-tofu-avocado-chocolate-mousse/), and I can't recommend it enough. I made the recipe the night before and brought it in for work. I was afraid the avocado's taste might change from being oxidized overnight, but I couldn't tell at all. A refreshing change from my overnight oats routine.
 
 ![tofu grilled cheese](/food/foodventures/images/tofu-grilled-cheese.jpg){:width="50%"}{: .image-right}
 
-This was not great. I love tofu and I love grilled cheese, but I think they go better separately.
+After work, I whipped up a quick tofu "grilled cheese" in my waffle maker, roughly following a recipe from [Aloha Tofu](http://aloha-tofu.com/tofu-recipes/tofu-firm/grilled-cheese-sandwich/). Folks, I've got an announcement to make. Tofu does *not* taste good in everything. I love tofu and I love grilled cheese, but I think they go better separately.
+
+I can't describe what I find so off putting about this flavour combo, but there's a reason you don't see many *cheesy tofu* dishes. I prefer the pure "soy" taste of the tofu to remain unadulterated by the overpowering cheese.
 
 ![peanut butter oats](/food/foodventures/images/peanut-butter-oats.jpg){:width="50%"}{: .image-right}
 
