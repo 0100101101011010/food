@@ -6,7 +6,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [100 calories]
-excerpt: "An easy beginner recipe to create the most versatile of breads: a perfectly light, fluffy sandwich loaf, like the kind you'd find at the grocery store, without using a stand mixer or spending a long time kneading."
+excerpt: "An easy beginner recipe (no stand mixer required) to create the most versatile of breads: a perfectly light, fluffy sandwich loaf, like the kind you'd find at the grocery store."
 img: /food/recipe/images/sandwich-bread.jpg
 
 comments: "6"
@@ -61,7 +61,7 @@ discussion_id: 2019-03-22
 published: false
 ---
 
-*(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious, I couldn't stop eating them even before they cooled down. Did I mention it's a one-pot recipe?!*
+*{{page.excerpt}}*
 
 > **ACTIVE TIME:** 1 hour  
 > **TOTAL TIME:** 1 hour  

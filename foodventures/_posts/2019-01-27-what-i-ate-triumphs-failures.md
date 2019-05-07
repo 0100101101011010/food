@@ -50,13 +50,15 @@ While recovering from the spinach gnocchi catastrophe, I did pull off one succes
 
 I pour it through a strainer into a freezer bag (if I'm freezing) or a mason jar (if I plan to use it soon) and then I always have vegetable stock ready to go whenever I need it!
 
-## Wednesday: Tofu Avocado Mousse
+## Wednesday: Tofu Avocado Mousse, Tofu Grilled Cheese, and Peanut Butter Oats
 
 ![tofu avocado mousse](/food/foodventures/images/tofu-avocado-mousse.jpg){:width="40%"}{: .image-right}
 
-OMGGG THIS IS SO GOOD! Almost all dessert tofu recipes call for silken tofu, but I used regular fresh tofu. It worked really well. I used [this recipe from Plant-Based Cooking](https://www.plantbasedcooking.com/recipe/tasty-tofu-avocado-chocolate-mousse/) and can't recommend it enough. I made the recipe the night before and brought it in for work. A refreshing change from my overnight oats routine.
+OMGGG THIS IS SO GOOD! Almost all dessert tofu recipes call for silken tofu, but I used regular fresh tofu. It worked really well. I used [this recipe from Plant-Based Cooking](https://www.plantbasedcooking.com/recipe/tasty-tofu-avocado-chocolate-mousse/) and can't recommend it enough. I made the recipe the night before and brought it in for work. I thought the avocado's taste might change from being oxidized overnight, but I couldn't tell at all. A refreshing change from my overnight oats routine.
 
 ![tofu grilled cheese](/food/foodventures/images/tofu-grilled-cheese.jpg){:width="50%"}{: .image-right}
+
+This was not great. I love tofu and I love grilled cheese, but I think they go better separately.
 
 ![peanut butter oats](/food/foodventures/images/peanut-butter-oats.jpg){:width="50%"}{: .image-right}
 
