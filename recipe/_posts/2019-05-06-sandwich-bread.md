@@ -60,7 +60,7 @@ published: false
 discussion_id: 2019-05-06
 ---
 
-*{{page.excerpt}}*
+* {{page.excerpt}} *
 
 > **ACTIVE TIME:** 1 hour  
 > **TOTAL TIME:** 1 hour  
