@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: "Simple Sandwich Bread"
 author: "Kelly Zhang"
