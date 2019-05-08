@@ -54,7 +54,11 @@ I pour it through a strainer into a freezer bag (if I'm freezing) or a mason jar
 
 ![tofu avocado mousse](/food/foodventures/images/tofu-avocado-mousse.jpg){:width="40%"}{: .image-right}
 
-Tonight is a tofu kinda night!! First we have a chocolate tofu avocado mousse. Almost all dessert tofu recipes call for silken tofu, but I used regular fresh tofu. It worked really well. This recipe comes from [Plant-Based Cooking](https://www.plantbasedcooking.com/recipe/tasty-tofu-avocado-chocolate-mousse/), and I can't recommend it enough. I made the recipe the night before and brought it in for work. I was afraid the avocado's taste might change from being oxidized overnight, but I couldn't tell at all. A refreshing change from my overnight oats routine.
+Tonight is a tofu kinda night!! First we have a chocolate tofu avocado mousse. Almost all dessert tofu recipes call for silken tofu, but I used regular fresh tofu. It worked really well. This recipe comes from [Plant-Based Cooking](https://www.plantbasedcooking.com/recipe/tasty-tofu-avocado-chocolate-mousse/), and I can't recommend it enough.
+
+I made the recipe the night before and brought it in for work. I was afraid the avocado's taste might change from being oxidized overnight, but I couldn't tell at all. A refreshing change from my overnight oats routine.
+
+Strangely, it left me starving after just a couple of hours, even though avocados are high in fat and tofu is high in protein. I thought it was nutritious enough to keep me feeling full for longer.
 
 ![tofu grilled cheese](/food/foodventures/images/tofu-grilled-cheese.jpg){:width="50%"}{: .image-right}
 
@@ -64,8 +68,12 @@ I can't describe what I find so off putting about this flavour combo, but there'
 
 ![peanut butter oats](/food/foodventures/images/peanut-butter-oats.jpg){:width="50%"}{: .image-right}
 
-## Thursday: Matcha Overnight Oats
+SO UNHEALTHY BUT SO YUMMY!!! This is literally the epitome of late-night snack: quick oats + peanut butter stirred together to form a calorifically delicious bowl of fat and carbs. The human brain comes up with amazing ideas when it's hungry. I will say that this much peanut butter this late at night makes me feel bloated the next day, so overall this was not a good idea. :-(
+
+## Thursday: Matcha Overnight Oats and Cactus Club
 
 ![matcha overnight oats](/food/foodventures/images/matcha-overnight-oats.jpg){:width="50%"}{: .image-right}
+
+This is a matcha overnight oats recipe from [rachLmansfield](http://rachlmansfield.com/vanilla-matcha-overnight-oats/), and it's so cool because it has no sugar!! The matcha and cinnamon satisfied my dessert craving enough that I didn't miss the sweetness. I will be making this more often from now on, because I love matcha.
 
 ![the modern bowl at cactus club](/food/foodventures/images/cactus-club.jpg){:width="50%"}{: .image-right}

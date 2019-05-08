@@ -55,7 +55,6 @@ instructions:
  - Wait another five minutes and repeat the folding procedure.
  - FIRST RISE. This is the first (of three) long waiting periods. Simply leave the dough under the mixing bowl after your third fold and let it rest for an hour.
  - SECOND RISE. Remove the bowl and pat it down aggressively to get rid of all the air bubbles. This can take a while—see the animation for an example—but it's very fun. Like popping bubble wrap!
- -
 
 discussion_id: 2019-03-22
 published: false
