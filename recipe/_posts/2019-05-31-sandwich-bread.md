@@ -1,21 +1,22 @@
 ---
 layout: recipe
-title: "The Easiest Ladoos Ever!"
+title: "Simple Sandwich Bread"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [100 calories]
-excerpt: "(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious, I couldn't stop eating them even before they cooled down. Did I mention it's a one-pot recipe?!"
-img: /food/recipe/images/easiest-ladoos-ever-cover.jpg
+excerpt: "An easy beginner recipe (no stand mixer required) to create the most versatile of breads: a perfectly light, fluffy sandwich loaf, like the kind you'd find at the grocery store."
+img: /food/recipe/images/sandwich-bread-cover.jpg
 
-comments: "3"
+comments: "6"
 
 keywords:
- - chickpeas
- - ghee
- - ethnic desserts
- - pastry
- - gluten free
+ - homemade bread
+ - baking
+ - beginner bread baking
+ - bread tutorial
+ - breadmaking
+ - sandwich bread
 
 cooktime: "PT1H"
 preptime: "PT1H"
