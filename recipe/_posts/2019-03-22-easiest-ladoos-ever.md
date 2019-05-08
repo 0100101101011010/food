@@ -49,7 +49,7 @@ instructions:
 discussion_id: 2019-03-22
 ---
 
-*(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious, I couldn't stop eating them even before they cooled down. Did I mention it's a one-pot recipe?!*
+*{{page.excerpt}}*
 
 > **ACTIVE TIME:** 1 hour  
 > **TOTAL TIME:** 1 hour  
