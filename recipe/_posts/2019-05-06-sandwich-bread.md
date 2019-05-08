@@ -7,7 +7,7 @@ permalink: /:categories/:title/
 categories: recipe
 tags: [100 calories]
 excerpt: "An easy beginner recipe (no stand mixer required) to create the most versatile of breads: a perfectly light, fluffy sandwich loaf, like the kind you'd find at the grocery store."
-img: /food/recipe/images/sandwich-bread.jpg
+img: /food/recipe/images/sandwich-bread-cover.jpg
 
 comments: "6"
 
