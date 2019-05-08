@@ -30,7 +30,7 @@ cookingmethod: "baking"
 recipecategory: "breakfast"
 cuisine: "European"
 
-rating: "4.5"
+rating: "4"
 reviews: "3"
 
 
