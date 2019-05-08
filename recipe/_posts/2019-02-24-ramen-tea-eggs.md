@@ -33,14 +33,13 @@ reviews: "7"
 
 
 ingredients:
- - 1 head of cauliflower
- - 25 g butter (about 2 tbsp)
- - 10 g flour (about 2 tbsp)
- - 150 mL milk
- - 1 cup roughly chopped cheese (I used marbled cheddar)
+ - Handful of eggs (however many you want to eat for the next few days)
+ - Soy sauce
 
 instructions:
- - Set raw eggs on
+ - Fill the Instant Pot with 1–2 cups of water.
+ - Set raw eggs on a steam rack and place in the pot.
+ - Pressure cook on HIGH for 3 minutes, then immediately do a manual pressure release and.
  - Mix soy sauce in a ziploc bag
 
 published: false
