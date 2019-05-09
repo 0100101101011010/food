@@ -18,20 +18,20 @@ keywords:
  - breadmaking
  - sandwich bread
 
-cooktime: "PT1H"
-preptime: "PT1H"
-totaltime: "PT1H"
+cooktime: "PT4H30M"
+preptime: "PT30M"
+totaltime: "PT5H"
 
 cost: "0.11"
-calories: "99 calories"
+calories: "112 calories"
 servings: "12"
 
-cookingmethod: "stovetop baking"
-recipecategory: "dessert"
-cuisine: "Indian"
+cookingmethod: "baking"
+recipecategory: "breakfast"
+cuisine: "European"
 
-rating: "5"
-reviews: "4"
+rating: "4"
+reviews: "3"
 
 
 ingredients:
