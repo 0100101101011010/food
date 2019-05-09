@@ -47,7 +47,8 @@ instructions:
  - Leave for ten minutes or until the yeast/water mixture forms a thick, foamy top layer (skip this step if you're using instant yeast).
  - Add the vegetable oil or butter, bread flour, and salt, in that order.
  - Mix with a fork until roughly incorporated, then give the dough a few squeezes with your hands. Wipe the sides of the bowl with the dough if there are any large clumps of dough still clinging to the walls.
-
+ - At this point, the dough should be able to hold a rough ball shape but still be quite sticky and gooey. If it is sticking ALL OVER your fingers when you pull away, rather than mostly lifting off with ease, your dough is too sticky. Try kneading for a minute more and if that doesn't work, add more flour 1 tbsp at a time. Turn the dough out onto the (clean!!) counter and flip the bowl over top, so it's covering the dough. (I've always used bread flour for this recipe and have never had the dough stick to the counter, but you may want to sprinkle a little bit of flour in case if you are using all-purpose flour or if your dough seems extremely sticky.)
+ - Wait for five minutes.
 
 published: false
 
