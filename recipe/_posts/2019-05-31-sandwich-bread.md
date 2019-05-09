@@ -35,21 +35,29 @@ reviews: "3"
 
 
 ingredients:
- - 60 g butter or ghee (about 1/2 cup)
- - 1 heaping cup besan aka chickpea flour
- - 5 whole cardamom pods, blended into powder in a high-speed blender, or 1/4 tsp cardamom powder
- - 1 cup powdered sugar (or less if you prefer)
+ - 7 g active dry yeast (or 6 g instant yeast)
+ - 190 g water
+ - 12 g white sugar
+ - 20 g vegetable oil (or melted butter)
+ - 300 g bread flour (most recipes say you can also use all-purpose flour, but I find all-purpose flour more sticky and hard to use)
+ - 6 g fine salt
 
 instructions:
- - Melt butter or ghee in a small saucepan on medium heat.
- - Add chickpea flour and mix evenly with a spatula or wooden spoon to form a crumbly mixture.
- - Stir continuously until butter starts to come out of the mixture, creating a paste that resembles thick peanut butter. (You may want to turn heat to medium-low at this point, so you can be lazier and stir less often while reducing the chance of burning  it.) This step takes a looong time so don't get impatient or give up hope! Your first sign that the mixture is almost there is when it starts getting darker in places.
- - Turn off the heat and mix in the powdered sugar and cardamom.
- - When it has cooled enough to handle, take handfuls of the mixture and roll with your palms into ping pong-sized balls. Place on a piece of plastic wrap or parchment paper and let it cool before enjoying (optional).
-
-discussion_id: 2019-05-31
+ - MIX INGREDIENTS. Pour the water into a large mixing bowl and stir in the yeast and sugar.
+ - Leave for ten minutes or until the yeast/water mixture forms a thick, foamy top layer (skip this step if you're using instant yeast).
+ - Add the vegetable oil or butter, bread flour, and salt, in that order.
+ - Mix with a fork until roughly incorporated, then give the dough a few squeezes with your hands. Wipe the sides of the bowl with the dough if there are any large clumps of dough still clinging to the walls.
+ - At this point, the dough should be able to hold a rough ball shape but still be quite sticky and gooey. If it is sticking ALL OVER your fingers when you pull away, rather than mostly lifting off with ease, your dough is too sticky. Try kneading for a minute more and if that doesn't work, add more flour 1 tbsp at a time. Turn the dough out onto the (clean!!) counter and flip the bowl over top, so it's covering the dough. (I've always used bread flour for this recipe and have never had the dough stick to the counter, but you may want to sprinkle a little bit of flour in case if you are using all-purpose flour or if your dough seems extremely sticky.)
+ - Wait for five minutes.
+ - "KNEADING" METHOD. Remove the bowl and flatten the dough slightly by patting it down. Stretch the top portion and pull it down over the bottom, about 1/3 of the way down. Rotate the dough 90° and repeat with the new "top". Continue until you have folded the dough four times, and flip it over so the smooth side is facing up. It should be in a roughly rounded shape. Replace the bowl over the dough.
+ - Wait for five minutes and repeat the folding procedure.
+ - Wait another five minutes and repeat the folding procedure.
+ - FIRST RISE. This is the first (of three) long waiting periods. Simply leave the dough under the mixing bowl after your third fold and let it rest for an hour.
+ - SECOND RISE. Remove the bowl and pat it down aggressively to get rid of all the air bubbles. This can take a while—see the animation for an example—but it's very fun. Like popping bubble wrap!
 
 published: false
+
+discussion_id: 2019-05-06
 ---
 
 *(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious, I couldn't stop eating them even before they cooled down. Did I mention it's a one-pot recipe?!*
