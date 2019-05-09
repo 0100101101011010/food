@@ -52,7 +52,6 @@ instructions:
  - "KNEADING" METHOD. Remove the bowl and flatten the dough slightly by patting it down. Stretch the top portion and pull it down over the bottom, about 1/3 of the way down. Rotate the dough 90° and repeat with the new "top". Continue until you have folded the dough four times, and flip it over so the smooth side is facing up. It should be in a roughly rounded shape. Replace the bowl over the dough.
  - Wait for five minutes and repeat the folding procedure.
  - Wait another five minutes and repeat the folding procedure.
- - FIRST RISE. This is the first (of three) long waiting periods. Simply leave the dough under the mixing bowl after your third fold and let it rest for an hour.
 
 
 published: false
