@@ -10,11 +10,11 @@ permalink: /calculator/
 
   Rice: <input id="inputCalrose" type="number" maxlength="5" size="5" placeholder="grams" oninput="CalroseRice(this.value)" onchange="CalroseRice(this.value)">
 
-  Water: <span id="outputMeters"></span> mL
+  Water: <span id="outputWater"></span> mL
 
 <script>
 function CalroseRice(valNum) {
-  document.getElementById("outputMeters").innerHTML=Math.round(valNum * 250 / 235);
+  document.getElementById("outputWater").innerHTML=Math.round(valNum * 250 / 235);
 }
 </script>
 
