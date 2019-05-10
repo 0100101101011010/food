@@ -112,3 +112,63 @@ function ChickpeaSoaked(valNum) {
 </script>
 
 Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-pot-chickpeas/)
+
+### Eggs
+
+\* Use cold water and cold eggs.
+
+|  | Low pressure (ideal) | High pressure |
+|--|----------------------|---------------|
+| Egg doneness: | <select id="inputEgg" oninput="EggLP(this.value)" onchange="EggLP(this.value)"> | <input id="inputEgg" oninput="EggHP(this.value)" onchange="EggHP(this.value)"> |
+| Water: | 250 mL | 250 mL |
+| Baking Soda: | <span id="outputChickpeaUnsoaked1"></span> | <span id="outputChickpeaSoaked1"></span> |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | <span id="outputEggLP"></span> | <span id="outputEggHP"></span> |
+| Natural Pressure Release: | 0 minutes | 0 minutes |
+{: .table .table-striped .table-hover}
+
+<script>
+function EggLP(valNum) {
+  document.getElementById("outputChickpeaUnsoaked").innerHTML = Math.round(valNum * 1500 / 454) + " mL";
+  document.getElementById("outputChickpeaUnsoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
+}
+</script>
+
+<script>
+function EggHP(valNum) {
+  document.getElementById("outputChickpeaSoaked").innerHTML = Math.round(valNum * 1250 / 454) + " mL";
+  document.getElementById("outputChickpeaSoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
+}
+</script>
+
+Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-pot-chickpeas/)
+
+### Steamed Veggies
+
+\* Baking soda optional—produces more tender chickpeas (useful for hummus).
+
+|  | Unsoaked | Soaked 8+ hours |
+|--|----------|-----------------|
+| Dry chickpeas: | <input id="inputChickpea" type="number" placeholder="grams" oninput="ChickpeaUnsoaked(this.value)" onchange="ChickpeaUnsoaked(this.value)"> | <input id="inputChickpea" type="number" placeholder="grams" oninput="ChickpeaSoaked(this.value)" onchange="ChickpeaSoaked(this.value)"> |
+| Water: | <span id="outputChickpeaUnsoaked"></span> | <span id="outputChickpeaSoaked"></span> |
+| Baking Soda: | <span id="outputChickpeaUnsoaked1"></span> | <span id="outputChickpeaSoaked1"></span> |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | 40 minutes | 10 minutes |
+| Natural Pressure Release: | 10 minutes | 10 minutes |
+{: .table .table-striped .table-hover}
+
+<script>
+function ChickpeaUnsoaked(valNum) {
+  document.getElementById("outputChickpeaUnsoaked").innerHTML = Math.round(valNum * 1500 / 454) + " mL";
+  document.getElementById("outputChickpeaUnsoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
+}
+</script>
+
+<script>
+function ChickpeaSoaked(valNum) {
+  document.getElementById("outputChickpeaSoaked").innerHTML = Math.round(valNum * 1250 / 454) + " mL";
+  document.getElementById("outputChickpeaSoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
+}
+</script>
+
+Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-pot-chickpeas/)
