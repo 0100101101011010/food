@@ -128,6 +128,11 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 
 <script>
 function EggLP(valNum) {
+  if (valNum == 1) {
+    document.getElementById("outputEggLP").innerHTML = "6 minutes"
+  }
+
+
   document.getElementById("outputEggLP").innerHTML = Math.round(valNum * 1500 / 454) + " mL";
 }
 </script>
