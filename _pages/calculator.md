@@ -18,7 +18,7 @@ permalink: /calculator/
 
 <script>
 function CalroseRice(valNum) {
-  document.getElementById("outputMeters").innerHTML=valNum * 250 / 235;
+  document.getElementById("outputMeters").innerHTML=Math.round(valNum * 250 / 235);
 }
 </script>
 
