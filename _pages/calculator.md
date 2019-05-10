@@ -82,3 +82,36 @@ function CalroseCalcSoft(valNum) {
 </script>
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-calrose-rice/#exp)
+
+### Chickpeas (or Garbanzo Beans)
+
+* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing with water.
+
+|  | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
+|--|----------------------|-----------------------|----------------------|
+| Dry chickpeas: | <input id="inputChickpea" type="number" placeholder="grams" oninput="BasmatiHard(this.value)" onchange="BasmatiHard(this.value)"> | <input id="inputChickpea" type="number" placeholder="grams" oninput="BasmatiMed(this.value)" onchange="BasmatiMed(this.value)"> | <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiSoft(this.value)" onchange="BasmatiSoft(this.value)"> |
+| Water: | <span id="outputBasmatiHard"></span> | <span id="outputBasmatiMed"></span> | <span id="outputBasmatiSoft"></span> |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | 5 minutes | 6 minutes | 6 minutes |
+| Natural Pressure Release: | 10 minutes | 10 minutes | 10 minutes |
+{: .table .table-striped .table-hover}
+
+<script>
+function ChickpeaUnsoaked(valNum) {
+  document.getElementById("outputBasmatiHard").innerHTML = Math.round(valNum * 454 / 1750) + " mL";
+}
+</script>
+
+<script>
+function ChickpeaSoaked(valNum) {
+  document.getElementById("outputBasmatiMed").innerHTML = Math.round(valNum * 454 / 1500) + " mL";
+}
+</script>
+
+<script>
+function BasmatiSoft(valNum) {
+  document.getElementById("outputBasmatiSoft").innerHTML = Math.round(valNum * 312.5 / 210) + " mL";
+}
+</script>
+
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-basmati-rice/#exp)
