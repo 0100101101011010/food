@@ -20,7 +20,19 @@ permalink: /calculator/
 
 <script>
 function CalroseCalcHard(valNum) {
-  document.getElementById("outputWater").innerHTML=Math.round(valNum * 250 / 235);
+  document.getElementById("outputWaterHard").innerHTML=Math.round(valNum * 250 / 235);
+}
+</script>
+
+<script>
+function CalroseCalcMed(valNum) {
+  document.getElementById("outputWaterMed").innerHTML=Math.round(valNum * 250 / 235);
+}
+</script>
+
+<script>
+function CalroseCalcMed(valNum) {
+  document.getElementById("outputWaterMed").innerHTML=Math.round(valNum * 250 / 235);
 }
 </script>
 
