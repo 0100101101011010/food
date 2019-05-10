@@ -8,13 +8,9 @@ permalink: /calculator/
 
 ### Calrose Rice (for harder, chewier rice)
 
-<p>Type a value in the Rice field to convert the value to Meters:</p>
+  Rice: <input id="inputFeet" type="number" placeholder="Weight in grams" oninput="LengthConverter(this.value)" onchange="CalroseRice(this.value)">
 
-<p>
-  <label>Rice:</label>
-  <input id="inputFeet" type="number" placeholder="Rice (g)" oninput="LengthConverter(this.value)" onchange="CalroseRice(this.value)">
-</p>
-<p>Water: <span id="outputMeters"></span> mL</p>
+  Water: <span id="outputMeters"></span> mL
 
 <script>
 function CalroseRice(valNum) {
