@@ -13,10 +13,10 @@ permalink: /calculator/
 <p>Type a value in the Rice field to convert the value to Meters:</p>
 
 <p>
-  <label>Rice (g)</label>
-  <input id="inputFeet" type="number" placeholder="Feet" oninput="LengthConverter(this.value)" onchange="CalroseRice(this.value)">
+  <label>Rice:</label>
+  <input id="inputFeet" type="number" placeholder="Rice (g)" oninput="LengthConverter(this.value)" onchange="CalroseRice(this.value)">
 </p>
-<p>Water (mL): <span id="outputMeters"></span></p>
+<p>Water: <span id="outputMeters"></span> mL</p>
 
 <script>
 function CalroseRice(valNum) {
