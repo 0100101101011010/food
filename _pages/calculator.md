@@ -19,7 +19,7 @@ permalink: /calculator/
 
 <script>
 function CalroseCalcHard(valNum) {
-  document.getElementById("outputWaterHard").innerHTML=Math.round(valNum * 250 / 235);
+  document.getElementById("outputWaterHard").innerHTML = Math.round(valNum * 250 / 235);
 }
 </script>
 
@@ -31,7 +31,7 @@ function CalroseCalcMed(valNum) {
 
 <script>
 function CalroseCalcSoft(valNum) {
-  document.getElementById("outputWaterSoft").innerHTML=Math.round(valNum * 313 / 235);
+  document.getElementById("outputWaterSoft").innerHTML = Math.round(valNum * 313 / 235);
 }
 </script>
 
