@@ -121,7 +121,6 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 |--|----------------------|---------------|
 | Egg doneness: | <select id="inputEgg" oninput="EggLP(this.value)" onchange="EggLP(this.value)"> | <input id="inputEgg" oninput="EggHP(this.value)" onchange="EggHP(this.value)"> |
 | Water: | 250 mL | 250 mL |
-| Baking Soda: | <span id="outputChickpeaUnsoaked1"></span> | <span id="outputChickpeaSoaked1"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | <span id="outputEggLP"></span> | <span id="outputEggHP"></span> |
 | Natural Pressure Release: | 0 minutes | 0 minutes |
@@ -129,15 +128,13 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 
 <script>
 function EggLP(valNum) {
-  document.getElementById("outputChickpeaUnsoaked").innerHTML = Math.round(valNum * 1500 / 454) + " mL";
-  document.getElementById("outputChickpeaUnsoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
+  document.getElementById("outputEggLP").innerHTML = Math.round(valNum * 1500 / 454) + " mL";
 }
 </script>
 
 <script>
 function EggHP(valNum) {
-  document.getElementById("outputChickpeaSoaked").innerHTML = Math.round(valNum * 1250 / 454) + " mL";
-  document.getElementById("outputChickpeaSoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
+  document.getElementById("outputEggHP").innerHTML = Math.round(valNum * 1250 / 454) + " mL";
 }
 </script>
 
