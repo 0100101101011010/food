@@ -6,7 +6,7 @@ permalink: /calculator/
 <style>
 input[type=text], input[type=number], select {
   width: 100%;
-  padding: 12px 20px;
+  padding: 2px 2px;
   margin: 8px 0;
   display: inline-block;
   border: 1px solid #ccc;
