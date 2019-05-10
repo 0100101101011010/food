@@ -115,7 +115,7 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 
 ### Eggs
 
-\* Use cold water and cold eggs.
+\* Use cold water and cold eggs. Manually release pressure immediately and submerge eggs in a cold water bath as fast as possible.
 
 |  | Low pressure (ideal) | High pressure |
 |--|----------------------|---------------|
