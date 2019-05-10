@@ -4,11 +4,9 @@ title: Conversion Calculators
 permalink: /calculator/
 ---
 
-# Calculators
-
 ## Instant Pot recipes
 
-### Calrose Rice
+### Calrose Rice (for harder, chewier rice)
 
 <p>Type a value in the Rice field to convert the value to Meters:</p>
 
@@ -20,7 +18,7 @@ permalink: /calculator/
 
 <script>
 function CalroseRice(valNum) {
-  document.getElementById("outputMeters").innerHTML=valNum/3.2808;
+  document.getElementById("outputMeters").innerHTML=valNum * 250 / 235;
 }
 </script>
 
