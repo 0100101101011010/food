@@ -14,12 +14,13 @@ function CalroseCalcHard(valNum) {
 }
 </script>
 
+|  | Harder, chewier rice | Al dente | Softer, mushier rice |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rice: | <input id="inputCalrose" type="number" style="width: 100px;" placeholder="grams" oninput="CalroseCalcHard(this.value)" onchange="CalroseCalcHard(this.value)"> | <input id="inputCalrose" type="number" style="width: 100px;" placeholder="grams" oninput="CalroseCalcMed(this.value)" onchange="CalroseCalcMed(this.value)"> | <input id="inputCalrose" type="number" style="width: 100px;" placeholder="grams" oninput="CalroseCalcSoft(this.value)" onchange="CalroseCalcSoft(this.value)"> |
+| Water: | <span id="outputWaterHard"></span> mL | <span id="outputWaterMed"></span> mL | <span id="outputWaterSoft"></span> mL |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | 6 minutes | 6 minutes | 6 minutes |
+| Natural Pressure Release: | 9 minutes | 10 minutes | 10 minutes |
 
-
-Rice: <input id="inputCalrose" type="number" style="width: 100px;" placeholder="grams" oninput="CalroseCalcHard(this.value)" onchange="CalroseCalcHard(this.value)">
-
-Water: <span id="outputWater"></span> mL
-
-Pour rice, followed by water, into the Instant Pot. Pressure cook on HIGH for 6 minutes; natural pressure release for 9 minutes; manual release the rest of the pressure. Fluff with fork and serve.
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-calrose-rice/#exp)
