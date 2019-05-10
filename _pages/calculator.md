@@ -8,7 +8,7 @@ permalink: /calculator/
 
 ### Calrose Rice (for harder, chewier rice)
 
-  Rice: <input id="inputFeet" type="number" maxlength="5" size="5" placeholder="grams" oninput="LengthConverter(this.value)" onchange="CalroseRice(this.value)">
+  Rice: <input id="inputCalrose" type="number" maxlength="5" size="5" placeholder="grams" oninput="CalroseRice(this.value)" onchange="CalroseRice(this.value)">
 
   Water: <span id="outputMeters"></span> mL
 
