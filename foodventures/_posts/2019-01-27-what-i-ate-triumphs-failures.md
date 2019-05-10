@@ -86,7 +86,9 @@ I made a smaller portion than normal, because for lunch we're eating on the comp
 
 ![the modern bowl at cactus club](/food/foodventures/images/cactus-club.jpg){:width="50%"}{: .image-right}
 
-Our office held a little social for the co-ops this term, which included grabbing lunch at the Cactus Club near our building. I ordered the only vegetarian option on the menu (it was a set menu so very few selections), which was this amazing yummy salad bowl with half a grilled avocado. I was sooo stuffed after this, and not in a good way... my fitted dress pants were a little uncomfortably tight the rest of the day. The plate was mostly full of veggies, but believe it or not, it ended up being a lot of food. Maybe the fries that I stole from my coworkers' plates contributed to how full I felt too.
+Our office held a little social for the co-ops this term, which included grabbing lunch at the Cactus Club near our building. I ordered the only vegetarian option on the menu (it was a set menu so very few selections), which was this amazing yummy salad bowl with half a grilled avocado. The avo was the best part, of course.
+
+I was sooo stuffed after this, and not in a good way... my fitted dress pants were a little uncomfortably tight the rest of the day. The plate was mostly full of veggies, but believe it or not, it ended up being a lot of food. Maybe the fries that I stole from my coworkers' plates contributed to how full I felt too.
 
 ## Friday: Visiting Waterloo
 
