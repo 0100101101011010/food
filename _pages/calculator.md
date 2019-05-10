@@ -19,7 +19,7 @@ input[type=text], input[type=number], select {
 
 ### Basmati Rice
 
-* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing with water.
+\* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing with water.
 
 |  | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
@@ -52,7 +52,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 ### Calrose Rice
 
-* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing with water.
+\* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing with water.
 
 |  | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
@@ -85,12 +85,13 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 ### Chickpeas (or Garbanzo Beans)
 
-* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing with water.
+\* Baking soda optional—produces more tender chickpeas (useful for hummus).
 
 |  | Unsoaked | Soaked 8+ hours |
 |--|----------|-----------------|
 | Dry chickpeas: | <input id="inputChickpea" type="number" placeholder="grams" oninput="ChickpeaUnsoaked(this.value)" onchange="ChickpeaUnsoaked(this.value)"> | <input id="inputChickpea" type="number" placeholder="grams" oninput="ChickpeaSoaked(this.value)" onchange="ChickpeaSoaked(this.value)"> |
 | Water: | <span id="outputChickpeaUnsoaked"></span> | <span id="outputChickpeaSoaked"></span> |
+| Baking Soda: | <span id="outputChickpeaUnsoaked1"></span> | <span id="outputChickpeaSoaked1"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | 40 minutes | 10 minutes |
 | Natural Pressure Release: | 10 minutes | 10 minutes |
@@ -98,13 +99,15 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 <script>
 function ChickpeaUnsoaked(valNum) {
-  document.getElementById("outputBasmatiHard").innerHTML = Math.round(valNum * 454 / 1500) + " mL";
+  document.getElementById("outputChickpeaUnsoaked").innerHTML = Math.round(valNum * 454 / 1500) + " mL";
+  document.getElementById("outputChickpeaSoaked1").innerHTML = Math.round(valNum * 454 / 1500) + " mL";
 }
 </script>
 
 <script>
 function ChickpeaSoaked(valNum) {
-  document.getElementById("outputBasmatiMed").innerHTML = Math.round(valNum * 454 / 1500) + " mL";
+  document.getElementById("outputChickpeaUnsoaked").innerHTML = Math.round(valNum * 454 / 1500) + " mL";
+  document.getElementById("outputChickpeaSoaked1").innerHTML = Math.round(valNum * 454 / 1500) + " mL";
 }
 </script>
 
@@ -114,4 +117,4 @@ function BasmatiSoft(valNum) {
 }
 </script>
 
-Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-basmati-rice/#exp)
+Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-pot-chickpeas/)
