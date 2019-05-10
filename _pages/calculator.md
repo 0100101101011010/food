@@ -19,7 +19,7 @@ input[type=text], input[type=number], select {
 
 ### Calrose Rice
 
-|  | Harder, chewier rice | Al dente | Softer, mushier rice |
+|  | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|----------|----------------------|
 | Rice: | <input id="inputCalrose" type="number" style="width: 100px;" placeholder="grams" oninput="CalroseCalcHard(this.value)" onchange="CalroseCalcHard(this.value)"> | <input id="inputCalrose" type="number" style="width: 100px;" placeholder="grams" oninput="CalroseCalcMed(this.value)" onchange="CalroseCalcMed(this.value)"> | <input id="inputCalrose" type="number" style="width: 100px;" placeholder="grams" oninput="CalroseCalcSoft(this.value)" onchange="CalroseCalcSoft(this.value)"> |
 | Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
