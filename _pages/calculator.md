@@ -6,7 +6,7 @@ permalink: /calculator/
 
 ## Instant Pot recipes
 
-### Calrose Rice (for harder, chewier rice)
+### Calrose Rice
 
 
 |  | Harder, chewier rice | Al dente | Softer, mushier rice |
