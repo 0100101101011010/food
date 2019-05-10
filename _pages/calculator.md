@@ -119,9 +119,9 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 
 |  | Low pressure (ideal) | High pressure |
 |--|----------------------|---------------|
-| Egg doneness: | <select id="inputEgg" oninput="EggLP(this.value)" onchange="EggLP(this.value)"> | <input id="inputEgg" oninput="EggHP(this.value)" onchange="EggHP(this.value)"> |
+| Egg doneness: | <select id="inputEgg" oninput="EggLP(this.value)" onchange="EggLP(this.value)"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Medium</option><option value="4">Mostly set</option><option value="5">Hard</option> | <select id="inputEgg" oninput="EggHP(this.value)" onchange="EggHP(this.value)"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Medium</option><option value="4">Mostly set</option><option value="5">Hard</option> |
 | Water: | 250 mL | 250 mL |
-| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Setting: | Pressure cook on LOW | Pressure cook on HIGH |
 | Cook Time: | <span id="outputEggLP"></span> | <span id="outputEggHP"></span> |
 | Natural Pressure Release: | 0 minutes | 0 minutes |
 {: .table .table-striped .table-hover}
