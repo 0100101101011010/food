@@ -25,13 +25,13 @@ function CalroseCalcHard(valNum) {
 
 <script>
 function CalroseCalcMed(valNum) {
-  document.getElementById("outputWaterMed").innerHTML = Math.round(valNum * 250 / 235);
+  document.getElementById("outputWaterMed").innerHTML = Math.round(valNum * 295 / 235);
 }
 </script>
 
 <script>
 function CalroseCalcSoft(valNum) {
-  document.getElementById("outputWaterSoft").innerHTML=Math.round(valNum * 250 / 235);
+  document.getElementById("outputWaterSoft").innerHTML=Math.round(valNum * 313 / 235);
 }
 </script>
 
