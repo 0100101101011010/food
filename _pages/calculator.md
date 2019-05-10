@@ -8,11 +8,6 @@ permalink: /calculator/
 
 ### Calrose Rice (for harder, chewier rice)
 
-<script>
-function CalroseCalcHard(valNum) {
-  document.getElementById("outputWater").innerHTML=Math.round(valNum * 250 / 235);
-}
-</script>
 
 |  | Harder, chewier rice | Al dente | Softer, mushier rice |
 |--|----------------------|----------|----------------------|
@@ -23,5 +18,10 @@ function CalroseCalcHard(valNum) {
 | Natural Pressure Release: | 9 minutes | 10 minutes | 10 minutes |
 {: .table .table-striped .table-hover}
 
+<script>
+function CalroseCalcHard(valNum) {
+  document.getElementById("outputWater").innerHTML=Math.round(valNum * 250 / 235);
+}
+</script>
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-calrose-rice/#exp)
