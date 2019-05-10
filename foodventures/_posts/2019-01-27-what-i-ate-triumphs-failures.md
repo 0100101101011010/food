@@ -13,14 +13,14 @@ keywords:
  - MealPrepSunday
  - plant-based
  - office lunches
-excerpt: "I didn't cook as much this week since I went back to Waterloo for the weekend and went out for every meal."
+excerpt: "Didn't cook as much this week since I went back to Waterloo for the weekend and went out for every meal. Lots of misses in the kitchen this week, but discovered a few bombshell successes too!!"
 img: /food/foodventures/images/jan-27-2019.jpg
 comments: "0"
 
 discussion_id: 2019-01-27
 ---
 
-Lots of misses in the kitchen this week, but discovered a few bombshell successes too!!
+Didn't cook as much this week since I went back to Waterloo for the weekend and went out for every meal. Lots of misses in the kitchen this week, but discovered a few bombshell successes too!!
 
 ## Monday:
 
@@ -60,15 +60,21 @@ I made the recipe the night before and brought it in for work. I was afraid the 
 
 Strangely, it left me starving after just a couple of hours, even though avocados are high in fat and tofu is high in protein. I thought it was nutritious enough to keep me feeling full for longer.
 
-![tofu grilled cheese](/food/foodventures/images/tofu-grilled-cheese.jpg){:width="50%"}{: .image-right}
+![tofu grilled cheese](/food/foodventures/images/tofu-grilled-cheese.jpg){:width="30%"}{: .image-left}
 
-After work, I whipped up a quick tofu "grilled cheese" in my waffle maker, roughly following a recipe from [Aloha Tofu](http://aloha-tofu.com/tofu-recipes/tofu-firm/grilled-cheese-sandwich/). Folks, I've got an announcement to make. Tofu does *not* taste good in everything. I love tofu and I love grilled cheese, but I think they go better separately.
+After work, I whipped up a quick tofu "grilled cheese" in my waffle maker using firm tofu and a few slices from a jalapeno cheddar cheese block, roughly following a recipe from [Aloha Tofu](http://aloha-tofu.com/tofu-recipes/tofu-firm/grilled-cheese-sandwich/).
 
-I can't describe what I find so off putting about this flavour combo, but there's a reason you don't see many *cheesy tofu* dishes. I prefer the pure "soy" taste of the tofu to remain unadulterated by the overpowering cheese.
+Folks, I've got an announcement to make. Tofu does *not* taste good in everything. I love tofu and I love grilled cheese, but I think they go better separately.
+
+I can't describe what I find so off putting about this flavour combo, but there may be a reason you don't see many *cheesy tofu* dishes. I prefer the pure "soy" taste of the tofu to remain unadulterated by the overpowering cheese.
 
 ![peanut butter oats](/food/foodventures/images/peanut-butter-oats.jpg){:width="50%"}{: .image-right}
 
-SO UNHEALTHY BUT SO YUMMY!!! This is literally the epitome of late-night snack: quick oats + peanut butter stirred together to form a calorifically delicious bowl of fat and carbs. The human brain comes up with amazing ideas when it's hungry. I will say that this much peanut butter this late at night makes me feel bloated the next day, so overall this was not a good idea. :-(
+I got hungry again a couple hours before bed, but I was too tired to cook anything, so I threw together two of my staple ingredients to create this peanut butter oats bowl.
+
+SO UNHEALTHY BUT SO YUMMY!!! This is literally the epitome of late-night snack: quick oats + crunchy peanut butter stirred together into a calorifically delicious bowl of fat and carbs. The human brain comes up with amazing ideas when it's hungry. I will say that this much peanut butter this late at night makes me feel bloated the next day, so overall this was not a good idea. :-(
+
+These days, I'm trying to fight my peanut butter addiction, but trying to avoid pb just seems to lead back to consuming ungodly amounts at one time. I tried swapping in some [PB&Me Powdered Peanut Butter](https://amzn.to/2VqjWSl), which is supposed to be healthier, but it tastes nothing like the real thing. So for now I haven't found any meaningful solution to this.
 
 ## Thursday: Matcha Overnight Oats and Cactus Club
 
@@ -77,3 +83,9 @@ SO UNHEALTHY BUT SO YUMMY!!! This is literally the epitome of late-night snack: 
 This is a matcha overnight oats recipe from [rachLmansfield](http://rachlmansfield.com/vanilla-matcha-overnight-oats/), and it's so cool because it has no sugar!! The matcha and cinnamon satisfied my dessert craving enough that I didn't miss the sweetness. I will be making this more often from now on, because I love matcha.
 
 ![the modern bowl at cactus club](/food/foodventures/images/cactus-club.jpg){:width="50%"}{: .image-right}
+
+Our office held a little social for the co-ops this term, which included eating lunch at the Cactus Club near our building.
+
+## Friday: Visiting Waterloo
+
+I went back to Waterloo this weekend, so this week's foodventures journal is getting cut short. I did no cooking at all and ate out a lot, but forgot to take pics. I promise I'm trying to get better at that!
