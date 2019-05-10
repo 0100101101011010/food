@@ -21,7 +21,7 @@ input[type=text], input[type=number], select {
 
 |  | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|----------|----------------------|
-| Rice: | <input id="inputVal" type="number" placeholder="grams" oninput="BasmatiHard(this.value)" onchange="BasmatiHard(this.value)"> | <input id="inputVal" type="number" placeholder="grams" oninput="BasmatiMed(this.value)" onchange="BasmatiMed(this.value)"> | <input id="inputVal" type="number" placeholder="grams" oninput="BasmatiSoft(this.value)" onchange="BasmatiSoft(this.value)"> |
+| Rice: | <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiHard(this.value)" onchange="BasmatiHard(this.value)"> | <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiMed(this.value)" onchange="BasmatiMed(this.value)"> | <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiSoft(this.value)" onchange="BasmatiSoft(this.value)"> |
 | Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | 6 minutes | 6 minutes | 6 minutes |
@@ -52,7 +52,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 |  | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|----------|----------------------|
-| Rice: | <input id="inputVal" type="number" placeholder="grams" oninput="CalroseCalcHard(this.value)" onchange="CalroseCalcHard(this.value)"> | <input id="inputVal" type="number" placeholder="grams" oninput="CalroseCalcMed(this.value)" onchange="CalroseCalcMed(this.value)"> | <input id="inputVal" type="number" placeholder="grams" oninput="CalroseCalcSoft(this.value)" onchange="CalroseCalcSoft(this.value)"> |
+| Rice: | <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalcHard(this.value)" onchange="CalroseCalcHard(this.value)"> | <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalcMed(this.value)" onchange="CalroseCalcMed(this.value)"> | <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalcSoft(this.value)" onchange="CalroseCalcSoft(this.value)"> |
 | Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | 6 minutes | 6 minutes | 6 minutes |
