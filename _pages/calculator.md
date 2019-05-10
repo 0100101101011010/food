@@ -8,12 +8,12 @@ permalink: /calculator/
 
 ### Calrose Rice (for harder, chewier rice)
 
-  Rice: <input id="inputCalrose" type="number" maxlength="5" size="5" placeholder="grams" oninput="CalroseRice(this.value)" onchange="CalroseRice(this.value)">
+  Rice: <input id="inputCalrose" type="number" maxlength="5" size="5" placeholder="grams" oninput="CalroseCalcHard(this.value)" onchange="CalroseCalcHard(this.value)">
 
   Water: <span id="outputWater"></span> mL
 
 <script>
-function CalroseRice(valNum) {
+function CalroseCalcHard(valNum) {
   document.getElementById("outputWater").innerHTML=Math.round(valNum * 250 / 235);
 }
 </script>
