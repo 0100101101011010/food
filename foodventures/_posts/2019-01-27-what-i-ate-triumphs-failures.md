@@ -82,9 +82,11 @@ These days, I'm trying to fight my peanut butter addiction, but trying to avoid 
 
 For breakfast on Thursday, I brought a matcha overnight oats recipe from [rachLmansfield](http://rachlmansfield.com/vanilla-matcha-overnight-oats/) to the office. It's so cool because it has no sugar!! The matcha and cinnamon satisfied my dessert craving enough that I didn't miss the sweetness, and the chia seeds gave it a gelatinous, pudding-like texture. I will be making this more often from now on, because I love matcha.
 
+I made a smaller portion than normal, because for lunch we're eating on the company card today! ;-)
+
 ![the modern bowl at cactus club](/food/foodventures/images/cactus-club.jpg){:width="50%"}{: .image-right}
 
-Our office held a little social for the co-ops this term, which included eating lunch at the Cactus Club near our building. I ordered the only vegetarian option on the menu (it was a set menu so very few selections), which was this amazing yummy salad bowl with half a grilled avocado. I was sooo stuffed after this, and not in a good way... my fitted dress pants were a little uncomfortably tight the rest of the day. The plate was mostly full of veggies, but believe it or not, it ended up being a lot of food. Maybe the fries that I stole from my coworkers' plates contributed to how full I felt too.
+Our office held a little social for the co-ops this term, which included grabbing lunch at the Cactus Club near our building. I ordered the only vegetarian option on the menu (it was a set menu so very few selections), which was this amazing yummy salad bowl with half a grilled avocado. I was sooo stuffed after this, and not in a good way... my fitted dress pants were a little uncomfortably tight the rest of the day. The plate was mostly full of veggies, but believe it or not, it ended up being a lot of food. Maybe the fries that I stole from my coworkers' plates contributed to how full I felt too.
 
 ## Friday: Visiting Waterloo
 
