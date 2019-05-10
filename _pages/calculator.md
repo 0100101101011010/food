@@ -131,7 +131,6 @@ function EggLP(valNum) {
   if (valNum == 1) {
     document.getElementById("outputEggLP").innerHTML = "6 minutes"
   }
-
 }
 </script>
 
