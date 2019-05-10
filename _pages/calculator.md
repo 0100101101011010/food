@@ -31,8 +31,8 @@ function CalroseCalcMed(valNum) {
 </script>
 
 <script>
-function CalroseCalcMed(valNum) {
-  document.getElementById("outputWaterMed").innerHTML=Math.round(valNum * 250 / 235);
+function CalroseCalcSoft(valNum) {
+  document.getElementById("outputWaterSoft").innerHTML=Math.round(valNum * 250 / 235);
 }
 </script>
 
