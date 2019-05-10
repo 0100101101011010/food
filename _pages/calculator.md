@@ -19,7 +19,7 @@ permalink: /calculator/
 
 <script>
 function CalroseCalcHard(valNum) {
-  document.getElementById("outputWaterHard").innerHTML = Math.round(valNum * 250 / 235);
+  document.getElementById("outputWaterHard").innerHTML = Math.round(valNum * 250 / 235) + "mL";
 }
 </script>
 
