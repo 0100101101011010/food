@@ -21,6 +21,7 @@ function CalroseCalcHard(valNum) {
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | 6 minutes | 6 minutes | 6 minutes |
 | Natural Pressure Release: | 9 minutes | 10 minutes | 10 minutes |
+{: .table .table-striped .table-hover}
 
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-calrose-rice/#exp)
