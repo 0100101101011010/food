@@ -19,6 +19,8 @@ input[type=text], input[type=number], select {
 
 ### Basmati Rice
 
+* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing with water.
+
 |  | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
 | Rice: | <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiHard(this.value)" onchange="BasmatiHard(this.value)"> | <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiMed(this.value)" onchange="BasmatiMed(this.value)"> | <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiSoft(this.value)" onchange="BasmatiSoft(this.value)"> |
@@ -46,9 +48,11 @@ function BasmatiSoft(valNum) {
 }
 </script>
 
-Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-calrose-rice/#exp)
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-basmati-rice/#exp)
 
 ### Calrose Rice
+
+* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing with water.
 
 |  | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
