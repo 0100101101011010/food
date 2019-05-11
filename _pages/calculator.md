@@ -132,12 +132,14 @@ function EggLP() {
   var valNum = document.getElementById("inputEggNum").value;
   var valOpt = document.getElementById("inputEggOpt").value;
   if (valOpt == 1) {
-    if (valNum == 1 || valNum == 2) {
+    if (valNum == 1 || valNum == 2 || valNum == 3) {
       document.getElementById("outputEggLP").innerHTML = "5 minutes"
-    } else if (valNum == 3 || valNum == 4) {
+    } else if (valNum == 4 || valNum == 5) {
       document.getElementById("outputEggLP").innerHTML = "4 minutes"
-    } else if (valNum == 5 || valNum == 6) {
+    } else if (valNum == 6 || valNum == 7) {
       document.getElementById("outputEggLP").innerHTML = "3 minutes"
+    } else if (valNum >= 8) {
+      document.getElementById("outputEggLP").innerHTML = "2 minutes (have not tested with 8 or more eggs)"
     }
   } else if (valOpt == 2) {
     document.getElementById("outputEggLP").innerHTML = "8 minutes"
@@ -146,7 +148,7 @@ function EggLP() {
   } else if (valOpt == 4) {
 
   } else if (valOpt == 5) {
-    
+
   } else {
     document.getElementById("outputEggLP").innerHTML = ""
   }
