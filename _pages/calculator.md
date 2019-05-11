@@ -217,23 +217,23 @@ function EggLoafCalc(valNum) {
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-kathy-egg-loaf/)
 
-### Oatmeal
+### Steel Cut Oats
 
-\* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
+\* Use cold water. You can pour in the oats and water the night before and set a delay timer; the overnight soaking won't affect the texture of the oats very much, but you can reduce the cook time by 1 minute if you want.
 
-| <input id="inputOatmeal" type="number" placeholder="Enter oats in grams" oninput="OatmealCalc(this.value)" onchange="OatmealCalc(this.value)"> | Thick, chewy | Just right | Moist, creamy |
+| <input id="inputSCOat" type="number" placeholder="Enter oats in grams" oninput="SCOatCalc(this.value)" onchange="SCOatCalc(this.value)"> | Thick, chewy | Just right | Moist, creamy |
 |--|----------------------|-----------------------|----------------------|
-| Water: | <span id="outputOatmealHard"></span> | <span id="outputOatmealMed"></span> | <span id="outputOatmealSoft"></span> |
+| Water: | <span id="outputSCOatHard"></span> | <span id="outputSCOatMed"></span> | <span id="outputSCOatSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | 10 minutes | 10 minutes | 20 minutes |
 | Natural Pressure Release: | full length | full length | full length |
 {: .table .table-striped .table-hover}
 
 <script>
-function OatmealCalc(valNum) {
-  document.getElementById("outputOatmealHard").innerHTML = Math.round(valNum * 250 / 80) + " mL";
-  document.getElementById("outputOatmealMed").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
-  document.getElementById("outputOatmealSoft").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
+function SCOatCalc(valNum) {
+  document.getElementById("outputSCOatHard").innerHTML = Math.round(valNum * 250 / 80) + " mL";
+  document.getElementById("outputSCOatMed").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
+  document.getElementById("outputSCOatSoft").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
 }
 </script>
 
