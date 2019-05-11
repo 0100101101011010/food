@@ -61,13 +61,12 @@ function CalroseCalc(valNum) {
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-calrose-rice/#exp)
 
-### Chickpeas (or Garbanzo Beans)
+### Chickpeas (or Garbanzo Beans), Dry
 
 \* Baking soda optional—produces more tender chickpeas (useful for hummus).
 
-|  | Unsoaked | Soaked 8+ hours |
+| <input id="inputChickpea" type="number" placeholder="Enter chickpeas in grams" oninput="ChickpeaCalc(this.value)" onchange="ChickpeaCalc(this.value)"> | Unsoaked | Soaked 8+ hours |
 |--|----------|-----------------|
-| Dry chickpeas: | <input id="inputChickpea" type="number" placeholder="grams" oninput="ChickpeaUnsoaked(this.value)" onchange="ChickpeaUnsoaked(this.value)"> | <input id="inputChickpea" type="number" placeholder="grams" oninput="ChickpeaSoaked(this.value)" onchange="ChickpeaSoaked(this.value)"> |
 | Water: | <span id="outputChickpeaUnsoaked"></span> | <span id="outputChickpeaSoaked"></span> |
 | Baking Soda: | <span id="outputChickpeaUnsoaked1"></span> | <span id="outputChickpeaSoaked1"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
@@ -76,14 +75,9 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 {: .table .table-striped .table-hover}
 
 <script>
-function ChickpeaUnsoaked(valNum) {
+function ChickpeaCalc(valNum) {
   document.getElementById("outputChickpeaUnsoaked").innerHTML = Math.round(valNum * 1500 / 454) + " mL";
   document.getElementById("outputChickpeaUnsoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
-}
-</script>
-
-<script>
-function ChickpeaSoaked(valNum) {
   document.getElementById("outputChickpeaSoaked").innerHTML = Math.round(valNum * 1250 / 454) + " mL";
   document.getElementById("outputChickpeaSoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
 }
