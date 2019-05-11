@@ -226,13 +226,55 @@ function EggHP() {
 }
 </script>
 
+|  | Egg Loaf |
+|--|----------|
+| Number of eggs: | <input id="inputEggLoaf" type="number" placeholder="eggs" oninput="EggLoafCalc(this.value)" onchange="EggLoafCalc(this.value)"> |
+| Water: | 250 mL |
+| Cook Setting: | Pressure cook on HIGH |
+| Cook Time: | 5 minutes |
+| Natural Pressure Release: | <span id="outputEggLoaf"></span> |
+{: .table .table-striped .table-hover}
+
 <script>
-function EggHP(valNum) {
-  document.getElementById("outputEggHP").innerHTML = Math.round(valNum * 1250 / 454) + " mL";
+function EggLoafCalc(valNum) {
+  document.getElementById("outputEggLoaf").innerHTML = Math.round(valNum * 9 / 12) + " minutes";
 }
 </script>
 
 Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-pot-chickpeas/)
+
+### Pasta
+
+\* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
+
+|  | Macaroni | Spaghetti | Softer, mushier rice |
+|--|----------------------|-----------------------|----------------------|
+| Pasta: | <input id="inputPasta" type="number" placeholder="grams" oninput="PastaCalcMac(this.value)" onchange="PastaCalcMac(this.value)"> | <input id="inputPasta" type="number" placeholder="grams" oninput="PastaCalcSpa(this.value)" onchange="PastaCalcSpa(this.value)"> | <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalcSoft(this.value)" onchange="CalroseCalcSoft(this.value)"> |
+| Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | 6 minutes | 6 minutes | 6 minutes |
+| Natural Pressure Release: | 9 minutes | 10 minutes | 10 minutes |
+{: .table .table-striped .table-hover}
+
+<script>
+function CalroseCalcHard(valNum) {
+  document.getElementById("outputWaterHard").innerHTML = Math.round(valNum * 250 / 235) + " mL";
+}
+</script>
+
+<script>
+function CalroseCalcMed(valNum) {
+  document.getElementById("outputWaterMed").innerHTML = Math.round(valNum * 295 / 235) + " mL";
+}
+</script>
+
+<script>
+function CalroseCalcSoft(valNum) {
+  document.getElementById("outputWaterSoft").innerHTML = Math.round(valNum * 312.5 / 235) + " mL";
+}
+</script>
+
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/pressure-cooker-mac-and-cheese/)
 
 ### Steamed Veggies
 
