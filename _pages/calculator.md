@@ -21,9 +21,8 @@ input[type=text], input[type=number], select {
 
 \* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
 
-|  | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
+| <input id="inputBasmati" type="number" placeholder="Enter rice in grams" oninput="BasmatiCalc(this.value)" onchange="BasmatiCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
-| Rice: | <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiHard(this.value)" onchange="BasmatiHard(this.value)"> | <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiMed(this.value)" onchange="BasmatiMed(this.value)"> | <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiSoft(this.value)" onchange="BasmatiSoft(this.value)"> |
 | Water: | <span id="outputBasmatiHard"></span> | <span id="outputBasmatiMed"></span> | <span id="outputBasmatiSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | 5 minutes | 6 minutes | 6 minutes |
@@ -31,19 +30,9 @@ input[type=text], input[type=number], select {
 {: .table .table-striped .table-hover}
 
 <script>
-function BasmatiHard(valNum) {
+function BasmatiCalc(valNum) {
   document.getElementById("outputBasmatiHard").innerHTML = Math.round(valNum * 250 / 210) + " mL";
-}
-</script>
-
-<script>
-function BasmatiMed(valNum) {
   document.getElementById("outputBasmatiMed").innerHTML = Math.round(valNum * 250 / 210) + " mL";
-}
-</script>
-
-<script>
-function BasmatiSoft(valNum) {
   document.getElementById("outputBasmatiSoft").innerHTML = Math.round(valNum * 312.5 / 210) + " mL";
 }
 </script>
