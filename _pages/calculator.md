@@ -226,7 +226,9 @@ function EggHP() {
 }
 </script>
 
-|  | Egg Loaf |
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/pressure-cooker-soft-hard-boiled-eggs/)
+
+|  | Egg Loaf (for salads, sandwiches, etc) |
 |--|----------|
 | Number of eggs: | <input id="inputEggLoaf" type="number" placeholder="eggs" oninput="EggLoafCalc(this.value)" onchange="EggLoafCalc(this.value)"> |
 | Water: | 250 mL |
@@ -241,7 +243,7 @@ function EggLoafCalc(valNum) {
 }
 </script>
 
-Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-pot-chickpeas/)
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-kathy-egg-loaf/)
 
 ### Pasta
 
