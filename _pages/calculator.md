@@ -239,7 +239,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/press
 
 <script>
 function EggLoafCalc(valNum) {
-  document.getElementById("outputEggLoaf").innerHTML = Math.round(5.9 * Math.log(valNum)) + " minutes";
+  document.getElementById("outputEggLoaf").innerHTML = Math.round(5.9 * Math.log10(valNum)) + " minutes";
 }
 </script>
 
@@ -259,7 +259,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 {: .table .table-striped .table-hover}
 
 <script>
-function CalroseCalcHard(valNum) {
+function PastaCalcMac(valNum) {
   document.getElementById("outputWaterHard").innerHTML = Math.round(valNum * 250 / 235) + " mL";
 }
 </script>
