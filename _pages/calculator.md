@@ -249,9 +249,8 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 \* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
 
-|  | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
+| <input id="inputCalrose" type="number" placeholder="Enter amount of rice (grams)" oninput="CalroseCalcHard(this.value); CalroseCalcMed(this.value); CalroseCalcSoft(this.value);" onchange="CalroseCalcHard(this.value); CalroseCalcMed(this.value); CalroseCalcSoft(this.value);"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
-| Rice: | <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalcHard(this.value)" onchange="CalroseCalcHard(this.value)"> | <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalcMed(this.value)" onchange="CalroseCalcMed(this.value)"> | <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalcSoft(this.value)" onchange="CalroseCalcSoft(this.value)"> |
 | Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | 6 minutes | 6 minutes | 6 minutes |
