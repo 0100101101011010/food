@@ -238,19 +238,19 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 \* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
 
-| <input id="inputCalrose" type="number" placeholder="Enter rice in grams" oninput="CalroseCalc(this.value)" onchange="CalroseCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
+| <input id="inputOatmeal" type="number" placeholder="Enter oats in grams" oninput="OatmealCalc(this.value)" onchange="OatmealCalc(this.value)"> | Thick, chewy | Just right | Moist, creamy |
 |--|----------------------|-----------------------|----------------------|
-| Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
+| Water: | <span id="outputOatmealHard"></span> | <span id="outputOatmealMed"></span> | <span id="outputOatmealSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
-| Cook Time: | 6 minutes | 6 minutes | 6 minutes |
-| Natural Pressure Release: | 9 minutes | 10 minutes | 10 minutes |
+| Cook Time: | 10 minutes | 10 minutes | 20 minutes |
+| Natural Pressure Release: | full length | full length | full length |
 {: .table .table-striped .table-hover}
 
 <script>
-function CalroseCalc(valNum) {
-  document.getElementById("outputWaterHard").innerHTML = Math.round(valNum * 250 / 235) + " mL";
-  document.getElementById("outputWaterMed").innerHTML = Math.round(valNum * 295 / 235) + " mL";
-  document.getElementById("outputWaterSoft").innerHTML = Math.round(valNum * 312.5 / 235) + " mL";
+function OatmealCalc(valNum) {
+  document.getElementById("outputOatmealHard").innerHTML = Math.round(valNum * 250 / 80) + " mL";
+  document.getElementById("outputOatmealMed").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
+  document.getElementById("outputOatmealSoft").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
 }
 </script>
 
