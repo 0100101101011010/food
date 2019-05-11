@@ -249,7 +249,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 \* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
 
-| <input id="inputCalrose" type="number" placeholder="Enter amount of rice (grams)" oninput="CalroseCalcHard(this.value); CalroseCalcMed(this.value); CalroseCalcSoft(this.value);" onchange="CalroseCalcHard(this.value); CalroseCalcMed(this.value); CalroseCalcSoft(this.value);"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
+| <input id="inputCalrose" type="number" placeholder="Enter amount of rice (grams)" oninput="CalroseCalc(this.value)" onchange="CalroseCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
 | Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
@@ -258,19 +258,9 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 {: .table .table-striped .table-hover}
 
 <script>
-function CalroseCalcHard(valNum) {
+function CalroseCalc(valNum) {
   document.getElementById("outputWaterHard").innerHTML = Math.round(valNum * 250 / 235) + " mL";
-}
-</script>
-
-<script>
-function CalroseCalcMed(valNum) {
   document.getElementById("outputWaterMed").innerHTML = Math.round(valNum * 295 / 235) + " mL";
-}
-</script>
-
-<script>
-function CalroseCalcSoft(valNum) {
   document.getElementById("outputWaterSoft").innerHTML = Math.round(valNum * 312.5 / 235) + " mL";
 }
 </script>
