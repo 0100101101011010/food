@@ -119,8 +119,8 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 
 |  | Low pressure (ideal) | High pressure |
 |--|----------------------|---------------|
-| Number of eggs: | <input id="inputEggNum" type="number" placeholder="eggs" oninput="EggLP()" onchange="EggLP()"> | <input id="inputEgg" type="number" placeholder="eggs" oninput="EggHP()" onchange="EggLP()"> |
-| Egg doneness: | <select id="inputEggOpt" oninput="EggLP()" onchange="EggLP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> | <select id="inputEgg" oninput="EggHP()" onchange="EggHP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> |
+| Number of eggs: | <input id="inputEggNumLP" type="number" placeholder="eggs" oninput="EggLP()" onchange="EggLP()"> | <input id="inputEggHP" type="number" placeholder="eggs" oninput="EggHP()" onchange="EggLP()"> |
+| Egg doneness: | <select id="inputEggOptLP" oninput="EggLP()" onchange="EggLP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> | <select id="inputEggHP" oninput="EggHP()" onchange="EggHP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> |
 | Water: | 250 mL | 250 mL |
 | Cook Setting: | Pressure cook on LOW | Pressure cook on HIGH |
 | Cook Time: | <span id="outputEggLP"></span> | <span id="outputEggHP"></span> |
@@ -129,8 +129,8 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 
 <script>
 function EggLP() {
-  var valNum = document.getElementById("inputEggNum").value;
-  var valOpt = document.getElementById("inputEggOpt").value;
+  var valNum = document.getElementById("inputEggNumLP").value;
+  var valOpt = document.getElementById("inputEggOptLP").value;
   if (valOpt == 1) {
     if (valNum == 1 || valNum == 2 || valNum == 3) {
       document.getElementById("outputEggLP").innerHTML = "5 minutes"
@@ -178,8 +178,8 @@ function EggLP() {
   }
 }
 function EggHP() {
-  var valNum = document.getElementById("inputEggNum").value;
-  var valOpt = document.getElementById("inputEggOpt").value;
+  var valNum = document.getElementById("inputEggNumHP").value;
+  var valOpt = document.getElementById("inputEggOptHP").value;
   if (valOpt == 1) {
     if (valNum == 1 || valNum == 2 || valNum == 3) {
       document.getElementById("outputEggHP").innerHTML = "3 minutes"
