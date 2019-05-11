@@ -229,7 +229,7 @@ function EggHP() {
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/pressure-cooker-soft-hard-boiled-eggs/)
 
 |  | Egg Loaf (for salads, sandwiches, etc) |
-|--|----------|
+|--|----------------------------------------|
 | Number of eggs: | <input id="inputEggLoaf" type="number" placeholder="eggs" oninput="EggLoafCalc(this.value)" onchange="EggLoafCalc(this.value)"> |
 | Water: | 250 mL |
 | Cook Setting: | Pressure cook on HIGH |
@@ -244,39 +244,6 @@ function EggLoafCalc(valNum) {
 </script>
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-kathy-egg-loaf/)
-
-### Pasta
-
-\* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
-
-|  | Macaroni | Spaghetti | Softer, mushier rice |
-|--|----------------------|-----------------------|----------------------|
-| Pasta: | <input id="inputPasta" type="number" placeholder="grams" oninput="PastaCalcMac(this.value)" onchange="PastaCalcMac(this.value)"> | <input id="inputPasta" type="number" placeholder="grams" oninput="PastaCalcSpa(this.value)" onchange="PastaCalcSpa(this.value)"> | <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalcSoft(this.value)" onchange="CalroseCalcSoft(this.value)"> |
-| Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
-| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
-| Cook Time: | 6 minutes | 6 minutes | 6 minutes |
-| Natural Pressure Release: | 9 minutes | 10 minutes | 10 minutes |
-{: .table .table-striped .table-hover}
-
-<script>
-function PastaCalcMac(valNum) {
-  document.getElementById("outputWaterHard").innerHTML = Math.round(valNum * 250 / 235) + " mL";
-}
-</script>
-
-<script>
-function CalroseCalcMed(valNum) {
-  document.getElementById("outputWaterMed").innerHTML = Math.round(valNum * 295 / 235) + " mL";
-}
-</script>
-
-<script>
-function CalroseCalcSoft(valNum) {
-  document.getElementById("outputWaterSoft").innerHTML = Math.round(valNum * 312.5 / 235) + " mL";
-}
-</script>
-
-Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/pressure-cooker-mac-and-cheese/)
 
 ### Steamed Veggies
 
