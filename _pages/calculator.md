@@ -7,7 +7,7 @@ permalink: /calculator/
 input[type=text], input[type=number], select {
   width: 100%;
   padding: 1px 2px;
-  margin: 4px 0;
+  margin: 2px 0;
   display: inline-block;
   border: 1px solid #ccc;
   border-radius: 4px;
