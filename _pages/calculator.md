@@ -119,7 +119,8 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 
 |  | Low pressure (ideal) | High pressure |
 |--|----------------------|---------------|
-| Egg doneness: | <select id="inputEgg" oninput="EggLP(this.value)" onchange="EggLP(this.value)"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Medium</option><option value="4">Mostly set</option><option value="5">Hard</option> | <select id="inputEgg" oninput="EggHP(this.value)" onchange="EggHP(this.value)"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Medium</option><option value="4">Mostly set</option><option value="5">Hard</option> |
+| Number of eggs: | <input id="inputEggNum" type="number" placeholder="eggs" oninput="EggLP()" onchange="EggLP()"> | <input id="inputEgg" type="number" placeholder="eggs" oninput="EggHP()" onchange="EggLP()"> |
+| Egg doneness: | <select id="inputEggOpt" oninput="EggLP()" onchange="EggLP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Medium</option><option value="4">Mostly set</option><option value="5">Hard</option></select> | <select id="inputEgg" oninput="EggHP()" onchange="EggHP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Medium</option><option value="4">Mostly set</option><option value="5">Hard</option></select> |
 | Water: | 250 mL | 250 mL |
 | Cook Setting: | Pressure cook on LOW | Pressure cook on HIGH |
 | Cook Time: | <span id="outputEggLP"></span> | <span id="outputEggHP"></span> |
@@ -127,9 +128,27 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 {: .table .table-striped .table-hover}
 
 <script>
-function EggLP(valNum) {
-  if (valNum == 1) {
-    document.getElementById("outputEggLP").innerHTML = "6 minutes"
+function EggLP() {
+  var valNum = document.getElementById("inputEggNum").value;
+  var valOpt = document.getElementById("inputEggOpt").value;
+  if (valOpt == 1) {
+    if (valNum == 1 || valNum == 2) {
+      document.getElementById("outputEggLP").innerHTML = "5 minutes"
+    } else if (valNum == 3 || valNum == 4) {
+      document.getElementById("outputEggLP").innerHTML = "4 minutes"
+    } else if (valNum == 5 || valNum == 6) {
+      document.getElementById("outputEggLP").innerHTML = "3 minutes"
+    }
+  } else if (valOpt == 2) {
+    document.getElementById("outputEggLP").innerHTML = "8 minutes"
+  } else if (valOpt == 3) {
+
+  } else if (valOpt == 4) {
+
+  } else if (valOpt == 5) {
+    
+  } else {
+    document.getElementById("outputEggLP").innerHTML = ""
   }
 }
 </script>
