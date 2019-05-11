@@ -234,7 +234,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/press
 | Water: | 250 mL |
 | Cook Setting: | Pressure cook on HIGH |
 | Cook Time: | <span id="outputEggLoaf"></span> |
-| Natural Pressure Release: | 9 min |
+| Natural Pressure Release: | 10 min |
 {: .table .table-striped .table-hover}
 
 <script>
