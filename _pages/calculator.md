@@ -21,7 +21,7 @@ input[type=text], input[type=number], select {
 
 \* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
 
-| <input id="inputBasmati" type="number" placeholder="Enter rice in grams" oninput="BasmatiCalc(this.value)" onchange="BasmatiCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
+| <smaller>Enter amount of rice:</smaller> <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiCalc(this.value)" onchange="BasmatiCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
 | Water: | <span id="outputBasmatiHard"></span> | <span id="outputBasmatiMed"></span> | <span id="outputBasmatiSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
