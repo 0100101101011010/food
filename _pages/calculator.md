@@ -233,13 +233,13 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/press
 | Number of eggs: | <input id="inputEggLoaf" type="number" placeholder="eggs" oninput="EggLoafCalc(this.value)" onchange="EggLoafCalc(this.value)"> |
 | Water: | 250 mL |
 | Cook Setting: | Pressure cook on HIGH |
-| Cook Time: | 5 minutes |
-| Natural Pressure Release: | <span id="outputEggLoaf"></span> |
+| Cook Time: | <span id="outputEggLoaf"></span> |
+| Natural Pressure Release: | 9 min |
 {: .table .table-striped .table-hover}
 
 <script>
 function EggLoafCalc(valNum) {
-  document.getElementById("outputEggLoaf").innerHTML = Math.round(valNum * 9 / 12) + " minutes";
+  document.getElementById("outputEggLoaf").innerHTML = Math.round(valNum * 5 / 12) + " minutes";
 }
 </script>
 
