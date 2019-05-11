@@ -152,7 +152,7 @@ function EggLP() {
       document.getElementById("outputEggLP").innerHTML = "3 minutes (have not tested with 8 or more eggs)"
     }
   } else if (valOpt == 3) {
-    if (valNum == 1 || valNum == 2 || valNum == 3) {
+    if (valNum == 1 || valNum == 2) {
       document.getElementById("outputEggLP").innerHTML = "13 minutes"
     } else if (valNum == 3) {
       document.getElementById("outputEggLP").innerHTML = "12 minutes"
