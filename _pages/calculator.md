@@ -239,7 +239,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/press
 
 <script>
 function EggLoafCalc(valNum) {
-  document.getElementById("outputEggLoaf").innerHTML = Math.round(5.9 * Math.log10(valNum)) + " minutes";
+  document.getElementById("outputEggLoaf").innerHTML = Math.round(1 + 5 * Math.log10(valNum)) + " minutes";
 }
 </script>
 
