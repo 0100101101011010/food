@@ -119,8 +119,8 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 
 |  | Low pressure (ideal) | High pressure |
 |--|----------------------|---------------|
-| Number of eggs: | <input id="inputEggNumLP" type="number" placeholder="eggs" oninput="EggLP()" onchange="EggLP()"> | <input id="inputEggHP" type="number" placeholder="eggs" oninput="EggHP()" onchange="EggHP()"> |
-| Egg doneness: | <select id="inputEggOptLP" oninput="EggLP()" onchange="EggLP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> | <select id="inputEggHP" oninput="EggHP()" onchange="EggHP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> |
+| Number of eggs: | <input id="inputEggNumLP" type="number" placeholder="eggs" oninput="EggLP()" onchange="EggLP()"> | <input id="inputEggNumHP" type="number" placeholder="eggs" oninput="EggHP()" onchange="EggHP()"> |
+| Egg doneness: | <select id="inputEggOptLP" oninput="EggLP()" onchange="EggLP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> | <select id="inputEggOptHP" oninput="EggHP()" onchange="EggHP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> |
 | Water: | 250 mL | 250 mL |
 | Cook Setting: | Pressure cook on LOW | Pressure cook on HIGH |
 | Cook Time: | <span id="outputEggLP"></span> | <span id="outputEggHP"></span> |
