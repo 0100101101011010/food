@@ -245,6 +245,39 @@ function EggLoafCalc(valNum) {
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-kathy-egg-loaf/)
 
+### Oatmeal
+
+\* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
+
+|  | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
+|--|----------------------|-----------------------|----------------------|
+| Rice: | <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalcHard(this.value)" onchange="CalroseCalcHard(this.value)"> | <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalcMed(this.value)" onchange="CalroseCalcMed(this.value)"> | <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalcSoft(this.value)" onchange="CalroseCalcSoft(this.value)"> |
+| Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | 6 minutes | 6 minutes | 6 minutes |
+| Natural Pressure Release: | 9 minutes | 10 minutes | 10 minutes |
+{: .table .table-striped .table-hover}
+
+<script>
+function CalroseCalcHard(valNum) {
+  document.getElementById("outputWaterHard").innerHTML = Math.round(valNum * 250 / 235) + " mL";
+}
+</script>
+
+<script>
+function CalroseCalcMed(valNum) {
+  document.getElementById("outputWaterMed").innerHTML = Math.round(valNum * 295 / 235) + " mL";
+}
+</script>
+
+<script>
+function CalroseCalcSoft(valNum) {
+  document.getElementById("outputWaterSoft").innerHTML = Math.round(valNum * 312.5 / 235) + " mL";
+}
+</script>
+
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-steel-cut-oats/)
+
 ### Steamed Veggies
 
 \* Baking soda optional—produces more tender chickpeas (useful for hummus).
