@@ -140,6 +140,8 @@ function EggLP() {
       document.getElementById("outputEggLP").innerHTML = "3 minutes"
     } else if (valNum >= 8) {
       document.getElementById("outputEggLP").innerHTML = "2 minutes (have not tested with 8 or more eggs)"
+    } else {
+      document.getElementById("outputEggLP").innerHTML = ""
     }
   } else if (valOpt == 2) {
     if (valNum == 1 || valNum == 2 || valNum == 3) {
@@ -150,6 +152,8 @@ function EggLP() {
       document.getElementById("outputEggLP").innerHTML = "4 minutes"
     } else if (valNum >= 8) {
       document.getElementById("outputEggLP").innerHTML = "3 minutes (have not tested with 8 or more eggs)"
+    } else {
+      document.getElementById("outputEggLP").innerHTML = ""
     }
   } else if (valOpt == 3) {
     if (valNum == 1 || valNum == 2) {
@@ -166,9 +170,58 @@ function EggLP() {
       document.getElementById("outputEggLP").innerHTML = "8 minutes"
     } else if (valNum >= 8) {
       document.getElementById("outputEggLP").innerHTML = "7 minutes (have not tested with 8 or more eggs)"
+    } else {
+      document.getElementById("outputEggLP").innerHTML = ""
     }
   } else {
     document.getElementById("outputEggLP").innerHTML = ""
+  }
+}
+function EggHP() {
+  var valNum = document.getElementById("inputEggNum").value;
+  var valOpt = document.getElementById("inputEggOpt").value;
+  if (valOpt == 1) {
+    if (valNum == 1 || valNum == 2 || valNum == 3) {
+      document.getElementById("outputEggHP").innerHTML = "3 minutes"
+    } else if (valNum == 4 || valNum == 5) {
+      document.getElementById("outputEggHP").innerHTML = "2 minutes"
+    } else if (valNum >= 6) {
+      document.getElementById("outputEggHP").innerHTML = "1 minute (have not tested with 6 or more eggs)"
+    } else {
+      document.getElementById("outputEggHP").innerHTML = ""
+    }
+  } else if (valOpt == 2) {
+    if (valNum == 1 || valNum == 2 || valNum == 3) {
+      document.getElementById("outputEggHP").innerHTML = "4 minutes"
+    } else if (valNum == 4 || valNum == 5) {
+      document.getElementById("outputEggHP").innerHTML = "3 minutes"
+    } else if (valNum == 6 || valNum == 7) {
+      document.getElementById("outputEggHP").innerHTML = "3 minutes"
+    } else if (valNum >= 8) {
+      document.getElementById("outputEggHP").innerHTML = "2 minutes (have not tested with 8 or more eggs)"
+    } else {
+      document.getElementById("outputEggHP").innerHTML = ""
+    }
+  } else if (valOpt == 3) {
+    if (valNum == 1 || valNum == 2) {
+      document.getElementById("outputEggHP").innerHTML = "8 minutes"
+    } else if (valNum == 3) {
+      document.getElementById("outputEggHP").innerHTML = "7 minutes"
+    } else if (valNum == 4) {
+      document.getElementById("outputEggHP").innerHTML = "7 minutes"
+    } else if (valNum == 5) {
+      document.getElementById("outputEggHP").innerHTML = "6 minutes"
+    } else if (valNum == 6) {
+      document.getElementById("outputEggHP").innerHTML = "6 minutes"
+    } else if (valNum == 7) {
+      document.getElementById("outputEggHP").innerHTML = "5 minutes"
+    } else if (valNum >= 8) {
+      document.getElementById("outputEggHP").innerHTML = "5 minutes (have not tested with 8 or more eggs)"
+    } else {
+      document.getElementById("outputEggHP").innerHTML = ""
+    }
+  } else {
+    document.getElementById("outputEggHP").innerHTML = ""
   }
 }
 </script>
