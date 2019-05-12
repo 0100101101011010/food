@@ -21,7 +21,7 @@ input[type=text], input[type=number], select {
 
 \* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
 
-| <sup>Enter amount of rice:</sup> <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiCalc(this.value)" onchange="BasmatiCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
+| <sup>Amount of rice:</sup> <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiCalc(this.value)" onchange="BasmatiCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
 | Water: | <span id="outputBasmatiHard"></span> | <span id="outputBasmatiMed"></span> | <span id="outputBasmatiSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
@@ -43,7 +43,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 \* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
 
-| <sup>Enter amount of rice:</sup> <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalc(this.value)" onchange="CalroseCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
+| <sup>Amount of rice:</sup> <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalc(this.value)" onchange="CalroseCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
 | Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
@@ -65,7 +65,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 \* Baking soda optional—produces more tender chickpeas (useful for hummus).
 
-| <sup>Enter amount of chickpeas:</sup> <input id="inputChickpea" type="number" placeholder="grams" oninput="ChickpeaCalc(this.value)" onchange="ChickpeaCalc(this.value)"> | Unsoaked | Soaked 8+ hours |
+| <sup>Amount of chickpeas:</sup> <input id="inputChickpea" type="number" placeholder="grams" oninput="ChickpeaCalc(this.value)" onchange="ChickpeaCalc(this.value)"> | Unsoaked | Soaked 8+ hours |
 |--|----------|-----------------|
 | Water: | <span id="outputChickpeaUnsoaked"></span> | <span id="outputChickpeaSoaked"></span> |
 | Baking Soda: | <span id="outputChickpeaUnsoaked1"></span> | <span id="outputChickpeaSoaked1"></span> |
@@ -216,7 +216,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 \* Use cold water. You can pour in the oats and water the night before and set a delay timer; the overnight soaking won't affect the texture of the oats very much, but you can reduce the cook time by 1 minute if you want.
 
-| <input id="inputSCOat" type="number" placeholder="Enter oats in grams" oninput="SCOatCalc(this.value)" onchange="SCOatCalc(this.value)"> | Thick, chewy | Just right | Moist, creamy |
+| <sup>Amount of oats:</sup> <input id="inputSCOat" type="number" placeholder="grams" oninput="SCOatCalc(this.value)" onchange="SCOatCalc(this.value)"> | Thick, chewy | Just right | Moist, creamy |
 |--|----------------------|-----------------------|----------------------|
 | Water: | <span id="outputSCOatHard"></span> | <span id="outputSCOatMed"></span> | <span id="outputSCOatSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
