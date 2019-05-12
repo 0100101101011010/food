@@ -43,7 +43,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 \* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
 
-| <input id="inputCalrose" type="number" placeholder="Enter rice in grams" oninput="CalroseCalc(this.value)" onchange="CalroseCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
+| <sup>Enter amount of rice:</sup> <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalc(this.value)" onchange="CalroseCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
 | Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
@@ -65,7 +65,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 \* Baking soda optional—produces more tender chickpeas (useful for hummus).
 
-| <input id="inputChickpea" type="number" placeholder="Enter chickpeas in grams" oninput="ChickpeaCalc(this.value)" onchange="ChickpeaCalc(this.value)"> | Unsoaked | Soaked 8+ hours |
+| <sup>Enter amount of chickpeas:</sup> <input id="inputChickpea" type="number" placeholder="grams" oninput="ChickpeaCalc(this.value)" onchange="ChickpeaCalc(this.value)"> | Unsoaked | Soaked 8+ hours |
 |--|----------|-----------------|
 | Water: | <span id="outputChickpeaUnsoaked"></span> | <span id="outputChickpeaSoaked"></span> |
 | Baking Soda: | <span id="outputChickpeaUnsoaked1"></span> | <span id="outputChickpeaSoaked1"></span> |
@@ -89,9 +89,8 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 
 \* Use cold water and cold eggs. Manually release pressure immediately and submerge eggs in a cold water bath as fast as possible.
 
-|  | Low pressure (ideal) | High pressure |
+| <sup>Enter amount of rice:</sup> <input id="inputEggNum" type="number" placeholder="eggs" oninput="EggCalc()" onchange="EggCalc()"> | Low pressure (ideal) | High pressure |
 |--|----------------------|---------------|
-| Number of eggs: | <input id="inputEggNumLP" type="number" placeholder="eggs" oninput="EggLP()" onchange="EggLP()"> | <input id="inputEggNumHP" type="number" placeholder="eggs" oninput="EggHP()" onchange="EggHP()"> |
 | Egg doneness: | <select id="inputEggOptLP" oninput="EggLP()" onchange="EggLP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> | <select id="inputEggOptHP" oninput="EggHP()" onchange="EggHP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> |
 | Water: | 250 mL | 250 mL |
 | Cook Setting: | Pressure cook on LOW | Pressure cook on HIGH |
@@ -100,9 +99,9 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 {: .table .table-striped .table-hover}
 
 <script>
-function EggLP() {
-  var valNum = document.getElementById("inputEggNumLP").value;
-  var valOpt = document.getElementById("inputEggOptLP").value;
+function EggCalc() {
+  var valNum = document.getElementById("inputEggNum").value;
+  var valOpt = document.getElementById("inputEggOpt").value;
   if (valOpt == 1) {
     if (valNum == 1 || valNum == 2 || valNum == 3) {
       document.getElementById("outputEggLP").innerHTML = "5 minutes"
@@ -148,10 +147,7 @@ function EggLP() {
   } else {
     document.getElementById("outputEggLP").innerHTML = ""
   }
-}
-function EggHP() {
-  var valNum = document.getElementById("inputEggNumHP").value;
-  var valOpt = document.getElementById("inputEggOptHP").value;
+
   if (valOpt == 1) {
     if (valNum == 1 || valNum == 2 || valNum == 3) {
       document.getElementById("outputEggHP").innerHTML = "3 minutes"
