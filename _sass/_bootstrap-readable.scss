@@ -2281,7 +2281,7 @@ pre code {
   }
 }
 table {
-  background-color: transparent;
+  background-color: #d8c3a5;
 }
 caption {
   padding-top: 8px;
@@ -2350,10 +2350,10 @@ th {
   border-bottom-width: 2px;
 }
 .table-striped > tbody > tr:nth-of-type(odd) {
-  background-color: #f9f9f9;
+  background-color: #e5e5e5;
 }
 .table-hover > tbody > tr:hover {
-  background-color: #f5f5f5;
+  background-color: transparent;
 }
 table col[class*="col-"] {
   position: static;
