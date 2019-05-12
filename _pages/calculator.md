@@ -89,9 +89,8 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 
 \* Use cold water and cold eggs. Manually release pressure immediately and submerge eggs in a cold water bath as fast as possible.
 
-| <sup>Enter amount of rice:</sup> <input id="inputEggNum" type="number" placeholder="eggs" oninput="EggCalc()" onchange="EggCalc()"> | Low pressure (ideal) | High pressure |
+| <sup>Enter numer of eggs and preferred doneness:</sup> <input id="inputEggNum" type="number" placeholder="eggs" oninput="EggCalc()" onchange="EggCalc()"> <select id="inputEggOpt" oninput="EggCalc()" onchange="EggCalc()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> | Low pressure (ideal) | High pressure |
 |--|----------------------|---------------|
-| Egg doneness: | <select id="inputEggOptLP" oninput="EggLP()" onchange="EggLP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> | <select id="inputEggOptHP" oninput="EggHP()" onchange="EggHP()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> |
 | Water: | 250 mL | 250 mL |
 | Cook Setting: | Pressure cook on LOW | Pressure cook on HIGH |
 | Cook Time: | <span id="outputEggLP"></span> | <span id="outputEggHP"></span> |
