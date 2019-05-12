@@ -27,7 +27,7 @@ input[type=text], input[type=number], select {
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | 5 minutes | 6 minutes | 6 minutes |
 | Natural Pressure Release: | 10 minutes | 10 minutes | 10 minutes |
-{: .table .table-striped .table-hover}
+{: .table .table-striped .table-hover .table-bordered}
 
 <script>
 function BasmatiCalc(valNum) {
