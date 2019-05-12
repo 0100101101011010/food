@@ -2281,7 +2281,7 @@ pre code {
   }
 }
 table {
-  background-color: #d8c3a5;
+  background-color: #ddcdb8;
 }
 caption {
   padding-top: 8px;
@@ -2350,10 +2350,10 @@ th {
   border-bottom-width: 2px;
 }
 .table-striped > tbody > tr:nth-of-type(odd) {
-  background-color: #e5e5e5;
+  background-color: #e9decf;
 }
 .table-hover > tbody > tr:hover {
-  background-color: transparent;
+  background-color: #eae7dc;
 }
 table col[class*="col-"] {
   position: static;
@@ -4228,7 +4228,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
   .navbar-collapse {
     width: auto;
-    border-top: 50px;
+    border-top: 0;
     -webkit-box-shadow: none;
             box-shadow: none;
   }
