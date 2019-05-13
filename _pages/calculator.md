@@ -253,7 +253,7 @@ Amount of veggies: <input id="inputVeggies" type="number" placeholder="grams" on
 | Natural Pressure Release: | 0 minutes | 0 minutes |
 {: .table .table-striped .table-hover}
 
-Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-brussels-sprouts/)
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-broccoli/)
 
 #### Brussels Sprouts
 
@@ -266,6 +266,30 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 {: .table .table-striped .table-hover}
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-brussels-sprouts/)
+
+#### Cauliflower
+
+|  | Crisp | Tender |
+|--------|--------|--------|
+| Water: | 250 mL | 250 mL |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | <span id="outputBrusselsHard"></span> | <span id="outputBrusselsSoft"></span> |
+| Natural Pressure Release: | 0 minutes | 0 minutes |
+{: .table .table-striped .table-hover}
+
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-cauliflower/)
+
+#### Spaghetti Squash
+
+|  | Crisp | Tender |
+|--------|--------|--------|
+| Water: | 250 mL | 250 mL |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | <span id="outputSpaghettiSquashHard"></span> | <span id="outputSpaghettiSquashSoft"></span> |
+| Natural Pressure Release: | 0 minutes | 0 minutes |
+{: .table .table-striped .table-hover}
+
+Recipe credit: [Pressure Cook Recipes](https://instantpoteats.com/instant-pot-101-how-to-cook-vegetables/)
 
 <script>
 function VeggieCalc(valNum) {
