@@ -239,30 +239,39 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 ### Steamed Veggies
 
-\* Baking soda optional—produces more tender chickpeas (useful for hummus).
+\* Times are for cooking on the trivet or steamer rack. This is preferable to steaming directly in the liquid because it retains more nutrients and cooks all vegetables evenly.
 
-|  | Unsoaked | Soaked 8+ hours |
-|--|----------|-----------------|
-| Dry chickpeas: | <input id="inputChickpea" type="number" placeholder="grams" oninput="ChickpeaUnsoaked(this.value)" onchange="ChickpeaUnsoaked(this.value)"> | <input id="inputChickpea" type="number" placeholder="grams" oninput="ChickpeaSoaked(this.value)" onchange="ChickpeaSoaked(this.value)"> |
-| Water: | <span id="outputChickpeaUnsoaked"></span> | <span id="outputChickpeaSoaked"></span> |
-| Baking Soda: | <span id="outputChickpeaUnsoaked1"></span> | <span id="outputChickpeaSoaked1"></span> |
+Amount of veggies: <input id="inputVeggies" type="number" placeholder="grams" oninput="VeggieCalc(this.value)" onchange="VeggieCalc(this.value)">
+
+#### Broccoli
+
+|  | Crisp | Tender |
+|--------|--------|--------|
+| Water: | 250 mL | 250 mL |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
-| Cook Time: | 40 minutes | 10 minutes |
-| Natural Pressure Release: | 10 minutes | 10 minutes |
+| Cook Time: | <span id="outputBroccoliHard"></span> | <span id="outputBroccoliSoft"></span> |
+| Natural Pressure Release: | 0 minutes | 0 minutes |
 {: .table .table-striped .table-hover}
 
-<script>
-function ChickpeaUnsoaked(valNum) {
-  document.getElementById("outputChickpeaUnsoaked").innerHTML = Math.round(valNum * 1500 / 454) + " mL";
-  document.getElementById("outputChickpeaUnsoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
-}
-</script>
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-brussels-sprouts/)
+
+#### Brussels Sprouts
+
+|  | Crisp | Tender |
+|--------|--------|--------|
+| Water: | 250 mL | 250 mL |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | <span id="outputBrusselsHard"></span> | <span id="outputBrusselsSoft"></span> |
+| Natural Pressure Release: | 0 minutes | 0 minutes |
+{: .table .table-striped .table-hover}
+
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-brussels-sprouts/)
 
 <script>
-function ChickpeaSoaked(valNum) {
-  document.getElementById("outputChickpeaSoaked").innerHTML = Math.round(valNum * 1250 / 454) + " mL";
-  document.getElementById("outputChickpeaSoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
+function VeggieCalc(valNum) {
+  document.getElementById("outputBroccoliHard").innerHTML = Math.round(valNum * 250 / 80) + " mL";
+  document.getElementById("outputBroccoliSoft").innerHTML = Math.round(valNum * 250 / 80) + " mL";
+  document.getElementById("outputBrusselsHard").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
+  document.getElementById("outputBrusselsSoft").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
 }
 </script>
-
-Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-pot-chickpeas/)
