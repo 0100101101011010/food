@@ -15,6 +15,7 @@ input[type=text], input[type=number], select {
 }
 </style>
 
+1. Table of Contents
 {:toc}
 
 ## Instant Pot recipes
