@@ -15,6 +15,8 @@ input[type=text], input[type=number], select {
 }
 </style>
 
+{:toc}
+
 ## Instant Pot recipes
 
 ### Basmati Rice
