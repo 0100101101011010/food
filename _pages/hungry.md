@@ -3,11 +3,6 @@ layout: page
 title: Hungry?
 permalink: /hungry
 ---
+ log the food first
 
-{% mermaid %}
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-{% endmermaid %}
+ now eat and enjoy!

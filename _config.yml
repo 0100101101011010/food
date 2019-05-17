@@ -95,10 +95,6 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-mermaid
-
-mermaid:
-  src: 'https://cdn.rawgit.com/knsv/mermaid/6.0.0/dist/mermaid.min.js'
 
 plugins: [jekyll-paginate, jekyll-seo-tag]
 
