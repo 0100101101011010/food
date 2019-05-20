@@ -301,8 +301,8 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 <script>
 function VeggieCalc(valNum) {
-  if ((valNum - 500)/-350 < 0) {
-    document.getElementById("outputBroccoliHard").innerHTML = "steaming this large quantity of veggies is not recommended"
+  if ((valNum - 500)/-350 < 0 || (valNum - 500)/-350 > 5) {
+    document.getElementById("outputBroccoliHard").innerHTML = "not recommended"
   } else if ((valNum - 500)/-350 > 0) {
     document.getElementById("outputBroccoliHard").innerHTML = Math.round((valNum - 500) / -350) + " minutes";
   } else {
@@ -310,7 +310,7 @@ function VeggieCalc(valNum) {
   }
 
   if ((valNum - 900)/-380 < 0) {
-    document.getElementById("outputBroccoliSoft").innerHTML = "steaming this large quantity of veggies is not recommended"
+    document.getElementById("outputBroccoliSoft").innerHTML = "not recommended"
   } else if ((valNum - 900)/-380 > 0) {
     document.getElementById("outputBroccoliSoft").innerHTML = Math.round((valNum - 900) / -380) + " minutes";
   } else {
