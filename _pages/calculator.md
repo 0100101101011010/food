@@ -301,7 +301,12 @@ function VeggieCalc(valNum) {
     document.getElementById("outputBroccoliHard").innerHTML = Math.round((valNum - 500) / -350) + " minutes";
   }
 
-  document.getElementById("outputBroccoliSoft").innerHTML = Math.round((valNum - 900) / -380) + " minutes";
+  if ((valNum - 900)/-380 < 0) {
+    document.getElementById("outputBroccoliHard").innerHTML = "steaming this large quantity of veggies is not recommended"
+  } else {
+    document.getElementById("outputBroccoliSoft").innerHTML = Math.round((valNum - 900) / -380) + " minutes";
+  }
+
   document.getElementById("outputBrusselsHard").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
   document.getElementById("outputBrusselsSoft").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
 }
