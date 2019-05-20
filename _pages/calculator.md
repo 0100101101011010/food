@@ -249,7 +249,7 @@ Amount of veggies: <input id="inputVeggies" type="number" placeholder="grams" on
 
 |  | Crisp | Tender |
 |--------|--------|--------|
-| Water: | 250 mL | 250 mL |
+| Water: | 125 mL | 125 mL |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | <span id="outputBroccoliHard"></span> | <span id="outputBroccoliSoft"></span> |
 | Natural Pressure Release: | 0 minutes | 0 minutes |
@@ -295,7 +295,7 @@ Recipe credit: [Pressure Cook Recipes](https://instantpoteats.com/instant-pot-10
 
 <script>
 function VeggieCalc(valNum) {
-  document.getElementById("outputBroccoliHard").innerHTML = Math.round(valNum * 250 / 80) + " mL";
+  document.getElementById("outputBroccoliHard").innerHTML = Math.round(-Math.abs(valNum) * 380 + 900) + " minutes";
   document.getElementById("outputBroccoliSoft").innerHTML = Math.round(valNum * 250 / 80) + " mL";
   document.getElementById("outputBrusselsHard").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
   document.getElementById("outputBrusselsSoft").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
