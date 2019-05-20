@@ -317,7 +317,7 @@ function VeggieCalc(valNum) {
     document.getElementById("outputBroccoliSoft").innerHTML = "";
   }
 
-  if ( -(Math.log10(valNum)) + 4.5 <= 0.5) {
+  if ( -(Math.log10(valNum)) + 4.5 <= 0.5 || -(Math.log10(valNum)) + 4.5 >= 5 ) {
     document.getElementById("outputBrusselsHard").innerHTML = "not recommended"
   } else if ( -(Math.log10(valNum)) + 4.5 > 0.5) {
     document.getElementById("outputBrusselsHard").innerHTML = Math.round(( -(Math.log10(valNum)) + 4.5)) + " minutes";
@@ -325,7 +325,7 @@ function VeggieCalc(valNum) {
     document.getElementById("outputBrusselsHard").innerHTML = "";
   }
 
-  if ( -(Math.log10(valNum)) + 5.5 <= 0.5) {
+  if ( -(Math.log10(valNum)) + 5.5 <= 0.5 ||  -(Math.log10(valNum)) + 5.5 >= 5) {
     document.getElementById("outputBrusselsSoft").innerHTML = "not recommended"
   } else if ( -(Math.log10(valNum)) + 5.5 > 0.5) {
     document.getElementById("outputBrusselsSoft").innerHTML = Math.round(( -(Math.log10(valNum)) + 5.5)) + " minutes";
