@@ -114,7 +114,7 @@ function EggCalc() {
     } else if (valNum == 6 || valNum == 7) {
       document.getElementById("outputEggLP").innerHTML = "2 minutes"
     } else if (valNum >= 8) {
-      document.getElementById("outputEggLP").innerHTML = "have not tested with 8 or more eggs)"
+      document.getElementById("outputEggLP").innerHTML = "not tested with 8 or more eggs"
     } else {
       document.getElementById("outputEggLP").innerHTML = ""
     }
@@ -126,7 +126,7 @@ function EggCalc() {
     } else if (valNum == 6 || valNum == 7) {
       document.getElementById("outputEggLP").innerHTML = "3 minutes"
     } else if (valNum >= 8) {
-      document.getElementById("outputEggLP").innerHTML = "have not tested with 8 or more eggs"
+      document.getElementById("outputEggLP").innerHTML = "not tested with 8 or more eggs"
     } else {
       document.getElementById("outputEggLP").innerHTML = ""
     }
@@ -144,7 +144,7 @@ function EggCalc() {
     } else if (valNum == 7) {
       document.getElementById("outputEggLP").innerHTML = "8 minutes"
     } else if (valNum >= 8) {
-      document.getElementById("outputEggLP").innerHTML = "7 minutes (have not tested with 8 or more eggs)"
+      document.getElementById("outputEggLP").innerHTML = "not tested with 8 or more eggs"
     } else {
       document.getElementById("outputEggLP").innerHTML = ""
     }
@@ -158,7 +158,7 @@ function EggCalc() {
     } else if (valNum == 4 || valNum == 5) {
       document.getElementById("outputEggHP").innerHTML = "2 minutes"
     } else if (valNum >= 6) {
-      document.getElementById("outputEggHP").innerHTML = "1 minute (have not tested with 6 or more eggs)"
+      document.getElementById("outputEggHP").innerHTML = "not tested with 6 or more eggs"
     } else {
       document.getElementById("outputEggHP").innerHTML = ""
     }
@@ -170,7 +170,7 @@ function EggCalc() {
     } else if (valNum == 6 || valNum == 7) {
       document.getElementById("outputEggHP").innerHTML = "3 minutes"
     } else if (valNum >= 8) {
-      document.getElementById("outputEggHP").innerHTML = "2 minutes (have not tested with 8 or more eggs)"
+      document.getElementById("outputEggHP").innerHTML = "not tested with 8 or more eggs"
     } else {
       document.getElementById("outputEggHP").innerHTML = ""
     }
@@ -188,7 +188,7 @@ function EggCalc() {
     } else if (valNum == 7) {
       document.getElementById("outputEggHP").innerHTML = "5 minutes"
     } else if (valNum >= 8) {
-      document.getElementById("outputEggHP").innerHTML = "5 minutes (have not tested with 8 or more eggs)"
+      document.getElementById("outputEggHP").innerHTML = "not tested with 8 or more eggs"
     } else {
       document.getElementById("outputEggHP").innerHTML = ""
     }
@@ -285,14 +285,18 @@ Recipe credit: [Pressure Cook Recipes](https://instantpoteats.com/instant-pot-10
 function VeggieCalc(valNum) {
   if ((valNum - 500)/-350 < 0) {
     document.getElementById("outputBroccoliHard").innerHTML = "steaming this large quantity of veggies is not recommended"
-  } else {
+  } else if ((valNum - 500)/-350 > 0) {
     document.getElementById("outputBroccoliHard").innerHTML = Math.round((valNum - 500) / -350) + " minutes";
+  } else {
+    document.getElementById("outputBroccoliHard").innerHTML = "";
   }
 
   if ((valNum - 900)/-380 < 0) {
     document.getElementById("outputBroccoliSoft").innerHTML = "steaming this large quantity of veggies is not recommended"
-  } else {
+  } else if ((valNum - 900)/-380 > 0) {
     document.getElementById("outputBroccoliSoft").innerHTML = Math.round((valNum - 900) / -380) + " minutes";
+  } else {
+    document.getElementById("outputBroccoliSoft").innerHTML = "";
   }
 
   document.getElementById("outputBrusselsHard").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
