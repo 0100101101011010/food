@@ -247,7 +247,7 @@ Amount of veggies: <input id="inputVeggies" type="number" placeholder="grams" on
 
 #### Broccoli or Cauliflower
 
-|  | Crisp | Tender |
+|  | Crunchy | Tender |
 |--------|--------|--------|
 | Water: | 125 mL | 125 mL |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
@@ -259,7 +259,7 @@ Recipe credit: [Pressure Cook Recipes (Broccoli)](https://www.pressurecookrecipe
 
 #### Brussels Sprouts
 
-|  | Crisp | Tender |
+|  | Crunchy | Tender |
 |--------|--------|--------|
 | Water: | 250 mL | 250 mL |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
