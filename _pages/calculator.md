@@ -295,7 +295,12 @@ Recipe credit: [Pressure Cook Recipes](https://instantpoteats.com/instant-pot-10
 
 <script>
 function VeggieCalc(valNum) {
-  document.getElementById("outputBroccoliHard").innerHTML = Math.round((valNum - 500) / -350) + " minutes";
+  if ((valNum - 500)/-350 < 0) {
+    document.getElementById("outputBroccoliHard").innerHTML = "the amount of veggies is not recommended"
+  } else {
+    document.getElementById("outputBroccoliHard").innerHTML = Math.round((valNum - 500) / -350) + " minutes";
+  }
+
   document.getElementById("outputBroccoliSoft").innerHTML = Math.round((valNum - 900) / -380) + " minutes";
   document.getElementById("outputBrusselsHard").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
   document.getElementById("outputBrusselsSoft").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
