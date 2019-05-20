@@ -239,7 +239,7 @@ function SCOatCalc(valNum) {
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-steel-cut-oats/)
 
-### Steamed Veggies
+### Steamed Vegetables
 
 \* Times are for cooking on the trivet or steamer rack. This is preferable to steaming directly in the liquid because it retains more nutrients and cooks all vegetables evenly. Note that you may also use the *Steam* function if your Instant Pot has it ([using a trivet is essential if you are using Steam](https://www.reddit.com/r/instantpot/comments/8cyfhk/what_is_the_functional_difference_between_the/)).
 
@@ -270,6 +270,18 @@ Recipe credit: [Pressure Cook Recipes (Broccoli)](https://www.pressurecookrecipe
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-brussels-sprouts/)
 
 #### Spaghetti Squash
+
+|  | Crisp | Tender |
+|--------|--------|--------|
+| Water: | 250 mL | 250 mL |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | <span id="outputSpaghettiSquashHard"></span> | <span id="outputSpaghettiSquashSoft"></span> |
+| Natural Pressure Release: | 0 minutes | 0 minutes |
+{: .table .table-striped .table-hover}
+
+Recipe credit: [Pressure Cook Recipes](https://instantpoteats.com/instant-pot-101-how-to-cook-vegetables/)
+
+#### Sweet Potato
 
 |  | Crisp | Tender |
 |--------|--------|--------|
