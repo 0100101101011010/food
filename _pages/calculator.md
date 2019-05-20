@@ -20,6 +20,8 @@ input[type=text], input[type=number], select {
 
 ## Instant Pot recipes
 
+Note: It may be helpful to weigh your inner pot by itself and keep the number handy, for instance if you forget to weigh something before you put it in the pot, you can use subtraction to work backwards and figure it out. For reference, the inner pot of my Instant Pot Viva 6 Qt (pretty much similar to IP Duo) is **843 g**.
+
 ### Basmati Rice
 
 \* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
