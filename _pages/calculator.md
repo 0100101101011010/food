@@ -22,9 +22,11 @@ input[type=text], input[type=number], select {
 
 Note: It may be helpful to weigh your inner pot by itself and keep the number handy, for instance if you forget to weigh something before you put it in the pot, you can use subtraction to work backwards and figure it out. For reference, the inner pot of my Instant Pot Viva 6 Qt (pretty much similar to IP Duo) is **843 g**.
 
+\* Use cold tap water for all recipes unless otherwise stated.
+
 ### Basmati Rice
 
-\* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
+\* If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water, as the water absorbed by the rice should be counted as part of the water volumes below.
 
 | <sup>Amount of rice:</sup> <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiCalc(this.value)" onchange="BasmatiCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
@@ -46,7 +48,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 ### Calrose Rice
 
-\* Use cold water and *unrinsed* rice. If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water.
+\* If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water, as the water absorbed by the rice should be counted as part of the water volumes below.
 
 | <sup>Amount of rice:</sup> <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalc(this.value)" onchange="CalroseCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
 |--|----------------------|-----------------------|----------------------|
@@ -92,7 +94,7 @@ Recipe credit: [Sweet Peas and Saffron](https://sweetpeasandsaffron.com/instant-
 
 ### Eggs
 
-\* Use cold water and cold eggs. Manually release pressure immediately and submerge eggs in a cold water bath as fast as possible.
+\* Use cold eggs. Manually release pressure immediately and submerge eggs in a cold water bath as fast as possible.
 
 | <sup>Number of eggs and preferred doneness:</sup> <input id="inputEggNum" type="number" placeholder="eggs" oninput="EggCalc()" onchange="EggCalc()"> <select id="inputEggOpt" oninput="EggCalc()" onchange="EggCalc()"><option value="1">Runny</option><option value="2">Soft</option><option value="3">Hard</option></select> | Low pressure (ideal) | High pressure |
 |--------|--------|--------|
@@ -219,7 +221,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 ### Steel Cut Oats
 
-\* Use cold water. You can pour in the oats and water the night before and set a delay timer; the overnight soaking won't affect the texture of the oats very much, but you can reduce the cook time by 1 minute if you want.
+\* You can pour in the oats and water the night before and set a delay timer; the overnight soaking won't affect the texture of the oats very much, but you can reduce the cook time by 1 minute if you want.
 
 | <sup>Amount of oats:</sup> <input id="inputSCOat" type="number" placeholder="grams" oninput="SCOatCalc(this.value)" onchange="SCOatCalc(this.value)"> | Thick, chewy | Just right | Moist, creamy |
 |--|----------------------|-----------------------|----------------------|
