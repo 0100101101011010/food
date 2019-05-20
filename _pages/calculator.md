@@ -83,9 +83,9 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 <script>
 function ChickpeaCalc(valNum) {
-  document.getElementById("outputChickpeaUnsoaked").innerHTML = Math.round(valNum * 1500 / 454) + " mL";
+  document.getElementById("outputChickpeaUnsoaked").innerHTML = Math.round(valNum * 1250 / 454) + " mL";
   document.getElementById("outputChickpeaUnsoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
-  document.getElementById("outputChickpeaSoaked").innerHTML = Math.round(valNum * 1250 / 454) + " mL";
+  document.getElementById("outputChickpeaSoaked").innerHTML = Math.round(valNum * 1000 / 454) + " mL";
   document.getElementById("outputChickpeaSoaked1").innerHTML = Math.round(valNum * 6 / 454) + " g";
 }
 </script>
