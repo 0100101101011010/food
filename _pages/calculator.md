@@ -312,17 +312,17 @@ function VeggieCalc(valNum) {
   }
 
   if ( -(Math.log10(valNum)) + 4.5 <= 0.5) {
-    document.getElementById("outputBrusselsHard").innerHTML = "steaming this large quantity of veggies is not recommended"
+    document.getElementById("outputBrusselsHard").innerHTML = "not recommended"
   } else if ( -(Math.log10(valNum)) + 4.5 > 0.5) {
     document.getElementById("outputBrusselsHard").innerHTML = ( -(Math.log10(valNum)) + 4.5) + " minutes";
   } else {
     document.getElementById("outputBrusselsHard").innerHTML = "";
   }
 
-  if ((valNum - 900)/-380 < 0) {
-    document.getElementById("outputBrusselsSoft").innerHTML = "steaming this large quantity of veggies is not recommended"
-  } else if ((valNum - 900)/-380 > 0) {
-    document.getElementById("outputBrusselsSoft").innerHTML = Math.round((valNum - 900) / -380) + " minutes";
+  if ( -(Math.log10(valNum)) + 5.5 <= 0.5) {
+    document.getElementById("outputBrusselsSoft").innerHTML = "not recommended"
+  } else if ( -(Math.log10(valNum)) + 5.5 > 0.5) {
+    document.getElementById("outputBrusselsSoft").innerHTML = ( -(Math.log10(valNum)) + 5.5) + " minutes";
   } else {
     document.getElementById("outputBrusselsSoft").innerHTML = "";
   }
