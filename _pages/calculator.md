@@ -273,12 +273,14 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 #### Spaghetti Squash
 
-|  | Crisp | Tender |
+\* Slice in half cross-wise or length-wise before pressure cooking.
+
+|  | Firm (al dente) | Soft (well done) |
 |--------|--------|--------|
 | Water: | 250 mL | 250 mL |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
-| Cook Time: | <span id="outputSpaghettiSquashHard"></span> | <span id="outputSpaghettiSquashSoft"></span> |
-| Natural Pressure Release: | 0 minutes | 0 minutes |
+| Cook Time: | 7 minutes | 7 minutes |
+| Natural Pressure Release: | 0 minutes | 5 minutes |
 {: .table .table-striped .table-hover}
 
 Recipe credit: [Instant Pot Eats](https://instantpoteats.com/instant-pot-101-how-to-cook-vegetables/)
