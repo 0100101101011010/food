@@ -296,7 +296,7 @@ Recipe credit: [Pressure Cook Recipes](https://instantpoteats.com/instant-pot-10
 <script>
 function VeggieCalc(valNum) {
   if ((valNum - 500)/-350 < 0) {
-    document.getElementById("outputBroccoliHard").innerHTML = "the amount of veggies is not recommended"
+    document.getElementById("outputBroccoliHard").innerHTML = "steaming this large quantity of veggies is not recommended"
   } else {
     document.getElementById("outputBroccoliHard").innerHTML = Math.round((valNum - 500) / -350) + " minutes";
   }
