@@ -241,7 +241,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 ### Steamed Veggies
 
-\* Times are for cooking on the trivet or steamer rack. This is preferable to steaming directly in the liquid because it retains more nutrients and cooks all vegetables evenly.
+\* Times are for cooking on the trivet or steamer rack. This is preferable to steaming directly in the liquid because it retains more nutrients and cooks all vegetables evenly. Note that you may also use the *Steam* function if your Instant Pot has it ([using a trivet is essential if you are using Steam](https://www.reddit.com/r/instantpot/comments/8cyfhk/what_is_the_functional_difference_between_the/)).
 
 Amount of veggies: <input id="inputVeggies" type="number" placeholder="grams" oninput="VeggieCalc(this.value)" onchange="VeggieCalc(this.value)">
 
