@@ -245,7 +245,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 Amount of veggies: <input id="inputVeggies" type="number" placeholder="grams" oninput="VeggieCalc(this.value)" onchange="VeggieCalc(this.value)">
 
-#### Broccoli
+#### Broccoli or Cauliflower
 
 |  | Crisp | Tender |
 |--------|--------|--------|
@@ -255,7 +255,7 @@ Amount of veggies: <input id="inputVeggies" type="number" placeholder="grams" on
 | Natural Pressure Release: | 0 minutes | 0 minutes |
 {: .table .table-striped .table-hover}
 
-Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-broccoli/)
+Recipe credit: [Pressure Cook Recipes (Broccoli)](https://www.pressurecookrecipes.com/instant-pot-broccoli/) and [Pressure Cook Recipes (Cauliflower)](https://www.pressurecookrecipes.com/instant-pot-cauliflower/)
 
 #### Brussels Sprouts
 
@@ -268,18 +268,6 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 {: .table .table-striped .table-hover}
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-brussels-sprouts/)
-
-#### Cauliflower
-
-|  | Crisp | Tender |
-|--------|--------|--------|
-| Water: | 250 mL | 250 mL |
-| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
-| Cook Time: | <span id="outputBrusselsHard"></span> | <span id="outputBrusselsSoft"></span> |
-| Natural Pressure Release: | 0 minutes | 0 minutes |
-{: .table .table-striped .table-hover}
-
-Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-cauliflower/)
 
 #### Spaghetti Squash
 
