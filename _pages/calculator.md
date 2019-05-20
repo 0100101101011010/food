@@ -285,7 +285,7 @@ Recipe credit: [Instant Pot Eats](https://instantpoteats.com/instant-pot-101-how
 
 #### Sweet Potato
 
-\* Sweet potato cooking times are more size-dependent than weight-dependent. You can slice larger sweet potatoes in half to effectively reduce their circumference and reduce cooking time.
+\* Sweet potato cooking times are more size-dependent than weight-dependent. Pierce skins in several places with a fork or toothpick before pressure cooking. You can slice larger sweet potatoes in half to effectively reduce their circumference and reduce cooking time.
 
 | Circumference: | 6 inch | 8 inch | 10 inch | 12 inch |
 |--|--|--|--|--|
