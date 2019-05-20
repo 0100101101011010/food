@@ -302,7 +302,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 <script>
 function VeggieCalc(valNum) {
 
-  if (valNum < 0) {
+  if (valNum <= 0) {
     document.getElementById("outputBroccoliHard").innerHTML = "";
     document.getElementById("outputBroccoliSoft").innerHTML = "";
     document.getElementById("outputBrusselsHard").innerHTML = "";
