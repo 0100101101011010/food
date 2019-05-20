@@ -112,9 +112,9 @@ function EggCalc() {
     } else if (valNum == 4 || valNum == 5) {
       document.getElementById("outputEggLP").innerHTML = "4 minutes"
     } else if (valNum == 6 || valNum == 7) {
-      document.getElementById("outputEggLP").innerHTML = "3 minutes"
+      document.getElementById("outputEggLP").innerHTML = "2 minutes"
     } else if (valNum >= 8) {
-      document.getElementById("outputEggLP").innerHTML = "2 minutes (have not tested with 8 or more eggs)"
+      document.getElementById("outputEggLP").innerHTML = "have not tested with 8 or more eggs)"
     } else {
       document.getElementById("outputEggLP").innerHTML = ""
     }
