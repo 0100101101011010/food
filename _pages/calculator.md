@@ -287,7 +287,7 @@ Recipe credit: [Pressure Cook Recipes](https://instantpoteats.com/instant-pot-10
 |--------|--------|--------|
 | Water: | 250 mL | 250 mL |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
-| Cook Time: | <span id="outputSpaghettiSquashHard"></span> | <span id="outputSpaghettiSquashSoft"></span> |
+| Cook Time: | <span id="outputSweetPotatoHard"></span> | <span id="outputSweetPotatoSoft"></span> |
 | Natural Pressure Release: | 0 minutes | 0 minutes |
 {: .table .table-striped .table-hover}
 
@@ -311,7 +311,21 @@ function VeggieCalc(valNum) {
     document.getElementById("outputBroccoliSoft").innerHTML = "";
   }
 
-  document.getElementById("outputBrusselsHard").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
-  document.getElementById("outputBrusselsSoft").innerHTML = Math.round(valNum * 312.5 / 80) + " mL";
+  if ( -(Math.log10(valNum)) + 4.5 <= 0.5) {
+    document.getElementById("outputBrusselsHard").innerHTML = "steaming this large quantity of veggies is not recommended"
+  } else if ( -(Math.log10(valNum)) + 4.5 > 0.5) {
+    document.getElementById("outputBrusselsHard").innerHTML = ( -(Math.log10(valNum)) + 4.5) + " minutes";
+  } else {
+    document.getElementById("outputBrusselsHard").innerHTML = "";
+  }
+
+  if ((valNum - 900)/-380 < 0) {
+    document.getElementById("outputBrusselsSoft").innerHTML = "steaming this large quantity of veggies is not recommended"
+  } else if ((valNum - 900)/-380 > 0) {
+    document.getElementById("outputBrusselsSoft").innerHTML = Math.round((valNum - 900) / -380) + " minutes";
+  } else {
+    document.getElementById("outputBrusselsSoft").innerHTML = "";
+  }
+
 }
 </script>
