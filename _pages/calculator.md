@@ -302,7 +302,7 @@ function VeggieCalc(valNum) {
   }
 
   if ((valNum - 900)/-380 < 0) {
-    document.getElementById("outputBroccoliHard").innerHTML = "steaming this large quantity of veggies is not recommended"
+    document.getElementById("outputBroccoliSoft").innerHTML = "steaming this large quantity of veggies is not recommended"
   } else {
     document.getElementById("outputBroccoliSoft").innerHTML = Math.round((valNum - 900) / -380) + " minutes";
   }
