@@ -301,8 +301,16 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 <script>
 function VeggieCalc(valNum) {
-  if ((valNum - 500)/-350 < 0 || (valNum - 500)/-350 > 5) {
-    document.getElementById("outputBroccoliHard").innerHTML = "not recommended"
+
+  if (valNum < 0) {
+    document.getElementById("outputBroccoliHard").innerHTML = "";
+    document.getElementById("outputBroccoliSoft").innerHTML = "";
+    document.getElementById("outputBrusselsHard").innerHTML = "";
+    document.getElementById("outputBrusselsSoft").innerHTML = "";
+  }
+
+  if ((valNum - 500)/-350 < 0) {
+    document.getElementById("outputBroccoliHard").innerHTML = "not recommended";
   } else if ((valNum - 500)/-350 > 0) {
     document.getElementById("outputBroccoliHard").innerHTML = Math.round((valNum - 500) / -350) + " minutes";
   } else {
@@ -310,23 +318,23 @@ function VeggieCalc(valNum) {
   }
 
   if ((valNum - 900)/-380 < 0) {
-    document.getElementById("outputBroccoliSoft").innerHTML = "not recommended"
+    document.getElementById("outputBroccoliSoft").innerHTML = "not recommended";
   } else if ((valNum - 900)/-380 > 0) {
     document.getElementById("outputBroccoliSoft").innerHTML = Math.round((valNum - 900) / -380) + " minutes";
   } else {
     document.getElementById("outputBroccoliSoft").innerHTML = "";
   }
 
-  if ( -(Math.log10(valNum)) + 4.5 <= 0.5 || -(Math.log10(valNum)) + 4.5 >= 5 ) {
-    document.getElementById("outputBrusselsHard").innerHTML = "not recommended"
+  if ( -(Math.log10(valNum)) + 4.5 <= 0.5) {
+    document.getElementById("outputBrusselsHard").innerHTML = "not recommended";
   } else if ( -(Math.log10(valNum)) + 4.5 > 0.5) {
     document.getElementById("outputBrusselsHard").innerHTML = Math.round(( -(Math.log10(valNum)) + 4.5)) + " minutes";
   } else {
     document.getElementById("outputBrusselsHard").innerHTML = "";
   }
 
-  if ( -(Math.log10(valNum)) + 5.5 <= 0.5 ||  -(Math.log10(valNum)) + 5.5 >= 5) {
-    document.getElementById("outputBrusselsSoft").innerHTML = "not recommended"
+  if ( -(Math.log10(valNum)) + 5.5 <= 0.5) {
+    document.getElementById("outputBrusselsSoft").innerHTML = "not recommended";
   } else if ( -(Math.log10(valNum)) + 5.5 > 0.5) {
     document.getElementById("outputBrusselsSoft").innerHTML = Math.round(( -(Math.log10(valNum)) + 5.5)) + " minutes";
   } else {
