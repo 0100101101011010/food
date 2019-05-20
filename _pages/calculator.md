@@ -285,11 +285,11 @@ Recipe credit: [Instant Pot Eats](https://instantpoteats.com/instant-pot-101-how
 
 #### Sweet Potato
 
-\* Sweet potato cooking times are more size-dependent than weight-dependent.
+\* Sweet potato cooking times are more size-dependent than weight-dependent. You can slice larger sweet potatoes in half to effectively reduce their circumference to reduce cooking time.
 
-|        | 6 inch | 8 inch | 10 inch | 12 inch |
-|--------|--------|--------| ------- | ------- |
-| Water: | 250 mL | 250 mL | 250 mL  | 250 mL  |
+| Circumference: | 6 inch | 8 inch | 10 inch | 12 inch |
+|--|--|--|--|--|
+| Water: | 250 mL | 250 mL | 250 mL  | 250 mL |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | 15–20 minutes | 25–30 minutes | 35–40 minutes | 45–50 minutes |
 | Natural Pressure Release: | 10–11 minutes | 10–11 minutes | 10–11 minutes | 10–11 minutes |
