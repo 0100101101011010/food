@@ -281,16 +281,18 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 | Natural Pressure Release: | 0 minutes | 0 minutes |
 {: .table .table-striped .table-hover}
 
-Recipe credit: [Pressure Cook Recipes](https://instantpoteats.com/instant-pot-101-how-to-cook-vegetables/)
+Recipe credit: [Instant Pot Eats](https://instantpoteats.com/instant-pot-101-how-to-cook-vegetables/)
 
 #### Sweet Potato
 
-|  | Crisp | Tender |
-|--------|--------|--------|
-| Water: | 250 mL | 250 mL |
-| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
-| Cook Time: | <span id="outputSweetPotatoHard"></span> | <span id="outputSweetPotatoSoft"></span> |
-| Natural Pressure Release: | 0 minutes | 0 minutes |
+\* Sweet potato cooking times are more size-dependent than weight-dependent.
+
+|        | 6 inch | 8 inch | 10 inch | 12 inch |
+|--------|--------|--------| ------- | ------- |
+| Water: | 250 mL | 250 mL | 250 mL  | 250 mL  |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | 15–20 minutes | 25–30 minutes | 35–40 minutes | 45–50 minutes |
+| Natural Pressure Release: | 10–11 minutes | 10–11 minutes | 10–11 minutes | 10–11 minutes |
 {: .table .table-striped .table-hover}
 
 Recipe credit: [Pressure Cook Recipes](https://instantpoteats.com/instant-pot-101-how-to-cook-vegetables/)
