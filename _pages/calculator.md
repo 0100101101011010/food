@@ -285,7 +285,7 @@ Recipe credit: [Instant Pot Eats](https://instantpoteats.com/instant-pot-101-how
 
 #### Sweet Potato
 
-\* Sweet potato cooking times are more size-dependent than weight-dependent. You can slice larger sweet potatoes in half to effectively reduce their circumference to reduce cooking time.
+\* Sweet potato cooking times are more size-dependent than weight-dependent. You can slice larger sweet potatoes in half to effectively reduce their circumference and reduce cooking time.
 
 | Circumference: | 6 inch | 8 inch | 10 inch | 12 inch |
 |--|--|--|--|--|
@@ -295,7 +295,7 @@ Recipe credit: [Instant Pot Eats](https://instantpoteats.com/instant-pot-101-how
 | Natural Pressure Release: | 10–11 minutes | 10–11 minutes | 10–11 minutes | 10–11 minutes |
 {: .table .table-striped .table-hover}
 
-Recipe credit: [Pressure Cook Recipes](https://instantpoteats.com/instant-pot-101-how-to-cook-vegetables/)
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-sweet-potato/)
 
 <script>
 function VeggieCalc(valNum) {
@@ -318,7 +318,7 @@ function VeggieCalc(valNum) {
   if ( -(Math.log10(valNum)) + 4.5 <= 0.5) {
     document.getElementById("outputBrusselsHard").innerHTML = "not recommended"
   } else if ( -(Math.log10(valNum)) + 4.5 > 0.5) {
-    document.getElementById("outputBrusselsHard").innerHTML = ( -(Math.log10(valNum)) + 4.5) + " minutes";
+    document.getElementById("outputBrusselsHard").innerHTML = Math.round(( -(Math.log10(valNum)) + 4.5)) + " minutes";
   } else {
     document.getElementById("outputBrusselsHard").innerHTML = "";
   }
@@ -326,7 +326,7 @@ function VeggieCalc(valNum) {
   if ( -(Math.log10(valNum)) + 5.5 <= 0.5) {
     document.getElementById("outputBrusselsSoft").innerHTML = "not recommended"
   } else if ( -(Math.log10(valNum)) + 5.5 > 0.5) {
-    document.getElementById("outputBrusselsSoft").innerHTML = ( -(Math.log10(valNum)) + 5.5) + " minutes";
+    document.getElementById("outputBrusselsSoft").innerHTML = Math.round(( -(Math.log10(valNum)) + 5.5)) + " minutes";
   } else {
     document.getElementById("outputBrusselsSoft").innerHTML = "";
   }
