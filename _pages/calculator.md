@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conversion Calculators
-permalink: /calculator/
+permalink: /calculator
 ---
 <style>
 input[type=text], input[type=number], select {
