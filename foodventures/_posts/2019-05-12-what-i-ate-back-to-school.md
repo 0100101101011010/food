@@ -29,3 +29,9 @@ Spring term is in session :cryingemoji: but that's okay! Because I made lots of 
 ## Thursday:
 
 ## Friday:
+
+## Sunday:
+
+![seedless grapes and steamed edamame](grapes-edamame.jpg){:width="50%"}{: .image-right}
+
+My I'm too lazy to make an actual lunch lunch.
