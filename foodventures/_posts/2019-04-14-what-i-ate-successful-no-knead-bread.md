@@ -11,10 +11,16 @@ img: /food/foodventures/images/apr-14-2019.jpg
 comments: "2"
 published: false
 
-discussion_id: 2019-04-14 
+discussion_id: 2019-04-14
 ---
 
 ## Monday:
+
+![pistachio "cheezecake"](pistachio-cheezecake-1.jpg){:width="50%"}{: .image-left}
+
+![pistachio "cheezecake"](pistachio-cheezecake-2.jpg){:width="50%"}{: .image-right}
+
+The [pistachio "cheezecake"](/food/foodventures/what-i-ate-dead-tired) from Sunday night is ready to eat now.
 
 ## Friday: NO-KNEAD BREAD THAT WORKS!!
 
