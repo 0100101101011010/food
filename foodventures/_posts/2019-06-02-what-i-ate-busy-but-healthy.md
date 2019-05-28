@@ -28,4 +28,18 @@ Believe it or not, I'm not the creator of this recipe. Apparently it's quite pop
 
 ## Tuesday:
 
+My first class was at 11:30, so I took my time making breakfast for Kevin today.
+
+![first time making omurice](omurice-1.jpg){:width="50%"}{: .image-left}
+
+![first time cooking omurice](omurice-2.jpg){:width="50%"}{: .image-right}
+
+![adding ketchup to omurice](omurice-3.jpg){:width="50%"}{: .image-left}
+
+![making egg crepe for omurice](omurice-4.jpg){:width="50%"}{: .image-right}
+
+![shaping omurice](omurice-5.jpg){:width="50%"}{: .image-left}
+
+![ta-da! assembled omurice!](omurice-6.jpg){:width="50%"}{: .image-right}
+
 For myself, I repeated the apple butter/cottage cheese combo from yesterday for breakfast. After grocery shopping, I made a late lunch with a bunch of leftovers in the fridge—spinach, half-used jars of tomatoes and coconut milk, and boiled chickpeas. This [walk-away curry](https://mygoodnesskitchen.com/wprm_print/9640) was perfectly delicious, even though I made a bunch of substitutions!
