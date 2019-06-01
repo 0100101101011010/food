@@ -49,8 +49,8 @@ google_analytics:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/food"
 url: "http://kellyzhang.me" # the base hostname & protocol for your site, e.g. http://example.com
-production_url : http://0100101101011010.github.io/food
-BASE_PATH : http://kellyzhang.me/food
+production_url : https://0100101101011010.github.io/food
+BASE_PATH : https://kellyzhang.me/food
 
 #
 # !! You don't need to change any of the configuration flags below !!
