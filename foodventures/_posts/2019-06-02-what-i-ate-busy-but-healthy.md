@@ -10,12 +10,14 @@ keywords:
  - college recipes
  - college meal prep
  - meal plan
-excerpt: "Today's been a great week! All my meals have been yummy, most have been healthy, and I'm happy to say I didn't generate any food waste. I'm getting better at fully using up the things in my fridge and"
+excerpt: "I'm happy to say I didn't generate any food waste this week. I'm getting better at fully using up the things in my fridge, and it's probably because cooking for two people is easier than for one, even if I have to make separate meals a lot of the time."
 img:
 comments: "0"
 
 discussion_id: 2019-06-02
 ---
+
+{{page.excerpt}}
 
 ## Monday: Apple Butter on Smearcase and Fried Rice with Chickpeas
 
