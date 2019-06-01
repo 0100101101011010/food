@@ -4,7 +4,7 @@ title: "What I Ate This Week: May 27 – Jun 2"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
-tags:
+tags: waterloo restaurants
 keywords:
  - healthy diet
  - college recipes
@@ -83,10 +83,34 @@ Kevin was really hungry last night, since all he had to eat was the leftovers fr
 
 After like 2 minutes on Google I found out McDonalds beat me to this idea :-/
 
-Anyway, I still had a hack at it, and it turns out to be really easy. I mean, it is essentially frying up pancakes, eggs, and bacon and stacking them together. The hardest part was making the pancake batter! I wanted to use the soybean pulp I made on Tuesday
+![mock "mcgriddles"](/food/foodventures/images/mock-mcgriddles.jpg){:width="50%"}{: .image-right}
+
+Anyway, I still had a hack at it, and it turns out to be really easy. I mean, it is essentially frying up pancakes, eggs, and bacon and stacking them together (and adding cheese slices... but I didn't have any on hand). The hardest part was making the pancake batter! I wanted to use the soybean pulp I made on Tuesday, but it took some trial and error to figure out how to turn it into a nice thick pancake.
+
+It turned out surprisingly decent (Boyfriend Approved™), despite my fumbling around, although I still want to play around with the pancake batter formula so I can replicate it next time. (This one was made by adding different ingredients and going through a few *very fragile and soggy* pancakes until I got lucky.)
+
+![cold buckwheat noodles in spicy broth](/food/foodventures/images/nuri-village-buckwheat-noodles.jpg){:width="48%"}{: .image-left}
+
+![korean spicy chicken](/food/foodventures/images/nuri-village-spicy chicken.jpg){:width="48%"}{: .image-left}
+
+And finally, for a linner (late lunch/early dinner?) we walked to Nuri Village. I've wanted to try Nuri for a while now, ever since it opened earlier this year, since we have a serious lack of decent Korean restaurants in the plaza. Because the restaurant is still fairly new, everything inside looked clean and shiny, so it was a nice place to have a sit-down meal.
+
+I ordered a refreshing bowl of cold buckwheat noodles, but the real highlight was Kevin's order of a whole spicy chicken. I feel like the picture doesn't do justice to just how massive this plate was. Two servers carried it to our table. I honestly felt scared just to be in the presence of so much *meat*.
+
+Obviously, he didn't finish even a quarter of it, so we packed the rest of it up to take home. For $29, this is a pretty good deal, and I'm glad that I won't have to worry about dinner for him for the next few days!
 
 ## Friday: "Freezer Cleanout"
 
 For breakfast I had the "old faithful" recipe of the week, aka apple butter on cottage cheese, and then it was off to class, with a sliced bell pepper and quarter cup of roasted chickpeas in my bag.
+
+My roommates are planning to have a fridge cleanout on Sunday, because to be honest, the freezer situation has been hovering on the brink of chaos for a while now. It's literally always crammed full of stuff, and I swear a lot of it seems to be forgotten or expired. So I preemptively looked through the freezer a bit and tried to get rid of some food.
+
+![tuna casserole muffins](/food/foodventures/images/tuna-casserole-muffins.jpg){:width="50%"}{: .image-left}
+
+I reheated two tuna casserole muffins (made months ago from [this Chicken of the Sea recipe](https://chickenofthesea.com/recipes/healthy-tuna-casserole-muffins)) and a slice of onion cheese pizza for dinner. It was all edible, which is pretty much my only requirement for frozen meals. Sometimes you try to defrost things from the freezer and they end up tasting so gross, which is a shame because the whole point of freezer meals is to reduce food waste, not add to it. I've had this experience a lot with egg cups, to the point where I've stopped baking them in the past few months, but I may make this recipe again.
+
+No pics, sadly. I ate them before I remembered! Here's a pic from back in October when these muffins were first made :')
+
+## Saturday:
 
 I ordered a shelving unit on wheels this week from [Amazon](https://amzn.to/2HMZqCW) to deal with the space issues in my kitchen, and I can't wait to use it!
