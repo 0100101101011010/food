@@ -67,7 +67,7 @@ Kevin said this was his favourite fried rice so far, and he really liked the egg
 
 For myself, I repeated the apple butter/cottage cheese combo from yesterday for breakfast. After grocery shopping, I made a late lunch with a bunch of leftovers in the fridge—spinach, half-used jars of crushed tomatoes and coconut milk, and boiled chickpeas.
 
-![walk-away chickpea, tomato, and spinach curry](/food/foodventures/images/chickpea-tomato-spinach-curry.jpg){:width="50%"}{: .image-left}
+![walk-away chickpea, tomato, and spinach curry](/food/foodventures/images/chickpea-tomato-spinach-curry.jpg){:width="70%"}{: .image-left}
 
 This [walk-away curry](https://mygoodnesskitchen.com/wprm_print/9640) was perfectly delicious, even though I substituted the crushed tomatoes for grape tomatoes and tomato paste, and used only half a jar of coconut milk since that's all I had left. I also made it in the slow cooker by leaving it on high for two hours. I filled a huge container with it, so I have back-up meals for the rest of the week now!
 
