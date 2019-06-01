@@ -81,6 +81,10 @@ For dinner, I had another serving of the [red beans and rice](/food/foodventures
 
 Kevin was really hungry last night, since all he had to eat was the leftovers from making omurice, so I told him I'd make him a hearty breakfast this morning to make up for it. During the night, I came up with the genius idea of using PANCAKES instead of english muffins to make a breakfast sandwich!
 
+After like 2 minutes on Google I found out McDonalds beat me to this idea :-/
+
+Anyway, I still had a hack at it, and it turns out to be really easy. I mean, it is essentially frying up pancakes, eggs, and bacon and stacking them together.
+
 ## Friday: "Freezer Cleanout"
 
 For breakfast I had the "old faithful" recipe of the week, aka apple butter on cottage cheese, and then it was off to class, with a sliced bell pepper and quarter cup of roasted chickpeas in my bag.
