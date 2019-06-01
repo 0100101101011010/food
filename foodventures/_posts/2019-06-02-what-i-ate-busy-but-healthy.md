@@ -89,13 +89,15 @@ Anyway, I still had a hack at it, and it turns out to be really easy. I mean, it
 
 It turned out surprisingly decent (Boyfriend Approved™), despite my fumbling around, although I still want to play around with the pancake batter formula so I can replicate it next time. (This one was made by adding different ingredients and going through a few *very fragile and soggy* pancakes until I got lucky.)
 
+For a linner (late lunch/early dinner?) we walked to Nuri Village. I've wanted to try Nuri for a while now, ever since it opened earlier this year, since we have a serious lack of decent Korean restaurants in the plaza. Because the restaurant is still fairly new, everything inside looked clean and shiny, so it was a nice place to have a sit-down meal.
+
 ![cold buckwheat noodles in spicy broth](/food/foodventures/images/nuri-village-buckwheat-noodles.jpg){:width="48%"}{: .image-left}
 
 ![korean spicy chicken](/food/foodventures/images/nuri-village-spicy chicken.jpg){:width="48%"}{: .image-left}
 
-For a linner (late lunch/early dinner?) we walked to Nuri Village. I've wanted to try Nuri for a while now, ever since it opened earlier this year, since we have a serious lack of decent Korean restaurants in the plaza. Because the restaurant is still fairly new, everything inside looked clean and shiny, so it was a nice place to have a sit-down meal.
+I ordered a refreshing bowl of cold buckwheat noodles, and I found an amazing new lifehack to eating them! This restaurant provided a pair of scissors and apparently you are supposed to cut the mass of noodles into quarters before eating, but I didn't know this until I was halfway through the bowl. My personally developed technique is to pick up a bunch of noods, cut them at just the point where they form a perfectly-sized mouthful, then eat happily! Totally mess-free, no slurping or splattering of sauce.
 
-I ordered a refreshing bowl of cold buckwheat noodles, but the real highlight was Kevin's order of a whole spicy chicken. I feel like the picture doesn't do justice to just how massive this plate was. Two servers carried it to our table. I honestly felt scared just to be in the presence of so much *meat*.
+The real highlight of today's meal, though, was Kevin's order of a whole spicy chicken. I feel like the picture doesn't do justice to just how massive this plate was. Two servers carried it to our table. I honestly felt scared just to be in the presence of so much *meat*.
 
 Obviously, he didn't finish even a quarter of it, so we packed the rest of it up to take home. For $29, this is a pretty good deal, and I'm glad that I won't have to worry about dinner for him for the next few days!
 
