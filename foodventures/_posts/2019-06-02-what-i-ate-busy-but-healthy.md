@@ -10,9 +10,9 @@ keywords:
  - college recipes
  - college meal prep
  - meal plan
-excerpt: "Using ."
+excerpt: "Today's been a great week! All my meals have been yummy, most have been healthy, and I'm happy to say I didn't generate any food waste. I'm getting better at fully using up the things in my fridge and"
 img:
-comments: "2"
+comments: "0"
 
 discussion_id: 2019-06-02
 ---
