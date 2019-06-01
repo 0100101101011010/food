@@ -85,18 +85,18 @@ discussion_id: 2019-03-17
 
 ![nutrition information for creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-nutrition.jpg){:width="50%"}{: .image-right}
 
-| Ingredient | Cost |
-|-------------|-------|
-| cauliflower | $1.42 |
-| butter | $0.24 |
-| flour | $0.01 |
-| milk | $0.16 |
-| cheese | $1.35 |
-{: .table-striped .table-hover .table-bordered}
-
 Make sure you really reduce the sauce before pouring it on the cauliflower—the cauliflower already contains lots of moisture, so it may become soggy if the sauce is too wet.
 
-You can also mix in some sliced cremini mushrooms to bulk it up and add more veggies. If you aren't vegetarian, add some bacon bits for an even richer, more savoury flavour.
+Mix in some sliced cremini mushrooms to bulk it up and add more veggies. If you aren't vegetarian, you can add bacon bits for an even richer, more savoury flavour.
+
+**Switch it up!** After posting this on Reddit, so many commenters had suggestions on how to do even more with the base recipe. Some suggestions:
+
+* "a dash of dried mustard and smoked paprika" – [/u/drainage_holes](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epq3new/)
+* "garlic, a little Dijon, thyme, and a pinch of cayenne" – [/u/kabneenan](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epr7vs3/)
+* Use smoked cheese in place of cheddar. (– [/u/cakeilikecake](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epqbrk7/))
+* "When you melt the butter, just saute some onion in there before you add the flour to really make the flavor out of this world. I do this with my Potatoes Au Gratin which is basically the same sauce." [/u/thx1337](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epqon5k/)
+
+**To make keto:**
 
 ## Cheese, cheese, cheese
 
