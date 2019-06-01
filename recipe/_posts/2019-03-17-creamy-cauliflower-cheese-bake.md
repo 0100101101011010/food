@@ -83,6 +83,14 @@ discussion_id: 2019-03-17
 
 ![nutrition information for creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-nutrition.jpg){:width="48%"}
 
+| Ingredient | Cost |
+|-------------|-------|
+| cauliflower | $1.42 |
+| butter | $0.24 |
+| flour | $0.01 |
+| milk | $0.16 |
+| cheese | $1.35 |
+
 ## Recipe notes
 
 ![creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-1.jpg){:width="50%"}{: .image-right}
