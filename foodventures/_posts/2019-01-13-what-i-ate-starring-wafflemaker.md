@@ -13,7 +13,7 @@ comments: "2"
 discussion_id: 2019-01-13
 ---
 
-Been a hectic week. I'm getting settled into my new sublet, and cooking has been a struggle at times because I'm still in the process of stocking my pantry with essentials. I've been relying heavily on baked goods and stuff I can cook in my Instant Pot (when am I not?) because my pots and pans are back in Waterloo at the moment.
+{{page.excerpt}}
 
 ## Monday: Egg waffles
 
