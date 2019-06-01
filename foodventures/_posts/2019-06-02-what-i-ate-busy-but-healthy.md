@@ -43,23 +43,17 @@ My first class today was at 11:30, so I took my time making breakfast for Kevin 
 
 ![first time cooking omurice](/food/foodventures/images/omurice-2.jpg){:width="48%"}{: .image-left}
 
-&nbsp;
-
 First, I added one finely diced onion along with a drop of vegetable oil to a non-stick pan on medium-high. A few minutes later, I added half a can of roughly chopped spam (in "MaLa Spicy Szechuan" flavour. It's so good!) and sauteed until the spam began to brown. I then added some of the rice I made from yesterday. I've cooked fried rice so many times now I don't even bother with measurements, I just eyeball everything.
 
 ![adding ketchup to omurice](/food/foodventures/images/omurice-3.jpg){:width="49%"}{: .image-left}
 
 ![making egg crepe for omurice](/food/foodventures/images/omurice-4.jpg){:width="49%"}{: .image-left}
 
-&nbsp;
-
 After roughly breaking up the rice clumps, I added a pinch of soy sauce and kept adding ketchup until it achieved the colour I wanted, maybe 3–4 tbsp. When the rice had fully separated and everything was a nice even colour, I transferred it from the pan into a bowl. In the pan I now added two eggs + 50 mL of aquafaba, or essentially three eggs, and quickly spread it into a thin layer to make like an egg crepe. In retrospect this was way more egg than necessary; next time I would use that same amount of egg but for two crepes. I also turned the heat down to medium-low at this point.
 
 ![shaping omurice](/food/foodventures/images/omurice-5.jpg){:width="48%"}{: .image-left}
 
 ![ta-da! assembled omurice!](/food/foodventures/images/omurice-6.jpg){:width="48%"}{: .image-left}
-
-&nbsp;
 
 As the egg was coming together, I used about half the fried rice mixture and shaped it into an oblong shape on a plate. Kinda like a football lol! Once the egg was done (it doesn't take long to cook), I draped it over top of the rice. This is where I failed a little bit, since the crepe was bigger than it should've been. I tried tucking the bottoms in a little bit, but it was quite fragile so it started tearing, so I thought fuck it and just let it droop over the whole thing like a blanket.
 
