@@ -41,7 +41,7 @@ My first class today was at 11:30, so I took my time making breakfast for Kevin 
 
 ![first time making omurice](/food/foodventures/images/omurice-1.jpg){:width="48%"}{: .image-left}
 
-![first time cooking omurice](/food/foodventures/images/omurice-2.jpg){:width="48%"}{: .image-right}
+![first time cooking omurice](/food/foodventures/images/omurice-2.jpg){:width="48%"}{: .image-left}
 
 &nbsp;
 
@@ -57,7 +57,7 @@ After roughly breaking up the rice clumps, I added a pinch of soy sauce and kept
 
 ![shaping omurice](/food/foodventures/images/omurice-5.jpg){:width="48%"}{: .image-left}
 
-![ta-da! assembled omurice!](/food/foodventures/images/omurice-6.jpg){:width="48%"}{: .image-right}
+![ta-da! assembled omurice!](/food/foodventures/images/omurice-6.jpg){:width="48%"}{: .image-left}
 
 &nbsp;
 
