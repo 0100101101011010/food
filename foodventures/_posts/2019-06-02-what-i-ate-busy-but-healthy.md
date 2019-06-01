@@ -116,3 +116,5 @@ No pics, sadly. I ate them before I remembered! Here's a pic from last October w
 ## Saturday:
 
 I ordered a shelving unit on wheels this week from [Amazon](https://amzn.to/2HMZqCW) to deal with the space issues in my kitchen, and I can't wait to use it!
+
+I felt hungry not long after waking up today, so I decided to eat a big breakfast. 340 g of my chickpea curry and 175 g of rice adds up to 630 calories, but omg it was worth it. I'm writing this in the afternoon and I still feel full!
