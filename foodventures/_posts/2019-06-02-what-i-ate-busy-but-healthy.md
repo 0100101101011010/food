@@ -45,7 +45,7 @@ My first class today was at 11:30, so I took my time making breakfast for Kevin 
 
 &nbsp;
 
-First, I added one finely diced onion along with a drop of vegetable oil to a non-stick pan on medium-high. A few minutes later, I added half a can of roughly chopped spam (this time I used the "MaLa Spicy Szechuan" flavour. It's so good!) and sauteed until the spam began to brown. I then added some of the rice I made from yesterday. I've cooked fried rice so many times now I don't even bother with measurements, I just eyeball everything.
+First, I added one finely diced onion along with a drop of vegetable oil to a non-stick pan on medium-high. A few minutes later, I added half a can of roughly chopped spam (in "MaLa Spicy Szechuan" flavour. It's so good!) and sauteed until the spam began to brown. I then added some of the rice I made from yesterday. I've cooked fried rice so many times now I don't even bother with measurements, I just eyeball everything.
 
 ![adding ketchup to omurice](/food/foodventures/images/omurice-3.jpg){:width="49%"}{: .image-left}
 
