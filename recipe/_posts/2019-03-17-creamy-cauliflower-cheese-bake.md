@@ -73,13 +73,17 @@ discussion_id: 2019-03-17
 
 ## Instructions
 
-![nutrition information for creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-nutrition.jpg){:width="50%"}{: .image-right}
+![creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-1.jpg){:width="50%"}{: .image-right}
 
 <ol>
   {% for item in page.instructions %}
     <li>{{ item }}</li>
   {% endfor %}
 </ol>
+
+## Recipe notes
+
+![nutrition information for creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-nutrition.jpg){:width="50%"}{: .image-right}
 
 | Ingredient | Cost |
 |-------------|-------|
@@ -89,10 +93,6 @@ discussion_id: 2019-03-17
 | milk | $0.16 |
 | cheese | $1.35 |
 {: .table .table-striped .table-hover .table-bordered}
-
-## Recipe notes
-
-![creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-1.jpg){:width="50%"}{: .image-right}
 
 Make sure you really reduce the sauce before pouring it on the cauliflower—the cauliflower already contains lots of moisture, so it may become soggy if the sauce is too wet.
 
