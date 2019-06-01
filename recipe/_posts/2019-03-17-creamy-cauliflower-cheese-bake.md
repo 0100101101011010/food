@@ -5,7 +5,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [200 calories]
-excerpt: "A light and healthy casserole that doesn't taste healthy or light, and you won't feel have to feel guilty coming back for seconds! It's perfect as a main course or a side."
+excerpt: "A light and healthy casserole that doesn't taste healthy or light, and you won't feel have to feel guilty coming back for seconds! It's perfect as a main course or a side. See recipe notes for keto and gluten-free versions."
 img: /food/recipe/images/creamy-cauliflower-cheese-bake-cover.jpg
 
 comments: "1"
@@ -96,11 +96,15 @@ Mix in some sliced cremini mushrooms to bulk it up and add more veggies. If you 
 * Use smoked cheese in place of cheddar. (– [/u/cakeilikecake](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epqbrk7/))
 * "When you melt the butter, just saute some onion in there before you add the flour to really make the flavor out of this world. I do this with my Potatoes Au Gratin which is basically the same sauce." [/u/thx1337](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epqon5k/)
 
-**To make keto:**
+### To make keto:
 
 * "I use rice flour- brown or white, fine ground." – [/u/swampjuicesheila](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epqgadx/)
 * "We just leave it out. Use cream instead of milk. And stir through an egg. Yum" – [/u/Shadopamine](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epqdfls/)
 * "I use a mixture of melted cream cheese, sour cream, and a dash of mustard powder. Then I sprinkle a little grating of strong cheese on top for browning. It’s a little more calorie dense, but very nice." – [/u/AceBinliner](https://www.reddit.com/r/1200isplenty/comments/bgaskf/cheesy_cauliflower_bake_880_calories_for_the/ell35zs/)
+
+### To make gluten-free:
+
+* "If you are gluten free, you can use tapioca flour instead, and it works great. I use it all the time, in sauces, gravy, etc. You will need to experiment with the amount you use, but you will get the hang of it quickly." – [/u/omg_pwnies](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epr425d/)
 
 ## Cheese, cheese, cheese
 
