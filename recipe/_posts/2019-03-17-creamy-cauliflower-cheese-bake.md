@@ -73,7 +73,7 @@ discussion_id: 2019-03-17
 
 ## Instructions
 
-![nutrition information for creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-nutrition.jpg){:width="48%"}{: .image-right}
+![nutrition information for creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-nutrition.jpg){:width="50%"}{: .image-right}
 
 <ol>
   {% for item in page.instructions %}
