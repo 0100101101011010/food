@@ -95,7 +95,7 @@ For a linner (late lunch/early dinner?) we walked to Nuri Village. I've wanted t
 
 ![korean spicy chicken](/food/foodventures/images/nuri-village-spicy chicken.jpg){:width="48%"}{: .image-left}
 
-I ordered a refreshing bowl of cold buckwheat noodles, and I found an amazing new lifehack to eating them! This restaurant provided a pair of scissors and apparently you are supposed to cut the mass of noodles into quarters before eating, but I didn't know this until I was halfway through the bowl. My personally developed technique is to pick up a bunch of noods, cut them at just the point where they form a perfectly-sized mouthful, then eat happily! Totally mess-free, no slurping or splattering of sauce.
+At Nuri, I ordered a refreshing bowl of cold buckwheat noodles, and I found an amazing new lifehack to eating them! This restaurant provided a pair of scissors and apparently you are supposed to cut the mass of noodles into quarters before eating, but I didn't know this until I was halfway through the bowl. My personally developed technique is to pick up a bunch of noods, cut them at just the point where they form a perfectly-sized mouthful, then eat happily! Totally mess-free, no slurping or splattering of sauce.
 
 The real highlight of today's meal, though, was Kevin's order of a whole spicy chicken. I feel like the picture doesn't do justice to just how massive this plate was. Two servers carried it to our table. I honestly felt scared just to be in the presence of so much *meat*.
 
