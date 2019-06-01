@@ -18,7 +18,8 @@ published: false
 discussion_id: 2019-04-07
 ---
 
-I BOUGHT A MIXER!!! AHHH! This is not a food photo, sorry, but I gotta share my excitement!!
+
+{{page.excerpt}}
 
 ## Monday:
 

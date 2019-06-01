@@ -18,4 +18,7 @@ img: /food/foodventures/images/jan-27-2019.jpg
 comments: "0"
 
 discussion_id: 2019-01-27
+published: false
 ---
+
+{{page.excerpt}}
