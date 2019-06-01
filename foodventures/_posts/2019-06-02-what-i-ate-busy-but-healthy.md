@@ -39,9 +39,9 @@ It could have ended up a lot worse! Hopefully, after a day or two in the fridge,
 
 My first class today was at 11:30, so I took my time making breakfast for Kevin today. I decided to try making omurice for the very first time. I was kind of intimidated, but after watching two YouTube videos, I thought, "this doesn't look too hard!" It turned out so well, I impressed myself.
 
-![first time making omurice](/food/foodventures/images/omurice-1.jpg){:width="48%"}{: .image-left}
+![first time making omurice](/food/foodventures/images/omurice-1.jpg){:width="49%"}{: .image-left}
 
-![first time cooking omurice](/food/foodventures/images/omurice-2.jpg){:width="48%"}{: .image-right}
+![first time cooking omurice](/food/foodventures/images/omurice-2.jpg){:width="49%"}{: .image-right}
 
 First, I added one finely diced onion along with a drop of vegetable oil to a non-stick pan on medium-high. A few minutes later, I added half a can of roughly chopped spam (this time I used the "MaLa Spicy Szechuan" flavour. It's so good!) and sauteed until the spam began to brown. I then added some of the rice I made from yesterday. I've cooked fried rice so many times now I don't even bother with measurements, I just eyeball everything.
 
