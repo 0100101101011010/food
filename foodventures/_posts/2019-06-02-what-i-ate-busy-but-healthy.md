@@ -17,7 +17,7 @@ comments: "2"
 discussion_id: 2019-06-02
 ---
 
-## Monday: Apple Butter and Fried Rice with Chickpeas
+## Monday: Apple Butter on Smearcase and Fried Rice with Chickpeas
 
 ![apple butter on cottage cheese](apple-butter-cottage-cheese.jpg){:width="50%"}{: .image-right}
 
