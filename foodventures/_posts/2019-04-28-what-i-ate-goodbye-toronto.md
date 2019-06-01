@@ -10,7 +10,7 @@ keywords:
  - what i ate
  - healthy eating
  - meal prep
-excerpt: "Using ."
+excerpt: "I BOUGHT A MIXER!!! AHHH! This is not a food photo, sorry, but I gotta share my excitement!!"
 img: /food/foodventures/images/apr-28-2019.jpg
 comments: "2"
 published: false
@@ -18,7 +18,8 @@ published: false
 discussion_id: 2019-04-28
 ---
 
-I BOUGHT A MIXER!!! AHHH! This is not a food photo, sorry, but I gotta share my excitement!!
+
+{{page.excerpt}}
 
 ## Monday:
 

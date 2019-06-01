@@ -13,6 +13,7 @@ published: false
 
 discussion_id: 2019-04-14
 ---
+{{page.excerpt}}
 
 ## Monday:
 
