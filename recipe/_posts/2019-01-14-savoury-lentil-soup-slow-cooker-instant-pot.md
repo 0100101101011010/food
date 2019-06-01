@@ -55,7 +55,7 @@ instructions:
 discussion_id: 2019-01-14
 ---
 
-*Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious.*
+*{{page.excerpt}}*
 
 > **ACTIVE TIME:** 15 min  
 > **TOTAL TIME:** 4–9 hours  

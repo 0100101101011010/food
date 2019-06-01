@@ -18,7 +18,7 @@ published: false
 discussion_id: 2019-06-02
 ---
 
-## Monday:
+## Monday: Apple Butter
 
 ![apple butter on cottage cheese](apple-butter-cottage-cheese.jpg){:width="50%"}{: .image-right}
 
@@ -43,3 +43,13 @@ My first class was at 11:30, so I took my time making breakfast for Kevin today.
 ![ta-da! assembled omurice!](omurice-6.jpg){:width="50%"}{: .image-right}
 
 For myself, I repeated the apple butter/cottage cheese combo from yesterday for breakfast. After grocery shopping, I made a late lunch with a bunch of leftovers in the fridge—spinach, half-used jars of tomatoes and coconut milk, and boiled chickpeas. This [walk-away curry](https://mygoodnesskitchen.com/wprm_print/9640) was perfectly delicious, even though I made a bunch of substitutions!
+
+## Wednesday:
+
+## Thursday:
+
+## Friday: "Freezer Cleanout"
+
+For breakfast I had the "old faithful" recipe of the week, aka apple butter on cottage cheese, and then it was off to class, with a sliced bell pepper and quarter cup of roasted chickpeas in my bag.
+
+I ordered a shelving unit on wheels this week from [Amazon](https://amzn.to/2HMZqCW) to deal with the space issues in my kitchen, and I can't wait to use it!
