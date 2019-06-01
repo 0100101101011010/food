@@ -55,6 +55,8 @@ discussion_id: 2018-12-11
 ---
 
 
+*{{page.excerpt}}*
+
 ## Ingredients
 
 <ul>

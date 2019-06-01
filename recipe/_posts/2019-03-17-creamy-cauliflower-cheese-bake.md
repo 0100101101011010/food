@@ -51,7 +51,9 @@ instructions:
 discussion_id: 2019-03-17
 ---
 
-*A light and healthy casserole that doesn't taste healthy or light, and you won't feel have to feel guilty coming back for seconds! It's perfect as a main course or a side.*
+
+
+*{{page.excerpt}}*
 
 > **ACTIVE TIME:** 20 min  
 > **TOTAL TIME:** 1 hour  
