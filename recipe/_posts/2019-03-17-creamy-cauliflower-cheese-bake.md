@@ -89,7 +89,7 @@ Make sure you really reduce the sauce before pouring it on the cauliflower—the
 
 Mix in some sliced cremini mushrooms to bulk it up and add more veggies. If you aren't vegetarian, you can add bacon bits for an even richer, more savoury flavour.
 
-**Switch it up!** After posting this on Reddit, so many commenters had suggestions on how to do even more with the base recipe. Some suggestions:
+**Switch it up!** After posting this on Reddit, so many commenters had suggestions on how to go even further with the base recipe. Some of my faves:
 
 * "a dash of dried mustard and smoked paprika" – [/u/drainage_holes](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epq3new/)
 * "garlic, a little Dijon, thyme, and a pinch of cayenne" – [/u/kabneenan](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epr7vs3/)
