@@ -105,7 +105,7 @@ For breakfast I had the "old faithful" recipe of the week, aka apple butter on c
 
 My roommates are planning to have a fridge cleanout on Sunday, because to be honest, the freezer situation has been hovering on the brink of chaos for a while now. It's literally always crammed full of stuff, and I swear a lot of it seems to be forgotten or expired. So I preemptively looked through the freezer a bit and tried to get rid of some food.
 
-![tuna casserole muffins](/food/foodventures/images/tuna-casserole-muffins.jpg){:width="50%"}{: .image-left}
+![tuna casserole muffins](/food/foodventures/images/tuna-casserole-muffins.jpg){:width="50%"}{: .image-right}
 
 I reheated two tuna casserole muffins (made months ago from [this Chicken of the Sea recipe](https://chickenofthesea.com/recipes/healthy-tuna-casserole-muffins)) and a slice of onion cheese pizza for dinner. It was all edible, which is pretty much my only requirement for frozen meals. Sometimes you try to defrost things from the freezer and they end up tasting so gross, which is a shame because the whole point of freezer meals is to reduce food waste, not add to it. I've had this experience a lot with egg cups, to the point where I've stopped baking them in the past few months, but I may make this recipe again.
 
