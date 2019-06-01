@@ -81,9 +81,7 @@ discussion_id: 2019-03-17
 
 ## Nutrition and Cost Breakdown
 
-![nutrition information for creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-nutrition.jpg){:width="48%"}{: .image-left}
-
-![nutrition and cost details for creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-nutrition-detail.jpg){:width="48%"}{: .image-left}
+![nutrition information for creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-nutrition.jpg){:width="48%"}
 
 ## Recipe notes
 
