@@ -93,7 +93,7 @@ It turned out surprisingly decent (Boyfriend Approved™), despite my fumbling a
 
 ![korean spicy chicken](/food/foodventures/images/nuri-village-spicy chicken.jpg){:width="48%"}{: .image-left}
 
-And finally, for a linner (late lunch/early dinner?) we walked to Nuri Village. I've wanted to try Nuri for a while now, ever since it opened earlier this year, since we have a serious lack of decent Korean restaurants in the plaza. Because the restaurant is still fairly new, everything inside looked clean and shiny, so it was a nice place to have a sit-down meal.
+For a linner (late lunch/early dinner?) we walked to Nuri Village. I've wanted to try Nuri for a while now, ever since it opened earlier this year, since we have a serious lack of decent Korean restaurants in the plaza. Because the restaurant is still fairly new, everything inside looked clean and shiny, so it was a nice place to have a sit-down meal.
 
 I ordered a refreshing bowl of cold buckwheat noodles, but the real highlight was Kevin's order of a whole spicy chicken. I feel like the picture doesn't do justice to just how massive this plate was. Two servers carried it to our table. I honestly felt scared just to be in the presence of so much *meat*.
 
