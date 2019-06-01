@@ -98,6 +98,10 @@ Mix in some sliced cremini mushrooms to bulk it up and add more veggies. If you 
 
 **To make keto:**
 
+* "I use rice flour- brown or white, fine ground." – [/u/swampjuicesheila](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epqgadx/)
+* "We just leave it out. Use cream instead of milk. And stir through an egg. Yum" – [/u/Shadopamine](https://www.reddit.com/r/EatCheapAndHealthy/comments/bvjwk6/i_posted_this_in_an_another_subreddit_and_people/epqdfls/)
+* "I use a mixture of melted cream cheese, sour cream, and a dash of mustard powder. Then I sprinkle a little grating of strong cheese on top for browning. It’s a little more calorie dense, but very nice." – [/u/AceBinliner](https://www.reddit.com/r/1200isplenty/comments/bgaskf/cheesy_cauliflower_bake_880_calories_for_the/ell35zs/)
+
 ## Cheese, cheese, cheese
 
 ![creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-2.jpg){:width="50%"}{: .image-left}
