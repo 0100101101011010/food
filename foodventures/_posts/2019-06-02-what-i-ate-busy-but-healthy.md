@@ -49,6 +49,8 @@ First, I added one finely diced onion along with a drop of vegetable oil to a no
 
 ![making egg crepe for omurice](/food/foodventures/images/omurice-4.jpg){:width="48%"}{: .image-left}
 
+&nbsp;
+
 After roughly breaking up the rice clumps, I added a pinch of soy sauce and kept adding ketchup until it achieved the colour I wanted, maybe 3–4 tbsp. When the rice had fully separated and everything was a nice even colour, I transferred it from the pan into a bowl. In the pan I now added two eggs + 50 mL of aquafaba, or essentially three eggs, and quickly spread it into a thin layer to make like an egg crepe. In retrospect this was way more egg than necessary; next time I would use that same amount of egg but for two crepes. I also turned the heat down to medium-low at this point.
 
 ![shaping omurice](/food/foodventures/images/omurice-5.jpg){:width="48%"}{: .image-left}
