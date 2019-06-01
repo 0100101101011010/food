@@ -69,7 +69,11 @@ This [walk-away curry](https://mygoodnesskitchen.com/wprm_print/9640) was perfec
 
 Oh, and here's a little bonus thing I made: Since I've been falling over myself looking for soy recipes ever since I ordered 25 lbs of raw soybeans, I decided to just blend up a cup of soaked soybeans and pressure cook them, to see what they ended up like. It ended up with a soufflé effect in the pressure cooker, which I was so not expecting!! Once I let it cool down and stirred it, it went back down, but I thought it was cool how it could rise so much. I'm not really sure what I'm going to do with it, at this point. Maybe add it to some brownies recipe? Pancakes? The consistency is like okara, but thinner. I was thinking of eating it like yogurt, with some oats and berries, but it might be too gritty. Oh well, I'll figure it out! It's been so fun experimenting with different ways to use soybeans. I am seriously mad for soy in almost any form, and I'm so excited to be able to play around with it.
 
-## Wednesday:
+## Wednesday: Chocolate Cream Pie
+
+![chocolate cream pie](chocolate-cream-pie.jpg){:width="50%"}{: .image-right}
+
+I was in a huge rush getting ready this morning, so I only had time to eat an egg for breakfast (it sounds so sad, a single egg). By 11 o'clock, I was super hungry, so I stopped by the [café at DP](https://uwaterloo.ca/food-services/content/browsers-cafe) and bought what I thought was a donut, but turns out it's called a cream pie. In my experience with pastries from that café, as long as it's not stale and the icing isn't hard, it's good. This was definitely satisfying enough for me and my starving tummy.
 
 ## Thursday:
 
