@@ -109,7 +109,7 @@ My roommates are planning to have a fridge cleanout on Sunday, because to be hon
 
 I reheated two tuna casserole muffins (made months ago from [this Chicken of the Sea recipe](https://chickenofthesea.com/recipes/healthy-tuna-casserole-muffins)) and a slice of onion cheese pizza for dinner. It was all edible, which is pretty much my only requirement for frozen meals. Sometimes you try to defrost things from the freezer and they end up tasting so gross, which is a shame because the whole point of freezer meals is to reduce food waste, not add to it. I've had this experience a lot with egg cups, to the point where I've stopped baking them in the past few months, but I may make this recipe again.
 
-No pics, sadly. I ate them before I remembered! Here's a pic from back in October when these muffins were first made :')
+No pics, sadly. I ate them before I remembered! Here's a pic from last October when these muffins were first made :')
 
 ## Saturday:
 
