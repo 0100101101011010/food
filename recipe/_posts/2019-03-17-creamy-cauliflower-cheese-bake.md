@@ -88,6 +88,7 @@ discussion_id: 2019-03-17
 | flour | $0.01 |
 | milk | $0.16 |
 | cheese | $1.35 |
+{: .table .table-striped .table-hover .table-bordered}
 
 ## Recipe notes
 
