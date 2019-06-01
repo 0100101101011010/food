@@ -39,9 +39,9 @@ It could have ended up a lot worse! Hopefully, after a day or two in the fridge,
 
 My first class today was at 11:30, so I took my time making breakfast for Kevin today. I decided to try making omurice for the very first time. I was kind of intimidated, but after watching two YouTube videos, I thought, "this doesn't look too hard!" It turned out so well, I impressed myself.
 
-![first time making omurice](/food/foodventures/images/omurice-1.jpg){:width="50%"}{: .image-left}
+![first time making omurice](/food/foodventures/images/omurice-1.jpg){:width="49%"}{: .image-left}
 
-![first time cooking omurice](/food/foodventures/images/omurice-2.jpg){:width="50%"}{: .image-right}
+![first time cooking omurice](/food/foodventures/images/omurice-2.jpg){:width="49%"}{: .image-right}
 
 First, I added one finely diced onion along with a drop of vegetable oil to a non-stick pan on medium-high. A few minutes later, I added half a can of roughly chopped spam (this time I used the "MaLa Spicy Szechuan" flavour. It's so good!) and sauteed until the spam began to brown. I then added some of the rice I made from yesterday. I've cooked fried rice so many times now I don't even bother with measurements, I just eyeball everything.
 
@@ -79,7 +79,7 @@ For dinner, I had another serving of the [red beans and rice](/food/foodventures
 
 ## Thursday: Mock "McGriddles" and Nuri Village
 
-I
+Kevin was really hungry last night, since all he had to eat was the leftovers from making omurice, so I told him I'd make him a hearty breakfast this morning to make up for it. During the night, I came up with the genius idea of using PANCAKES instead of english muffins to make a breakfast sandwich!
 
 ## Friday: "Freezer Cleanout"
 
