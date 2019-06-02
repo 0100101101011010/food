@@ -112,7 +112,7 @@ For breakfast I had the "old faithful" recipe of the week, aka apple butter on c
 
 My roommates are planning to have a fridge cleanout on Sunday, because to be honest, the freezer situation has been hovering on the brink of chaos for a while now. It's literally always crammed full of stuff, and I swear a lot of it seems to be forgotten or expired. So I preemptively looked through the freezer a bit and tried to get rid of some food.
 
-![tuna casserole muffins](/food/foodventures/images/tuna-casserole-muffins.jpg){:width="50%"}{: .image-right}
+![tuna casserole muffins](/food/foodventures/images/tuna-casserole-muffins.jpg){:width="50%"}{: .image-left}
 
 I reheated two tuna casserole muffins (made months ago from [this Chicken of the Sea recipe](https://chickenofthesea.com/recipes/healthy-tuna-casserole-muffins)) and a slice of onion cheese pizza for dinner. It was all edible, which is pretty much my only requirement for frozen meals. Sometimes you try to defrost things from the freezer and they end up tasting so gross, which is a shame because the whole point of freezer meals is to reduce food waste, not add to it. I've had this experience a lot with egg cups, to the point where I've stopped baking them in the past few months, but I may make this recipe again.
 
@@ -134,6 +134,6 @@ It did improve the flavour a little! Still, not something I would make again. Or
 
 For the boyfriend's dinner, I was fortunate to stumble on a recipe for [American-style goulash](https://old.reddit.com/r/instantpot/comments/bamwad/tried_the_american_goulash_recipe_from_here_soo/). I'd been looking for a recipe to use the ground pork/beef blend I'd bought a few days ago, so this was perfect.
 
-It was a super quick one-pot recipe in the Instant Pot, and made about four servings, so it was truly such a time-saver! Kevin liked it but he thought the pasta was a bit small for his taste. I'm going to try bigger macaroni, or maybe penne, next time.
+It was a super quick one-pot recipe in the Instant Pot, and made about four servings—such a time-saver! Kevin liked it but he thought the pasta was a bit small for his taste. I'm going to try bigger macaroni, or maybe penne, next time.
 
 ## Sunday:
