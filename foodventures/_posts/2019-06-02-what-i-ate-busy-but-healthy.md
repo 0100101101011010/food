@@ -132,9 +132,9 @@ It did improve the flavour a little! Still, not something I would make again. Or
 
 ![american goulash in the instant pot](/food/foodventures/images/american-goulash.gif){: .image-right}{:width="50%"}
 
-For the boyfriend's dinner, I was fortunate to stumble on a recipe for [American-style goulash](https://old.reddit.com/r/instantpot/comments/bamwad/tried_the_american_goulash_recipe_from_here_soo/). I'd been looking for a recipe to use the ground pork/beef blend I'd bought a few days ago, so this was perfect. The only ingredient I didn't have was marinara sauce, but I substituted what was left of a can of crushed tomatoes (maybe 200 g) and a small can of tomato paste, watered down with vegetable broth.
+For the boyfriend's dinner, I was fortunate to stumble on a recipe for [American-style goulash](https://old.reddit.com/r/instantpot/comments/bamwad/tried_the_american_goulash_recipe_from_here_soo/). I'd been looking for a recipe to use the ground pork/beef blend I'd bought a few days ago, so this was perfect. The only ingredient I didn't have was marinara sauce, but I substituted what was left of a can of crushed tomatoes (maybe 200 g) and a small can of tomato paste, watered down with vegetable broth. I also added a pinch of MSG, an extra clove of garlic, and two small onions instead of a large one.
 
-It was a super quick one-pot recipe in the Instant Pot, and made about four servings—such a time-saver! Kevin liked it but he thought the pasta was a bit small for his taste. I'm going to try bigger macaroni, or maybe penne, next time.
+It was a quick one-pot recipe in the Instant Pot, and made about four servings—such a time-saver! Kevin liked it but he thought the pasta was a bit small for his taste. I'm going to try bigger macaroni, or maybe penne, next time.
 
 ## Sunday:
 
