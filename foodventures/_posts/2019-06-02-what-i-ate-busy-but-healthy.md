@@ -124,7 +124,7 @@ On another note, I've started trying to ferment my own natto today. The last tim
 
 I ordered a shelving unit on wheels this week from [Amazon](https://amzn.to/2HMZqCW) to deal with the space issues in my kitchen, and I can't wait to use it!
 
-I felt hungry not long after waking up today, so I decided to eat a big breakfast. 340 g of my chickpea curry and 175 g of rice adds up to 630 calories, but omg it was worth it. I'm writing this in the afternoon and I still feel full!
+I felt hungry not long after waking up today, so I decided to eat a big breakfast. 340 g of my chickpea curry and 175 g of rice adds up to 630 calories, but boy, was it worth it. I'm writing this in the afternoon and I still feel full!
 
 I had a snack at lunchtime of a sliced red pepper. I'm honestly learning to love munching on bell peppers. I used to hate bell peppers in any of the dishes my mom made (usually a stir-fry), but I've been using them more and more in my own cooking. I guess peppers for me have been a very long journey of acquiring tastes, but they're practically a staple now. Raw, they're super crispy and work as a great snack, and cooked, they go well in so many soups and stews.
 
