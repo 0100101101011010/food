@@ -153,3 +153,5 @@ Out of desperation, I decided to follow [one Reddit post](https://www.reddit.com
 Well, this morning I went to go examine it and give it some stirring before microwaving again, and there are definitely strands forming throughout the mixture! The smell is about right too (that is to say, pretty pungent...). I'm shocked that my ghetto fermentation set up actually worked.
 
 I'm going to let it do its thing for another day, then put it in the fridge this evening to age another couple of days. I don't want to leave it out for too long, that seems risky.
+
+Fingers crossed that by some miracle this actually turns out well!
