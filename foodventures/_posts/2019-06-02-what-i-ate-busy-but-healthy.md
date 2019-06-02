@@ -118,6 +118,8 @@ I reheated two tuna casserole muffins (made months ago from [this Chicken of the
 
 No pics, sadly. I ate them before I remembered! Here's a pic from last October when these muffins were first made :')
 
+On another note, I've started trying to ferment my own natto today. The last time I called my mom, she mentioned doing this all the time at home. You take a little bit of store-bought natto (or your last batch of homemade) and mix it into a bowl of boiled soybeans. The thing is, I can't remember what she said about the temperature to keep it at, or any other details. I looked online, and all the instructions make it sound complicated, for example, you need to spread the soybean-natto mixture in a thin layer, and leave it in a really warm environment (like yogurt-making conditions), etc... I'm kind of concerned now, because I put the mixture into a tall glass, the opposite of a thin layer, and I'm using a very, very old batch of commercial natto. It's not even very sticky or stringy anymore. I hope the culture inside is still alive, yikes!
+
 ## Saturday: Curry, Red Beans & Rice, and American Goulash
 
 I ordered a shelving unit on wheels this week from [Amazon](https://amzn.to/2HMZqCW) to deal with the space issues in my kitchen, and I can't wait to use it!
@@ -144,6 +146,10 @@ For breakfast, I tried making a [flourless mug cake](https://thebigmansworld.com
 
 ![homemade natto](/food/foodventures/images/natto.jpg){:width="40%"}{: .image-left}
 
-On another note, my natto is fermenting nicely! It's taking longer than it typically should, but that's to be expected since I'm not fermenting it at the *right temperature* per se. I stirred it around this morning before microwaving it, and there are definitely strands forming throughout the mixture and the smell is about right (that is to say, pretty pungent...). I'm shocked that my ghetto fermentation set up actually worked.
+On another note, my natto is fermenting nicely! It's taking longer than it typically should, but that's to be expected since I'm not fermenting it at the *right temperature* per se. Almost any instructions I could find online for natto involve storing it in a warm place continuously, but the only places like that in our apartment are the toaster oven (probably too hot, even at the lowest setting), and my Instant Pot on the yogurt setting. Our Instant Pot is kept in the common area, though, and I don't want to stink up the whole living room with the fermentation process, so I've been keeping my natto in our room, which is definitely not warm enough for proper fermentation.
+
+Out of desperation, I decided to follow [one Reddit post](https://www.reddit.com/r/fermentation/comments/8xpm0k/for_making_natto_can_i_microwave_the_innoculated/) that mentioned successfully making natto in the microwave, which sounds sketchy as fuck but what did I have to lose? According to this guy, you can microwave it a tiny bit every 8–12 hours just to warm it up, then wrap it in a blanket to keep it warm for as long as possible. To be honest, I didn't notice the part about wrapping it in a blanket at first, so stupidly I just microwaved it for about 30 seconds and set it aside and forgot about it.
+
+Well, this morning I went to go examine it and give it some stirring before microwaving again, and there are definitely strands forming throughout the mixture! The smell is about right too (that is to say, pretty pungent...). I'm shocked that my ghetto fermentation set up actually worked.
 
 I'm going to let it do its thing for another day, then put it in the fridge this evening to age another couple of days. I don't want to leave it out for too long, that seems risky.
