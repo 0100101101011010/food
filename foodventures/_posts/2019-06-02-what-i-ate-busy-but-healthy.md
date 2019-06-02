@@ -132,8 +132,14 @@ It did improve the flavour a little! Still, not something I would make again. Or
 
 ![american goulash in the instant pot](/food/foodventures/images/american-goulash.gif){: .image-right}{:width="50%"}
 
-For the boyfriend's dinner, I was fortunate to stumble on a recipe for [American-style goulash](https://old.reddit.com/r/instantpot/comments/bamwad/tried_the_american_goulash_recipe_from_here_soo/). I'd been looking for a recipe to use the ground pork/beef blend I'd bought a few days ago, so this was perfect.
+For the boyfriend's dinner, I was fortunate to stumble on a recipe for [American-style goulash](https://old.reddit.com/r/instantpot/comments/bamwad/tried_the_american_goulash_recipe_from_here_soo/). I'd been looking for a recipe to use the ground pork/beef blend I'd bought a few days ago, so this was perfect. The only ingredient I didn't have was marinara sauce, but I substituted what was left of a can of crushed tomatoes (maybe 200 g) and a small can of tomato paste, watered down with vegetable broth.
 
 It was a super quick one-pot recipe in the Instant Pot, and made about four servings—such a time-saver! Kevin liked it but he thought the pasta was a bit small for his taste. I'm going to try bigger macaroni, or maybe penne, next time.
 
 ## Sunday:
+
+![flourless chocolate mug cake](/food/foodventures/images/flourless-mug-cake.jpg){:width="40%"}{: .image-left}
+
+For breakfast, I tried making a [flourless mug cake](https://thebigmansworld.com/healthy-4-ingredient-flourless-chocolate-mug-cake-paleo-vegan-gluten-free/) from The Big Man's World. It was... disappointing. I decided to bake it in the oven instead of the microwave, since it was mentioned that the oven bakes it more evenly. However, it ended up taking *over 30 minutes* to cook fully (instead of 10–12 as per recipe), and even then, the inside was too gooey for my taste. I really didn't want to bake it longer than that, though, since the top was beginning to look overdone. The flavour was pretty decent, and I am pleased about the fact that the banana alone provides all the sugar necessary for the cake. I plan on experimenting with different adjustments next time to prevent these issues.
+
+On another note, my natto is fermenting nicely! It's taking longer than it typically should, but that's to be expected since I'm not fermenting it at the *right temperature* per se. I stirred it around this morning before microwaving it, and there are definitely strands forming throughout the mixture and the smell is about right (that is to say, pretty pungent...). I'm shocked that my ghetto fermentation set up actually worked.
