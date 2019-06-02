@@ -86,7 +86,7 @@ For dinner, I had another serving of the [red beans and rice](/food/foodventures
 
 Kevin was really hungry last night, since all he had to eat was the leftovers from making omurice, so I told him I'd make him a hearty breakfast this morning to make up for it. During the night, I came up with the genius idea of using PANCAKES instead of english muffins to make a breakfast sandwich!
 
-After like 2 minutes on Google I found out McDonalds beat me to this idea :-/
+After 2 minutes on Google I found out McDonalds beat me to this idea :-/
 
 ![mock "mcgriddles"](/food/foodventures/images/mock-mcgriddles.jpg){:width="50%"}{: .image-right}
 
@@ -118,8 +118,22 @@ I reheated two tuna casserole muffins (made months ago from [this Chicken of the
 
 No pics, sadly. I ate them before I remembered! Here's a pic from last October when these muffins were first made :')
 
-## Saturday:
+## Saturday: Curry, Red Beans & Rice, and American Goulash
 
 I ordered a shelving unit on wheels this week from [Amazon](https://amzn.to/2HMZqCW) to deal with the space issues in my kitchen, and I can't wait to use it!
 
 I felt hungry not long after waking up today, so I decided to eat a big breakfast. 340 g of my chickpea curry and 175 g of rice adds up to 630 calories, but omg it was worth it. I'm writing this in the afternoon and I still feel full!
+
+I had a snack at lunchtime of a sliced red pepper. I'm honestly learning to love munching on bell peppers. I used to hate bell peppers in any of the dishes my mom made (usually a stir-fry), but I've been using them more and more in my own cooking. I guess peppers for me have been a very long journey of acquiring tastes, but they're practically a staple now. Raw, they're super crispy and work as a great snack, and cooked, they go well in so many soups and stews.
+
+For dinner, I ate the last of my batch of red beans and rice, which as you can remember for last week wasn't super successful. This time, I added a pinch of bouillon powder just to see if it would help the taste, because in my experience, that stuff makes ANYTHING taste 10x better.
+
+It did improve the flavour a little! Still, not something I would make again. Or at least, next time, I'll cook the rice separately.
+
+![american goulash in the instant pot](/food/foodventures/images/american-goulash.gif){: .image-right}{:width="50%"}
+
+For the boyfriend's dinner, I was fortunate to stumble on a recipe for [American-style goulash](https://old.reddit.com/r/instantpot/comments/bamwad/tried_the_american_goulash_recipe_from_here_soo/). I'd been looking for a recipe to use the ground pork/beef blend I'd bought a few days ago, so this was perfect.
+
+It was a super quick one-pot recipe in the Instant Pot, and made about four servings, so it was truly such a time-saver! Kevin liked it but he thought the pasta was a bit small for his taste. I'm going to try bigger macaroni, or maybe penne, next time.
+
+## Sunday:
