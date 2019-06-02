@@ -142,4 +142,8 @@ It was a quick one-pot recipe in the Instant Pot, and made about four servingsâ€
 
 For breakfast, I tried making a [flourless mug cake](https://thebigmansworld.com/healthy-4-ingredient-flourless-chocolate-mug-cake-paleo-vegan-gluten-free/) from The Big Man's World. It was... disappointing. I decided to bake it in the oven instead of the microwave, since it was mentioned that the oven bakes it more evenly. However, it ended up taking *over 30 minutes* to cook fully (instead of 10â€“12 as per recipe), and even then, the inside was too gooey for my taste. I really didn't want to bake it longer than that, though, since the top was beginning to look overdone. The flavour was pretty decent, and I am pleased about the fact that the banana alone provides all the sugar necessary for the cake. I plan on experimenting with different adjustments next time to prevent these issues.
 
+![homemade natto](/food/foodventures/images/natto.jpg){:width="40%"}{: .image-left}
+
 On another note, my natto is fermenting nicely! It's taking longer than it typically should, but that's to be expected since I'm not fermenting it at the *right temperature* per se. I stirred it around this morning before microwaving it, and there are definitely strands forming throughout the mixture and the smell is about right (that is to say, pretty pungent...). I'm shocked that my ghetto fermentation set up actually worked.
+
+I'm going to let it do its thing for another day, then put it in the fridge this evening to age another couple of days. I don't want to leave it out for too long, that seems risky.
