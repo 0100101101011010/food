@@ -343,3 +343,15 @@ function VeggieCalc(valNum) {
 
 }
 </script>
+
+## Roasting Vegetables
+
+### Broccoli, Brussels Sprouts, Cauliflower
+
+## Root Veggies (Beets, Carrots, Potatoes) and Onions
+
+## Soft Veggies (Bell Pepper, Summer Squash, Tomatoes, Zucchini)
+
+## Thin Veggies (Asparagus, Green Beans)
+
+## Winter Squash (Butternut Squash, Acorn Squash)
