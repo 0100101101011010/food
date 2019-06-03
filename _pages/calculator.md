@@ -346,12 +346,43 @@ function VeggieCalc(valNum) {
 
 ## Roasting Vegetables
 
-### Broccoli, Brussels Sprouts, Cauliflower
+Toss all veggies in 1–2 tbsp of oil (just to get everything barely covered)
 
-### Root Veggies (Beets, Carrots, Potatoes) and Onions
+### Crucifers (Broccoli, Brussels Sprouts, Cabbage, Cauliflower)
+
+> 15–25 min @ 400 °F (flip after 15 min)
+
+Recipe credit: [samnan2 from Allrecipes](https://www.allrecipes.com/recipe/240800/roasted-cabbage/), [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable-101221)
+
+### Garlic
+
+> 40–60 min @ 400 °F wrapped in foil (until center clove is completely soft throughout)
+
+Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-garlic-in-the-oven-5341)
+
+### Root Veggies (Beets, Carrots, Potatoes, Sweet Potatoes) and Onions
+
+> For sticks or fries: 15–25 min @ 425 °F (flip or shake around after 10 min)
+> For wedges: 30–45 min @ 425 °F (after 30, check every 5 min)
+
+Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable-101221)
 
 ### Soft Veggies (Bell Pepper, Summer Squash, Tomatoes, Zucchini)
 
+10–20 min
+
+Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable-101221)
+
 ### Thin Veggies (Asparagus, Green Beans)
 
+> 10–20 min
+
+Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable-101221)
+
 ### Winter Squash (Butternut Squash, Acorn Squash)
+
+> 20–60 min (after 20, check every 10 min)
+
+Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable-101221)
+
+### Rule of Thumb for Roasting a New Vegetable

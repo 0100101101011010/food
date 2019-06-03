@@ -83,7 +83,7 @@ discussion_id: 2019-03-17
 
 ## Recipe notes
 
-![nutrition information for creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-nutrition.jpg){:width="300 px"}{: .image-right}
+![nutrition information for creamy cauliflower cheese bake](/food/recipe/images/creamy-cauliflower-cheese-bake-nutrition.jpg){:width="350 px"}{: .image-right}
 
 Make sure you really reduce the sauce before pouring it on the cauliflower—the cauliflower already contains lots of moisture, so it may become soggy if the sauce is too wet.
 
