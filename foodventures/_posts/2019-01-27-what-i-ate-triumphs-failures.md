@@ -22,7 +22,7 @@ discussion_id: 2019-01-27
 
 {{page.excerpt}}
 
-## Monday:
+## Monday: Navy Bean Soup and
 
 ![navy bean soup](/food/foodventures/images/navy-bean-soup.jpg){:width="50%"}{: .image-right}
 
@@ -34,7 +34,7 @@ This recipe is from [Mom, What's For Dinner?](http://www.momwhatsfordinnerblog.c
 
 ## Tuesday: Thin Mint Overnight Oats and Spinach Gnocchi
 
-![thin mint overnight oats](/food/foodventures/images/thin-mint-overnight-oats.jpg){:width="20%"}{: .image-left}
+![thin mint overnight oats](/food/foodventures/images/thin-mint-overnight-oats.jpg){:width="21%"}{: .image-left}
 
 This is my second go with [Chocolate Covered Katie's Thin Mint Overnight Oats recipe](https://chocolatecoveredkatie.com/2017/02/23/thin-mint-cookie-overnight-oats/). The first time, I thought maybe I didn't add enough cocoa powder so it tasted kind of off. This time, I tried following the recipe exactly, except I swapped yogurt with cottage cheese. VERY DISAPPOINTING. It's very runny and doesn't taste like a thin mint at all. I'm going to throw my hat in for this one.
 
