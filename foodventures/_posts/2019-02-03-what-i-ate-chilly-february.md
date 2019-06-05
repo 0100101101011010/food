@@ -22,3 +22,5 @@ discussion_id: 2019-01-27
 ---
 
 {{page.excerpt}}
+
+## Monday:
