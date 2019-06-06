@@ -51,7 +51,9 @@ I made a batch of spinach waffles last night, and man am I blown away by this re
 
 ![avocado macaroni salad](/food/foodventures/images/avocado-macaroni-salad.jpg){:width="50%"}{: .image-right}
 
-Another avocado recipe since I need to use them up! This one uses *raw* avocado (yay) as the sauce for a macaroni salad. It's been so long since I've eaten a pasta salad so I'm actually really excited about this. It looks and smells tasty and healthy.
+Another avocado recipe since I need to use them up! This one uses *raw* avocado (yay) as the sauce for a macaroni salad. It's been so long since I've eaten a pasta salad so I'm actually really excited about this. It looks so colourful and healthy.
+
+ALso I think this is the first time in years that I've had to boil pasta... isn't that weird? I forgot about how much pasta foams in the pot, or how long it actually takes to become al dente.
 
 ## Thursday: Apple Cinnamon Overnight Oats and Savoury Oatmeal
 
