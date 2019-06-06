@@ -18,28 +18,40 @@ img: /food/foodventures/images/feb-3-2019.jpg
 comments: "0"
 published: false
 
-discussion_id: 2019-01-27
+discussion_id: 2019-02-03
 ---
 
 {{page.excerpt}}
 
 ## Monday: Avocado Alfredo and Oven-Poached Eggs
 
-![avocado alfredo](/food/foodventures/images/avocado-alfredo-1.jpg){:width="50%"}{: .image-right}
+![avocado alfredo](/food/foodventures/images/avocado-alfredo-1.jpg){:width="48%"}{: .image-left}
 
-![avocado alfredo](/food/foodventures/images/avocado-alfredo-2.jpg){:width="50%"}{: .image-right}
+![avocado alfredo](/food/foodventures/images/avocado-alfredo-2.jpg){:width="48%"}{: .image-left}
 
-![oven-poached eggs](/food/foodventures/images/oven-poached-eggs.jpg){:width="50%"}{: .image-right}
+Tonight I tried making Chocolate Covered Katie's avocado alfredo sauce. Is it just me or does avocado develop a weird taste when it's heated? I'm finding that I don't like it in grilled cheese, or this alfredo thing. The flavour of the avocado overpowered the milk so much that it lost its alfredo identity completely. Also, since the only noodles I had at the moment were shiritaki, they really didn't help the taste issue.
 
-I also made a batch of spinach waffles, and they smell sooo amazing! I've portioned them out into my meal prep containers and I will post a photo of them tomorrow.
+Once I added the noodles, everything clumped together in one hard-to-move blob. It didn't look good, but I still had hopes for the taste.
+
+Nope. All I could taste was the weird heated-up avocado smell, which gets more terrible as you eat. I'm never making this dish again.
+
+![oven-poached eggs](/food/foodventures/images/oven-poached-eggs.jpg){:width="40%"}{: .image-right}
+
+While the avocado sauce was cooking, I also prepared a pan of 12 poached eggs, using the [oven method](#). I've never attempted poaching an egg the regular way, but it seems intimidating so I'm going to see if this method is successful.
+
+Out of the oven, they look pretty good! Obviously, the shape is very... muffin cup like, and they have a slight silicon smell? taste? but hopefully that will go away once they're removed from the molds. Overall, they seem to be cooked well! The only change I would make next time is taking them out of the oven a minute earlier, since as you can see with this yolk, it's quite set already. I'm going to pack them into my work lunches and see how they taste.
 
 ## Tuesday: Spinach Cheddar Waffles
 
 ![spinach-cheddar-waffles](/food/foodventures/images/spinach-cheddar-waffles.jpg){:width="50%"}{: .image-right}
 
+I made a batch of spinach waffles last night, and man am I blown away by this recipe. I accidentally use double the amount of oil called for, most of which leaked out of my waffle maker as I was cooking, but they tasted amazing regardless. Perfectly crispy and rich. I wasn't expecting them to turn out quite *this* well! I had to stop myself from eating more than one when I made them, since they were for meal prep.
+
 ## Wednesday: Avocado Macaroni Salad
 
 ![avocado macaroni salad](/food/foodventures/images/avocado-macaroni-salad.jpg){:width="50%"}{: .image-right}
+
+Another avocado recipe since I need to use them up! This one uses *raw* avocado (yay) as the sauce for a macaroni salad. It's been so long since I've eaten a pasta salad so I'm actually really excited about this. It looks and smells tasty and healthy.
 
 ## Thursday: Apple Cinnamon Overnight Oats and Savoury Oatmeal
 
