@@ -48,15 +48,19 @@ Kevin and I both got hard ice creams. They provide a lot of exotic flavours, lik
 
 This is another cash only place, and our total together came to $6 pre-tax (for two small cups).
 
-![toque!](/food/foodventures/images/toque-.jpg){:width="60%"}{: .image-right}
+![bread basket at toque!](/food/foodventures/images/toque-bread.jpg){:width="50%"}{: .image-right}
 
 A small sandwich and ice cream scoop do not make substantial meals, though, so we were both pretty hungry by the time dinner time came around. We had a 5:30 reservation at [Toque!](https://www.restaurant-toque.com/) in downtown, so we took the metro there.
 
 I'm gonna take this moment to shout out the Montreal Metro. The trains look clean and new, come pretty often, aren't too crowded, and it's very easy to figure out how to get to where you want. A total stress-free experience! Thanks STM!
 
-Anyway, stepping into Toque! you immediately know you're in a fine-dining environment. I didn't think to take any pics of the decor, but I should have; it was a quirky, modern design, which matches the kinds of food they serve. There is a staff person for literally everything—your main server, a sommelier, a water server, a bread server, a bus boy, some dude to brush breadcrumbs off your table, etc.—so the service in general is extremely professional. In addition, I've got mad respect for servers in Montreal because they have to be fluent in both English and French, which must be difficult in these high-end places where the food is already difficult to pronounce just in one language.
+Anyway, stepping into Toque! you immediately know you're in a fine-dining environment. I didn't think to take any pics of the decor, but I should have; it was a quirky, modern design, which matches the kinds of food they serve.
 
+There is a staff person for literally everything—your main server, a sommelier, a water server, a bread server, a bus boy, some dude to brush breadcrumbs off your table, etc.—so the service in general is extremely professional. In addition, I've got mad respect for servers in Montreal because they have to be fluent in both English and French, which must be difficult in these high-end places where the food is already difficult to pronounce just in one language.
 
+![10 g of caviar at toque!](/food/foodventures/images/toque-caviar.jpg){:width="60%"}{: .image-right}
+
+To start, we ordered 10 g of caviar, which was served with some potato chips and something that tasted like dill sour cream. I've never eaten caviar with chips before, and to be honest, I still prefer them completely plain because maybe I'm just a savage at heart, but they go surprisingly well with chips! The cream, though, was a bit too overpowering and kind of masked the taste of the caviar, so I opted out.
 
 ![after-dessert bonus at toque!](/food/foodventures/images/toque-after-dessert.jpg){:width="60%"}{: .image-right}
 
