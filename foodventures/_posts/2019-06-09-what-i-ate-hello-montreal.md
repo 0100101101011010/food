@@ -28,17 +28,25 @@ discussion_id: 2019-06-02
 
 ![view from the window of a montreal mile end airbnb](/food/foodventures/images/montreal-airbnb.jpg){:width="60%"}{: .image-right}
 
-We got the most (food-wise) out of our first day in Quebec. Our Airbnb is in the middle of Mile End, which together with the nearby Little Italy are the hottest food spots in Montreal. Not only is Mile End a super charming and artsy neighbourhood, perfect for strolling around, it checks all the boxes for a tourist. It's less than a ten-minute walk to Laurier, the nearest metro station, and is surrounded by famous Montreal food establishments.
+We got the most (food-wise) out of our first day in Quebec. Our Airbnb is in the middle of Mile End, which together with the nearby Little Italy are the hottest food spots in Montreal. Not only is Mile End a super charming and artsy neighbourhood, perfect for strolling around, it checks all the boxes for those of us here as tourists. It's less than a ten-minute walk to Laurier, the nearest metro station, and is surrounded by famous culinary establishments.
 
-![wilensky's "the special" sandwich](/food/foodventures/images/wilensky-special.jpg){:width="60%"}{: .image-right}
+![wilensky's "the special" sandwich](/food/foodventures/images/wilensky-special.jpg){:width="50%"}{: .image-left}
 
-[Wilensky](http://top2000.ca/wilenskys/index.htm), the first stop on our list, is a very retro deli known for its beef salami–baloney sandwich The Special. This unassuming little shop has been a Montreal icon since 1932. And it's just around the corner from our apartment!
+[Wilensky](http://top2000.ca/wilenskys/index.htm), the first stop on our list, is a very retro deli known for its beef salami–baloney sandwich, The Special. This unassuming little shop has been a Montreal icon since 1932, and is just around the corner from our apartment!
 
-When we bought the sandwich, we were a bit underwhelmed. It looked like an extremely flattened burger bun and you couldn't even see the meat between the buns. However, after Kevin took his first bite, he said he could definitely see why this is a "must-go" place in Montreal.
+There weren't any other customers when we walked in at around 3 pm on a weekday. The menu is extremely sparse, with the Wilensky Special being the only hot sandwich option available, costing $4.17 ($4.61 with a slice of cheese). Be aware that they, like many of Montreal's other long-time establishments, *only accept cash!*
 
-![](/food/foodventures/images/.jpg){:width="60%"}{: .image-right}
+The interior looks like it hasn't been redecorated since the 60's. On the wall opposite the counter are dozens of photographs of Wilensky's staff with various people I assume are celebrities, although I didn't look too closely.
 
-Kem CoBa was literally down the block from Wilensky's
+When we bought the sandwich, we were a bit underwhelmed. It looked like an extremely flattened burger bun, and you couldn't even see the meat between the buns. However, after my boyfriend took his first bite, he said he could definitely see why this is a "must-go" place in Montreal. Of course, I don't know for sure whether he said that because this is an absolute tastebud chart-topper or because it was late afternoon and the sandwich was his first meal of the day, but either way, I think this place is worth a visit because of its near-status as a historical landmark and its popularity with locals.
+
+![ice cream from kem coba](/food/foodventures/images/kem-coba.jpg){:width="60%"}{: .image-right}
+
+Next, we visited Kem CoBa, an ice cream shop across the street from Wilensky's. They are kind of known for doing everything well, from their soft serves (new flavours every month) to their unique hard ice creams to their refreshing sorbets. The line was stretching down the block at this place—apparently, today is the first warm day in Montreal all year 😀—but it was worth it.
+
+Kevin and I both got hard ice creams. They provide a lot of exotic flavours, like salted butter, thai tea, and durian. I ordered a half-scoop of pandan and a half-scoop of fig orange, both of which were great (but the pandan was *amazing*), while Kevin went for coconut. He didn't really like the coconut flavour, and I agree, it was quite average. I think if you come here you should try one of their one-of-a-kind offerings.
+
+This is another cash only place, and our total together came to $6 pre-tax (for two small cups).
 
 ![after-dessert bonus at toque!](/food/foodventures/images/toque-after-dessert.jpg){:width="60%"}{: .image-right}
 
