@@ -66,4 +66,10 @@ To start, we ordered 10 g of caviar, which was served with some potato chips and
 
 ## Friday:
 
+![smoked meat poutine](/food/foodventures/images/.jpg){:width="60%"}{: .image-right}
+
 ![](/food/foodventures/images/.jpg){:width="60%"}{: .image-right}
+
+## Saturday:
+
+![cooking smoked meat at chez claudette](/food/foodventures/images/chez-claudette-smoked-meat.jpg){:width="60%"}{: .image-right}
