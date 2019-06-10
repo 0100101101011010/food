@@ -126,7 +126,7 @@ After standing for half an hour in line, Kevin ordered the Smoked Meat Poutine i
 
 It was well worth waiting amidst the chaos. The poutine from this place has the squeakiest cheese curds I have ever eaten to date. The fries are a wonderful dark brown colour, thickly sliced, and almost sweet. Although the gravy-to-fries ratio could be more generous, the quality of the cheese and the large portions of fries can hardly be beat.
 
-
+Tomorrow is the start of F1 weekend, and we'll be attending Free Practice 2 in the afternoon, so I'll be posting some pictures of the F1 track along with the food we eat!
 
 ## Friday:
 
