@@ -80,17 +80,31 @@ The next course was the amuse-bouche, which was a single wild-rice chip adorned 
 
 ![foie gras at toque!](/food/foodventures/images/toque-foie-gras.jpg){:width="60%"}{: .image-right}
 
-**Foie gras course:** After the second app, they served the foie gras, which is like the largest piece of the foie gras I have eaten in a single sitting. Honestly it was maybe a little *too* big; maybe 75% of the size would've been perfect.
+**Course 3/7:** After the second app, they served the foie gras, which is like the largest piece of the foie gras I have eaten in a single sitting. Honestly it was maybe a little *too* big; maybe 75% of the size would've been perfect.
 
 It was served with some onions, pistachios, and mushrooms, two shortbread crackers, and a few drops of sour cherry puree. The foie gras tasted *especially* good with the crackers, which were a little bit sweet and paired perfectly with the rich savoury flavour of the foie gras.
 
 ![first entree at toque!: lamb shoulder](/food/foodventures/images/toque-entree-lamb-shoulder.jpg){:width="60%"}{: .image-right}
 
-The first entree, which our server called the "pre-entree," was a lamb shoulder with some herb leaves and two strips of dried mushroom (looked and tasted like bacon). I had a small bite of this one, but didn't really like it, so my boyfriend ate both portions. He really loved it but he likes a lot of meat so idk.
+**Course 4/7:** The first entree, which our server called the "pre-entree," was a lamb shoulder with some herb leaves and two strips of dried mushroom (looked and tasted like bacon). I had a small bite of this one, but didn't really like it, so my boyfriend ate both portions. He liked it because:
+
+> The tendon and meat went really well together: the tendon was soft but also very chewy, and they were able to infuse flavour into the tendon, which is hard to do. The meat itself was flavourful, but wasn't dry. It was a tender, flavourful piece of lean meat paired with a delicious tendon.
 
 ![second entree at toque!: duck](/food/foodventures/images/toque-entree-duck.jpg){:width="60%"}{: .image-right}
 
-Sadly all the entrees were meat-based. This second one is duck heart and more duck meat (we do not understand duck anatom LOL), paired with a turnip and other veggies (+ puree) that I forgot. I tried the duck heart and one piece of the meat, neither of which I enjoyed that much, but my boyfriend liked eating it. When I think of duck, the first thing that comes to mind is those dingy Chinese BBQ shops that sell cuts of crispy-skinned duck out of styrofoam containers. I honestly prefer those meats to this one, which was a little dry and under-seasoned.
+**Course 5/7:** Sadly both of the entrees were meat-based. This second one is duck heart and more duck meat (we do not understand duck anatomy LOL), paired with a turnip and other veggies (+ puree) that I forgot. I tried the duck heart and one piece of the meat, neither of which I enjoyed that much, but my boyfriend liked eating it. When I think of duck, the first thing that comes to mind is those dingy Chinese BBQ shops that sell cuts of crispy-skinned duck out of styrofoam containers. I honestly prefer those meats to this one, which was a little dry and under-seasoned.
+
+![pre-dessert at toque!: cow cheese](/food/foodventures/images/toque-pre-dessert-cow-cheese.jpg){:width="60%"}{: .image-right}
+
+**Course 6/7:** For the pre-dessert course, we had the option of a cheese plate or a sweet mini-dessert. I picked the cheese, obviously, and Kevin chose the sweet option. My cow's milk cheese was basically a milder version of brie, which came with a berry puree and thick cracker.
+
+Kevin's sweet dish was just... indescribable. His words:
+
+> It felt like I was putting things in my mouth but they tasted like nothing ... I didn't know what I was eating, but it wasn't bad.
+
+ANYWAYS moving on.
+
+**Course 7/7:**
 
 ![after-dessert bonus at toque!](/food/foodventures/images/toque-after-dessert.jpg){:width="60%"}{: .image-right}
 
