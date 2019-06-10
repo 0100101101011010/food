@@ -114,6 +114,16 @@ The petit fours, which were maple candies and something-that-tasted-like-turkish
 
 I loved the meal in general, would probably have loved it more if I'd remembered to mention I don't really eat meat at the start of service, but nevertheless had a great time! This is one of the most expensive dinners I've had, but well worth it for the food and the experience.
 
+![smoked meat poutine at chez claudette](/food/foodventures/images/chez-claudette-smoked-meat-poutine.jpg){:width="48%"}{: .image-left}
+
+![classique poutine at chez claudette](/food/foodventures/images/chez-claudette-classique-poutine.jpg){:width="48%"}{: .image-left}
+
+Later that night, we were both feeling a bit hungry, so we headed out to Restaurant Chez Claudette, a five-minute walk away, for some late-night poutine. This is a modest, tiny-looking restaurant with a cute bright yellow exterior, but when we visited at 9 pm, it was absolutely packed. Most people looked around our age and the place was as loud as you can imagine, so it's probably a popular hangout spot for students in the area.
+
+Left: Smoked Meat Poutine (Grande). Right: Classique Poutine (Petite).
+
+
+
 ## Friday:
 
 ![smoked meat poutine](/food/foodventures/images/.jpg){:width="60%"}{: .image-right}
