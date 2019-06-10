@@ -78,6 +78,20 @@ The next course was the amuse-bouche, which was a single wild-rice chip adorned 
 
 **Course 2/7:** The second appetizer consisted of *the most tender asparagus spears I have ever eaten* and a asparagus-mushroom puree, with a thin salted cracker on top.
 
+![foie gras at toque!](/food/foodventures/images/toque-foie-gras.jpg){:width="60%"}{: .image-right}
+
+**Foie gras course:** After the second app, they served the foie gras, which is like the largest piece of the foie gras I have eaten in a single sitting. Honestly it was maybe a little *too* big; maybe 75% of the size would've been perfect.
+
+It was served with some onions, pistachios, and mushrooms, two shortbread crackers, and a few drops of sour cherry puree. The foie gras tasted *especially* good with the crackers, which were a little bit sweet and paired perfectly with the rich savoury flavour of the foie gras.
+
+![first entree at toque!: lamb shoulder](/food/foodventures/images/toque-entree-lamb-shoulder.jpg){:width="60%"}{: .image-right}
+
+The first entree, which our server called the "pre-entree," was a lamb shoulder with some herb leaves and two strips of dried mushroom (looked and tasted like bacon). I had a small bite of this one, but didn't really like it, so my boyfriend ate both portions. He really loved it but he likes a lot of meat so idk.
+
+![second entree at toque!: duck](/food/foodventures/images/toque-entree-duck.jpg){:width="60%"}{: .image-right}
+
+Sadly all the entrees were meat-based. This second one is duck heart and more duck meat (we do not understand duck anatom LOL), paired with a turnip and other veggies (+ puree) that I forgot. I tried the duck heart and one piece of the meat, neither of which I enjoyed that much, but my boyfriend liked eating it. When I think of duck, the first thing that comes to mind is those dingy Chinese BBQ shops that sell cuts of crispy-skinned duck out of styrofoam containers. I honestly prefer those meats to this one, which was a little dry and under-seasoned.
+
 ![after-dessert bonus at toque!](/food/foodventures/images/toque-after-dessert.jpg){:width="60%"}{: .image-right}
 
 ## Friday:
