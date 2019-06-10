@@ -110,7 +110,9 @@ ANYWAYS moving on.
 
 ![after-dessert bonus at toque!](/food/foodventures/images/toque-after-dessert.jpg){:width="60%"}{: .image-right}
 
-The petit fours, which were maple candies and something-that-tasted-like-turkish-delights-but-probably-goes-by-a-fancier-name, were served with the bill, and were a cute and tidy way to end the evening. I loved the meal in general, would probably have loved it more if I had remembered to mention that I was pescatarian at the start of service, but nevertheless had a great time! This is one of the most expensive dinners I've had, but well worth it for the food and the experience.
+The petit fours, which were maple candies and something-that-tasted-like-turkish-delights-but-probably-goes-by-a-fancier-name, were served with the bill, and were a cute and tidy way to end the evening.
+
+I loved the meal in general, would probably have loved it more if I'd remembered to mention I don't really eat meat at the start of service, but nevertheless had a great time! This is one of the most expensive dinners I've had, but well worth it for the food and the experience.
 
 ## Friday:
 
