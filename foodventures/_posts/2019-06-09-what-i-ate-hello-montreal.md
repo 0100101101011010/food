@@ -54,13 +54,29 @@ A small sandwich and ice cream scoop do not make substantial meals, though, so w
 
 I'm gonna take this moment to shout out the Montreal Metro. The trains look clean and new, come pretty often, aren't too crowded, and it's very easy to figure out how to get to where you want. A total stress-free experience! Thanks STM!
 
-Anyway, stepping into Toque! you immediately know you're in a fine-dining environment. I didn't think to take any pics of the decor, but I should have; it was a quirky, modern design, which matches the kinds of food they serve.
+Anyway, stepping into Toque! you immediately know you're in a fine-dining environment. I didn't think to take any pics of the decor, but I should have; it was a quirky, modern design, which matches the kind of food they serve.
 
-There is a staff person for literally everything—your main server, a sommelier, a water server, a bread server, a bus boy, some dude to brush breadcrumbs off your table, etc.—so the service in general is extremely professional. In addition, I've got mad respect for servers in Montreal because they have to be fluent in both English and French, which must be difficult in these high-end places where the food is already difficult to pronounce just in one language.
+There is a staff person for literally everything—your main server, sommelier, water server, bread server, bus boy, some dude to brush breadcrumbs off your table, etc.—so the service in general is prompt and professional. In addition, I've got mad respect for servers in Montreal because they have to be fluent in both English and French, which must be difficult in these high-end places where the food is already difficult to pronounce just in one language.
+
+We decided on the tasting menu, which comes with seven courses, and a foie gras course after the second appetizer. And to start, we also ordered 30 g of caviar. (Yeah, we were really ballin' for this meal, but we're pretty much going to be eating street food for the rest of the trip so this makes up for it lol.)
 
 ![10 g of caviar at toque!](/food/foodventures/images/toque-caviar.jpg){:width="60%"}{: .image-right}
 
-To start, we ordered 10 g of caviar, which was served with some potato chips and something that tasted like dill sour cream. I've never eaten caviar with chips before, and to be honest, I still prefer them completely plain because maybe I'm just a savage at heart, but they go surprisingly well with chips! The cream, though, was a bit too overpowering and kind of masked the taste of the caviar, so I opted out.
+The caviar was served with potato chips and something that tasted like dill sour cream. I've never eaten caviar with chips before, and to be honest, I still prefer them completely plain because maybe I'm just a savage at heart, but they go surprisingly well with chips! The cream, though, was a bit too overpowering and kind of masked the taste of the caviar, so I opted out.
+
+![amuse-bouche at toque!](/food/foodventures/images/toque-amuse-bouche.jpg){:width="70%"}{: .image-right}
+
+The next course was the amuse-bouche, which was a single wild-rice chip adorned with oil powder and... a bunch of other things I don't remember. It tasted extremely healthy, which would set the tone for the rest of the meal.
+
+
+
+![first appetizer at toque!](/food/foodventures/images/toque-appetizer-1.jpg){:width="60%"}{: .image-right}
+
+**Course 1/7:** Our first appetizer was a scallop and strawberry ceviche in rhubarb water and olive oil, with cucumbers and onions. My boyfriend's commentary: "It surprisingly works." Personally, I didn't like it too much and thought it was kinda sour. I don't like citrus-y flavours in general so I guess that makes sense. My favourite part was the scallops.
+
+![second appetizer at toque!](/food/foodventures/images/toque-appetizer-2.jpg){:width="60%"}{: .image-right}
+
+**Course 2/7:** The second appetizer consisted of *the most tender asparagus spears I have ever eaten* and a asparagus-mushroom puree, with a thin salted cracker on top.
 
 ![after-dessert bonus at toque!](/food/foodventures/images/toque-after-dessert.jpg){:width="60%"}{: .image-right}
 
