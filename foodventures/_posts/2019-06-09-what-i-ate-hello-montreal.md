@@ -118,9 +118,9 @@ I loved the meal in general, would probably have loved it more if I'd remembered
 
 ![classique poutine at chez claudette](/food/foodventures/images/chez-claudette-classique-poutine.jpg){:width="48%"}{: .image-left}
 
-Later that night, we were both feeling a bit hungry, so we headed out to Restaurant Chez Claudette, a five-minute walk away, for some late-night poutine. This is a modest, tiny-looking restaurant with a cute bright yellow exterior, but when we visited at 9 pm, it was absolutely packed. Most people looked around our age and the place was as loud as you can imagine, so it's probably a popular hangout spot for students in the area.
+Later that night, we were both feeling a bit hungry, so we headed out to Restaurant Chez Claudette, a five-minute walk away, for some late-night poutine. This is a yellow-walled corner restaurant with an old-fashioned and modest look, but when we visited at 9 pm, it was absolutely packed. Most people looked around our age and the place was as loud as you can imagine, so it's probably a popular hangout spot for students in the area.
 
-Left: Smoked Meat Poutine (Grande). Right: Classique Poutine (Petite).
+Kevin ordered the Smoked Meat Poutine in the *grande* size (left), while I ordered their original Classique Poutine in *petite* (right).
 
 
 
