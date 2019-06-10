@@ -114,13 +114,17 @@ The petit fours, which were maple candies and something-that-tasted-like-turkish
 
 I loved the meal in general, would probably have loved it more if I'd remembered to mention I don't really eat meat at the start of service, but nevertheless had a great time! This is one of the most expensive dinners I've had, but well worth it for the food and the experience.
 
+![restaurant chez claudette at 9 pm on a weekday](/food/foodventures/images/chez-claudette-1.jpg){:width="100%"}{: .image-left}
+
+Later that night, we were both feeling a bit hungry, so we headed out to Restaurant Chez Claudette, a five-minute walk away, for some late-night poutine. This is a yellow-walled corner restaurant with an old-fashioned and modest look, but when we visited at 9 pm, it was absolutely packed. Most people looked around our age and the place was as loud as you can imagine, so it's probably a popular hangout spot for students in the area.
+
 ![smoked meat poutine at chez claudette](/food/foodventures/images/chez-claudette-smoked-meat-poutine.jpg){:width="48%"}{: .image-left}
 
 ![classique poutine at chez claudette](/food/foodventures/images/chez-claudette-classique-poutine.jpg){:width="48%"}{: .image-left}
 
-Later that night, we were both feeling a bit hungry, so we headed out to Restaurant Chez Claudette, a five-minute walk away, for some late-night poutine. This is a yellow-walled corner restaurant with an old-fashioned and modest look, but when we visited at 9 pm, it was absolutely packed. Most people looked around our age and the place was as loud as you can imagine, so it's probably a popular hangout spot for students in the area.
+After standing for half an hour in line, Kevin ordered the Smoked Meat Poutine in the *grande* size (left), while I ordered their original Classique Poutine in *petite* (right). We then waited for another half hour for the food to be made, while surrounded by Quebecois yelling at each other from all directions.
 
-Kevin ordered the Smoked Meat Poutine in the *grande* size (left), while I ordered their original Classique Poutine in *petite* (right).
+It was well worth waiting amidst the chaos. The poutine from this place has the squeakiest cheese curds I have ever eaten to date. The fries are a wonderful dark brown colour, thickly sliced, and almost sweet. Although the gravy-to-fries ratio could be more generous, the quality of the cheese and the large portions of fries can hardly be beat.
 
 
 
