@@ -94,9 +94,9 @@ It was served with some onions, pistachios, and mushrooms, two shortbread cracke
 
 **Course 5/7:** Sadly both of the entrees were meat-based. This second one is duck heart and more duck meat (we do not understand duck anatomy LOL), paired with a turnip and other veggies (+ puree) that I forgot. I tried the duck heart and one piece of the meat, neither of which I enjoyed that much, but my boyfriend liked eating it. When I think of duck, the first thing that comes to mind is those dingy Chinese BBQ shops that sell cuts of crispy-skinned duck out of styrofoam containers. I honestly prefer those meats to this one, which was a little dry and under-seasoned.
 
-![pre-dessert at toque!: cow cheese](/food/foodventures/images/toque-pre-dessert-cow-cheese.jpg){:width="60%"}{: .image-right}
+![pre-dessert at toque!: cow cheese](/food/foodventures/images/toque-pre-dessert-cow-cheese.jpg){:width="50%"}{: .image-right}
 
-**Course 6/7:** For the pre-dessert course, we had the option of a cheese plate or a sweet mini-dessert. I picked the cheese, obviously, and Kevin chose the sweet option. My cow's milk cheese was basically a milder version of brie, which came with a berry puree and thick cracker.
+**Course 6/7:** For the pre-dessert course, we had the option of a cheese plate or a sweet mini-dessert. I picked the cheese, obviously, and Kevin chose the sweet option. My cow's milk cheese was basically a milder version of brie, which came with a berry puree and a thick cracker.
 
 Kevin's sweet dish was just... indescribable. His words:
 
@@ -104,9 +104,13 @@ Kevin's sweet dish was just... indescribable. His words:
 
 ANYWAYS moving on.
 
-**Course 7/7:**
+![dessert at toque!: cheesecake, strawberry mousse, and cucumber sorbet](/food/foodventures/images/toque-dessert.jpg){:width="60%"}{: .image-right}
+
+**Course 7/7:** And finally we arrive at dessert! There are so many things going on with this one tiny little dish. First, there's the slice of cheesecake, with raspberry crisps that give it a sour kick. Then, there's the bite of soft strawberry mousse. And lastly the most interesting piece: a cucumber sorbet! Even knowing that it was cucumber-flavoured going in, I wasn't prepared for just how weird but good it would taste. It was super refreshing and a perfect way to tie the entire dinner together.
 
 ![after-dessert bonus at toque!](/food/foodventures/images/toque-after-dessert.jpg){:width="60%"}{: .image-right}
+
+The petit fours, which were maple candies and something-that-tasted-like-turkish-delights-but-probably-goes-by-a-fancier-name, were served with the bill, and were a cute and tidy way to end the evening. I loved the meal in general, would probably have loved it more if I had remembered to mention that I was pescatarian at the start of service, but nevertheless had a great time! This is one of the most expensive dinners I've had, but well worth it for the food and the experience.
 
 ## Friday:
 
