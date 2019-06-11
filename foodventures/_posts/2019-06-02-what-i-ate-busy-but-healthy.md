@@ -122,7 +122,7 @@ On another note, I've started trying to ferment my own natto today. The last tim
 
 ## Saturday: Curry, Red Beans & Rice, and American Goulash
 
-I ordered a shelving unit on wheels this week from [Amazon](https://amzn.to/2HMZqCW) to deal with the space issues in my kitchen, and I can't wait to use it!
+A quick Amazon kitchen-related shopping trip this morning. I ordered a shelving unit on wheels this week from [Amazon](https://amzn.to/2HMZqCW) to deal with the space issues in my kitchen, and I can't wait to use it! Also, in anticipation of my mixer arriving from the UK, I've ordered this [universal adaptor](https://amzn.to/2XJtuVK) to convert the wall outlet plug.
 
 I felt hungry not long after waking up today, so I decided to eat a big breakfast. 340 g of my chickpea curry and 175 g of rice adds up to 630 calories, but boy, was it worth it. I'm writing this in the afternoon and I still feel full!
 
