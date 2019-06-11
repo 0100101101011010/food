@@ -24,7 +24,7 @@ discussion_id: 2019-06-02
 
 ## Monday:
 
-## Thursday: The Special from Wilensky's, Ice Cream from Kem CoBa, and Tasting Menu at Toque! and Poutine from Chez Claudette
+## Thursday: The Special from Wilensky's, Ice Cream from Kem CoBa, Tasting Menu at Toque! and Poutine from Chez Claudette
 
 ![view from the window of a montreal mile end airbnb](/food/foodventures/images/montreal-airbnb.jpg){:width="60%"}{: .image-right}
 
@@ -128,11 +128,25 @@ It was well worth waiting amidst the chaos. The poutine from this place has the 
 
 Tomorrow is the start of F1 weekend, and we'll be attending Free Practice 2 in the afternoon, so I'll be posting some pictures of the F1 track along with the food we eat!
 
-## Friday:
+## Friday: All-You-Can-Eat at Panda Hot Pot and Scooped Ice Cream at Ripples
 
-![smoked meat poutine](/food/foodventures/images/.jpg){:width="60%"}{: .image-right}
+![f1 track](/food/foodventures/images/f1-1.jpg){:width="100%"}{: .image-right}
 
-![](/food/foodventures/images/.jpg){:width="60%"}{: .image-right}
+Canada's one and only F1 Grand Prix is held at Circuit Gilles Villenueve, on the island of Montreal. The entrance to the circuit is easily accessible, being right next to a subway station, but getting from the entrance to our seats is where the real adventure begins. It took us almost an hour to walk to our grandstand
+
+![ayce at hotpot panda](/food/foodventures/images/hotpot-panda.jpg){:width="60%"}{: .image-right}
+
+After FP2, it was time to head to our dinner at Hotpot Panda with my cousin ([taking this moment to plug her Youtube channel]()). I love this place! It's the absolute perfect AYCE hot pot restaurant for pescatarians, especially if you like fish balls and other highly-processed-but-delicious "seafood". They also have endless quantities of lamb, beef, fresh shrimp, veggies, and the other typical items you would expect to find in hot pot.
+
+Although we were initially hesitant about spending a meal in Montreal at a Chinese restaurant, I had such a wonderful dinner and I was *so* stuffed so quickly, which was the only part that sucked because I wanted to eat more! It was great to catch up with my cousin as she winds down her first year at McGill, and I'm glad we made time for it in the middle of all our F1 experiences.
+
+![ripples ice cream](/food/foodventures/images/ripples-1.jpg){:width="60%"}{: .image-right}
+
+Later in the evening, we made the 20-minute trek to an ice cream shop called [Ripples](https://www.ripplesicecream.com/) for a little evening snack. There is a street festival called [Mural](https://muralfestival.com/) taking place on Saint Laurent just a block or two down from us, and Ripples is in the middle of the action, so we got to partake in some of the festive atmosphere as Montreal celebrates its first days of summer.
+
+The staff at Ripples are friendly and fast. The flavours are a blend of traditional and innovative, with your classic flavours like vanilla, Oreo, and mint–chocolate chip, and new ones like kulfi, chai tea, and sesame & halwa. I ordered a scoop each of *cardamom & nuts* (top) and *sesame & halwa* (bottom) in a sugar cone, while Kevin opted for *raspberry cheesecake* and *cappucino chip*.
+
+Kevin was much more impressed by this place than by Kem CoBa. I liked it for the fact that there was almost no line, in contrast to the long wait at Kem CoBa, and they take payment by card (minimum $5 for debit, $10 for credit).
 
 ## Saturday:
 
