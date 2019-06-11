@@ -136,7 +136,7 @@ Canada's one and only F1 Grand Prix is held at Circuit Gilles Villenueve, on the
 
 ![ayce at hotpot panda](/food/foodventures/images/hotpot-panda.jpg){:width="60%"}{: .image-right}
 
-After FP2, it was time to head to our dinner at Hotpot Panda with my cousin ([taking this moment to plug her Youtube channel]()). I love this place! It's the absolute perfect AYCE hot pot restaurant for pescatarians, especially if you like fish balls and other highly-processed-but-delicious "seafood". They also have endless quantities of lamb, beef, fresh shrimp, veggies, and the other typical items you would expect to find in hot pot.
+After FP2, it was time to head to our dinner at Hotpot Panda with my cousin ([taking this moment to plug her Youtube channel](https://www.youtube.com/channel/UChjOj1jNmBTOhdGhI-uYjcQ)). I love this place! It's the absolute perfect AYCE hot pot restaurant for pescatarians, especially if you like fish balls and other highly-processed-but-delicious "seafood". They also have endless quantities of lamb, beef, fresh shrimp, veggies, and the other typical items you would expect to find in hot pot.
 
 Although we were initially hesitant about spending a meal in Montreal at a Chinese restaurant, I had such a wonderful dinner and I was *so* stuffed so quickly, which was the only part that sucked because I wanted to eat more! It was great to catch up with my cousin as she winds down her first year at McGill, and I'm glad we made time for it in the middle of all our F1 experiences.
 
