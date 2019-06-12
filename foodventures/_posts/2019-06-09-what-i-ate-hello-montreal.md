@@ -130,10 +130,6 @@ Tomorrow is the start of F1 weekend, and we'll be attending Free Practice 2 in t
 
 ## Friday: All-You-Can-Eat at Panda Hot Pot and Scooped Ice Cream at Ripples
 
-![f1 track](/food/foodventures/images/f1-1.jpg){:width="100%"}{: .image-right}
-
-Canada's one and only F1 Grand Prix is held at Circuit Gilles Villenueve, on the island of Montreal. The entrance to the circuit is easily accessible, being right next to a subway station, but getting from the entrance to our seats is where the real adventure begins. It took us almost an hour to walk to our grandstand
-
 ![ayce at hotpot panda](/food/foodventures/images/hotpot-panda.jpg){:width="60%"}{: .image-right}
 
 After FP2, it was time to head to our dinner at Hotpot Panda with my cousin ([taking this moment to plug her Youtube channel](https://www.youtube.com/channel/UChjOj1jNmBTOhdGhI-uYjcQ)). I love this place! It's the absolute perfect AYCE hot pot restaurant for pescatarians, especially if you like fish balls and other highly-processed-but-delicious "seafood". They also have endless quantities of lamb, beef, fresh shrimp, veggies, and the other typical items you would expect to find in hot pot.
