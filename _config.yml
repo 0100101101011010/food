@@ -48,7 +48,7 @@ google_analytics:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/food"
-url: "http://kellyzhang.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kellyzhang.me" # the base hostname & protocol for your site, e.g. http://example.com
 production_url : https://0100101101011010.github.io/food
 BASE_PATH : https://kellyzhang.me/food
 
