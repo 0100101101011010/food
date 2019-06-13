@@ -26,7 +26,7 @@ discussion_id: 2019-06-02
 
 ## Thursday: The Special from Wilensky's, Ice Cream from Kem CoBa, Tasting Menu at Toque! and Poutine from Chez Claudette
 
-![view from the window of a montreal mile end airbnb](/food/foodventures/images/montreal-airbnb.jpg){:width="60%"}{: .image-right}
+![view from the window of a montreal mile end airbnb](/blog/images/montreal-airbnb.jpg){:width="60%"}{: .image-right}
 
 We got the most (food-wise) out of our first day in Quebec. Our Airbnb is in the middle of Mile End, which together with the nearby Little Italy are the hottest food spots in Montreal. Not only is Mile End a super charming and artsy neighbourhood, perfect for strolling around, it checks all the boxes for those of us here as tourists. It's less than a ten-minute walk to Laurier, the nearest metro station, and is surrounded by famous culinary establishments.
 
@@ -147,3 +147,9 @@ Kevin was much more impressed by this place than by Kem CoBa. I liked it for the
 ## Saturday:
 
 ![cooking smoked meat at chez claudette](/food/foodventures/images/chez-claudette-smoked-meat.jpg){:width="60%"}{: .image-right}
+
+## Sunday: Kem CoBa (again)
+
+> BAD
+
+– Kevin
