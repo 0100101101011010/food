@@ -47,10 +47,10 @@ google_analytics:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/food"
-url: "https://kellyzhang.me" # the base hostname & protocol for your site, e.g. http://example.com
-production_url : https://0100101101011010.github.io/food
-BASE_PATH : https://kellyzhang.me/food
+baseurl: "/food/"
+url: "https://kellyzhang.me/" # the base hostname & protocol for your site, e.g. http://example.com
+production_url : https://0100101101011010.github.io/food/
+BASE_PATH : https://kellyzhang.me/food/
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -59,7 +59,7 @@ BASE_PATH : https://kellyzhang.me/food
 permalink: /:title/
 
 paginate: 6
-paginate_path: /page:num/
+paginate_path: /page/:num/
 
 
 #sidebar
