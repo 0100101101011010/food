@@ -14,6 +14,7 @@ keywords:
 excerpt: "This week's regular post is getting cut short, because I'll be traveling to Montreal on Thursday for this year's F1 Grand Prix. Look out for my special edition post coming soon after the trip."
 img: /food/foodventures/images/jun-6-2019.jpg
 comments: "0"
+published: false
 
 discussion_id: 2019-06-05
 ---
