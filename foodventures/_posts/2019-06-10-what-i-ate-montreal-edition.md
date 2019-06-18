@@ -157,7 +157,7 @@ Although we were initially hesitant about spending a meal in Montreal at a Chine
 
 Later in the evening, we made the 20-minute trek to an ice cream shop called [Ripples](https://www.ripplesicecream.com/) for a little evening snack. There is a street festival called [Mural](https://muralfestival.com/) taking place on Saint Laurent just a block or two down from us, and Ripples is in the middle of the action, so we got to partake in some of the festive atmosphere as Montreal celebrates its first days of summer.
 
-The staff at Ripples are friendly and fast. The flavours are a blend of traditional and innovative, with your classic flavours like vanilla, Oreo, and mint–chocolate chip, and new ones like kulfi, chai tea, and sesame & halwa. I ordered a scoop each of *cardamom & nuts* (top) and *sesame & halwa* (bottom) in a sugar cone, while Kevin opted for *raspberry cheesecake* and *cappucino chip*.
+The staff at Ripples are friendly and fast. The flavours are a blend of traditional and innovative, with your classic flavours like vanilla, Oreo, and mint–chocolate chip, and new ones like kulfi, chai tea, and sesame & halwa. I ordered a scoop each of *cardamom & nuts* (top) and *sesame & halwa* (bottom) in a sugar cone, while Kevin opted for a cup with *raspberry cheesecake* (top) and *cappucino chip* (bottom).
 
 Kevin was much more impressed by this place than by Kem CoBa. I liked it for the fact that there was almost no line (turns out we were just lucky this time; when we came here again the next day we weren't so lucky), and the servings seem to be a bit more generous. They also take payment by card (minimum $5 for debit, $10 for credit).
 
