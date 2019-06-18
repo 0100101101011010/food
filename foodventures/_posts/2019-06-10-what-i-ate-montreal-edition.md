@@ -73,7 +73,7 @@ The caviar was served with potato chips and something that tasted like dill sour
 
 The next course was the amuse-bouche, which was a single wild-rice chip adorned with oil powder and... a bunch of other things I don't remember. It tasted extremely healthy, but didn't blow the socks off my tastebuds, which would set the tone for the rest of the meal. Amuse-bouches always make me laugh because they're *so frickin tiny*. Like, a single rice chip? What if I wanted a bag of this shit to snack on while watching *Die Hard 2*.
 
-Anyway, not long after the amuse-bouche, the first course of the tasting menu arrived, and this is where the fun starts. The main attraction of tasting menus is, I suppose, the same reason that omakase is so popular. It's the suspense of not knowing what each dish is until it's in front of you, and putting yourself in the hands of the chef!
+Anyway, not long after the amuse-bouche, the first course of the tasting menu arrived, and this is where the fun starts. The main attraction of tasting menus is, I suppose, the same reason that omakase is so popular. It's the suspense of not knowing what each dish is until it's in front of you, and putting your faith in the imagination of the chef!
 
 ![first appetizer at toque!](/food/foodventures/images/toque-appetizer-1.jpg){:width="60%"}{: .image-right}
 
