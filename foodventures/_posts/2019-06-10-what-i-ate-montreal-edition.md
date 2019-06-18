@@ -256,7 +256,7 @@ The smoked meat sandwich, which is what the deli is known for, contains what Kev
 
 Since, as you can see, the meat-to-bread ratio on the sandwich is terrifying, I ordered the poutine despite the server asking me, "Are you sure?" with a concerned look. I explained that I don't really eat meat, and felt kind of apologetic for it in this diner where everyone's job is devoted to meat every day.
 
-The poutine was awesome as well (although the cheese curds didn't squeak). I mean, how can you really fuck up gravy, fries, and cheese?
+The poutine was awesome as well (although the cheese curds didn't squeak). I mean, how can you really fuck up gravy, fries, and cheese? I love that each poutine place has their own distinctly unique gravy, and yet almost all are equally good.
 
 ![ice cream from kem coba](/food/foodventures/images/kem-coba-2.jpg){:width="50%"}{: .image-right}
 
