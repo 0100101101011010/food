@@ -129,7 +129,7 @@ Not to mention, it is so pretty and Insta-worthy~
 
 ![after-dessert bonus at toque!](/food/foodventures/images/toque-after-dessert.jpg){:width="60%"}{: .image-right}
 
-The petit fours, which were maple candies and something-that-tasted-like-turkish-delights-but-probably-goes-by-a-fancier-name, were served with the bill, and were a cute and tidy way to end the evening.
+The petit fours, which were maple candies and something-that-tasted-like-turkish-delights-but-probably-goes-by-a-fancier-name, were served with the bill, and were a cute and tidy way to end the evening. They were way too sweet for me, especially the maple squares, but Kevin enjoyed the hell out of both. Serving it on a rock is also such a cute idea. I wonder if there's a restaurant supply store that sells specifically shaped rocks for plating purposes? Or did an employee of Toque! have to go out onto a beach somewhere and scavenge for flat rocks?
 
 I loved the meal in general, would probably have loved it more if I'd remembered to mention I don't really eat meat at the start of service, but nevertheless had a great time! This is one of the most expensive dinners I've had, but well worth it for the food and the experience.
 
