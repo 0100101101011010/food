@@ -24,7 +24,7 @@ discussion_id: 2019-06-10
 
 {{page.excerpt}}
 
-If you want to know *what* we were doing in Montreal, not just what we were eating, check out my post about our experience [here](/blog/montreal-trip-f1-race/).
+*If you want to know* what *we were doing in Montreal, not just what we were eating, check out my post about our experience [here](/blog/montreal-trip-f1-race/).*
 
 ![view from the window of a montreal mile end airbnb](/blog/images/montreal-airbnb.jpg){:width="60%"}{: .image-right}
 
