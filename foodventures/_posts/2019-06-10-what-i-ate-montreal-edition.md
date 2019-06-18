@@ -140,19 +140,53 @@ Chez Claudette was well worth waiting amidst the chaos. The poutine from this pl
 
 ![ayce at hotpot panda](/food/foodventures/images/hotpot-panda.jpg){:width="60%"}{: .image-right}
 
-After FP2, it was time to head to our dinner at Hotpot Panda with my cousin ([taking this moment to plug her Youtube channel](https://www.youtube.com/channel/UChjOj1jNmBTOhdGhI-uYjcQ)). I love this place! It's the absolute perfect AYCE hot pot restaurant for pescatarians, especially if you like fish balls and other highly-processed-but-delicious "seafood". They also have endless quantities of lamb, beef, fresh shrimp, veggies, and the other typical items you would expect to find in hot pot.
+After attending an event at the F1 track, it was time to head to our dinner at Hotpot Panda with my cousin ([taking this moment to plug her Youtube channel](https://www.youtube.com/channel/UChjOj1jNmBTOhdGhI-uYjcQ)). I love this place! It's the absolute perfect AYCE hot pot restaurant for pescatarians, especially if you like fish balls and other highly-processed-but-delicious "seafood". They also have endless quantities of lamb, beef, fresh shrimp, veggies, noodles, and the other typical items you would expect to find in hot pot.
 
-Although we were initially hesitant about spending a meal in Montreal at a Chinese restaurant, I had such a wonderful dinner and I was *so* stuffed so quickly, which was the only part that sucked because I wanted to eat more! It was great to catch up with my cousin as she winds down her first year at McGill, and I'm glad we made time for it in the middle of all our F1 experiences.
+Although we were initially hesitant about spending a meal in Montreal at a Chinese restaurant, when we were mainly looking for authentic local food, I had such a wonderful dinner and would definitely come here often if I were a student in the city. I was *so* stuffed so quickly, which was the only part that sucked because I wanted to eat more! It was great to catch up with my cousin as she winds down her first year at McGill, and I'm glad we made time for it in the middle of all our F1 experiences.
 
-![ripples ice cream](/food/foodventures/images/ripples-1.jpg){:width="60%"}{: .image-right}
+![ripples ice cream](/food/foodventures/images/ripples-1.jpg){:width="60%"}{: .image-left}
 
 Later in the evening, we made the 20-minute trek to an ice cream shop called [Ripples](https://www.ripplesicecream.com/) for a little evening snack. There is a street festival called [Mural](https://muralfestival.com/) taking place on Saint Laurent just a block or two down from us, and Ripples is in the middle of the action, so we got to partake in some of the festive atmosphere as Montreal celebrates its first days of summer.
 
 The staff at Ripples are friendly and fast. The flavours are a blend of traditional and innovative, with your classic flavours like vanilla, Oreo, and mint–chocolate chip, and new ones like kulfi, chai tea, and sesame & halwa. I ordered a scoop each of *cardamom & nuts* (top) and *sesame & halwa* (bottom) in a sugar cone, while Kevin opted for *raspberry cheesecake* and *cappucino chip*.
 
-Kevin was much more impressed by this place than by Kem CoBa. I liked it for the fact that there was almost no line, in contrast to the long wait at Kem CoBa, and they take payment by card (minimum $5 for debit, $10 for credit).
+Kevin was much more impressed by this place than by Kem CoBa. I liked it for the fact that there was almost no line (turns out we were just lucky this time; when we came here again the next day we weren't so lucky), and the servings seem to be a bit more generous. They also take payment by card (minimum $5 for debit, $10 for credit).
 
-## Saturday:
+OMG, this ice cream is *so rich*. This was the creamiest ice cream I've tasted since I visited the [D Dutchmen Dairy](http://www.dutchmendairy.ca/) many many many years ago, tucked away in the middle of nowhere in British Columbia. While the cone I had during that visit remains the most amazing ice cream I've ever had, this is a close second.
+
+## Saturday: Fairmount and St-Viateur Bagels, more Chez Claudette
+
+![garlic and "power" bagels from fairmount bagel](/food/foodventures/images/fairmount-bagels.jpg){:width="60%"}{: .image-left}
+
+On Saturday, we finally sampled from the two rival companies that have been dominating Montreal's bagel scene. Fairmount Bagel was the closer of the two, so we went there first, with a garlic bagel for Kevin and "power" bagel (raisins, walnuts, sunflower seeds) for myself.
+
+Are we missing something? These were just... okay. They were cold, dry, very dense, and tasted kind of like most other bagels I've had in my life. On the bagel scale, with Costco bagels (that artificial blueberry flavour... ew) at 0, and Safeway bagels at 10, these are maybe a 9. Sure, they'd taste better with lox or cream cheese, but imo a bagel should be able to stand on its own.
+
+![all-dressed bagel from st viateur bagel](/food/foodventures/images/st-viateur-bagels-1.jpg){:width="48%"}{: .image-left}
+
+![rye bagel from st viateur bagel](/food/foodventures/images/st-viateur-bagels-2.jpg){:width="48%"}{: .image-left}
+
+After that somewhat disappointing experience, we next tried St Viateur, which is another equally popular bagel stop a few blocks away. I liked this bagel a bit better, but whether that's because I prefer the taste of rye over raisins, walnuts, and sunflower seeds, is anyone's guess. Kevin didn't like either one.
+
+I guess that popularity of Fairmount and St-Viateur isn't because they are selling any flavour explosions, it's more that bagels are very near-and-dear to Montreal's history. These two shops have faithfully been turning them out as quick, easy lunches for ages, making them part of the city's collective memory. (In fact, Fairmount is turning 100 years old this year.) Then, of course, there's tourists like us who read about these places online and boost their reputation further, even if the product itself isn't anything spectaluar :-)
+
+![soup appetizer at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-soup.jpg){:width="60%"}{: .image-right}
+
+Compared to Toque! with its massive dining room and horde of hosts, servers, and busboys, [Bistro L'Entrepont](https://www.bistroentrepont.com/) only had two servers in a cozy space that sat maybe fifteen tables at most. I wouldn't be surprised if this small, tightly-squeezed restaurant was a family-run business—it gave off that kind of vibe. We stood at the doorway of the restaurant for several minutes upon arrival before anyone even greeted us, and it was another minute before we were led to our table. Despite the rocky start to service, the rest of the meal turned out perfectly, and both servers were so friendly that the bump can easily be overlooked.
+
+We came here for dinner with Kevin's friend, who had also arrived in Montreal to watch the F1 race. Although the dining environment couldn't have been more different than Toque!, the food matched it in every way. Since it is also a restaurant that serves French cuisine, our food came in several courses. We all started with an appetizer, with choice of soup or quiche. I had the delicious creamy mushroom soup, while Kevin ordered the quiche. I didn't get a picture of the quiche, but Kevin said it was really good.
+
+![goat cheese appetizer at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-goat-cheese.jpg){:width="50%"}{: .image-left}
+
+Next was a goat cheese, arranged with gorgeous "flower petals" that I think were pickled beet slices or some other root vegetable, and a puree. Is it just me or do French really love their puree...? The goat cheese was fanatastic, very soft and herby with a strong flavour, just what I love!
+
+I also think it would've tasted great on the complimentary bread that was provided, but this didn't occur to me until later. (Btw, the bread here was a French style, softer and tastier than the ciabatta at Toque!, but the butter at Toque! was better. So I'll call that a tie.)
+
+![strawberry gin sorbet at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-sorbet.jpg){:width="48%"}{: .image-left}
+
+![haddock and stuffed pepper entree at bistro l'entrepont](/food/foodventures/images/st-viateur-bagels-2.jpg){:width="48%"}{: .image-left}
+
+
 
 ![cooking smoked meat at chez claudette](/food/foodventures/images/chez-claudette-smoked-meat.jpg){:width="60%"}{: .image-right}
 
