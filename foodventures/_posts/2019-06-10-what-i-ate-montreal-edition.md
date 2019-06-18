@@ -174,7 +174,15 @@ I guess that popularity of Fairmount and St-Viateur isn't because they are selli
 
 Compared to Toque! with its massive dining room and horde of hosts, servers, and busboys, [Bistro L'Entrepont](https://www.bistroentrepont.com/) only had two servers in a cozy space that sat maybe fifteen tables at most. I wouldn't be surprised if this small, tightly-squeezed restaurant was a family-run business—it gave off that kind of vibe. We stood at the doorway of the restaurant for several minutes upon arrival before anyone even greeted us, and it was another minute before we were led to our table. Despite the rocky start to service, the rest of the meal turned out perfectly, and both servers were so friendly that the bump can easily be overlooked.
 
-We came here for dinner with Kevin's friend, who had also arrived in Montreal to watch the F1 race. Although the dining environment couldn't have been more different than Toque!, the food matched it in every way. Since it is also a restaurant that serves French cuisine, our food came in several courses. We all started with an appetizer, with choice of soup or quiche. I had the delicious creamy mushroom soup, while Kevin ordered the quiche. I didn't get a picture of the quiche, but Kevin said it was really good.
+We came here for dinner with Kevin's friend, who had also arrived in Montreal to watch the F1 race. Although the dining environment couldn't have been more different than Toque!, the food matched it in every way. Since it is also a restaurant that serves French cuisine, our food came in several courses. We all started with an appetizer, with choice of soup or quiche. I had the delicious creamy mushroom soup, while Kevin ordered the "salad," which comes in a quiche.
+
+![quiche at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-quiche.jpg){:width="60%"}{: .image-left}
+
+I didn't taste this, so I asked Kevin to give his thoughts. He gave me a list of words:
+
+* "Meh"
+* "It wasn't bad"
+* "It was a good... salad"
 
 ![goat cheese appetizer at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-goat-cheese.jpg){:width="50%"}{: .image-left}
 
@@ -195,6 +203,10 @@ The main course I chose was a fish (haddock, if I remember correctly) with two k
 ![seafood fettucine entree at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-seafood-fettucine.jpg){:width="60%"}{: .image-left}
 
 Kevin's seafood fettucine looked amazing as well. My biggest regret at Bistro L'Entrepont: not ordering two mains LOL.
+
+![cheesecake dessert at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-cheesecake.jpg){:width="60%"}{: .image-left}
+
+Finally, for dessert, Kevin ordered the cheesecake. I passed, since I was feeling pretty full at that point, but I tried some of his. It's amazing! Just a simple, very classic cheesecake, but you can't go wrong with something like that.
 
 In all, this second fine-dining experience was just as good as our first. In fact, Bistro L'Entrepont edges out Toque! as my favourite sit-down meal in Montreal. The bill for the two of us came to just over $100 before tips and tax, which is frankly a steal for the quantity and quality of food we received. I should also mention that Bistro L'Entrepont is a BYOB establishment. None of us at the table drank, so it didn't matter, but that's something to keep in mind if you do!
 
