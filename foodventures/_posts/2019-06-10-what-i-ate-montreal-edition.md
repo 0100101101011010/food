@@ -183,6 +183,7 @@ I didn't taste this, so I asked Kevin to give his thoughts. He gave me a list of
 * "Meh"
 * "It wasn't bad"
 * "It was a good... salad"
+* "It was edible"
 
 ![goat cheese appetizer at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-goat-cheese.jpg){:width="50%"}{: .image-left}
 
