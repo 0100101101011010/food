@@ -141,7 +141,7 @@ Later that night, we were both feeling a bit hungry, so we headed out to Restaur
 
 ![classique poutine at chez claudette](/food/foodventures/images/chez-claudette-classique-poutine.jpg){:width="48%"}{: .image-left}
 
-After standing in line for half an hour, Kevin ordered the Smoked Meat Poutine in the *grande* size (left), while I ordered their original Classique Poutine in *petite* size (right). We then waited for another half hour for the food to be made, while surrounded by Quebecois yelling at each other from all directions. Seriously one of the longest times I have waited for fast food. I mean, that *is* a long time to wait, right? Have you guys waited longer for something to eat? Is there some kind of super popular takeout shop that's worth standing in line for an hour? Let me know.
+&nbsp; &nbsp; After standing in line for half an hour, Kevin ordered the Smoked Meat Poutine in the *grande* size (left), while I ordered their original Classique Poutine in *petite* size (right). We then waited for another half hour for the food to be made, while surrounded by Quebecois yelling at each other from all directions. Seriously one of the longest times I have waited for fast food. I mean, that *is* a long time to wait, right? Have you guys waited longer for something to eat? Is there some kind of super popular takeout shop that's worth standing in line for an hour? Let me know.
 
 Chez Claudette was well worth waiting amidst the chaos. The poutine from this place has the squeakiest cheese curds I have ever eaten to date. The fries are a wonderful dark brown colour, thickly sliced, and almost sweet. Although the gravy-to-fries ratio could be more generous, the quality of the cheese and the large portions of fries can hardly be beat.
 
