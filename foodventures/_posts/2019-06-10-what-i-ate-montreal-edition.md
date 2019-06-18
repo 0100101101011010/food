@@ -30,6 +30,9 @@ discussion_id: 2019-06-10
 
 We got the most (diet-wise) out of our first day in Quebec. Our Airbnb is in the middle of Mile End, which together with the nearby Little Italy are the hottest food spots in Montreal. Not only is Mile End a super charming and artsy neighbourhood, perfect for strolling around, it checks all the boxes for those of us here as tourists. It's surrounded by renowned establishments of the Montreal culinary scene, such as [Wilensky's Light Lunch](#), [Fairmount Bagels](#), and [Schwartz's Deli](#).
 
+* Table of Contents
+{:toc}
+
 ## Thursday: The Special from Wilensky's, Ice Cream from Kem CoBa, Tasting Menu at Toque! and Poutine from Chez Claudette
 
 ![wilensky's "the special" sandwich](/food/foodventures/images/wilensky-special.jpg){:width="50%"}{: .image-left}
