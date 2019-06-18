@@ -107,6 +107,8 @@ I feel like I've gotten enough foie gras to satisfy me for quite a while now, th
 
 I tried the duck heart and one piece of the meat, neither of which I enjoyed that much, but my boyfriend liked eating it. (When I think of duck, the first thing that comes to mind is those dingy Chinese BBQ shops that sell cuts of crispy-skinned duck out of styrofoam containers. I honestly prefer those meats to this one, which was a little dry and under-seasoned for my taste.)
 
+\* EDIT: Kevin has just informed me that the long thing is not the turnip. It's the two white things on either side of the duck heart that are turnips. I feel super dumb, and frustrated because now I have no idea what the long thing is! Some kind of root vegetable.
+
 ![pre-dessert at toque!: cow cheese](/food/foodventures/images/toque-pre-dessert-cow-cheese.jpg){:width="50%"}{: .image-right}
 
 **Course 6/7:** For the pre-dessert course, we had the option of a cheese plate or a sweet mini-dessert. I picked the cheese, obviously, and Kevin chose the sweet option. My cow's milk cheese was basically a milder version of brie, which came with a berry puree and a thick cracker. I liked it, but I like brie better. :-)
