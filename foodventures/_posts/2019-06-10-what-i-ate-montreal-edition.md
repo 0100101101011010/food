@@ -171,6 +171,8 @@ On Saturday, we finally sampled from the two rival companies that have been domi
 
 Are we missing something? These were just... okay. They were cold, dry, very dense, and tasted kind of like most other bagels I've had in my life. On the bagel scale, with Costco bagels (that artificial blueberry flavour... ew) at 0, and Safeway bagels at 10, these are maybe a 9. Sure, they'd taste better with lox or cream cheese, but imo a bagel should be able to stand on its own.
 
+(Maybe it says something about me that I consider Safeway bagels a 10 on the scale. The best bagels are surely freshly-baked homemade bagels, but I've never made a true authentic bagel—although I'll be sure to update this post when I do.)
+
 ![all-dressed bagel from st viateur bagel](/food/foodventures/images/st-viateur-bagels-1.jpg){:width="48%"}{: .image-left}
 
 ![rye bagel from st viateur bagel](/food/foodventures/images/st-viateur-bagels-2.jpg){:width="48%"}{: .image-left}
