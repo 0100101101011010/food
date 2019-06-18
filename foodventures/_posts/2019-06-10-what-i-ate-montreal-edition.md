@@ -187,7 +187,7 @@ Compared to Toque! with its massive dining room and horde of hosts, servers, and
 
 We came here for dinner with Kevin's friend, who had also arrived in Montreal to watch the F1 race. Although the dining environment couldn't have been more different than Toque!, the food matched it in every way. Since it is also a restaurant that serves French cuisine, our food came in several courses. We all started with an appetizer, with choice of soup or quiche. I had the delicious creamy mushroom soup, while Kevin ordered the "salad," which comes in a quiche.
 
-![quiche at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-quiche.jpg){:width="60%"}{: .image-left}
+![quiche at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-quiche.jpg){:width="60%"}{: .image-right}
 
 I didn't taste this, so I asked Kevin to give his thoughts. He gave me a list of words:
 
@@ -195,6 +195,10 @@ I didn't taste this, so I asked Kevin to give his thoughts. He gave me a list of
 * "It wasn't bad"
 * "It was a good... salad"
 * "It was edible"
+
+The boy does not like salads, so this lukewarm reaction should not come as a surprise or as an indictment of the dish.
+
+\* NINJA EDIT to add a disclaimer before he sees this: It's not that he doesn't like vegetables, it's that he has *very high standards* for how they taste. Blah blah moving on.
 
 ![goat cheese appetizer at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-goat-cheese.jpg){:width="50%"}{: .image-left}
 
