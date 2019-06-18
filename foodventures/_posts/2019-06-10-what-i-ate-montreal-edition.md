@@ -6,18 +6,20 @@ permalink: /:categories/:title/
 categories: foodventures
 tags: montreal restaurants
 keywords:
- - healthy diet
- - travel
- - eating out
  - fast food
+ - poutine
  - food in montreal
  - fine dining
-excerpt: "On Thursday, "
+ - french cuisine
+ - montreal smoked meat
+ - montreal bagels
+ - travel
+ - eating out
+excerpt: "On Thursday, we traveled to Montreal for a small weekend getaway. No home cooking at all in this post! It's all delicious, unhealthy, ultra-fattening French food, and I hope you like reading about it as much as we loved eating it."
 img:
 comments: "0"
-published: false
 
-discussion_id: 2019-06-02
+discussion_id: 2019-06-10
 ---
 
 {{page.excerpt}}
@@ -195,15 +197,25 @@ I also think it would've tasted great on the complimentary bread that was provid
 
 Just before our mains, we got a little surprise: strawberry sorbet with gin! The strawberry part was delicious, the gin, not so much... I don't mean that it was poor quality—I wouldn't be able to tell—but since I made the choice to abstain from alcohol almost a year ago, I've really lost all fondness for it.
 
+Kevin thought the sorbet was absolutely amazing—he definitely loved it more than I did.
+
+> Upon combining the sorbet and gin, you can't really taste the alcohol at all. I can see myself eating a ton of these and getting drunk by mistake.
+
 Sorry I didn't take a picture until we were pretty much through with them :')
 
 ![haddock and stuffed pepper entree at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-entree.jpg){:width="70%"}{: .image-left}
 
 The main course I chose was a fish (haddock, if I remember correctly) with two kinds of root vegetable puree and a breaded pepper stuffed with potatoes and olives. It was amazing! The best restaurant meal (in Western cuisine) that I've eaten was at Model Milk in Calgary, but this was very similar and nearly as good. The fish was perfectly tender, the intense flavour of the stuffed pepper provided a great contrast, the asparagus were crisp just like the ones at Toque!, and the puree tasted better with every bite.
 
+The only thing that could've been improved is if the fish had slightly more flavour. I appreciated the milder taste because I could really enjoy the flavour of the fish on its own, but I think the skin especially could benefit from a little bit more seasoning.
+
 ![seafood fettucine entree at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-seafood-fettucine.jpg){:width="60%"}{: .image-left}
 
-Kevin's seafood fettucine looked amazing as well. My biggest regret at Bistro L'Entrepont: not ordering two mains LOL.
+Kevin's seafood fettucine looked amazing as well. My biggest regret at Bistro L'Entrepont: not ordering two mains LOL. I had a real pasta craving after seeing his dish.
+
+> The Portuguese shrimp were HUGE, amazing, not briny. The scallops were also huge. No hint of sand, it was super clean. Seafood can sometimes taste dry and pale compared to the sauces in the dish, but they were very good.
+
+Although the portions look small, don't let them fool you: these main courses were very, very filling. I don't know what kind of witchcraft restaurants pull with plating, but I always start off thinking, "wow, this is nothing, I could eat like three of these in one sitting" to being really stuffed at the end of the meal.
 
 ![cheesecake dessert at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-cheesecake.jpg){:width="60%"}{: .image-left}
 
