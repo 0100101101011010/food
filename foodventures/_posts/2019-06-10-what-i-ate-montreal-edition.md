@@ -238,4 +238,10 @@ In addition to the "fancy poutines" on their [regular menu](http://www.poutinevi
 
 Although I didn't enjoy my France poutine as much I would've a regular poutine (too much onion, not enough potato), Kevin loved his. However, the cheese curds were not squeaky. Seems like kinda an oversight at a place with poutine in its name. However, I'm happy that we were able to try yet another poutine restaurant while in Montreal. I swear I'm ~90% poutine at this point.
 
-###
+![smoked meat club sandwich from the main deli](/food/foodventures/images/main-deli-smoked-meat-club-sandwich.jpg){:width="50%"}{: .image-right}
+
+After dinner, we walked back to Ripples so Kevin could erase Kem CoBa from his mind (I feel like I need to emphasize that IT WASN'T EVEN THAT BAD, but anyway). I got the chai tea and thai tea flavours in a cone, while Kevin got a scoop each of caramel, cookies n cream, and raspberry cheesecake in a cup.
+
+I don't know what happened to the photo of this one, since we both strongly recall taking a picture, but it has disappeared! So sorry, no amazing mouthwatering picture of Ripples ice cream :-(
+
+While I waited in line at Ripples, Kevin also got another smoked meat sandwich at a deli directly across from Schwartz's, called the [Main Deli](http://www.maindelisteakhouse.com/). This place was *empty* compared to the other one, but according to Kevin it is just as good as Schwartz. A lot of Montrealers online mentioned this as the alternative to Schwartz's for something that tasted equally yummy but was less touristy. Indeed, there was no line when Kevin went to order his sandwich for takeout. So if you're not down to squeeze with a bunch of other people for a taste of Schwartz's, try this place instead: we couldn't tell the difference.
