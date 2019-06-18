@@ -270,11 +270,11 @@ Ripples is the clear winner out of the two ice cream spots we tried, but Kem CoB
 
 For dinner, we had poutine yet again!! This time we tried a new one: [Poutineville](http://www.poutineville.com/en/), a franchise of a chain of restaurants around Quebec. The number of different poutine options on the menu is staggering. We were both paralyzed by indecision.
 
-In addition to the "fancy poutines" on their [regular menu](http://www.poutineville.com/en/menu.html), they also offered a number of "global" poutines. For example, the Indian option was poutine with butter chicken... In the end, I chose the "France" poutine, which was French onion soup-inspired. Kevin went with their namesake, the Poutineville, which consists of "crushed potatoes, fresh cheese curds, mozzarella, with braised beef and our red wine sauce." Yeah, they're not going for any authenticity awards here.
+In addition to the "fancy poutines" on their [regular menu](http://www.poutineville.com/en/menu.html), they also offered a number of "global" poutines. For example, the Indian option was poutine with butter chicken... In the end, I chose the "France" poutine, which involves shoestring fries, a French onion soup inspired gravy, and French fried onions. Kevin went with their namesake, the Poutineville, a dish of "crushed potatoes, fresh cheese curds, mozzarella, with braised beef and our red wine sauce." Yeah, they're not going for any authenticity awards here.
 
 ![poutineville poutine](/food/foodventures/images/poutineville-fancy-poutine.jpg){:width="50%"}{: .image-right}
 
-Although I didn't enjoy my France poutine as much I would've a regular poutine (too much onion, not enough potato), Kevin loved his. However, the cheese curds were not squeaky. Seems like kinda an oversight at a place with poutine in its name. However, I'm happy that we were able to try yet another poutine restaurant while in Montreal. I swear I'm ~90% poutine at this point.
+Although I didn't enjoy my France poutine as much I would've a regular poutine (too much onion, not enough potato), Kevin loved his. He liked the twist on the potatoes, which were smashed potato wedges instead of the traditional fries. However, the cheese curds were not squeaky. Seems like kinda an oversight at a place with poutine in its name. However, I'm happy that we were able to try yet another poutine restaurant while in Montreal. I swear I'm ~90% poutine at this point.
 
 ![smoked meat club sandwich from the main deli](/food/foodventures/images/main-deli-smoked-meat-club-sandwich.jpg){:width="50%"}{: .image-right}
 
