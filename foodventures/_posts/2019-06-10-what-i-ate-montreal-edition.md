@@ -40,7 +40,7 @@ The interior looks like it hasn't been redecorated since the 60's. On the wall o
 
 When we bought the sandwich, we were a bit underwhelmed. It looked like an extremely flattened burger bun, and you couldn't even see the meat between the buns. However, after my boyfriend took his first bite, he said he could definitely see why this is a "must-go" place in Montreal. Of course, I don't know for sure whether he said that because this is an absolute tastebud chart-topper or because it was late afternoon and the sandwich was his first meal of the day, but either way, I think this place is worth a visit because of its status as a nigh historical landmark, not to mention its popularity with locals.
 
-![ice cream from kem coba](/food/foodventures/images/kem-coba.jpg){:width="50%"}{: .image-right}
+![ice cream from kem coba](/food/foodventures/images/kem-coba-1.jpg){:width="50%"}{: .image-right}
 
 Next, we visited [Kem CoBa](https://kemcoba.com/), an ice cream shop across the street from Wilensky's (and neighbours of the famous Fairmount Bagels... which we'll be visiting on Saturday). They are kind of known for doing everything well, from their soft serves (new flavours every month) to their unique hard ice creams to their refreshing sorbets. The line was stretching down the block at this place—apparently, today is the first warm day in Montreal all year 😀—but it was worth it.
 
@@ -154,7 +154,7 @@ Kevin was much more impressed by this place than by Kem CoBa. I liked it for the
 
 OMG, this ice cream is *so rich*. This was the creamiest ice cream I've tasted since I visited the [D Dutchmen Dairy](http://www.dutchmendairy.ca/) many many many years ago, tucked away in the middle of nowhere in British Columbia. While the cone I had during that visit remains the most amazing ice cream I've ever had, this is a close second.
 
-## Saturday: Fairmount and St-Viateur Bagels, more Chez Claudette
+## Saturday: Fairmount and St-Viateur Bagels, Fine Dining at Bistro L'Entrepont, and more Chez Claudette
 
 ![garlic and "power" bagels from fairmount bagel](/food/foodventures/images/fairmount-bagels.jpg){:width="60%"}{: .image-left}
 
@@ -182,16 +182,60 @@ Next was a goat cheese, arranged with gorgeous "flower petals" that I think were
 
 I also think it would've tasted great on the complimentary bread that was provided, but this didn't occur to me until later. (Btw, the bread here was a French style, softer and tastier than the ciabatta at Toque!, but the butter at Toque! was better. So I'll call that a tie.)
 
-![strawberry gin sorbet at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-sorbet.jpg){:width="48%"}{: .image-left}
+![strawberry gin sorbet at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-sorbet.jpg){:width="50%"}{: .image-left}
 
-![haddock and stuffed pepper entree at bistro l'entrepont](/food/foodventures/images/st-viateur-bagels-2.jpg){:width="48%"}{: .image-left}
+Just before our mains, we got a little surprise: strawberry sorbet with gin! The strawberry part was delicious, the gin, not so much... I don't mean that it was poor quality—I wouldn't be able to tell—but since I made the choice to abstain from alcohol almost a year ago, I've really lost all fondness for it.
 
+Sorry I didn't take a picture until we were pretty much through with them :')
 
+![haddock and stuffed pepper entree at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-entree.jpg){:width="70%"}{: .image-left}
+
+The main course I chose was a fish (haddock, if I remember correctly) with two kinds of root vegetable puree and a breaded pepper stuffed with potatoes and olives. It was amazing! The best restaurant meal (in Western cuisine) that I've eaten was at Model Milk in Calgary, but this was very similar and nearly as good. The fish was perfectly tender, the intense flavour of the stuffed pepper provided a great contrast, the asparagus were crisp just like the ones at Toque!, and the puree tasted better with every bite.
+
+![seafood fettucine entree at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-seafood-fettucine.jpg){:width="60%"}{: .image-left}
+
+Kevin's seafood fettucine looked amazing as well. My biggest regret at Bistro L'Entrepont: not ordering two mains LOL.
+
+In all, this second fine-dining experience was just as good as our first. In fact, Bistro L'Entrepont edges out Toque! as my favourite sit-down meal in Montreal. The bill for the two of us came to just over $100 before tips and tax, which is frankly a steal for the quantity and quality of food we received. I should also mention that Bistro L'Entrepont is a BYOB establishment. None of us at the table drank, so it didn't matter, but that's something to keep in mind if you do!
 
 ![cooking smoked meat at chez claudette](/food/foodventures/images/chez-claudette-smoked-meat.jpg){:width="60%"}{: .image-right}
 
-## Sunday: Kem CoBa (again)
+Believe it or not, even after the *three* bowls of free bread we consumed at Bistro L'Entrepont, we still had the stomach capacity for more carbs. What can I say, Chez Claudette's poutine is that good! I wasn't hungry enough to buy an entire meal for myself, so I shared some of Kevin's smoked meat poutine.
+
+This time around, there was no one around except us (no doubt it wasn't late enough at night for the crowd we encountered on Thursday). I swear Kevin was salivating as we watched the cook grill up the smoked meat as he prepared our order.
+
+## Sunday: Brunch at Schwartz's Deli, Kem CoBa (again), and Dinner at Poutineville
+
+![smoked meat sandwich at schwartz's deli](/food/foodventures/images/schwartz-smoked-meat-sandwich.jpg){:width="60%"}{: .image-right}
+
+Schwartz's Deli is the must-go destination if you want smoked meat in Montreal. It's so popular that there are actually two buildings at the same location: one a dine-in restaurant, the other exclusively for takeout. Tourists were literally taking pictures of the front sign as we were walking in, around 10 am, for a meal before heading to the F1 track.
+
+On the walls of the diner are newspaper clippings and photos of Schwartz's staff with celebrities, similar to Wilensky's. Apparently, Celine Dion loves this place. We joked about seeing an F1 driver come in this weekend, and I wouldn't be surprised if some of them have visited before.
+
+The smoked meat sandwich, which is what the deli is known for, contains what Kevin approvingly calls "substantial meat." This picture doesn't do the real thing justice, in which the bread looks more like an afterthought than an equal partner.
+
+![poutine at schwartz's deli](/food/foodventures/images/schwartz-poutine.jpg){:width="60%"}{: .image-right}
+
+Since, as you can see, the meat-to-bread ratio on the sandwich is terrifying, I ordered the poutine despite the server asking me, "Are you sure?" with a concerned look. I explained that I don't really eat meat, and felt kind of apologetic for it in this diner where everyone's job is devoted to meat every day.
+
+The poutine was awesome as well (although the cheese curds didn't squeak). I mean, how can you really fuck up gravy, fries, and cheese?
+
+![ice cream from kem coba](/food/foodventures/images/kem-coba-2.jpg){:width="50%"}{: .image-right}
+
+In the afternoon, we circled back to Kem CoBa to try their soft-serve of the week. We had high hopes for this one, although the flavour was... interesting: chocolate and raspberry swirl. I loved it, but this was all Kevin had to say:
 
 > BAD
 
-– Kevin
+Ripples is the clear winner out of the two ice cream spots we tried, but Kem CoBa isn't bad either. It really depends on which flavours you get. I've never seen pandan as an ice cream flavour anywhere else, and I would come back for that alone. I also thought the chocolate and raspberry was a neat combination I would never dream up on my own, so I'm glad we got to try it here.
+
+![french-onion-soup-poutine from poutineville](/food/foodventures/images/poutineville-french-onion-soup.jpg){:width="50%"}{: .image-right}
+
+For dinner, we had poutine yet again!! This time we tried a new one: [Poutineville](http://www.poutineville.com/en/), a franchise of a chain of restaurants around Quebec. The number of different poutine options on the menu is staggering. We were both paralyzed by indecision.
+
+In addition to the "fancy poutines" on their [regular menu](http://www.poutineville.com/en/menu.html), they also offered a number of "global" poutines. For example, the Indian option was poutine with butter chicken... In the end, I chose the "France" poutine, which was French onion soup-inspired. Kevin went with their namesake, the Poutineville, which consists of "crushed potatoes, fresh cheese curds, mozzarella, with braised beef and our red wine sauce." Yeah, they're not going for any authenticity awards here.
+
+![poutineville poutine](/food/foodventures/images/poutineville-fancy-poutine.jpg){:width="50%"}{: .image-right}
+
+Although I didn't enjoy my France poutine as much I would've a regular poutine (too much onion, not enough potato), Kevin loved his. However, the cheese curds were not squeaky. Seems like kinda an oversight at a place with poutine in its name. However, I'm happy that we were able to try yet another poutine restaurant while in Montreal. I swear I'm ~90% poutine at this point.
+
+###
