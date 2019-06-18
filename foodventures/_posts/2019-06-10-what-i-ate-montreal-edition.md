@@ -206,7 +206,7 @@ Next was a goat cheese, arranged with gorgeous "flower petals" that I think were
 
 I also think it would've tasted great on the complimentary bread that was provided, but this didn't occur to me until later. (Btw, the bread here was a French style, softer and tastier than the ciabatta at Toque!, but the butter at Toque! was better. So I'll call that a tie.)
 
-![strawberry gin sorbet at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-sorbet.jpg){:width="50%"}{: .image-left}
+![strawberry gin sorbet at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-sorbet.jpg){:width="50%"}{: .image-right}
 
 Just before our mains, we got a little surprise: strawberry sorbet with gin! The strawberry part was delicious, the gin, not so much... I don't mean that it was poor quality—I wouldn't be able to tell—but since I made the choice to abstain from alcohol almost a year ago, I've really lost all fondness for it.
 
@@ -244,7 +244,7 @@ This time around, there was no one around except us (no doubt it wasn't late eno
 
 ## Sunday: Brunch at Schwartz's Deli, Kem CoBa (again), and Dinner at Poutineville
 
-![smoked meat sandwich at schwartz's deli](/food/foodventures/images/schwartz-smoked-meat-sandwich.jpg){:width="60%"}{: .image-right}
+![smoked meat sandwich at schwartz's deli](/food/foodventures/images/schwartz-smoked-meat-sandwich.jpg){:width="60%"}{: .image-left}
 
 Schwartz's Deli is the must-go destination if you want smoked meat in Montreal. It's so popular that there are actually two buildings at the same location: one a dine-in restaurant, the other exclusively for takeout. Tourists were literally taking pictures of the front sign as we were walking in, around 10 am, for a meal before heading to the F1 track.
 
