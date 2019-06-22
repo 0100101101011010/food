@@ -16,7 +16,7 @@ keywords:
  - travel
  - eating out
 excerpt: "On Thursday, we traveled to Montreal for a small weekend getaway. No home cooking at all in this post! It's all delicious, unhealthy, ultra-fattening French food, and I hope you like reading about it as much as we loved eating it."
-img:
+img: /food/foodventures/images/jun-10-2019.jpg
 comments: "0"
 
 discussion_id: 2019-06-10
