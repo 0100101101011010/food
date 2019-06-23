@@ -22,16 +22,18 @@ I BOUGHT A MIXER!!! AHHH! This is not a food photo, sorry, but I gotta share my 
 
 ## Monday:
 
-## Tuesday:
+## Tuesday: Okara Fish
 
-## Wednesday:
+## Wednesday: Chickpea Tuna Salad
 
-## Thursday:
+## Thursday: Savoury Soy Milk Waffles and Avocado Cookies
 
-## Friday:
+## Friday: Spam & Veggie Fried Rice
 
 
 ![slow cooker red beans and rice](red-beans-rice.jpg){:width="50%"}{: .image-right}
+
+## Saturday: Pork Belly
 
 ## Sunday:
 
