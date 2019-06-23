@@ -11,10 +11,9 @@ keywords:
  - college meal prep
  - meal plan
  - food in waterloo
-excerpt: "This week's regular post is getting cut short, because I'll be traveling to Montreal on Thursday for this year's F1 Grand Prix. Look out for my special edition post coming soon after the trip."
+excerpt: "This week's regular post is getting cut short, because I'll be traveling to Montreal on Thursday for this year's F1 Grand Prix. Check out my [special edition post](/food/foodventures/what-i-ate-montreal-edition/) all about the best Montreal eats!"
 img: /food/foodventures/images/jun-5-2019.jpg
 comments: "0"
-published: false
 
 discussion_id: 2019-06-05
 ---
@@ -66,6 +65,12 @@ I may have been overzealous in my excitement to use aquafaba in every possible a
 
 ## Wednesday: Carrot Corn Fritters
 
-This is probably one of the worst recipes I have ever followed. I say this with no qualifications because I followed the recipe *to the letter* and they still turned out nasty. The other day, I discovered a new vegan food blog called [Veggie Jam](http://veggiejam.com/english/carrot-corn-fritters-with-mint-dip/) and was excited to find a recipe for "carrot corn fritters," since both carrots and corn are things I'm trying to clear in my fridge before we leave for our trip this Friday. A couple of things threw me off about the recipe—no mention of cooking the corn, even though I wasn't sure raw corn would cook fully in the short time used to fry fritters up on a skillet; no use of fat to give them any kind of crispy, oily goodness—but I put my faith in this recipe and followed it exactly.
+The other day, I discovered a new vegan food blog called [Veggie Jam](http://veggiejam.com/english/carrot-corn-fritters-with-mint-dip/) and was excited to find a recipe for "carrot corn fritters," since both carrots and corn are things I'm trying to clear in my fridge before we leave for our trip this Friday. A couple of things threw me off about the recipe—no mention of cooking the corn, even though I wasn't sure raw corn would cook fully in the short time used to fry fritters up on a skillet; no use of fat to give them any kind of crispy, oily goodness—but I put my faith in this recipe and followed it exactly.
 
-As expected, the corn did not fully cook. Hell, not even the chickpea flour was fully cooked (raw chickpea flour is disgusting, please don't try it). Parts of the outsides were getting burned while the inside remained wet and uncooked.
+![carrot corn fritters](/food/foodventures/images/carrot-corn-fritters.jpg){:width="50%"}{: .image-left}
+
+This is probably one of the worst recipes I have ever followed. I say this with no qualifications because I followed the recipe *to the letter* and they still turned out nasty.
+
+As expected, the corn did not fully cook. Hell, not even the chickpea flour was fully cooked (raw chickpea flour is disgusting, please don't try it). Parts of the outsides were getting burned while the inside remained wet. I tried frying them on high heat, low heat, adding some oil—nothing really made these any better tasting. In frustration, I started cooking them in my wafflemaker! This was actually the most effective method, although it was still annoying because they were really fragile and tended to fall apart when I tried to take them out. These ones, like the others, were still raw in the middle, and at this point, having eaten like five half-cooked fritters, I gave up. So disappointed! Now I have this huge mixing bowl of raw carrots, corn and red onion that I don't know what to do with. I'm going to keep them in the fridge for the weekend, hope they don't turn bad by the time I come back, and hopefully I'll have come up with a solution by then. I don't want to waste so much food, but I'm at a loss what to use them for... maybe dumpling filling? But maybe that'll end up spoiling the dumplings too.
+
+Anyways, sorry guys for ending this week on such a bummer. But the [next post](/food/foodventures/what-i-ate-montreal-edition/) is going to be a blast because Kevin and I already have so many food places on our Montreal to-do list! Au revoir!
