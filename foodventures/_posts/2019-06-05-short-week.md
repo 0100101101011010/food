@@ -11,7 +11,7 @@ keywords:
  - college meal prep
  - meal plan
  - food in waterloo
-excerpt: "This week's regular post is getting cut short, because I'll be traveling to Montreal on Thursday for this year's F1 Grand Prix. Check out my [special edition post](/food/foodventures/what-i-ate-montreal-edition/) all about the best Montreal eats!"
+excerpt: "This week's regular post is getting cut short, because I'll be traveling to Montreal on Thursday for this year's F1 Grand Prix (and for a taste of authentic Montreal poutine, and smoked meat, and bagels, and... you get it). Check out my [special edition post](/food/foodventures/what-i-ate-montreal-edition/) all about the best Montreal eats."
 img: /food/foodventures/images/jun-5-2019.jpg
 comments: "0"
 
