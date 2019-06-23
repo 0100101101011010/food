@@ -26,7 +26,7 @@ discussion_id: 2019-06-05
 
 Is it wrong to say something is Mexican-inspired because it has jalapeño peppers and red onion on it?
 
-![homemade pizza crust](/food/foodventures/images/mexican-pizza-4.jpg){:width="50%"}{: .image-left}
+![homemade pizza crust](/food/foodventures/images/mexican-pizza-4.jpg){:width="50%"}{: .image-right}
 
 I tried out a new pizza crust recipe today, from [Sugar Spun Run](https://sugarspunrun.com/the-best-pizza-dough-recipe/). This one is probably my favourite so far. It's soft, quite easy to work with, and smells sooo good. I did two things different with this crust, as you can see (both were suggestions I followed from the recipe website):
 
