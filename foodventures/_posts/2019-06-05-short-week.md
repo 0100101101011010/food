@@ -63,6 +63,12 @@ The fillings were simple: diced red onion and dried dill weed. Things started we
 
 I may have been overzealous in my excitement to use aquafaba in every possible application, but I'm glad I learned something this morning, and will maybe stick to using aquafaba in my baking for now.
 
+![instant pot american goulash](/food/foodventures/images/american-goulash-2.jpg){: .image-right}{:width="60%"}
+
+I've been feeding Kevin a lot of goulash for the past few days. It's been turning out to be the perfect busy man recipe: very easy to cook a big batch and store leftovers in a tupperware, to eat out of for the upcoming week. This picture doesn't do the size justice, but there's enough food in this container for at least 3–4 more servings! It's been great not having to worry about dinner for the bf for a few days.
+
+The only problem keeping me from making this as a staple is Kevin doesn't *love* it. He says he likes it, but I can tell there's not as much enthusiasm as there is for pizza, say. I appreciate that he is still eating it heartily, but I won't be making it too often.
+
 ## Wednesday: Carrot Corn Fritters
 
 The other day, I discovered a new vegan food blog called [Veggie Jam](http://veggiejam.com/english/carrot-corn-fritters-with-mint-dip/) and was excited to find a recipe for "carrot corn fritters," since both carrots and corn are things I'm trying to clear in my fridge before we leave for our trip this Friday. A couple of things threw me off about the recipe—no mention of cooking the corn, even though I wasn't sure raw corn would cook fully in the short time used to fry fritters up on a skillet; no use of fat to give them any kind of crispy, oily goodness—but I put my faith in this recipe and followed it exactly.
