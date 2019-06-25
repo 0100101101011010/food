@@ -2,7 +2,7 @@
 layout: post
 title: "What I Ate This Week: Apr 1 – Apr 7"
 author: Kelly Zhang
-permalink: /:categories/:title/
+permalink: :categories/:title/
 categories: foodventures
 tags:
 keywords:

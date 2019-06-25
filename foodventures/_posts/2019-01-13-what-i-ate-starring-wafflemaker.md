@@ -2,7 +2,7 @@
 layout: post
 title: "What I Ate This Week: Jan 7 – Jan 13"
 author: Kelly Zhang
-permalink: /:categories/:title/
+permalink: :categories/:title/
 categories: foodventures
 tags:
 keywords: [ "healthy diet", "what i ate", "waffle maker", "creative uses for waffle maker" ]

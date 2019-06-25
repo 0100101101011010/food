@@ -2,7 +2,7 @@
 layout: post
 title: "What I Ate This Week: Apr 8–14"
 author: Kelly Zhang
-permalink: /:categories/:title/
+permalink: :categories/:title/
 categories: foodventures
 tags:
 keywords: [ "healthy diet", "what i ate", "baking", "bread", "no-knead bread", "easy recipes" ]

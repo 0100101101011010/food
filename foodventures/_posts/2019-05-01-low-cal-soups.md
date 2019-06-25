@@ -2,7 +2,7 @@
 layout: post
 title: "10 Low Cal Soups That Warm and Fill You Up — Under 200 Cal Each"
 author: Kelly Zhang
-permalink: /:categories/:title/
+permalink: :categories/:title/
 categories: foodventures
 tags: [200 calories]
 keywords: [ "healthy diet", "weight loss", "soup", "1200isplenty" ]

@@ -2,7 +2,7 @@
 layout: post
 title: "What I Ate This Week: Jan 21 – Jan 27"
 author: Kelly Zhang
-permalink: /:categories/:title/
+permalink: :categories/:title/
 categories: foodventures
 tags:
 keywords:
