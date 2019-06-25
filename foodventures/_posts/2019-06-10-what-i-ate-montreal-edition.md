@@ -28,7 +28,6 @@ discussion_id: 2019-06-10
 
 ![view from the window of a montreal mile end airbnb](/blog/images/montreal-airbnb.jpg){:width="60%"}{: .image-right}
 
-We got the most (diet-wise) out of our first day here. Our Airbnb is in the middle of Mile End, one of the hottest food spots in Montreal. Not only is Mile End a charming and artsy neighbourhood, perfect for strolling around, it checks all the boxes for tourists wanting to make the most of the city's culinary scene.
 
 * Table of Contents
 {:toc}
