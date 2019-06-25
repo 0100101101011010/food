@@ -56,7 +56,7 @@ BASE_PATH : https://kellyzhang.me/food/
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: :title/
 
 paginate: 6
 paginate_path: /page/:num/
