@@ -155,13 +155,17 @@ Later that night, we were both feeling a bit hungry, so we headed out to Restaur
 
 Chez Claudette was well worth waiting amidst the chaos. The poutine from this place has the squeakiest cheese curds I have ever eaten to date. The fries are a wonderful dark brown colour, thickly sliced, and almost sweet. Although the gravy-to-fries ratio could be more generous, the quality of the cheese and the large portions of fries can hardly be beat.
 
-## Friday: All-You-Can-Eat at Panda Hot Pot and Scooped Ice Cream at Ripples
+## Friday
+
+### All-You-Can-Eat at Panda Hot Pot
 
 ![ayce at hotpot panda](/food/foodventures/images/hotpot-panda.jpg){:width="60%"}{: .image-right}
 
 After attending an event at the F1 track, it was time to head to our dinner at Hotpot Panda with my cousin ([taking this moment to plug her Youtube channel](https://www.youtube.com/channel/UChjOj1jNmBTOhdGhI-uYjcQ)). I love this place! It's the absolute perfect AYCE hot pot restaurant for pescatarians, especially if you like fish balls and other highly-processed-but-delicious "seafood". They also have endless quantities of lamb, beef, fresh shrimp, veggies, noodles, and the other typical items you would expect to find in hot pot.
 
 Although we were initially hesitant about spending a meal in Montreal at a Chinese restaurant, when we were mainly looking for authentic local food, I had such a wonderful dinner and would definitely come here often if I were a student in the city. I was *so* stuffed so quickly, which was the only part that sucked because I wanted to eat more! It was great to catch up with my cousin as she winds down her first year at McGill, and I'm glad we made time for it in the middle of all our F1 experiences.
+
+### Scooped Ice Cream at Ripples
 
 ![ripples ice cream](/food/foodventures/images/ripples-1.jpg){:width="60%"}{: .image-left}
 
@@ -173,7 +177,9 @@ Kevin was much more impressed by this place than by Kem CoBa. I liked it for the
 
 OMG, this ice cream is *so rich*. This was the creamiest ice cream I've tasted since I visited the [D Dutchmen Dairy](http://www.dutchmendairy.ca/) many many many years ago, tucked away in the middle of nowhere in British Columbia. While the cone I had during that visit remains the most amazing ice cream I've ever had, this is a close second.
 
-## Saturday: Fairmount and St-Viateur Bagels, Fine Dining at Bistro L'Entrepont, and more Chez Claudette
+## Saturday
+
+### Fairmount Bagels
 
 ![garlic and "power" bagels from fairmount bagel](/food/foodventures/images/fairmount-bagels.jpg){:width="60%"}{: .image-left}
 
@@ -183,6 +189,8 @@ Are we missing something? These were just... okay. They were cold, dry, very den
 
 (Maybe it says something about me that I consider Safeway bagels a 10 on the scale. The best bagels are surely freshly-baked homemade bagels, but I've never made a true authentic bagel—although I'll be sure to update this post when I do.)
 
+### St-Viateur Bagels
+
 ![all-dressed bagel from st viateur bagel](/food/foodventures/images/st-viateur-bagels-1.jpg){:width="48%"}{: .image-left}
 
 ![rye bagel from st viateur bagel](/food/foodventures/images/st-viateur-bagels-2.jpg){:width="48%"}{: .image-left}
@@ -190,6 +198,8 @@ Are we missing something? These were just... okay. They were cold, dry, very den
 After that somewhat disappointing experience, we next tried St Viateur, which is another equally popular bagel stop a few blocks away. I liked this bagel a bit better, but whether that's because I prefer the taste of rye over raisins, walnuts, and sunflower seeds, is anyone's guess. Kevin didn't like either one.
 
 I guess that popularity of Fairmount and St-Viateur isn't because they are selling any flavour explosions, it's more that bagels are very near-and-dear to Montreal's history. These two shops have faithfully been turning them out as quick, easy lunches for ages, making them part of the city's collective memory. (In fact, Fairmount is turning 100 years old this year.) Then, of course, there's tourists like us who read about these places online and boost their reputation further, even if the product itself isn't anything spectaluar :-)
+
+### Fine Dining at Bistro L'Entrepont
 
 ![soup appetizer at bistro l'entrepont](/food/foodventures/images/bistro-l-entrepont-soup.jpg){:width="60%"}{: .image-right}
 
@@ -246,13 +256,17 @@ Finally, for dessert, Kevin ordered the cheesecake. I passed, since I was feelin
 
 In all, this second fine-dining experience was just as good as our first. In fact, Bistro L'Entrepont edges out Toque! as my favourite sit-down meal in Montreal. The bill for the two of us came to just over $100 before tips and tax, which is frankly a steal for the quantity and quality of food we received. I should also mention that Bistro L'Entrepont is a BYOB establishment. None of us at the table drank, so it didn't matter, but that's something to keep in mind if you do!
 
+### More Smoked Poutine from Chez Claudette
+
 ![cooking smoked meat at chez claudette](/food/foodventures/images/chez-claudette-smoked-meat.jpg){:width="60%"}{: .image-right}
 
 Believe it or not, even after the *three* bowls of free bread we consumed at Bistro L'Entrepont, we still had the stomach capacity for more carbs. What can I say, Chez Claudette's poutine is that good! I wasn't hungry enough to buy an entire meal for myself, so I shared some of Kevin's smoked meat poutine.
 
 This time around, there was no one around except us (no doubt it wasn't late enough at night for the crowd we encountered on Thursday). I swear Kevin was salivating as we watched the cook grill up the smoked meat as he prepared our order.
 
-## Sunday: Brunch at Schwartz's Deli, Kem CoBa (again), and Dinner at Poutineville
+## Sunday
+
+### Brunch at Schwartz's Deli
 
 ![smoked meat sandwich at schwartz's deli](/food/foodventures/images/schwartz-smoked-meat-sandwich.jpg){:width="60%"}{: .image-left}
 
@@ -268,6 +282,8 @@ Since, as you can see, the meat-to-bread ratio on the sandwich is terrifying, I 
 
 The poutine was awesome as well (although the cheese curds didn't squeak). I mean, how can you really fuck up gravy, fries, and cheese? I love that each poutine place has their own distinctly unique gravy, and yet almost all are equally good.
 
+### Soft-Serve from Kem CoBa
+
 ![ice cream from kem coba](/food/foodventures/images/kem-coba-2.jpg){:width="50%"}{: .image-right}
 
 In the afternoon, we circled back to Kem CoBa to try their soft-serve of the week. We had high hopes for this one, although the flavour was... interesting: chocolate and raspberry swirl. I loved it, but this was all Kevin had to say:
@@ -275,6 +291,8 @@ In the afternoon, we circled back to Kem CoBa to try their soft-serve of the wee
 > BAD
 
 Ripples is the clear winner out of the two ice cream spots we tried, but Kem CoBa isn't bad either. It really depends on which flavours you get. I've never seen pandan as an ice cream flavour anywhere else, and I would come back for that alone. I also thought the chocolate and raspberry was a neat combination I would never dream up on my own, so I'm glad we got to try it here.
+
+### Dinner at Poutineville
 
 ![french-onion-soup-poutine from poutineville](/food/foodventures/images/poutineville-french-onion-soup.jpg){:width="50%"}{: .image-right}
 
