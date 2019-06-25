@@ -28,9 +28,7 @@ discussion_id: 2019-06-10
 
 ![view from the window of a montreal mile end airbnb](/blog/images/montreal-airbnb.jpg){:width="60%"}{: .image-right}
 
-We got the most (diet-wise) out of our first day in Quebec. Our Airbnb is in the middle of Mile End, which together with the nearby Little Italy are the hottest food spots in Montreal. Not only is Mile End a super charming and artsy neighbourhood, perfect for strolling around, it checks all the boxes for those of us here as tourists. It's surrounded by renowned establishments of the Montreal culinary scene, such as [Wilensky's Light Lunch](/food/foodventures/what-i-ate-montreal-edition/#thursday-the-special-from-wilenskys-ice-cream-from-kem-coba-tasting-menu-at-toque-and-poutine-from-chez-claudette), [Fairmount Bagels](/food/foodventures/what-i-ate-montreal-edition/#saturday-fairmount-and-st-viateur-bagels-fine-dining-at-bistro-lentrepont-and-more-chez-claudette), and [Schwartz's Deli](/food/foodventures/what-i-ate-montreal-edition/#sunday-brunch-at-schwartzs-deli-kem-coba-again-and-dinner-at-poutineville).
-
-## Table of Contents
+We got the most (diet-wise) out of our first day in Quebec. Our Airbnb is in the middle of Mile End, which together with the nearby Little Italy are the hottest food spots in Montreal. Not only is Mile End a super charming and artsy neighbourhood, perfect for strolling around, it checks all the boxes for those of us here as tourists. It's surrounded by renowned establishments of the Montreal culinary scene.
 
 * Table of Contents
 {:toc}
