@@ -51,7 +51,7 @@ When we bought the sandwich, we were a bit underwhelmed. It looked like an extre
 
 ![ice cream from kem coba](/food/foodventures/images/kem-coba-1.jpg){:width="50%"}{: .image-right}
 
-Next, we visited [Kem CoBa](https://kemcoba.com/), an ice cream shop across the street from Wilensky's (and neighbours of the famous Fairmount Bagels... which we'll be visiting on Saturday). They are kind of known for doing everything well, from their soft serves (new flavours every month) to their unique hard ice creams to their refreshing sorbets. The line was stretching down the block at this place—apparently, today is the first warm day in Montreal all year 😀—but it was worth it.
+Next, we visited [Kem CoBa](https://kemcoba.com/), an ice cream shop across the street from Wilensky's (and neighbours of the famous Fairmount Bagels... which [we'll be visiting on Saturday](/food/foodventures/what-i-ate-montreal-edition/#fairmount-bagels)). They are kind of known for doing everything well, from their soft serves (new flavours every month) to their unique hard ice creams to their refreshing sorbets. The line was stretching down the block at this place—apparently, today is the first warm day in Montreal all year 😀—but it was worth it.
 
 This is another cash only place, and our total together came to around $7 for two small cups, so it's not the most price-effective option out there.
 
