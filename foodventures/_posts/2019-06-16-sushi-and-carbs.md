@@ -2,7 +2,7 @@
 layout: post
 title: "What I Ate: Jun 10—16"
 author: Kelly Zhang
-permalink: /:categories/:title/
+permalink: :categories/:title/
 categories: foodventures
 tags: waterloo restaurants
 keywords:
@@ -47,7 +47,7 @@ This time, however, I didn't get any pearls with my drink, which was rice milk t
 
 ![banana fries](/food/foodventures/images/banana-fries.jpg){:width="60%"}{: .image-left}
 
-I didn't eat much on Tuesday, since I had to detox from the weekend of eating, so we're skipping straight to Wednesday folks. I discovered two forgotten bananas in the fridge this morning, luckily they hadn't fully turned brown but were on the way to getting there. Refrigerated bananas aren't so good for eating on their own anymore, so I tried to cook them two ways.
+I didn't eat much on Tuesday, since I had to detox from the weekend of eating, so we're skipping straight to Wednesday folks. I discovered two forgotten bananas in the fridge this morning, and luckily they hadn't fully turned brown but were on the way to getting there. Refrigerated bananas aren't so good for eating on their own anymore, so I tried to cook them two ways.
 
 The first thing I tried was making banana fries. This recipe is stupid simple. Just cut your banana into roughly fry-like shapes and drop them into some hot oil. Surprisingly, they were pretty yummy, although as you can see, this is not a photogenic dish. However, you should use unripe bananas for this because they will hold their structure better. These bbs were almost too soft and fragile to scoop out of the oil.
 
