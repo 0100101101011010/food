@@ -2,7 +2,7 @@
 layout: post
 title: "What I Ate: Montreal Edition"
 author: Kelly Zhang
-permalink: /:categories/:title/
+permalink: :categories/:title/
 categories: foodventures
 tags: montreal restaurants
 keywords:
