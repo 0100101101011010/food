@@ -28,12 +28,16 @@ discussion_id: 2019-06-10
 
 ![view from the window of a montreal mile end airbnb](/blog/images/montreal-airbnb.jpg){:width="60%"}{: .image-right}
 
-We got the most (diet-wise) out of our first day in Quebec. Our Airbnb is in the middle of Mile End, which together with the nearby Little Italy are the hottest food spots in Montreal. Not only is Mile End a super charming and artsy neighbourhood, perfect for strolling around, it checks all the boxes for those of us here as tourists. It's surrounded by renowned establishments of the Montreal culinary scene, such as [Wilensky's Light Lunch](#), [Fairmount Bagels](#), and [Schwartz's Deli](#).
+We got the most (diet-wise) out of our first day in Quebec. Our Airbnb is in the middle of Mile End, which together with the nearby Little Italy are the hottest food spots in Montreal. Not only is Mile End a super charming and artsy neighbourhood, perfect for strolling around, it checks all the boxes for those of us here as tourists. It's surrounded by renowned establishments of the Montreal culinary scene, such as [Wilensky's Light Lunch](/food/foodventures/what-i-ate-montreal-edition/#thursday-the-special-from-wilenskys-ice-cream-from-kem-coba-tasting-menu-at-toque-and-poutine-from-chez-claudette), [Fairmount Bagels](/food/foodventures/what-i-ate-montreal-edition/#saturday-fairmount-and-st-viateur-bagels-fine-dining-at-bistro-lentrepont-and-more-chez-claudette), and [Schwartz's Deli](/food/foodventures/what-i-ate-montreal-edition/#sunday-brunch-at-schwartzs-deli-kem-coba-again-and-dinner-at-poutineville).
+
+## Table of Contents
 
 * Table of Contents
 {:toc}
 
-## Thursday: The Special from Wilensky's, Ice Cream from Kem CoBa, Tasting Menu at Toque! and Poutine from Chez Claudette
+## Thursday
+
+### The Special from Wilensky's
 
 ![wilensky's "the special" sandwich](/food/foodventures/images/wilensky-special.jpg){:width="50%"}{: .image-left}
 
@@ -44,6 +48,8 @@ There weren't any other customers around when we walked in at around 3 pm on a w
 The interior looks like it hasn't been redecorated since the 60's. On the wall opposite the counter are dozens of photographs of Wilensky's staff with various people I assume are celebrities, although I didn't look too closely.
 
 When we bought the sandwich, we were a bit underwhelmed. It looked like an extremely flattened burger bun, and you couldn't even see the meat between the buns. However, after my boyfriend took his first bite, he said he could definitely see why this is a "must-go" place in Montreal. Of course, I don't know for sure whether he said that because this is an absolute tastebud chart-topper or because it was late afternoon and the sandwich was his first meal of the day, but either way, I think this place is worth a visit because of its status as a nigh historical landmark, not to mention its popularity with locals.
+
+### Ice Cream from Kem CoBa
 
 ![ice cream from kem coba](/food/foodventures/images/kem-coba-1.jpg){:width="50%"}{: .image-right}
 
@@ -57,9 +63,11 @@ A small sandwich and ice cream scoop do not make substantial meals, so we were b
 
 I'm gonna take this moment to shout out the Montreal Metro. The trains look clean and new, come pretty often, aren't too crowded, and it's very easy to figure out how to get to where you want. A total stress-free experience! Thanks STM!
 
+### Tasting Menu at Toque!
+
 ![bread basket at toque!](/food/foodventures/images/toque-bread.jpg){:width="50%"}{: .image-right}
 
-Anyway, stepping into Toque! you immediately know you're in a fine-dining environment. I didn't think to take any pics of the decor, but I should have; it was a quirky, modern design, which matches the kind of food they serve.
+Stepping into Toque! you immediately know you're in a fine-dining environment. I didn't think to take any pics of the decor, but I should have; it was a quirky, modern design, which matches the kind of food they serve.
 
 There is a staff person for literally everything—your main server, sommelier, water server, bread server, bus boy, some dude to brush breadcrumbs off your table, etc.—so the service in general is prompt and professional. In addition, I've got mad respect for servers in Montreal because they have to be fluent in both English and French, which must be difficult in these high-end places where the food is already difficult to pronounce just in one language.
 
@@ -132,6 +140,8 @@ Not to mention, it is so pretty and Insta-worthy~
 The petit fours, which were maple candies and something-that-tasted-like-turkish-delights-but-probably-goes-by-a-fancier-name, were served with the bill, and were a cute and tidy way to end the evening. They were way too sweet for me, especially the maple squares, but Kevin enjoyed the hell out of both. Serving it on a rock is also such a cute idea. I wonder if there's a restaurant supply store that sells specifically shaped rocks for plating purposes? Or did an employee of Toque! have to go out onto a beach somewhere and scavenge for flat rocks?
 
 I loved the meal in general, would probably have loved it more if I'd remembered to mention I don't really eat meat at the start of service, but nevertheless had a great time! This is one of the most expensive dinners I've had, but well worth it for the food and the experience.
+
+### Poutine from Chez Claudette
 
 ![restaurant chez claudette at 9 pm on a weekday](/food/foodventures/images/chez-claudette-1.jpg){:width="100%"}{: .image-left}
 
