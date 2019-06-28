@@ -63,9 +63,9 @@ If I make this again, I'll do a bigger batch and blend it up in the food process
 
 
 
-For lunch, I had an entire wheel of camembert cheese.
+For lunch, I had an entire wheel of camembert.
 
-... Yeah. I guess going to Montreal revived my love for cheese, which sucks because I'm expressly trying to reduce my dairy consumption! But I saw this beb in the grocery store and it looked so cute I couldn't resist picking one up to try it. Funnily enough, I had to do some research on camembert for my last microbio lab report. Did you know that the fungus used to age camembert cheese is called *Penicillium camemberti*? There is another fungus with the name *P. roqueforti*. In both cases, the cheese was named first!
+... I guess going to Montreal revived my love for cheese, which sucks because I'm expressly trying to reduce my dairy consumption! But I saw this beb in the grocery store and it looked so cute I couldn't resist picking one up to try it. Funnily enough, I had to do some research on camembert for my last microbio lab report. Did you know that the fungus used to age camembert cheese is called *Penicillium camemberti*? There is another fungus with the name *P. roqueforti*. In both cases, the cheese was named first!
 
 This is my first time trying camembert (that I'm aware of. I've probably had it before on a cheese plate or something and never realized it). I have to say I prefer brie, it's more creamy and rich, and has a more melt-in-your-mouth feel. However, camembert is still enjoyable. On my top ten list for sure!
 
@@ -102,3 +102,18 @@ Kevin was the sweetest and kept insisting that it tasted good despite the ugly p
 ![used up bags of sugar, flour, and butter](/food/foodventures/images/used-up-ingredients.jpg){:width="40%"}{: .image-right}
 
 Another milestone that happened today was my simultaneous finishing of a bag of sugar, flour *and* jar of butter! Yep, I was pretty surprised at how perfectly everything worked out. This is my first time using up an entire bag of all purpose flour, and it's a strange feeling of... accomplishment? Yeah, I'm proud of this, LOL. But now I have to lug back a 10 kg bag of flour from the grocery store on my next trip. Ugh.
+
+## Friday:
+
+![salami pizza](/food/foodventures/images/salami-pizza.jpg){:width="40%"}{: .image-right}
+
+
+A simple salami pizza today for Kevin's dinner. I defrosted a ball of the dough [I made a couple weeks ago](/food/foodventures/short-week/). Then I rolled it out and baked the crust by itself for about ten minutes (until the edges were *just* beginning to deepen in colour), before spreading on a layer of tomato sauce and bbq sauce and topping it with mozzarella and sliced salami. It smelled *so amazing* pulling it out of the oven, I couldn't help trying a slice, and guys, this is my favourite homemade pizza so far. Something about that salami and the sweet undertone of the bbq sauce... mmm.
+
+## Sunday: Pizza
+
+![pizza dough](/food/foodventures/images/pizza-dough-1.jpg){:width="40%"}{: .image-right}
+
+Here's a picture of the batch of pizza dough before rolling them out. Scary how much dough can rise in an hour, right?
+
+Confession: this was not meant to be pizza dough. I tried to make hot dog buns today, but for some reason the dough just would *not* form a smooth ball in the mixer. I was afraid of over-kneading it, so I stopped the mixer while it was still quite shaggy. After rising, it was still very loose, sticky, and too unmanageable to work into bun shapes, so I said fuck it and divided them into pizza dough balls. I froze
