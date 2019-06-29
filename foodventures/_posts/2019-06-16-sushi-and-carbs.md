@@ -84,7 +84,7 @@ As a snack since I was hungry at night, I had a small glass jar of artichokes in
 
 Something about seeing all that sushi and sashimi piled up on one tray, waiting to be eaten, is super satisfying. Stuff like this is the reason I can't lose weight.
 
-![rum cake batter](/food/foodventures/images/rum-cake-batter.jpg){:width="50%"}{: .image-left}
+![rum cake batter](/food/foodventures/images/rum-cake-batter.jpg){:width="40%"}{: .image-left}
 
 Kevin has been obsessed with rum and cokes lately, so I tried making him a birthday rum cake using a recipe from [Pass the Sushi](https://passthesushi.com/rum-cake-recipe-handed-down-for-mothers-day-flavorstory-giveaway/). Doesn't that batter look creamy and wonderful? Omg, it smelled delicious too. The friend of one of my roommates even commented on how good it smelled as it was baking in the oven.
 
@@ -159,9 +159,9 @@ The result? Fucking ah-ma-zing. I was afraid my little loaf pan (which is a bit 
 
 Because I've been waiting to make a zucchini bread since forever, I hyped them up a lot in my head, and *THEY LIVED UP TO THE HYPE!* It's been a while since I've made a non-yeast bread that was this good. It was such sweet sorrow waiting for the loaf to cool with its delicious smell wafting all around me, and after it did cool, I ate slice after slice after slice.
 
-![zucchini bread](/food/foodventures/images/zucchini-bread-3.jpg){:width="49%"}{: .image-right}
+![zucchini bread](/food/foodventures/images/zucchini-bread-3.jpg){:width="48%"}{: .image-right}
 
-![zucchini bread](/food/foodventures/images/zucchini-bread-4.jpg){:width="49%"}{: .image-right}
+![zucchini bread](/food/foodventures/images/zucchini-bread-4.jpg){:width="48%"}{: .image-right}
 
 This bread made 10 slices at 260 cal each, which is concerning because I've already eaten five, and starting to crave another slice as I'm writing this. Unfortunately, Kevin didn't like it, which shouldn't be surprising because why would he like something that has *shudder* vegetables in it? But he's just weird because I don't see how a normal person can take a bite of this and not fall in love. I plan to make this a lot more once zucchinis get super cheap in the late summer and fall. Planning to experiment with omitting the walnuts and subbing eggs with aquafaba to lower the calories a bit. Maybe add some bananas for the oil? Kevin mentioned that he would like this more if it were a banana bread, so maybe that's an idea worth trying!
 
