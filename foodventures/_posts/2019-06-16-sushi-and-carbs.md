@@ -168,6 +168,14 @@ Because I've been waiting to make a zucchini bread since forever, I hyped them u
 
 This bread made 10 slices at 260 cal each, which is concerning because I've already eaten five, and starting to crave another slice as I'm writing this. Unfortunately, Kevin didn't like it, which shouldn't be surprising because why would he like something that has *shudder* vegetables in it? But he's just weird because I don't see how a normal person can take a bite of this and not fall in love. I plan to make this a lot more once zucchinis get super cheap in the late summer and fall. Planning to experiment with omitting the walnuts and subbing eggs with aquafaba to lower the calories a bit. Maybe add some bananas for the oil? Kevin mentioned that he would like this more if it were a banana bread, so maybe that's an idea worth trying!
 
+![zucchini waffles](/food/foodventures/images/zucchini-waffles.jpg){:width="48%"}{: .image-left}
+
+While the bread was baking, I figured I might as well use up the rest of the zucchini before I forgot about it in the crisper drawer (did you know? Apparently the [biggest source of rotten produce in our fridges](https://www.soundbitesrd.com/dr-joan-salge-blake/)). I adapted a KAF recipe for [zucchini-cheese pancakes](https://www.kingarthurflour.com/recipes/zucchini-cheese-pancakes-recipe) for my waffle maker. Just kidding, no adaptation was needed and I followed the recipe as is. It's another great recipe, not as mind-blowing as the bread, but I also couldn't keep myself from eating several of these savoury waffles as they came off the iron.
+
+![frozen egg](/food/foodventures/images/frozen-egg.jpg){:width="48%"}{: .image-left}
+
+As I was cracking eggs for the zucchini recipe, I discovered this lil abomination at the back of the fridge. The temperature control near the back of the fridge is a little unpredictable, and apparently it froze one of my eggs right in the carton! I thought this was really cool. After it defrosted and melted into the waffle batter, it didn't seem to impact the taste or texture of the finished products one bit. Should I start keeping some eggs in the freezer just in case? *Nah.* There's not enough space in our freezer as it is. Still, knowing that eggs can be frozen whole is probably wisdom that will come in handy one day. You're welcome!
+
 ![pizza dough](/food/foodventures/images/pizza-dough-1.jpg){:width="40%"}{: .image-right}
 
 Here's a picture of the batch of pizza dough before rolling them out. Scary how much dough can rise in an hour, right?
