@@ -134,9 +134,11 @@ A few bites into my meal, I bit into a fry that was just... off. The texture was
 
 Kevin reported the same thing had happened with his poutine. Since we've had poutine from Chickooos before and it's never been like this, hopefully today was just a bad day for the Chickooos folks, or their fries supplier somehow messed up. However, it does turn me off from eating there again in the future.
 
-![hot dogs and sandwiches meal prep](/food/foodventures/images/hot-dog-sandwiches-meal-prep.jpg){:width="40%"}{: .image-left}
+![salami sandwich on homemade bread](/food/foodventures/images/salami-sandwich.jpg){:width="48%"}{: .image-right}
 
-In other news, I freezer-prepped a few quick grab-and-go lunches for rainy days when there's suddenly nothing to eat and no will to cook. I used up my last Yves sausage for the hot dog and stuffed the sandwich rolls with salami, laughing cow cheese, and mozzarella. I'm not gonna lie, this is partially to prevent myself from eating any more of the salami, because I'm scared I'm becoming addicted to that shit. Yep, somehow I was able to resist *[smoked meat](/food/foodventures/what-i-ate-montreal-edition/#brunch-at-schwartzs-deli) from Montreal* but I can't resist a slab of grocery store salami.
+![hot dogs and sandwiches meal prep](/food/foodventures/images/hot-dog-sandwiches-meal-prep.jpg){:width="48%"}{: .image-right}
+
+In other news, I prepped and froze a few quick grab-and-go lunches for those rainy days when there's suddenly nothing to eat and no will to cook. I used up my last Yves sausage for the hot dog and stuffed the sandwich rolls with salami, laughing cow cheese, and mozzarella. I'm not gonna lie, this was partially to prevent myself from eating any more of the salami, because I'm scared I'm becoming addicted to that shit. Yep, somehow I was able to resist *[smoked meat](/food/foodventures/what-i-ate-montreal-edition/#brunch-at-schwartzs-deli) from Montreal* but I can't resist a slab of grocery store salami. *SO* I'm keeping the rest of them in the freezer to inhibit my fall to temptation.
 
 ## Sunday: Pizza
 
