@@ -177,7 +177,7 @@ As I was cracking eggs for the zucchini recipe, I discovered this lil abominatio
 
 ![triple meat pizza](/food/foodventures/images/triple-meat-pizza-2.jpg){:width="48%"}{: .image-right}
 
-Dinner was pizza again
+Dinner was pizza again, this time with more varieties of meat as Kevin requested. This counts as a meat lover's pizza, right? We've got bacon, spam, and salami on this bad boy.
 
 ![pizza dough](/food/foodventures/images/pizza-dough-1.jpg){:width="40%"}{: .image-right}
 
