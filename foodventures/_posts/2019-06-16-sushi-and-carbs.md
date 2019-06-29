@@ -118,9 +118,11 @@ I tried my hand at making hot dog and hamburger buns today! I actually attempted
 
 I am a little disappointed (and confused) with my mixer. I thought that kneading would become as simple as throwing all the ingredients into the bowl and leaving the machine to run for ten minutes, but this was a reality check to make me realize good things don't happen that easily. For instance, did you know that you're supposed to mix all the wet ingredients first, then add the flour slowly while mixing?
 
-![veggie hot dog](/food/foodventures/images/hot-dogs-1.jpg){:width="40%"}{: .image-right}
+![veggie hot dog](/food/foodventures/images/hot-dogs-1.jpg){:width="35%"}{: .image-right}
 
-Even though the hot dog buns didn't turn out as well as I'd like, today was good practice for breaking in my mixer and learning a few things about how machine-kneaded dough is different from hand-kneaded dough. And hey—I made these hot dogs with Yves veggie wieners that were totally delicious! Even Kevin thought they were ok, so [hulk meme] I see this as an absolute win!
+Even though the hot dog buns didn't turn out as well as I'd like, today was good practice for breaking in my mixer and learning a few things about how machine-kneaded dough is different from hand-kneaded dough. Obviously, I'm not going to stop until I've mastered perfectly soft and airy hot dog and hamburger buns, leaving grocery store buns in the dust. And even the ones from today weren't bad—I made these hot dogs with Yves veggie wieners that were totally edible! Even Kevin thought they tasted ok, so [hulk meme] I see this as an absolute win.
+
+(I'm probably not going to buy those veggie dogs again, though. Not that they don't taste good—I inhaled five in a single day—but something about these simulated meat products always leave something to be desired, like there's a part of me that's unsatisfied. I'll stick to my tofu and protein powder if I need to get protein in me.)
 
 ## Sunday: Pizza
 
