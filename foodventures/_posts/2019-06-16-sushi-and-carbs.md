@@ -171,7 +171,7 @@ While the bread was baking, I figured I might as well use up the rest of the zuc
 
 As it happened, I perfectly finished the remaining zucchini with this recipe. I adapted a KAF recipe for [zucchini-cheese pancakes](https://www.kingarthurflour.com/recipes/zucchini-cheese-pancakes-recipe) for my waffle maker. Just kidding, no adaptation was needed and I followed the recipe as is. It's another great recipe, not as mind-blowing as the bread, but I also couldn't keep myself from eating several of these savoury waffles as they came off the iron. I actually prefer these to the spinach cheddar waffles I made a few months ago: these are less greasy and messy. They're great for meal prep too; I froze the rest of the batch that I didn't eat right away. BOOM, another grab-and-go breakfast, solved.
 
-![frozen egg](/food/foodventures/images/frozen-egg.jpg){:width="48%"}{: .image-left}
+![frozen egg](/food/foodventures/images/frozen-egg.jpg){:width="18%"}{: .image-left}
 
 As I was cracking eggs for the zucchini recipe, I discovered this lil abomination at the back of the fridge. The temperature control near the back of the fridge is a little unpredictable, and apparently it froze one of my eggs right in the carton! I thought this was really cool. After it defrosted and melted into the waffle batter, it didn't seem to impact the taste or texture of the finished products one bit. Should I start keeping some eggs in the freezer just in case? *Nah.* There's not enough space in our freezer as it is. Still, knowing that eggs can be frozen whole is probably wisdom that will come in handy one day. You're welcome!
 
