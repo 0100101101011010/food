@@ -20,7 +20,12 @@ discussion_id: 2019-06-05
 
 {{page.excerpt}}
 
-## Monday: Mexican Inspired Pizza
+* TOC
+* {:toc}
+
+## Monday
+
+### Mexican Inspired Pizza
 
 !["mexican-inspired" pizza](/food/foodventures/images/mexican-pizza-1.jpg){:width="100%"}{: .image-right}
 
@@ -47,7 +52,9 @@ Pizza-making is a lot harder than I thought it would be and I give a lot more cr
 
 Kevin noticed the improvement in the crust structure, but he said it could still be crispier next time, so I guess I will try baking it even longer! Overall, I'm very happy with how this one turned out and it's another encouraging milestone on my journey to achieving the perfect takeout-style pizza.
 
-## Tuesday: Red Onion Egg–Aquafaba Scramble
+## Tuesday
+
+### Red Onion Egg–Aquafaba Scramble
 
 ![failed aquafaba omelette](/food/foodventures/images/aquafaba-omelette-1.jpg){:width="50%"}{: .image-left}
 
@@ -69,7 +76,9 @@ I've been feeding Kevin a lot of goulash for the past few days. It's been turnin
 
 The only problem keeping me from making this as a staple is Kevin doesn't *love* it. He says he likes it, but I can tell there's not as much enthusiasm as there is for pizza, say. I appreciate that he is still eating it heartily, but I won't be making it too often.
 
-## Wednesday: Carrot Corn Fritters
+## Wednesday
+
+### Carrot Corn Fritters
 
 The other day, I discovered a new vegan food blog called [Veggie Jam](http://veggiejam.com/english/carrot-corn-fritters-with-mint-dip/) and was excited to find a recipe for "carrot corn fritters," since both carrots and corn are things I'm trying to clear in my fridge before we leave for our trip this Friday. A couple of things threw me off about the recipe—no mention of cooking the corn, even though I wasn't sure raw corn would cook fully in the short time used to fry fritters up on a skillet; no use of fat to give them any kind of crispy, oily goodness—but I put my faith in this recipe and followed it exactly.
 
