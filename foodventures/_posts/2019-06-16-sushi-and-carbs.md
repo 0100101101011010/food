@@ -13,7 +13,7 @@ keywords:
  - stand mixer
  - kenwood mixer
  - kenwood a701a
-excerpt: "We're back to the daily grind this week, but I'm kind of happy I can go back to home cooking now. I'm back to trying out new foods and new recipes with a vengeance! And now that my mixer has arrived, I've broken it in by attempting to make some hot dog and hamburger buns."
+excerpt: "We're back to the daily grind this week, but I'm kind of happy I can go back to cooking new foods and trying new recipes with a vengeance! And now that my mixer has arrived, I've broken it in by attempting to make some hot dog and hamburger buns."
 img: /food/foodventures/images/jun-16-2019.jpg
 comments: "0"
 
@@ -177,7 +177,7 @@ As I was cracking eggs for the zucchini recipe, I discovered this lil abominatio
 
 ![triple meat pizza](/food/foodventures/images/triple-meat-pizza-2.jpg){:width="48%"}{: .image-right}
 
-Dinner was pizza again, this time with more varieties of meat as Kevin requested. This counts as a meat lover's pizza, right? We've got bacon, spam, and salami on this bad boy.
+Dinner was pizza again, this time with more varieties of meat as Kevin requested. We've got bacon, spam, and salami on this bad boy.
 
 ![pizza dough](/food/foodventures/images/pizza-dough-1.jpg){:width="40%"}{: .image-right}
 
