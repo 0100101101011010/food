@@ -21,7 +21,7 @@ discussion_id: 2019-06-05
 {{page.excerpt}}
 
 * TOC
-* {:toc}
+{:toc}
 
 ## Monday
 
