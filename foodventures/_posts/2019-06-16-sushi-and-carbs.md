@@ -162,9 +162,7 @@ Kevin reported the same thing had happened with his poutine. Since we've had pou
 
 ### Hot Dog & Sandwiches Meal Prep
 
-![salami sandwich on homemade bread](/food/foodventures/images/salami-sandwich.jpg){:width="48%"}{: .image-right}
-
-![hot dogs and sandwiches meal prep](/food/foodventures/images/hot-dog-sandwiches-meal-prep.jpg){:width="48%"}{: .image-right}
+![salami sandwich on homemade bread](/food/foodventures/images/salami-sandwich.jpg){:width="40%"}{: .image-right} ![hot dogs and sandwiches meal prep](/food/foodventures/images/hot-dog-sandwiches-meal-prep.jpg){:width="40%"}{: .image-right}
 
 In other news, I prepped and froze a few quick grab-and-go lunches for those rainy days when there's suddenly nothing to eat and no will to cook. I used up my last Yves sausage for the hot dog and stuffed the sandwich rolls with salami, laughing cow cheese, and mozzarella. I'm not gonna lie, this was partially to prevent myself from eating any more of the salami, because I'm scared I'm becoming addicted to that shit. Yep, somehow I was able to resist *[smoked meat](/food/foodventures/what-i-ate-montreal-edition/#brunch-at-schwartzs-deli) from Montreal* but I can't resist a slab of grocery store salami. *SO* I'm keeping the rest of them in the freezer to inhibit my fall to temptation.
 
@@ -194,9 +192,7 @@ The result? Fucking ah-ma-zing. I was afraid my little loaf pan (which is a bit 
 
 Because I've been waiting to make a zucchini bread since forever, I hyped them up a lot in my head, and *THEY LIVED UP TO THE HYPE!* It's been a while since I've made a non-yeast bread that was this good. It was such sweet sorrow waiting for the loaf to cool with its delicious smell wafting all around me, and after it did cool, I ate slice after slice after slice.
 
-![zucchini bread](/food/foodventures/images/zucchini-bread-3.jpg){:width="48%"}{: .image-right}
-
-![zucchini bread](/food/foodventures/images/zucchini-bread-4.jpg){:width="48%"}{: .image-right}
+![zucchini bread](/food/foodventures/images/zucchini-bread-3.jpg){:width="35%"}{: .image-right} ![zucchini bread](/food/foodventures/images/zucchini-bread-4.jpg){:width="35%"}{: .image-right}
 
 This bread made 10 slices at 260 cal each, which is concerning because I've already eaten five, and starting to crave another slice as I'm writing this. Unfortunately, Kevin didn't like it, which shouldn't be surprising because why would he like something that has *shudder* vegetables in it? But he's just weird because I don't see how a normal person can take a bite of this and not fall in love. I plan to make this a lot more once zucchinis get super cheap in the late summer and fall. Planning to experiment with omitting the walnuts and subbing eggs with aquafaba to lower the calories a bit. Maybe add some bananas for the oil? Kevin mentioned that he would like this more if it were a banana bread, so maybe that's an idea worth trying!
 
