@@ -6,19 +6,16 @@ permalink: :categories/:title/
 categories: foodventures
 tags: waterloo restaurants
 keywords:
- - fast food
- - poutine
- - food in montreal
- - fine dining
- - french cuisine
- - montreal smoked meat
- - montreal bagels
- - travel
- - eating out
-excerpt: "On Thursday, we traveled to Montreal for a small weekend getaway. No home cooking at all in this post! It's all delicious, unhealthy, ultra-fattening French food, and I hope you like reading about it as much as we loved eating it."
+ - home baking
+ - waterloo restaurants
+ - food in waterloo
+ - homemade bread
+ - stand mixer
+ - kenwood mixer
+ - kenwood a701a
+excerpt: "We're back to the daily grind this week, but I'm kind of happy I can go back to home cooking now. I'm back to trying out new foods and new recipes with a vengeance! And now that my mixer has arrived, I've broken it in by attempting to make some hot dog and hamburger buns."
 img: /food/foodventures/images/jun-16-2019.jpg
 comments: "0"
-published: false
 
 discussion_id: 2019-06-16
 ---
