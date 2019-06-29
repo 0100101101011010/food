@@ -173,6 +173,12 @@ While the bread was baking, I figured I might as well use up the rest of the zuc
 
 As I was cracking eggs for the zucchini recipe, I discovered this lil abomination at the back of the fridge. The temperature control near the back of the fridge is a little unpredictable, and apparently it froze one of my eggs right in the carton! I thought this was really cool. After it defrosted and melted into the waffle batter, it didn't seem to impact the taste or texture of the finished products one bit. Should I start keeping some eggs in the freezer just in case? *Nah.* There's not enough space in our freezer as it is. Still, knowing that eggs can be frozen whole is probably wisdom that will come in handy one day. You're welcome!
 
+![triple meat pizza](/food/foodventures/images/triple-meat-pizza-1.jpg){:width="48%"}{: .image-right}
+
+![triple meat pizza](/food/foodventures/images/triple-meat-pizza-2.jpg){:width="48%"}{: .image-right}
+
+Dinner was pizza again
+
 ![pizza dough](/food/foodventures/images/pizza-dough-1.jpg){:width="40%"}{: .image-right}
 
 Here's a picture of the batch of pizza dough before rolling them out. Scary how much dough can rise in an hour, right?
