@@ -1,6 +1,40 @@
 ---
 layout: default
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+
+  "dateModified": {{ page.date | jsonify }},
+  "datePublished": {{ page.date | jsonify }},
+  "publisher": {
+    "@type": "Organization",
+    "name": "Hi I'm Kelly and I Love My Life",
+    "logo": {
+      "@type": "ImageObject",
+      "URL": "https://kellyzhang.me/food/images/logo.jpg"
+      }
+    },
+
+  "author": {{ page.author | jsonify }},
+  "keywords": {{ page.keywords | jsonify }},
+  "description": {{ page.excerpt | jsonify }},
+  "image": "https://kellyzhang.me/food/images/{{ page.img }}",
+
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": "http://schema.org/Comment",
+    "userInteractionCount": {{ page.comments | jsonify }}
+    },
+
+  "name": {{page.title | jsonify}},
+  "headline": {{page.title | jsonify}}
+
+}
+</script>
+
 <div class="row">
 <div class="col-md-8">
 <article class="post">
