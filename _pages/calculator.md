@@ -1,7 +1,9 @@
 ---
 layout: page
+author: Kelly Zhang
 title: Conversion Calculators
 permalink: /calculator
+excerpt: "A cooking conversion calculator to give you ratios and cooking times for common foods."
 ---
 <style>
 input[type=text], input[type=number], select {
