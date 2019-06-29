@@ -111,7 +111,7 @@ The bf didn't seem as impressed as I was, commenting that the dough could be les
 
 ![hot dog buns ready to go into the oven](/food/foodventures/images/hot-dog-buns-dough.jpg){:width="40%"}{: .image-right}
 
-I tried my hand at making hot dog and hamburger buns today! I actually attempted two different recipes. The first one, from [King Arthur Flour](https://www.kingarthurflour.com/recipes/hamburger-or-hot-dog-buns-recipe), didn't really work out, which was so sad because their recipes usually work really well for me. So I [repurposed that into pizza dough](/food/foodventures/sushi-and-carbs/#sunday-pizza) and moved onto another recipe, this one by [Chef John](https://www.allrecipes.com/recipe/237824/chef-johns-hot-dog-buns/). It too didn't work out super well. I'm still getting used to kneading dough in my mixer, and it hasn't been going as smoothly or magically as I'd expected it would. In the end, the only way I could shape the buns was to use a ton of oil when handling them.
+I tried my hand at making hot dog and hamburger buns today! I actually attempted two different recipes. The first one, from [King Arthur Flour](https://www.kingarthurflour.com/recipes/hamburger-or-hot-dog-buns-recipe), didn't really work out, which was so sad because their recipes usually work really well for me. For some reason, the dough just would *not* form a smooth ball in the mixer. I was afraid of over-kneading it, so I stopped the mixer while it was still quite shaggy. After rising, it was still very loose, sticky, and too unmanageable to work into bun shapes, so I said fuck it and divided them into [pizza dough balls](/food/foodventures/sushi-and-carbs/#sunday-zucchini-walnut-bread-zucchini-waffles-and-triple-meat-pizza). I tossed them in the freezer (at least now I have pizza dough for the next month), and moved onto another recipe, this one by [Chef John](https://www.allrecipes.com/recipe/237824/chef-johns-hot-dog-buns/). It too didn't work out super well. I'm still getting used to kneading dough in my mixer, and it hasn't been going as smoothly or magically as I'd expected it would. In the end, the only way I could shape the buns was to use a ton of oil when handling them.
 
 I am a little disappointed (and confused) with my mixer. I thought that kneading would become as simple as throwing all the ingredients into the bowl and leaving the machine to run for ten minutes, but this was a reality check to make me realize good things don't happen that easily. For instance, did you know that you're supposed to mix all the wet ingredients first, then add the flour slowly while mixing?
 
@@ -183,6 +183,7 @@ Dinner was pizza again, this time with more varieties of meat as Kevin requested
 
 ![pizza dough](/food/foodventures/images/pizza-dough-1.jpg){:width="40%"}{: .image-right}
 
-Here's a picture of the batch of pizza dough before rolling them out. Scary how much dough can rise in an hour, right?
+Confession: this was not meant to be pizza dough. This dough was from my failed hot dog buns on [Friday]()
 
-Confession: this was not meant to be pizza dough. I tried to make hot dog buns today, but for some reason the dough just would *not* form a smooth ball in the mixer. I was afraid of over-kneading it, so I stopped the mixer while it was still quite shaggy. After rising, it was still very loose, sticky, and too unmanageable to work into bun shapes, so I said fuck it and divided them into pizza dough balls. I froze
+
+Here's a picture of the batch of pizza dough before rolling them out. Scary how much dough can rise in an hour, right?
