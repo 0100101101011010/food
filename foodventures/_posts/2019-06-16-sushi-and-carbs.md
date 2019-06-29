@@ -22,6 +22,9 @@ discussion_id: 2019-06-16
 
 {{page.excerpt}}
 
+* TOC
+{:toc}
+
 ## Monday
 
 ### Matsu Sushi
@@ -171,9 +174,9 @@ Right after I eat one sandwich, though. ;-)
 
 ### Zucchini Walnut Bread
 
-Today is a huuuuge baking day!
-
 ![zucchini bread](/food/foodventures/images/zucchini-bread-5.jpg){:width="100%"}{: .image-right}
+
+Today is a huuuuge baking day!
 
 ![zucchini bread](/food/foodventures/images/zucchini-bread-1.jpg){:width="30%"}{: .image-right}
 
