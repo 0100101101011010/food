@@ -123,7 +123,7 @@ Even though the hot dog buns didn't turn out as well as I'd like, today was good
 
 ## Saturday: Hot Dog & Sandwiches Meal Prep and Chickoo's Poutine
 
-![chickooos poutine (chicken and regular)](/food/foodventures/images/chickooos-poutine.jpg){:width="35%"}{: .image-right}
+![chickooos poutine (chicken and regular)](/food/foodventures/images/chickooos-poutine.jpg){:width="45%"}{: .image-right}
 
 I feel like I've said something like this a lot: *"How can you mess up something that's just fries, gravy, and cheese?"* Well, today those words came back to haunt me after tasting what was probably the strangest poutine of my life. We ordered lunch from [Chickooos](https://www.chickooos.com/) today. (I know, I know, I feel bad every time we get delivery but sometimes it's just *so easy.* I promise I'm trying to stop.) Kevin ordered a chicken poutine while I ordered the regular. They were both super promising at first: the gravy was on point (dare I say I prefer it over [Claudette's](/food/foodventures/what-i-ate-montreal-edition/#poutine-from-chez-claudette)?), the cheese curds were (omg) squeaky, the fries were awesome—until they weren't.
 
@@ -167,7 +167,9 @@ This bread made 10 slices at 260 cal each, which is concerning because I've alre
 
 ![zucchini waffles](/food/foodventures/images/zucchini-waffles.jpg){:width="48%"}{: .image-left}
 
-While the bread was baking, I figured I might as well use up the rest of the zucchini before I forgot about it in the crisper drawer (did you know? Apparently the [biggest source of rotten produce in our fridges](https://www.soundbitesrd.com/dr-joan-salge-blake/)). I adapted a KAF recipe for [zucchini-cheese pancakes](https://www.kingarthurflour.com/recipes/zucchini-cheese-pancakes-recipe) for my waffle maker. Just kidding, no adaptation was needed and I followed the recipe as is. It's another great recipe, not as mind-blowing as the bread, but I also couldn't keep myself from eating several of these savoury waffles as they came off the iron.
+While the bread was baking, I figured I might as well use up the rest of the zucchini before I forgot about it in the crisper drawer (did you know? Apparently the [biggest source of rotten produce in our fridges](https://www.soundbitesrd.com/dr-joan-salge-blake/)).
+
+As it happened, I perfectly finished the remaining zucchini with this recipe. I adapted a KAF recipe for [zucchini-cheese pancakes](https://www.kingarthurflour.com/recipes/zucchini-cheese-pancakes-recipe) for my waffle maker. Just kidding, no adaptation was needed and I followed the recipe as is. It's another great recipe, not as mind-blowing as the bread, but I also couldn't keep myself from eating several of these savoury waffles as they came off the iron. I actually prefer these to the spinach cheddar waffles I made a few months ago: these are less greasy and messy. They're great for meal prep too; I froze the rest of the batch that I didn't eat right away. BOOM, another grab-and-go breakfast, solved.
 
 ![frozen egg](/food/foodventures/images/frozen-egg.jpg){:width="48%"}{: .image-left}
 
