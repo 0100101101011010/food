@@ -122,7 +122,11 @@ I am a little disappointed (and confused) with my mixer. I thought that kneading
 
 Even though the hot dog buns didn't turn out as well as I'd like, today was good practice for breaking in my mixer and learning a few things about how machine-kneaded dough is different from hand-kneaded dough. Obviously, I'm not going to stop until I've mastered perfectly soft and airy hot dog and hamburger buns, leaving grocery store buns in the dust. And even the ones from today weren't bad—I made these hot dogs with Yves veggie wieners that were totally edible! Even Kevin thought they tasted ok, so [hulk meme] I see this as an absolute win.
 
-(I'm probably not going to buy those veggie dogs again, though. Not that they don't taste good—I inhaled five in a single day—but something about these simulated meat products always leave something to be desired, like there's a part of me that's unsatisfied. I'll stick to my tofu and protein powder if I need to get protein in me.)
+(I'm probably not going to buy those veggie dogs again, though. Not that they don't taste good—I inhaled five in a single day—but something about these simulated meat products always leave something to be desired, like there's a part of me that's unsatisfied. I'll stick to my tofu and beans if I need to get protein in me.)
+
+## Saturday: Hot Dog & Sandwiches Meal Prep and Chickoo's Poutine
+
+I feel like I've said something like this a lot: *"How can you mess up something that's just fries, gravy, and cheese?"* Well, today those words came back to haunt me after tasting what was probably the strangest poutine of my life. 
 
 ## Sunday: Pizza
 
