@@ -126,7 +126,17 @@ Even though the hot dog buns didn't turn out as well as I'd like, today was good
 
 ## Saturday: Hot Dog & Sandwiches Meal Prep and Chickoo's Poutine
 
-I feel like I've said something like this a lot: *"How can you mess up something that's just fries, gravy, and cheese?"* Well, today those words came back to haunt me after tasting what was probably the strangest poutine of my life. 
+![chickooos poutine (chicken and regular)](/food/foodventures/images/chickooos-poutine.jpg){:width="35%"}{: .image-right}
+
+I feel like I've said something like this a lot: *"How can you mess up something that's just fries, gravy, and cheese?"* Well, today those words came back to haunt me after tasting what was probably the strangest poutine of my life. We ordered lunch from [Chickooos](https://www.chickooos.com/) today. (I know, I know, I feel bad every time we get delivery but sometimes it's just *so easy.* I promise I'm trying to stop.) Kevin ordered a chicken poutine while I ordered the regular. They were both super promising at first: the gravy was on point (dare I say I prefer it over [Claudette's](/food/foodventures/what-i-ate-montreal-edition/#poutine-from-chez-claudette)?), the cheese curds were (omg) squeaky, the fries were awesome—until they weren't.
+
+A few bites into my meal, I bit into a fry that was just... off. The texture was hard to describe: mushy yet crunchy, like it had been dunked in cold oil and left to soak up oil like a freaking sponge. I dismissed it as a weird one-off until it happened again. And again. By the third one, I couldn't deal with them anymore and left a small growing pile of inedible gross oil-saturated fries on the side of my dish. That seriously ruined my eating experience because I was always wary of biting into yet another one.
+
+Kevin reported the same thing had happened with his poutine. Since we've had poutine from Chickooos before and it's never been like this, hopefully today was just a bad day for the Chickooos folks, or their fries supplier somehow messed up. However, it does turn me off from eating there again in the future.
+
+![hot dogs and sandwiches meal prep](/food/foodventures/images/hot-dog-sandwiches-meal-prep.jpg){:width="40%"}{: .image-left}
+
+In other news, I freezer-prepped a few quick grab-and-go lunches for rainy days when there's suddenly nothing to eat and no will to cook. I used up my last Yves sausage for the hot dog and stuffed the sandwich rolls with salami, laughing cow cheese, and mozzarella. I'm not gonna lie, this is partially to prevent myself from eating any more of the salami, because I'm scared I'm becoming addicted to that shit. Yep, somehow I was able to resist *[smoked meat](/food/foodventures/what-i-ate-montreal-edition/#brunch-at-schwartzs-deli) from Montreal* but I can't resist a slab of grocery store salami.
 
 ## Sunday: Pizza
 
