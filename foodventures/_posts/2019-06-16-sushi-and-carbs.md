@@ -74,7 +74,9 @@ The pasta sauce (I used a cashew-based recipe from [Amy Le Creations](https://am
 
 ![artichokes](/food/foodventures/images/artichokes-1.jpg){:width="30%"}{: .image-left}
 
-As a snack since I was hungry at night, I had a small glass jar of artichokes in olive oil. This felt really sad to eat, cause, idk, it feels wrong to eat artichokes straight out of the jar without any dressing up, but I used to do this all the time at home when we had the big jar of marinated artichokes from Costco. It weirdly made me feel kind of homesick. I haven't had artichokes in a long time and they have been missed. :')
+As a snack since I was hungry at night, I had a small jar of artichokes in olive oil. This felt really sad to eat, cause, idk, it feels wrong to eat artichokes straight out of the jar without any dressing up, but I used to do this all the time at home when we had the big jar of marinated artichokes from Costco. It weirdly made me feel kind of homesick. I haven't had artichokes in a long time and they have been missed. :')
+
+Now I have this cute glass container that I need to find a purpose for. Maybe a spice jar?
 
 ## Thursday: Sushi Boat at Ken's and Rum Cake
 
