@@ -110,6 +110,8 @@ Another milestone that happened today was my simultaneous finishing of a bag of 
 
 A simple salami pizza today for Kevin's dinner. I defrosted a ball of the dough [I made a couple weeks ago](/food/foodventures/short-week/). Then I rolled it out and baked the crust by itself for about ten minutes (until the edges were *just* beginning to deepen in colour), before spreading on a layer of tomato sauce and bbq sauce and topping it with mozzarella and sliced salami. It smelled *so amazing* pulling it out of the oven, I couldn't help trying a slice, and guys, this is my favourite homemade pizza so far. Something about that salami and the sweet undertone of the bbq sauce... mmm.
 
+The bf didn't seem as impressed as I was, commenting that the dough could be less thick and I should add a few varieties of meat toppings next time instead of just the one. He also pointed out that the salami slices were too large and unwieldy to chew conveniently, so next time I think I'll slice them into halves.
+
 ## Sunday: Pizza
 
 ![pizza dough](/food/foodventures/images/pizza-dough-1.jpg){:width="40%"}{: .image-right}
