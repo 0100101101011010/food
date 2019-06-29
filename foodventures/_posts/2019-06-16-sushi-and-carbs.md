@@ -108,9 +108,19 @@ Another milestone that happened today was my simultaneous finishing of a bag of 
 ![salami pizza](/food/foodventures/images/salami-pizza.jpg){:width="40%"}{: .image-right}
 
 
-A simple salami pizza today for Kevin's dinner. I defrosted a ball of the dough [I made a couple weeks ago](/food/foodventures/short-week/). Then I rolled it out and baked the crust by itself for about ten minutes (until the edges were *just* beginning to deepen in colour), before spreading on a layer of tomato sauce and bbq sauce and topping it with mozzarella and sliced salami. It smelled *so amazing* pulling it out of the oven, I couldn't help trying a slice, and guys, this is my favourite homemade pizza so far. Something about that salami and the sweet undertone of the bbq sauce... mmm.
+A simple salami pizza today for Kevin's dinner. I defrosted a ball of the dough [I made a couple weeks ago](/food/foodventures/short-week/). Then I rolled it out and baked the crust by itself for about ten minutes (until the edges were *just* beginning to deepen in colour), before spreading on a layer of tomato sauce and bbq sauce and topping it with mozzarella and sliced salami. It was super soft and droopy when I was laying out on the pan, resulting in this demented rectangle shape. It smelled *so amazing* pulling it out of the oven, I couldn't help trying a slice, and guys, this is my favourite homemade pizza so far. Something about that salami and the sweet undertone of the bbq sauce... mmm.
 
 The bf didn't seem as impressed as I was, commenting that the dough could be less thick and I should add a few varieties of meat toppings next time instead of just the one. He also pointed out that the salami slices were too large and unwieldy to chew conveniently, so next time I think I'll slice them into halves.
+
+![hot dog buns ready to go into the oven](/food/foodventures/images/hot-dog-buns-dough.jpg){:width="40%"}{: .image-right}
+
+I tried my hand at making hot dog and hamburger buns today! I actually attempted two different recipes. The first one, from [King Arthur Flour](https://www.kingarthurflour.com/recipes/hamburger-or-hot-dog-buns-recipe), didn't really work out, which was so sad because their recipes usually work really well for me. So I [repurposed that into pizza dough](/food/foodventures/sushi-and-carbs/#sunday-pizza) and moved onto another recipe, this one by [Chef John](https://www.allrecipes.com/recipe/237824/chef-johns-hot-dog-buns/). It too didn't work out super well. I'm still getting used to kneading dough in my mixer, and it hasn't been going as smoothly or magically as I'd expected it would. In the end, the only way I could shape the buns was to use a ton of oil when handling them.
+
+I am a little disappointed (and confused) with my mixer. I thought that kneading would become as simple as throwing all the ingredients into the bowl and leaving the machine to run for ten minutes, but this was a reality check to make me realize good things don't happen that easily. For instance, did you know that you're supposed to mix all the wet ingredients first, then add the flour slowly while mixing?
+
+![veggie hot dog](/food/foodventures/images/hot-dogs-1.jpg){:width="40%"}{: .image-right}
+
+Even though the hot dog buns didn't turn out as well as I'd like, today was good practice for breaking in my mixer and learning a few things about how machine-kneaded dough is different from hand-kneaded dough. And hey—I made these hot dogs with Yves veggie wieners that were totally delicious! Even Kevin thought they were ok, so [hulk meme] I see this as an absolute win!
 
 ## Sunday: Pizza
 
