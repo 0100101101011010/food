@@ -100,7 +100,7 @@ Kevin was the sweetest and kept insisting that it tasted good despite the ugly p
 
 ![used up bags of sugar, flour, and butter](/food/foodventures/images/used-up-ingredients.jpg){:width="40%"}{: .image-right}
 
-Another milestone that happened today was my simultaneous finishing of a bag of sugar, flour *and* jar of butter! Yep, I was pretty surprised at how perfectly everything worked out. This is my first time using up an entire bag of all purpose flour, and it's a strange feeling of... accomplishment? Yeah, I'm proud of this, LOL. But now I have to lug back a 10 kg bag of flour from the grocery store on my next trip. Ugh.
+Another milestone that happened today was my simultaneous finishing of a bag of sugar, flour *and* jar of butter! Yep, I was pretty surprised at how perfectly everything worked out. This is my first time using up an entire bag of all purpose flour, and it's a strange feeling of... accomplishment? Yeah, I'm proud of this, LOL. But now I have to lug back a 10 kg bag of flour from the grocery store on my next trip. Ugh. It's times like these when I wish I had a car.
 
 ## Friday:
 
