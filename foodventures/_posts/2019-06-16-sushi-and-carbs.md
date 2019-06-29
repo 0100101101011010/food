@@ -159,9 +159,9 @@ The result? Fucking ah-ma-zing. I was afraid my little loaf pan (which is a bit 
 
 Because I've been waiting to make a zucchini bread since forever, I hyped them up a lot in my head, and *THEY LIVED UP TO THE HYPE!* It's been a while since I've made a non-yeast bread that was this good. It was such sweet sorrow waiting for the loaf to cool with its delicious smell wafting all around me, and after it did cool, I ate slice after slice after slice.
 
-![zucchini bread](/food/foodventures/images/zucchini-bread-3.jpg){:width="48%"}{: .image-right}
+![zucchini bread](/food/foodventures/images/zucchini-bread-3.jpg){:width="49%"}{: .image-right}
 
-![zucchini bread](/food/foodventures/images/zucchini-bread-4.jpg){:width="48%"}{: .image-right}
+![zucchini bread](/food/foodventures/images/zucchini-bread-4.jpg){:width="49%"}{: .image-right}
 
 This bread made 10 slices at 260 cal each, which is concerning because I've already eaten five, and starting to crave another slice as I'm writing this. Unfortunately, Kevin didn't like it, which shouldn't be surprising because why would he like something that has *shudder* vegetables in it? But he's just weird because I don't see how a normal person can take a bite of this and not fall in love. I plan to make this a lot more once zucchinis get super cheap in the late summer and fall. Planning to experiment with omitting the walnuts and subbing eggs with aquafaba to lower the calories a bit. Maybe add some bananas for the oil? Kevin mentioned that he would like this more if it were a banana bread, so maybe that's an idea worth trying!
 
@@ -171,7 +171,7 @@ While the bread was baking, I figured I might as well use up the rest of the zuc
 
 As it happened, I perfectly finished the remaining zucchini with this recipe. I adapted a KAF recipe for [zucchini-cheese pancakes](https://www.kingarthurflour.com/recipes/zucchini-cheese-pancakes-recipe) for my waffle maker. Just kidding, no adaptation was needed and I followed the recipe as is. It's another great recipe, not as mind-blowing as the bread, but I also couldn't keep myself from eating several of these savoury waffles as they came off the iron. I actually prefer these to the spinach cheddar waffles I made a few months ago: these are less greasy and messy. They're great for meal prep too; I froze the rest of the batch that I didn't eat right away. BOOM, another grab-and-go breakfast, solved.
 
-![frozen egg](/food/foodventures/images/frozen-egg.jpg){:width="18%"}{: .image-left}
+![frozen egg](/food/foodventures/images/frozen-egg.jpg){:width="18%"}{: .image-right}
 
 As I was cracking eggs for the zucchini recipe, I discovered this lil abomination at the back of the fridge. The temperature control near the back of the fridge is a little unpredictable, and apparently it froze one of my eggs right in the carton! I thought this was really cool. After it defrosted and melted into the waffle batter, it didn't seem to impact the taste or texture of the finished products one bit. Should I start keeping some eggs in the freezer just in case? *Nah.* There's not enough space in our freezer as it is. Still, knowing that eggs can be frozen whole is probably wisdom that will come in handy one day. You're welcome!
 
