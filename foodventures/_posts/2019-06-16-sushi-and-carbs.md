@@ -183,7 +183,6 @@ Dinner was pizza again, this time with more varieties of meat as Kevin requested
 
 ![pizza dough](/food/foodventures/images/pizza-dough-1.jpg){:width="40%"}{: .image-right}
 
-Confession: this was not meant to be pizza dough. This dough was from my failed hot dog buns on [Friday]()
+Confession: this was not meant to be pizza dough. This dough was from my failed hot dog buns on [Friday](). Here's a picture of that dough after the first rise. Scary how much dough can rise in an hour, right? Anyway, even after spending a few days in the freezer, the dough was still sticky af after defrosting, and I had to kind of stretch and pull it into a circular shape with my fingers instead of using a rolling pin like I usually do for pizza. I was afraid that Kevin wouldn't think much of this crust because not only was it whole wheat (his mortal enemy), the fact that it was super sticky might impact the flavour and texture, or so I thought. Yet he said that he really liked it and that this was one of his favourite pizzas so far. (???)
 
-
-Here's a picture of the batch of pizza dough before rolling them out. Scary how much dough can rise in an hour, right?
+I am so confused.
