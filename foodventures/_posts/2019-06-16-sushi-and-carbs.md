@@ -145,6 +145,8 @@ Right after I eat one sandwich, though. ;-)
 
 Today is a huuuuge baking day!
 
+![zucchini bread](/food/foodventures/images/zucchini-bread-5.jpg){:width="100%"}{: .image-right}
+
 ![zucchini bread](/food/foodventures/images/zucchini-bread-1.jpg){:width="30%"}{: .image-right}
 
 Got up early, before Kevin was awake, to bake a nice hearty zucchini bread. I've wanted to make zucchini bread for *so long,* and even though zucchinis aren't quite in season here yet, they were on sale at the store so I bought a few to finally fulfill my dream. I used the recipe from [King Arthur Flour](https://www.kingarthurflour.com/recipes/simple-zucchini-bread-recipe) and here are all the changes I made:

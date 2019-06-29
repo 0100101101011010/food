@@ -19,15 +19,8 @@ layout: default
     },
 
   "author": {{ page.author | jsonify }},
-  "keywords": {{ page.keywords | jsonify }},
   "description": {{ page.excerpt | jsonify }},
   "image": "https://kellyzhang.me/food/images/{{ page.img }}",
-
-  "interactionStatistic": {
-    "@type": "InteractionCounter",
-    "interactionType": "http://schema.org/Comment",
-    "userInteractionCount": {{ page.comments | jsonify }}
-    },
 
   "name": {{page.title | jsonify}},
   "headline": {{page.title | jsonify}}
