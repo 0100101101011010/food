@@ -65,11 +65,9 @@ I love how simple this recipe is, and that it doesn't require any extra ingredie
 
 I also attempted an Instant Pot cheesecake for the first time. I was feeling bad about Kevin's birthday cake not working out, and he's been asking for a cheesecake for a while, so I decided to make this for him. This is another recipe I've had my eye on for a long time, because how cool is it to make cake in a pressure cooker?! It's a New York style cheesecake with no frills. Instead of graham cracker crumbs, I used the crust of the failed rum cake from [last week](/food/foodventures/sushi-and-carbs/#thursday-sushi-boat-at-kens-and-rum-cake), after breaking it up in my food processor. I also didn't have any sour cream on hand, so I blended together some cream cheese and milk until it reached the same consistency.
 
-![instant pot new york style cheesecake](/food/foodventures/images/instant-pot-cheesecake-2.jpg){:width="40%"}{: .image-left}
+![instant pot new york style cheesecake](/food/foodventures/images/instant-pot-cheesecake-2.jpg){:width="30%"}{: .image-left} ![instant pot new york style cheesecake](/food/foodventures/images/instant-pot-cheesecake-3.jpg){:width="30%"}{: .image-left}
 
 I thought it was just ok. But it got Kevin's unreserved approval, which is huge! I'm pretty surprised, because as I said, it tastes fine to me but nothing special. I'm glad he likes it, though, because it was such an easy recipe and I'll be making this again and again.
-
-![instant pot new york style cheesecake](/food/foodventures/images/instant-pot-cheesecake-3.jpg){:width="60%"}{: .image-left}
 
 Here's a picture of the cheesecake in the Instant Pot before the cook cycle. Looks pretty much the same before and after baking, right?
 
