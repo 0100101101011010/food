@@ -23,7 +23,12 @@ discussion_id: 2019-02-03
 
 {{page.excerpt}}
 
-## Monday: Avocado Alfredo and Oven-Poached Eggs
+* TOC
+{:toc}
+
+## Monday
+
+### Avocado Alfredo
 
 ![avocado alfredo](/food/foodventures/images/avocado-alfredo-1.jpg){:width="48%"}{: .image-left}
 
@@ -35,19 +40,25 @@ Once I added the noodles, everything clumped together in one hard-to-move blob. 
 
 Nope. All I could taste was the weird heated-up avocado smell, which gets more terrible as you eat. I'm never making this dish again.
 
+### Oven-Poached Eggs
+
 ![oven-poached eggs](/food/foodventures/images/oven-poached-eggs.jpg){:width="40%"}{: .image-right}
 
 While the avocado sauce was cooking, I also prepared a pan of 12 poached eggs, using the [oven method](#). I've never attempted poaching an egg the regular way, but it seems intimidating so I'm going to see if this method is successful.
 
 Out of the oven, they look pretty good! Obviously, the shape is very... muffin cup like, and they have a slight silicon smell? taste? but hopefully that will go away once they're removed from the molds. Overall, they seem to be cooked well! The only change I would make next time is taking them out of the oven a minute earlier, since as you can see with this yolk, it's quite set already. I'm going to pack them into my work lunches and see how they taste.
 
-## Tuesday: Spinach Cheddar Waffles
+## Tuesday
+
+### Spinach Cheddar Waffles
 
 ![spinach-cheddar-waffles](/food/foodventures/images/spinach-cheddar-waffles.jpg){:width="50%"}{: .image-right}
 
 I made a batch of spinach waffles last night, and man am I blown away by this recipe. I accidentally use double the amount of oil called for, most of which leaked out of my waffle maker as I was cooking, but they tasted amazing regardless. Perfectly crispy and rich. I wasn't expecting them to turn out quite *this* well! I had to stop myself from eating more than one when I made them, since they were for meal prep.
 
-## Wednesday: Avocado Macaroni Salad
+## Wednesday
+
+### Avocado Macaroni Salad
 
 ![avocado macaroni salad](/food/foodventures/images/avocado-macaroni-salad.jpg){:width="50%"}{: .image-right}
 
@@ -55,15 +66,23 @@ Another avocado recipe since I need to use them up! This one uses *raw* avocado 
 
 I think this is the first time in years that I've had to boil macaroni pasta... isn't that weird? I forgot about how much it foams in the pot, or how long it actually takes to become al dente. I'm terrified of overcooking pasta, so I took one out to taste so often that I probably ingested like five half-raw pieces lol.
 
-## Thursday: Apple Cinnamon Overnight Oats and Savoury Oatmeal
+## Thursday
+
+### Apple Cinnamon Overnight Oats
 
 ![apple cinnamon overnight oats](/food/foodventures/images/apple-cinnamon-overnight-oats.jpg){:width="50%"}{: .image-right}
 
+### Savoury Oatmeal
+
 ![savoury oatmeal](/food/foodventures/images/savoury-oatmeal.jpg){:width="50%"}{: .image-right}
 
-## Friday: Apple Cupcakes and Takeout-Style Lentil Curry
+## Friday
+
+### Apple Cupcakes
 
 ![apple cupcakes](/food/foodventures/images/apple-cupcakes.jpg){:width="50%"}{: .image-right}
+
+### Takeout-Style Lentil Curry
 
 ![lentil-curry](/food/foodventures/images/lentil-curry.jpg){:width="50%"}{: .image-right}
 
