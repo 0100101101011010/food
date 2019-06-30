@@ -16,7 +16,6 @@ keywords:
 excerpt: "I've had my Kenwood mixer for less than two weeks and I've already developed a codependent relationship with it, help. Also, I try reverse-searing a steak for the first time in my life."
 img: /food/foodventures/images/jun-23-2019.jpg
 comments: "0"
-published: false
 
 discussion_id: 2019-06-23
 ---
