@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Ate This Week: May 13 – May 19"
+title: "What I Ate This Week: May 13–19"
 author: Kelly Zhang
 permalink: :categories/:title/
 categories: foodventures
