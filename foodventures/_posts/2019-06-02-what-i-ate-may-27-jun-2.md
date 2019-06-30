@@ -22,13 +22,20 @@ discussion_id: 2019-06-02
 
 {{page.excerpt}}
 
-## Monday: Apple Butter on Smearcase and Fried Rice with Chickpeas
+* TOC
+{:toc}
+
+## Monday
+
+### Apple Butter on Smearcase
 
 ![apple butter on cottage cheese](/food/foodventures/images/apple-butter-cottage-cheese.jpg){:width="50%"}{: .image-right}
 
 For lunch, I only had an hour between class and tutorial today, so I dolloped two big spoonfuls of my homemade apple butter ([recipe from Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-apple-butter/)) (90 g) on a bowl of 1% cottage cheese (180 g). It looks like genuine shit, but tastes pretty amazing for something that requires no preparation whatsoever. Ordinarily, I'm not huge on the taste or texture of cottage cheese, but this worked for me!
 
 Believe it or not, I'm not the creator of this recipe. Apparently it's quite popular among older generations of the Pennsylvania Dutch, and is traditionally known as [ludwarrich on smearcase](http://www.thefreshloaf.com/node/16520/smearcase). I feel like the traditional method doesn't intend for anyone to use $2.99 processed cottage cheese from No Frills, but that's what I had on hand!
+
+### Fried Rice with Chickpeas
 
 ![overcooked rice](/food/foodventures/images/overcooked-rice.jpg){:width="40%"}{: .image-left}
 
@@ -40,7 +47,9 @@ When I came home later to inspect it, it *was* clumpier and softer than usual, a
 
 It could have ended up a lot worse! Hopefully, after a day or two in the fridge, it'll return to having that well-defined separate grains texture we love in fried rice.
 
-## Tuesday: Omurice (my first time!) and Chickpea Curry
+## Tuesday
+
+### My first time making Omurice!
 
 My first class today was at 11:30, so I took my time making breakfast for Kevin today. I decided to try making omurice for the very first time. I was kind of intimidated, but after watching two YouTube videos, I thought, "this doesn't look too hard!" It turned out so well, I impressed myself.
 
@@ -64,17 +73,23 @@ As the egg was coming together, I used about half the fried rice mixture and sha
 
 Kevin said this was his favourite fried rice so far, and he really liked the egg-over-rice concept, so even though it was ugly, it sure was tasty!
 
+### Chickpea, Tomato, & Spinach Curry
+
 ![walk-away chickpea, tomato, and spinach curry](/food/foodventures/images/chickpea-tomato-spinach-curry.jpg){:width="70%"}{: .image-left}
 
 For myself, I repeated the apple butter/cottage cheese combo from yesterday for breakfast. After grocery shopping, I made a late lunch with a bunch of leftovers in the fridge—spinach, half-used jars of crushed tomatoes and coconut milk, and boiled chickpeas.
 
 This [walk-away curry](https://mygoodnesskitchen.com/wprm_print/9640) was perfectly delicious, even though I substituted the crushed tomatoes for grape tomatoes and tomato paste, and used only half a jar of coconut milk since that's all I had left. I also made it in the slow cooker by leaving it on high for two hours. I filled a huge container with it, so I have back-up meals for the rest of the week now!
 
+### Pressure Cooked Soybeans
+
 ![soybean puree](/food/foodventures/images/soybean-puree.jpg){:width="50%"}{: .image-right}
 
 Oh, and here's a little bonus thing I made: Since I've been falling over myself looking for soy recipes ever since I ordered 25 lbs of raw soybeans, I decided to just blend up a cup of soaked soybeans and pressure cook them, to see what they ended up like. It ended up with a soufflé effect in the pressure cooker, which I was so not expecting!! Once I let it cool down and stirred it, it went back down, but I thought it was cool how it could rise so much. I'm not really sure what I'm going to do with it, at this point. Maybe add it to some brownies recipe? Pancakes? The consistency is like okara, but thinner. I was thinking of eating it like yogurt, with some oats and berries, but it might be too gritty. Oh well, I'll figure it out! It's been so fun experimenting with different ways to use soybeans. I am seriously mad for soy in almost any form, and I'm so excited to be able to play around with it.
 
-## Wednesday: Chocolate Cream Pie
+## Wednesday
+
+### Chocolate Cream Pie
 
 ![chocolate cream pie](/food/foodventures/images/chocolate-cream-pie.jpg){:width="50%"}{: .image-right}
 
@@ -82,7 +97,9 @@ I was in a huge rush getting ready this morning, so I only had time to eat an eg
 
 For dinner, I had another serving of the [red beans and rice](/food/foodventures/what-i-ate-semi-meal-prepping) I made last week. At this point, I'm honestly just trying to get rid of it. I've accepted that it just doesn't taste that great, but at least it's filling and healthy.
 
-## Thursday: Mock "McGriddles" and Nuri Village
+## Thursday
+
+### Mock "McGriddles"
 
 Kevin was really hungry last night, since all he had to eat was the leftovers from making omurice, so I told him I'd make him a hearty breakfast this morning to make up for it. During the night, I came up with the genius idea of using PANCAKES instead of english muffins to make a breakfast sandwich!
 
@@ -93,6 +110,8 @@ After 2 minutes on Google I found out McDonalds beat me to this idea :-/
 Anyway, I still had a hack at it, and it turns out to be really easy. I mean, it is essentially frying up pancakes, eggs, and bacon and stacking them together (and adding cheese slices... but I didn't have any on hand). The hardest part was making the pancake batter! I wanted to use the soybean pulp I made on Tuesday, but it took some trial and error to figure out how to turn it into a nice thick pancake.
 
 It turned out surprisingly decent (Boyfriend Approved™), despite my fumbling around, although I still want to play around with the pancake batter formula so I can replicate it next time. (This one was made by adding different ingredients and going through a few *very fragile and soggy* pancakes until I got lucky.)
+
+### Nuri Village
 
 For a linner (late lunch/early dinner?) we walked to Nuri Village. I've wanted to try Nuri for a while now, ever since it opened earlier this year, since we have a serious lack of decent Korean restaurants in the plaza. Because the restaurant is still fairly new, everything inside looked clean and shiny, so it was a nice place to have a sit-down meal.
 
@@ -106,17 +125,21 @@ The real highlight of today's meal, though, was Kevin's order of a whole spicy c
 
 Obviously, he didn't finish even a quarter of it, so we packed the rest of it up to take home. For $29, this is a pretty good deal, and I'm glad that I won't have to worry about dinner for him for the next few days!
 
-## Friday: "Freezer Cleanout"
+## Friday
 
 For breakfast I had the "old faithful" recipe of the week, aka apple butter on cottage cheese, and then it was off to class, with a sliced bell pepper and quarter cup of roasted chickpeas in my bag.
 
 My roommates are planning to have a fridge cleanout on Sunday, because to be honest, the freezer situation has been hovering on the brink of chaos for a while now. It's literally always crammed full of stuff, and I swear a lot of it seems to be forgotten or expired. So I preemptively looked through the freezer a bit and tried to get rid of some food.
+
+### Tuna Casserole Muffins
 
 ![tuna casserole muffins](/food/foodventures/images/tuna-casserole-muffins.jpg){:width="50%"}{: .image-left}
 
 I reheated two tuna casserole muffins (made months ago from [this Chicken of the Sea recipe](https://chickenofthesea.com/recipes/healthy-tuna-casserole-muffins)) and a slice of onion cheese pizza for dinner. It was all edible, which is pretty much my only requirement for frozen meals. Sometimes you try to defrost things from the freezer and they end up tasting so gross, which is a shame because the whole point of freezer meals is to reduce food waste, not add to it. I've had this experience a lot with egg cups, to the point where I've stopped baking them in the past few months, but I may make this recipe again.
 
 No pics, sadly. I ate them before I remembered! Here's a pic from last October when these muffins were first made :')
+
+### Natto
 
 On another note, I've started trying to ferment my own natto today. The last time I called my mom, she mentioned doing this all the time at home. You take a little bit of store-bought natto (or your last batch of homemade) and mix it into a bowl of boiled soybeans. The thing is, I can't remember what she said about the temperature to keep it at, or any other details. I looked online, and all the instructions make it sound complicated, for example, you need to spread the soybean-natto mixture in a thin layer, and leave it in a really warm environment (like yogurt-making conditions), etc... I'm kind of concerned now, because I put the mixture into a tall glass, the opposite of a thin layer, and I'm using a very, very old batch of commercial natto. It's not even very sticky or stringy anymore. I hope the culture inside is still alive, yikes!
 
@@ -132,17 +155,23 @@ For dinner, I ate the last of my batch of red beans and rice, which as you can r
 
 It did improve the flavour a little! Still, not something I would make again. Or at least, next time, I'll cook the rice separately.
 
+### American Goulash
+
 ![american goulash in the instant pot](/food/foodventures/images/american-goulash.gif){: .image-right}{:width="50%"}
 
 For the boyfriend's dinner, I was fortunate to stumble on a recipe for [American-style goulash](https://old.reddit.com/r/instantpot/comments/bamwad/tried_the_american_goulash_recipe_from_here_soo/). I'd been looking for a recipe to use the ground pork/beef blend I'd bought a few days ago, so this was perfect. The only ingredient I didn't have was marinara sauce, but I substituted what was left of a can of crushed tomatoes (maybe 200 g) and a small can of tomato paste, watered down with vegetable broth. I also added a pinch of MSG, an extra clove of garlic, and two small onions instead of a large one.
 
 It was a quick one-pot recipe in the Instant Pot, and made about four servings—such a time-saver! Kevin liked it but he thought the pasta was a bit small for his taste. I'm going to try bigger macaroni, or maybe penne, next time.
 
-## Sunday:
+## Sunday
+
+### Chocolate Mug Cake
 
 ![flourless chocolate mug cake](/food/foodventures/images/flourless-mug-cake.jpg){:width="40%"}{: .image-left}
 
 For breakfast, I tried making a [flourless mug cake](https://thebigmansworld.com/healthy-4-ingredient-flourless-chocolate-mug-cake-paleo-vegan-gluten-free/) from The Big Man's World. It was... disappointing. I decided to bake it in the oven instead of the microwave, since it was mentioned that the oven bakes it more evenly. However, it ended up taking *over 30 minutes* to cook fully (instead of 10–12 as per recipe), and even then, the inside was too gooey for my taste. I really didn't want to bake it longer than that, though, since the top was beginning to look overdone. The flavour was pretty decent, and I am pleased about the fact that the banana alone provides all the sugar necessary for the cake. I plan on experimenting with different adjustments next time to prevent these issues.
+
+### Successful Natto!
 
 ![homemade natto](/food/foodventures/images/natto.jpg){:width="40%"}{: .image-left}
 
