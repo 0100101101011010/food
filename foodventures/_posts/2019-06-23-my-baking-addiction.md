@@ -7,6 +7,8 @@ categories: foodventures
 tags: waterloo restaurants
 keywords:
  - waterloo restaurants
+ - fresh bread
+ - baking
  - uptown waterloo
  - homemade bread
  - stand mixer
