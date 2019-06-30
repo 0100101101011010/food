@@ -191,6 +191,16 @@ A block down from Fairview, there is also a branch of Ennio's Pasta House. I've 
 
 We both ordered from the lunch menu, Kevin had bolognese and I had the classic alfredo. Shockingly enough, this was one of the worst pastas I've had in my life. The alfredo started out strong, although I'm personally used to fettuccine instead of linguine. Not a problem, I don't discriminate against noodle shapes. What bothered me was that, as I was eating, the sauce gradually got thinner and thinner, until halfway through I was pretty much eating noodles swimming in white soup. Take this in, I was putting a spoonful of noodles in my spoon, dipping it to catch some soup, and slurping it up like I was eating freaking ramen instead of pasta. The sauce had become so watery, it wasn't sticking to the noodles at all, and I was essentially eating plain boiled linguine.
 
-At least the lunch menu wasn't expensive, at $10.99 and $8.99 apiece. But what an odd experience, especially for a restaurant that focuses on pasta. The service was also lackluster as hell. We came in when the restaurant was almost completely empty except for two other tables, and it took a few minutes for the hostess to even greet us at the door. It took several more minutes after sitting down for a server to come by, and even longer for her to even bring two glasses of water. It was a substandard experience for me, especially after hearing the hype from some of my friends about this restaurant.
+At least the lunch menu wasn't expensive, at $10.99 and $8.99 apiece. But what an odd experience, especially for a restaurant that focuses on pasta. The service was also lackluster as hell. We came in when the restaurant was almost completely empty except for two other tables, and it took a few minutes for the hostess to even greet us at the door. It took several more minutes after sitting down for a server to come by, and even longer for her to even bring two glasses of water. Considering the service and the quality of the food, it was a substandard experience for me, especially after hearing the hype from some of my friends about this restaurant.
 
-###
+### Tea Bread Loaf
+
+![tea bread loaf](/food/foodventures/images/tea-bread-loaf.jpg){:width="45%"}{: .image-right}
+
+So yesterday, when I was baked my tea bread "muffins," I also baked a loaf from the same dough, but I didn't take a picture of it until today. I have to say, this crumb actually looks pretty good, and it has a good structure that slices well, so this may be my best attempt at sandwich bread so far.
+
+Taste-wise? Tasteless :-) Just like store-bought sandwich bread! Not what I was expecting from a tea-infused bread that I hoped would be full of strawberry aromas, but I'll take this as a victory anyway!
+
+### Homemade Bubble Tea
+
+This weekend, Kevin and I bought a pack of milk tea powder at T&T and it's been really awesome! It isn't exactly the same as any of the flavours you can get at a shop, but it's close enough to the "real" thing that it's totally worth shelling out $6 or so for a 700 g bag of powder, which makes between 3.5–5.5 L of milk tea depending on how concentrated you like your tea.
