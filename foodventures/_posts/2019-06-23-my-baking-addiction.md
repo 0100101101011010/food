@@ -203,4 +203,42 @@ Taste-wise? Tasteless :-) Just like store-bought sandwich bread! Not what I was 
 
 ### Homemade Bubble Tea
 
-This weekend, Kevin and I bought a pack of milk tea powder at T&T and it's been really awesome! It isn't exactly the same as any of the flavours you can get at a shop, but it's close enough to the "real" thing that it's totally worth shelling out $6 or so for a 700 g bag of powder, which makes between 3.5–5.5 L of milk tea depending on how concentrated you like your tea.
+![homemade milk tea](/food/foodventures/images/homemade-milk-tea.jpg){:width="45%"}{: .image-right}
+
+This weekend, Kevin and I bought a pack of milk tea powder from T&T and it's been awesome! It isn't exactly the same as any of the flavours you can get at a shop, but it's close enough to the "real" thing that it's totally worth shelling out $6 or so for a 700 g bag of powder, which makes between 3.5–5.5 L of tea depending on how rich you like it. The best part is, it's so much more eco-friendly because you're not using single-use plastics like you would if you purchased bubble tea outside. No, actually, the best part is you can control and adjust your own toppings to your total satisfaction. :-)
+
+![unsweetened grass jelly](/food/foodventures/images/unsweetened-grass-jelly.jpg){:width="40%"}{: .image-right}
+
+We bought a can of grass jelly (unsweetened) and a pack of brown tapioca pearls to use as toppings. I haven't gotten to using the tapioca yet, but the grass jelly has been a great addition so far. Kevin likes it more than the stuff in the teashops because it's quite a bit firmer. Did you know it's just 75 calories for the whole honking can?
+
+I might buy some just to snack on by itself, because tbh I really like the taste of the grass jelly on its own, too. (If you've never tried grass jelly before, though, I'd recommend buying a sweetened one because it's a bit of an acquired taste. Without any sweeteners, real grass jelly tastes kind of like herbal medicine.) I'm thinking of looking for grass jelly powder next time at T&T so I can try making my own from scratch.
+
+## Saturday
+
+### Blueberry Skyr
+
+![blueberry skyr](/food/foodventures/images/blueberry-skyr.jpg){:width="35%"}{: .image-right}
+
+I saw another brand of skyr at the grocery store today! I have this long-running fascination with skyr I can't explain. It's part intrigue at its cool-sounding name and how it's made, and part love for any thick and creamy dairy product. I can't really tell the difference between it and Greek yogurt, but I keep buying it even though it's more expensive.
+
+This one is the 2% blueberry flavour from Liberte, which makes some of my favourite Greek yogurt. I ate all 500 g in one sitting, which is something I tend to do with skyr, and I don't even know how. It wasn't even like this one was particularly good. It wasn't that rich, and I don't like the blueberry flavour as much as raspberry or strawberry. My favourite of all time has to be the 4% raspberry from President's Choice, but since we don't have a Loblaws here I guess I'll only have a chance to eat it again when I go back to Toronto.
+
+### Baked Chicken Nuggets
+
+![baked chicken nuggets](/food/foodventures/images/baked-chicken-nuggets.jpg){:width="55%"}{: .image-right}
+
+Because Kevin has been buying a lot of Burger King spicy nuggets lately, I decided to make my own healthier version. I used a recipe from [Melissa D'Arabian of the Food Network](https://www.foodnetwork.com/recipes/melissa-darabian/homemade-chicken-nuggets-3416573), but baked them in the toaster oven on the convection bake setting rather than frying. Lifehack: use chopsticks to dip your chicken pieces in flour and transfer them to the egg wash and breadcrumbs. So much easier and doesn't leave your hands covered in sticky breadcrumbs!
+
+I snuck a few bites and oh man, these are actually *really good* for being not fried. I served them with a bit of [Sweet Baby Ray's hickory & brown sugar bbq sauce](https://amzn.to/2RGgaPq), and Kevin liked them too! It's a time-consuming recipe, especially when you compare with Burger King's cheapness and convenience, but I wouldn't mind making this once in a while just because it's much healthier and I know exactly what I'm putting into these nuggets.
+
+## Sunday
+
+### Homemade Poutine with Chicken Gravy
+
+![homemade chicken gravy poutine](/food/foodventures/images/homemade-poutine-1.jpg){:width="45%"}{: .image-right}
+
+I made "poutine" of sorts for dinner. I was inspired by the smashed potatoes in [Kevin's poutine at Poutineville](/food/foodventures/what-i-ate-montreal-edition/#dinner-at-poutineville) so I steamed some small potatoes, sliced them in half, flattened them with a fork, and baked with liberal olive oil and s&p. Hell of a lot easier than making actual fries, and tastes pretty good too.
+
+For the gravy, I followed this [Inspired Taste recipe](https://www.inspiredtaste.net/36231/easy-gravy-recipe/), using chicken stock and a teaspoon of dried basil. I never knew it was so easy to make gravy! It tastes a bit funky since it's made from chicken broth, and I'm going to follow Kevin's suggestion of using beef stock next time for a more traditional poutine gravy flavour. Other than that, the texture and everything else is on point. I noticed after the gravy was done that the same website gives a workaround for making vegan gravy, which uses cornstarch instead of butter to thicken the mixture. You know I'm always looking for ways to make stuff vegan, so I'll have to give this a try next time!
+
+Now don't kill me for this pls, but I had to use mozzarella cheese instead of cheese curds. I've looked for curds several times at my local grocery, and I've never found anything. Not gonna give up, though. Even though cubed mozzarella makes an ok substitute, I won't rest until I can make authentic Quebec poutine with real cheese curds!
