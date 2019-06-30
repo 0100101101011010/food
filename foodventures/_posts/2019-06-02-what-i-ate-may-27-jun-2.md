@@ -95,7 +95,7 @@ Oh, and here's a little bonus thing I made: Since I've been falling over myself 
 
 I was in a huge rush getting ready this morning, so I only had time to eat an egg for breakfast (it sounds so sad, a single egg). By 11 o'clock, I was super hungry, so I stopped by the [café at DP](https://uwaterloo.ca/food-services/content/browsers-cafe) and bought what I thought was a donut, but turns out it's called a cream pie. In my experience with pastries from that café, as long as it's not stale and the icing isn't hard, it's good. This was definitely satisfying enough for me and my starving tummy.
 
-For dinner, I had another serving of the [red beans and rice](/food/foodventures/what-i-ate-semi-meal-prepping) I made last week. At this point, I'm honestly just trying to get rid of it. I've accepted that it just doesn't taste that great, but at least it's filling and healthy.
+For dinner, I had another serving of the [red beans and rice](/food/foodventures/what-i-ate-may-20-26/#red-beans-and-rice) I made last week. At this point, I'm honestly just trying to get rid of it. I've accepted that it just doesn't taste that great, but at least it's filling and healthy.
 
 ## Thursday
 
