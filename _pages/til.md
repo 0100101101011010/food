@@ -1,9 +1,9 @@
 ---
 layout: page
 author: Kelly Zhang
-title: Conversion Calculators
-permalink: /calculator
-excerpt: "A cooking conversion calculator to give you ratios and cooking times for common foods."
+title: TIL (Today I Learned) in the Kitchen
+permalink: /til
+excerpt: "TIL in the Kitchen is a page for me to jot down lessons I've learned from cooking on a daily basis. I am by no means a good cook yet, but I hope that collecting all the insights I gain will turn me into a better one."
 ---
 
 ## 2019
