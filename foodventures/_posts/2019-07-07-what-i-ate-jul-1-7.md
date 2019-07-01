@@ -36,9 +36,7 @@ discussion_id: 2019-07-07
 
 https://twosleevers.com/instant-pot-butter-chicken/#wprm-recipe-container-5002
 
-Another [cooking lesson I learned today](/food/til): one chicken breast is the perfect size for one large serving.
-
-Since I cooked two chicken breasts today, that's enough for two meals for Kevin. I'll probably cook the third one on Sunday, depending on whether or not he feels like eating butter chicken for three days straight.
+Another [cooking lesson I learned today](/food/til): one chicken breast is the perfect size for one large serving. Since I cooked two chicken breasts today, that's enough for two meals for Kevin. I'll probably cook the third one on Sunday, depending on whether or not he feels like eating butter chicken for three days straight.
 
 ## Saturday
 
