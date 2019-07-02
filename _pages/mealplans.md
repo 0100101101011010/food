@@ -54,7 +54,7 @@ These meal plans assume you have the following items already in your pantry:
 
 ### Day 1
 
-#### Crunchwrap Supreme
+#### Lunch: Crunchwrap Supreme
 
 Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859) and [Power Hungry](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/)
 
@@ -62,10 +62,10 @@ Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crun
 
 ##### Ingredients:
 
-- [ ] 230 g ground beef *
-- [ ] 1 Tbsp taco seasoning (half a packet)
-- [ ] 3 large [tortillas](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/) *
-- [ ] 3 tostada shells *
+[] 230 g ground beef *
+[] 1 Tbsp taco seasoning (half a packet)
+[ ] 3 large [tortillas](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/) *
+[ ] 3 tostada shells *
 - [ ] 1/2 cup sour cream *
 - [ ] 1 cup shredded lettuce
 - [ ] 1/2 diced tomato
@@ -86,7 +86,7 @@ Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crun
 1. Flip over and cook the other side for another 2-3 min or until golden brown.
 1. Cook the rest of your crunchwraps and eat immediately.
 
-#### Bacon Cheeseburger Casserole
+#### Dinner: Bacon Cheeseburger Casserole
 
 Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)
 
