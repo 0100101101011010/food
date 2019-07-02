@@ -4,7 +4,7 @@ title: Weekly Meal Plans
 permalink: /mealplans
 ---
 
-These meal plans assume you have the following items already in your pantry:
+<!-- These meal plans assume you have the following items already in your pantry:
 
 * Flours (all purpose, bread, and whole wheat)
 * Applesauce
@@ -35,7 +35,7 @@ These meal plans assume you have the following items already in your pantry:
 * Vegetable stock
 * Vinegar
 * Yeast
-* Yellow onions
+* Yellow onions -->
 
 * toc
 {:toc}
@@ -60,7 +60,7 @@ Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crun
 
 3 servings
 
-##### Ingredients:
+##### Ingredients
 
 - 230 g ground beef *
 - 1 Tbsp taco seasoning (half a packet)
@@ -72,7 +72,7 @@ Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crun
 - 1/2 cup shredded cheese (optional) *
 - 1/4 cup nacho cheese *
 
-##### Instructions:
+##### Instructions
 
 1. In a skillet or large cooking pan, cook and crumble the ground beef over medium-high heat. When it is no longer pink, drain the grease.
 1. Place meat back into the pan and stir the taco seasoning mix as well as the water it calls for on the packet. Cook according to the package instructions.
@@ -92,7 +92,7 @@ Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-che
 
 4 servings
 
-##### Ingredients:
+##### Ingredients
 
 - 150 g bacon *
 - 230 g ground beef *
@@ -110,7 +110,7 @@ Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-che
 - 340 g cheddar cheese, shredded *
 - 1 tsp fresh dill
 
-##### Instructions:
+##### Instructions
 
 1. Dice the bacon into small pieces and place in a large skillet over medium heat. Cook, stirring often, until crisp. Remove bacon from pan and set aside. Drain grease from pan.
 1. Add the ground beef to the skillet and cook until browned, crumbling as it cooks. Drain fat.
@@ -122,7 +122,11 @@ Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-che
 1. Top with the cheddar cheese.
 1. Bake at 350 degrees for 30 minutes or until set and golden on top. Sprinkle with dill before serving.
 
-##### Instructions:
+### Day 2
+
+#### Dinner: Beef Stroganoff
+
+##### Instructions
 
 1. Set Instant Pot to SAUTE. Add the oil and butter. Once hot, add the onion and 1/2 teaspoon salt. Cook, stirring often, until the onion begins to soften but does not brown, 3 to 4 minutes.
 1. Sprinkle the beef with remaining 1 teaspoon salt and pepper. (You can toss the beef cubes together with salt pepper in a bowl, or to save a dish I like to do this right on the cutting board.) Add to the pot. Cook, stirring occasionally, until the meat is browned on all sides, about 4 to 6 minutes. Add the dillweed, garlic powder, onion powder, Worcestershire sauce, and mustard. Pour in 1/2 cup of the beef broth. Stir, scraping a wooden spoon or spatula along the bottom of the pot, to ensure you remove any stuck on bits of food (this will avoid a “burn” warning).
