@@ -11,3 +11,5 @@ excerpt: "TIL in the Kitchen is a page for me to jot down lessons I've learned f
 ### June
 
 * One chicken breast is the perfect size for one large serving. So, for example, three chicken breasts would be the ideal amount to cook for three servings of butter chicken.
+
+* Sub equal amounts of plain yogurt + water for buttermilk, or a 1 : 2 ratio of greek yogurt + water.
