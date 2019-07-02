@@ -50,3 +50,73 @@ These meal plans assume you have the following items already in your pantry:
 
 
 [https://www.planted365.com/2018/05/18/impossible-burger/](I'm Possible Burger)
+
+### Day 1
+
+#### Crunchwrap Supreme
+
+Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859) and [Power Hungry](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/)
+
+3 servings
+
+##### Ingredients:
+
+- [ ] 230 g ground beef *
+- [ ] 1 Tbsp taco seasoning (half a packet)
+- [ ] 3 large [tortillas](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/) *
+- [ ] 3 tostada shells *
+- [ ] 1/2 cup sour cream *
+- [ ] 1 cup shredded lettuce
+- [ ] 1/2 diced tomato
+- [ ] 1/2 cup shredded cheese *
+- [ ] 1/4 cup nacho cheese *
+
+##### Instructions:
+
+1. In a skillet or large cooking pan, cook and crumble the ground beef over medium-high heat. When it is no longer pink, drain the grease.
+1. Place meat back into the pan and stir the taco seasoning mix as well as the water it calls for on the packet. Cook according to the package instructions.
+1. Warm up the nacho cheese sauce in the microwave and set aside.
+1. Place the flour tortillas on a plate and warm in the microwave for about 20 seconds.
+1. Lay one tortilla on a flat surface. Spread a couple of tablespoons of nacho cheese in the middle of the tortilla.
+1. Place ½ cup of taco meat on top of the nacho cheese.
+1. Next, add the tostada shell, a thin layer of sour cream, lettuce, tomato, and lastly, the shredded Mexican cheese.
+1. To fold into the actual crunchwrap, start with the bottom of the tortilla and fold the edge up to the center of the fillings. Keep doing that, folding as tight as possible, as you work your way around the tortilla.
+1. Spray another skillet or cooking pan with cooking spray and heat over medium heat. Place the crunchwrap supreme, seam-side down, onto the skillet. Cook for 2-3 min., or until golden brown.
+1. Flip over and cook the other side for another 2-3 min or until golden brown.
+1. Cook the rest of your crunchwraps and eat immediately.
+
+#### Bacon Cheeseburger Casserole
+
+Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)
+
+4 servings
+
+##### Ingredients:
+
+- [ ] 150 g bacon *
+- [ ] 230 g ground beef *
+- [ ] 1/2 small onion *
+- [ ] 1 clove garlic or 1 scant tsp minced garlic
+- [ ] 2.5 Tbsp cream cheese *
+- [ ] 1.5 Tbsp ketchup
+- [ ] 1 scant Tbsp yellow mustard
+- [ ] 1 scant Tbsp worcestershire sauce
+- [ ] 1 scant tsp salt
+- [ ] 2 large eggs or 3 small ones *
+- [ ] 2.5 Tbsp heavy cream *
+- [ ] 1 tsp ground black pepper
+- [ ] 1 tsp hot sauce (adjust to taste)
+- [ ] 340 g cheddar cheese, shredded *
+- [ ] 1 tsp fresh dill
+
+##### Instructions:
+
+1. Dice the bacon into small pieces and place in a large skillet over medium heat. Cook, stirring often, until crisp. Remove bacon from pan and set aside. Drain grease from pan.
+1. Add the ground beef to the skillet and cook until browned, crumbling as it cooks. Drain fat.
+1. Add the onion and garlic to the skillet with the beef and cook until translucent, about 5 minutes.
+1. Add the cream cheese, ketchup, mustard, Worcestershire sauce, and seasoned salt to the skillet and cook over low heat, stirring constantly, until combined.
+1. Spread the beef mixture into a greased 8x8 baking dish. Top with the cooked bacon.
+1. Crack the eggs into a medium bowl and whisk together with the heavy cream until combined. Stir in the pepper and hot sauce.
+1. Pour the egg mixture over the beef and bacon.
+1. Top with the cheddar cheese.
+1. Bake at 350 degrees for 30 minutes or until set and golden on top. Sprinkle with dill before serving.
