@@ -60,7 +60,7 @@ Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crun
 
 3 servings
 
-##### <details><summary>Ingredients</summary>
+##### <details>Ingredients
 
 - 230 g ground beef *
 - 1 Tbsp taco seasoning (half a packet)
