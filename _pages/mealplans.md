@@ -4,8 +4,6 @@ title: Weekly Meal Plans
 permalink: /mealplans
 ---
 
-# Weekly Meal Plans
-
 These meal plans assume you have the following items already in your pantry:
 
 * Flours (all purpose, bread, and whole wheat)
@@ -38,6 +36,9 @@ These meal plans assume you have the following items already in your pantry:
 * Vinegar
 * Yeast
 * Yellow onions
+
+* toc
+{:toc}
 
 ## Week 1
 
