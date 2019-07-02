@@ -62,15 +62,15 @@ Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crun
 
 ##### Ingredients:
 
-[] 230 g ground beef *
-[] 1 Tbsp taco seasoning (half a packet)
-[ ] 3 large [tortillas](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/) *
-[ ] 3 tostada shells *
-- [ ] 1/2 cup sour cream *
-- [ ] 1 cup shredded lettuce
-- [ ] 1/2 diced tomato
-- [ ] 1/2 cup shredded cheese (optional) *
-- [ ] 1/4 cup nacho cheese *
+- 230 g ground beef *
+- 1 Tbsp taco seasoning (half a packet)
+- 3 large [tortillas](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/) *
+- 3 tostada shells *
+- 1/2 cup sour cream *
+- 1 cup shredded lettuce
+- 1/2 diced tomato
+- 1/2 cup shredded cheese (optional) *
+- 1/4 cup nacho cheese *
 
 ##### Instructions:
 
@@ -94,21 +94,21 @@ Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-che
 
 ##### Ingredients:
 
-- [ ] 150 g bacon *
-- [ ] 230 g ground beef *
-- [ ] 1/2 small onion *
-- [ ] 1 clove garlic or 1 scant tsp minced garlic
-- [ ] 2.5 Tbsp cream cheese *
-- [ ] 1.5 Tbsp ketchup
-- [ ] 1 scant Tbsp yellow mustard
-- [ ] 1 scant Tbsp worcestershire sauce
-- [ ] 1 scant tsp salt
-- [ ] 2 large eggs or 3 small ones *
-- [ ] 2.5 Tbsp heavy cream *
-- [ ] 1 tsp ground black pepper
-- [ ] 1 tsp hot sauce (adjust to taste)
-- [ ] 340 g cheddar cheese, shredded *
-- [ ] 1 tsp fresh dill
+- 150 g bacon *
+- 230 g ground beef *
+- 1/2 small onion *
+- 1 clove garlic or 1 scant tsp minced garlic
+- 2.5 Tbsp cream cheese *
+- 1.5 Tbsp ketchup
+- 1 scant Tbsp yellow mustard
+- 1 scant Tbsp worcestershire sauce
+- 1 scant tsp salt
+- 2 large eggs or 3 small ones *
+- 2.5 Tbsp heavy cream *
+- 1 tsp ground black pepper
+- 1 tsp hot sauce (adjust to taste)
+- 340 g cheddar cheese, shredded *
+- 1 tsp fresh dill
 
 ##### Instructions:
 
