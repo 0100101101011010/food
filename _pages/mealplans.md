@@ -40,29 +40,17 @@ permalink: /mealplans
 * toc
 {:toc}
 
-## Week 1
-
-### Shopping List
-
-* Tempeh
-
-### Already in your pantry:
-
-
-
 [https://www.planted365.com/2018/05/18/impossible-burger/](I'm Possible Burger)
 
-### Day 1
+## Day 1
 
-#### Lunch: Crunchwrap Supreme
+### Lunch: Crunchwrap Supreme
 
 Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859) and [Power Hungry](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/)
 
 3 servings
 
-<details>
-
-Ingredients
+#### Ingredients
 
 - 230 g ground beef *
 - 1 Tbsp taco seasoning (half a packet)
@@ -74,9 +62,7 @@ Ingredients
 - 1/2 cup shredded cheese (optional) *
 - 1/4 cup nacho cheese *
 
-</details>
-
-##### Instructions
+#### Instructions
 
 1. In a skillet or large cooking pan, cook and crumble the ground beef over medium-high heat. When it is no longer pink, drain the grease.
 1. Place meat back into the pan and stir the taco seasoning mix as well as the water it calls for on the packet. Cook according to the package instructions.
@@ -90,13 +76,13 @@ Ingredients
 1. Flip over and cook the other side for another 2-3 min or until golden brown.
 1. Cook the rest of your crunchwraps and eat immediately.
 
-#### Dinner: Bacon Cheeseburger Casserole
+### Dinner: Bacon Cheeseburger Casserole
 
 Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)
 
 4 servings
 
-##### Ingredients
+#### Ingredients
 
 - 150 g bacon *
 - 230 g ground beef *
@@ -114,7 +100,7 @@ Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-che
 - 340 g cheddar cheese, shredded *
 - 1 tsp fresh dill
 
-##### Instructions
+#### Instructions
 
 1. Dice the bacon into small pieces and place in a large skillet over medium heat. Cook, stirring often, until crisp. Remove bacon from pan and set aside. Drain grease from pan.
 1. Add the ground beef to the skillet and cook until browned, crumbling as it cooks. Drain fat.
@@ -126,9 +112,15 @@ Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-che
 1. Top with the cheddar cheese.
 1. Bake at 350 degrees for 30 minutes or until set and golden on top. Sprinkle with dill before serving.
 
-### Day 2
+## Day 2
 
-#### Dinner: Beef Stroganoff
+### Meat Dinner: Beef Stroganoff
+
+Recipe credit: [Well Plated](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742)
+
+6 servings
+
+#### Ingredients
 
 - 1 tablespoon extra virgin olive oil
 - 1 tablespoon unsalted butter
@@ -148,10 +140,20 @@ Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-che
 - 1 cup plain whole milk Greek yogurt — do not use nonfat or it will curdle
 - Chopped fresh parsley or thyme (optional)
 
-##### Instructions
+#### Instructions
 
 1. Set Instant Pot to SAUTE. Add the oil and butter. Once hot, add the onion and 1/2 teaspoon salt. Cook, stirring often, until the onion begins to soften but does not brown, 3 to 4 minutes.
 1. Sprinkle the beef with remaining 1 teaspoon salt and pepper. (You can toss the beef cubes together with salt pepper in a bowl, or to save a dish I like to do this right on the cutting board.) Add to the pot. Cook, stirring occasionally, until the meat is browned on all sides, about 4 to 6 minutes. Add the dillweed, garlic powder, onion powder, Worcestershire sauce, and mustard. Pour in 1/2 cup of the beef broth. Stir, scraping a wooden spoon or spatula along the bottom of the pot, to ensure you remove any stuck on bits of food (this will avoid a “burn” warning).
 1. Stir in the mushrooms, then sprinkle the flour over the top. Stir until evenly incorporated. Pour in the remaining beef broth. Close and seal the lid. Cook on HIGH pressure (Manual) for 10 minutes. When the time is up, immediately vent the Instant Pot to quick release the pressure.
 1. Once you can safely open the pressure cooker, carefully open the lid and add the egg noodles. Recover the Instant Pot, seal, and cook on HIGH (manual) for 5 minutes. When the time is up, allow the pressure to naturally release for 5 minutes, then immediately vent to release any remaining pressure.
 1. Carefully open the lid and stir. Let the stroganoff cool for a few minutes, then stir in the Greek yogurt. Serve hot, sprinkled with fresh parsley and/or thyme.
+
+### Veggie Dinner: Cabbage and Peas Curry
+
+- 1 cabbage, chopped
+- 1/2 cup green peas
+- 1 tablespoon oil
+- 1/2 teaspoon mustard seeds (rai)
+- 4 pods garlic
+- 1 tomato medium size, chopped
+- 1 teaspoon dry mango powder (amchur)
