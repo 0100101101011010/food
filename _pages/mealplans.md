@@ -130,10 +130,28 @@ Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-che
 
 #### Dinner: Beef Stroganoff
 
+- 1 tablespoon extra virgin olive oil
+- 1 tablespoon unsalted butter
+- 1 small yellow or white onion — diced
+- 1 1/2 teaspoons kosher salt — divided
+- 1 1/2 pounds boneless sirloin steak — cut into 1 1/2-inch cubes
+- 1 teaspoon ground black pepper
+- 1 teaspoon dried dillweed
+- 1 teaspoon garlic powder
+- 1/2 teaspoon onion powder
+- 3 tablespoons Worcestershire sauce
+- 1 tablespoon Dijon mustard
+- 3 cups reduced sodium beef broth — divided
+- 16 ounces sliced baby Bella cremini mushrooms (optional)
+- 2 tablespoons all-purpose flour
+- 12 ounces whole wheat wide egg noodles
+- 1 cup plain whole milk Greek yogurt — do not use nonfat or it will curdle
+- Chopped fresh parsley or thyme (optional)
+
 ##### Instructions
 
 1. Set Instant Pot to SAUTE. Add the oil and butter. Once hot, add the onion and 1/2 teaspoon salt. Cook, stirring often, until the onion begins to soften but does not brown, 3 to 4 minutes.
 1. Sprinkle the beef with remaining 1 teaspoon salt and pepper. (You can toss the beef cubes together with salt pepper in a bowl, or to save a dish I like to do this right on the cutting board.) Add to the pot. Cook, stirring occasionally, until the meat is browned on all sides, about 4 to 6 minutes. Add the dillweed, garlic powder, onion powder, Worcestershire sauce, and mustard. Pour in 1/2 cup of the beef broth. Stir, scraping a wooden spoon or spatula along the bottom of the pot, to ensure you remove any stuck on bits of food (this will avoid a “burn” warning).
 1. Stir in the mushrooms, then sprinkle the flour over the top. Stir until evenly incorporated. Pour in the remaining beef broth. Close and seal the lid. Cook on HIGH pressure (Manual) for 10 minutes. When the time is up, immediately vent the Instant Pot to quick release the pressure.
 1. Once you can safely open the pressure cooker, carefully open the lid and add the egg noodles. Recover the Instant Pot, seal, and cook on HIGH (manual) for 5 minutes. When the time is up, allow the pressure to naturally release for 5 minutes, then immediately vent to release any remaining pressure.
-1. Carefully open the lid and stir. Let the stroganoff cool for a few minutes, then stir in the Greek yogurt. Serve hot, sprinkled with fresh parsley and/or thyme
+1. Carefully open the lid and stir. Let the stroganoff cool for a few minutes, then stir in the Greek yogurt. Serve hot, sprinkled with fresh parsley and/or thyme.
