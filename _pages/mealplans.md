@@ -81,7 +81,7 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 ### Snack: Sweet Potato Bread
 
-> Recipe credit: [Bake from Scratch](https://www.bakefromscratch.com/sweet-potato-dutch-oven-bread/)
+> Recipe credit: [Bake from Scratch](https://www.bakefromscratch.com/sweet-potato-dutch-oven-bread/)  
 > 1 small loaf (about 6 slices)
 
 - 4 cups (250 g) bread flour
@@ -121,7 +121,7 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 ### Meat Dinner: Bacon Cheeseburger Casserole
 
 > Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)
-> 4 servings
+> 6 servings
 
 #### Ingredients
 
@@ -141,8 +141,6 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 - 220 g cheddar cheese, shredded *
 - 1 tsp fresh dill
 
-#### Instructions
-
 1. Dice the bacon into small pieces and place in a large skillet over medium heat. Cook, stirring often, until crisp. Remove bacon from pan and set aside. Drain grease from pan.
 1. Add the ground beef to the skillet and cook until browned, crumbling as it cooks. Drain fat.
 1. Add the onion and garlic to the skillet with the beef and cook until translucent, about 5 minutes.
@@ -158,12 +156,12 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 > Recipe credit: [Piping Hot Curry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739)
 > 3 servings
 
-- 1 cabbage, chopped
-- 1/2 cup green peas
-- 1 tablespoon oil
+- 1 cabbage, chopped *
+- 1/2 cup green peas *
+- 1 tablespoon oil *
 - 1/2 teaspoon mustard seeds (rai)
-- 4 pods garlic
-- 1 tomato medium size, chopped
+- 4 pods garlic *
+- 1 tomato medium size, chopped *
 - 1 teaspoon dry mango powder (amchur)
 - 1/4 teaspoon Ground Turmeric (Haldi powder)
 - 1 teaspoon Coriander powder (Dhaniya powder)
@@ -180,6 +178,37 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 ## Day 3
 
+### Meat Lunch: Leftovers
+
+Bacon Cheeseburger Casserole from Day 2
+
+### Veggie Lunch: Mini Crustless Tofu Quiches
+
+> Recipe credit: [Fat Free Vegan](https://blog.fatfreevegan.com/2006/12/mini-crustless-tofu-quiches.html)  
+> 3 servings (12 quiches)
+
+* olive oil spray (optional)
+* 1 teaspoon minced garlic
+* 1/2 cup bell pepper *
+* 1 cup chopped mushrooms *
+* 1 tablespoon minced fresh chives or one green onion
+* 1 teaspoon minced fresh rosemary or 1/2 tsp. dried, crushed
+* black pepper to taste
+* 12.3-ounce package lite firm or extra-firm silken tofu drained of water, see note below *
+* 1/4 cup plain soymilk (optional) *
+* 2 tablespoons nutritional yeast
+* 1 tablespoon cornstarch may substitute another thickener such as arrowroot or * potato starch
+* 1 teaspoon tahini or cashew butter (optional) *
+* 1/4 teaspoon onion powder
+* 1/4 teaspoon turmeric
+* 1/2-3/4 teaspoon salt
+* 1 generous pinch black salt kala namak (optional)
+
+1. Preheat the oven to 375 F. Spray 12 regular-sized muffin cups well with non-stick spray or use silicone cups like these (do not use paper because it will stick).
+1. Heat a non-stick skillet and sauté the garlic, bell peppers, and mushrooms over medium heat until the mushrooms just begin to exude their juices. Stir in the chives, rosemary, and freshly ground black pepper, remove from the heat, and set aside.
+1. Place the tofu and all remaining ingredients into a food processor or blender. Process until completely smooth and silky. Add the tofu mixture to the vegetables and stir to combine. Spoon equally into the 12 muffin cups: it will fill regular muffin cups about halfway.
+1. Put the muffin pan into the oven and immediately reduce the heat to 350 F. Bake until the tops are golden and a knife inserted into the middle of a quiche comes out clean–about 25-35 minutes depending on your oven and muffin cups (silicone will take longer than metal, so if you’re using a metal pan, check it at 20 minutes). Remove from the oven and allow them to cool for about 10 minutes. Enjoy! They’re light, so plan on making more of these—or serve hearty side dishes—if you’re serving more than 3 people.
+
 ### Meat Dinner: Beef Stroganoff
 
 > Recipe credit: [Well Plated](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742)
@@ -187,11 +216,11 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 #### Ingredients
 
-- 1 tablespoon extra virgin olive oil
-- 1 tablespoon unsalted butter
-- 1 small yellow or white onion — diced
-- 1 1/2 teaspoons kosher salt — divided
-- 1 1/2 pounds boneless sirloin steak — cut into 1 1/2-inch cubes
+- 1 tablespoon extra virgin olive oil *
+- 1 tablespoon unsalted butter *
+- 1 small yellow or white onion, diced *
+- 1 1/2 teaspoons kosher salt, divided
+- 1 1/2 pounds boneless sirloin steak, cut into 1 1/2-inch cubes *
 - 1 teaspoon ground black pepper
 - 1 teaspoon dried dillweed
 - 1 teaspoon garlic powder
@@ -199,10 +228,10 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 - 3 tablespoons Worcestershire sauce
 - 1 tablespoon Dijon mustard
 - 3 cups reduced sodium beef broth — divided
-- 16 ounces sliced baby Bella cremini mushrooms (optional)
-- 2 tablespoons all-purpose flour
-- 12 ounces whole wheat wide egg noodles
-- 1 cup plain whole milk Greek yogurt — do not use nonfat or it will curdle
+- 16 ounces sliced baby Bella cremini mushrooms (optional) *
+- 2 tablespoons all-purpose flour *
+- 12 ounces whole wheat wide egg noodles *
+- 1 cup plain whole milk Greek yogurt *
 - Chopped fresh parsley or thyme (optional)
 
 #### Instructions
@@ -213,4 +242,20 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 1. Once you can safely open the pressure cooker, carefully open the lid and add the egg noodles. Recover the Instant Pot, seal, and cook on HIGH (manual) for 5 minutes. When the time is up, allow the pressure to naturally release for 5 minutes, then immediately vent to release any remaining pressure.
 1. Carefully open the lid and stir. Let the stroganoff cool for a few minutes, then stir in the Greek yogurt. Serve hot, sprinkled with fresh parsley and/or thyme.
 
+### Veggie Dinner: Leftovers
+
+Cabbage and Peas Curry from Day 2
+
 ## Day 4
+
+### Meat Lunch: Leftovers
+
+Beef Stroganoff from Day 3
+
+### Veggie Lunch: Leftovers
+
+Cabbage and Peas Curry from Day 2
+
+### Meat Dinner: Leftovers
+
+Bacon Cheeseburger Casserole from Day 2
