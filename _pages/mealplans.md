@@ -150,6 +150,12 @@ Recipe credit: [Well Plated](https://www.wellplated.com/instant-pot-beef-strogan
 
 ### Veggie Dinner: Cabbage and Peas Curry
 
+Recipe credit: [Piping Hot Curry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739)
+
+3 servings
+
+#### Ingredients
+
 - 1 cabbage, chopped
 - 1/2 cup green peas
 - 1 tablespoon oil
@@ -157,3 +163,17 @@ Recipe credit: [Well Plated](https://www.wellplated.com/instant-pot-beef-strogan
 - 4 pods garlic
 - 1 tomato medium size, chopped
 - 1 teaspoon dry mango powder (amchur)
+- 1/4 teaspoon Ground Turmeric (Haldi powder)
+- 1 teaspoon Coriander powder (Dhaniya powder)
+- 1/4 teaspoon Cayenne or Red Chili powder
+- 1 teaspoon Salt
+
+#### Instructions
+
+1. Start the instant pot in Saute mode and heat oil in it.  Add mustard seeds, garlic and saute for 30 seconds until the mustard seeds start to splutter.
+1. Add chopped tomato and spices.  Mix well.
+1. Add chopped cabbage and green peas. Stir well so the spices mix with the cabbage. Make sure nothing is stuck to the bottom of the pot. If there is, add 2-3 tbsp of water, and deglaze the pot.
+1. Close the instant pot lid with vent in sealing position. Change the instant pot setting to manual or pressure cook mode at low pressure for 2 minutes.  
+1. When the instant pot beeps, quick release the pressure manually.  Stir the cabbage.  
+(optional) Add the dry mango powder and mix it with the cabbage.  If there is any liquid, you can dry it by sauteing for 2 minutes.  
+1. Enjoy Cabbage & Peas Stir Fry with roti and yogurt.
