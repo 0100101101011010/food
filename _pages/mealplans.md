@@ -50,12 +50,11 @@ AM: Prepare tortilla ingredients by soaking 1 cup lentils in 2 cups water.
 
 PM: Prepare sweet potato bread for tomorrow by combining all ingredients and leaving in fridge overnight. Freeze 3 servings of Bacon Cheeseburger Casserole to eat later.
 
-### Meat Dinner: Crunchwrap Supreme
+### Meat Dinner: [Crunchwrap Supreme](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859) (2)
 
 ![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
 
-> Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859), [Power Hungry](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/), and [Budget Bytes](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/)  
-> 3 servings
+3 servings
 
 <!-- ff -->
 - 230 g ground beef *
@@ -91,10 +90,9 @@ Leftovers in the fridge:
 
 - 1 serving Crunchwrap Supreme from Day 1
 
-### Snack: Sweet Potato Bread
+### Veggie Lunch: [Sweet Potato Bread](https://www.bakefromscratch.com/sweet-potato-dutch-oven-bread/) (4)
 
-> Recipe credit: [Bake from Scratch](https://www.bakefromscratch.com/sweet-potato-dutch-oven-bread/)  
-> 1 small loaf (about 6 slices)
+1 small loaf (about 6 slices)
 
 <!-- ff -->
 
@@ -116,11 +114,9 @@ Leftovers in the fridge:
 
 <!-- /f -->
 
-### Lunch: Leftovers
+### Meat Lunch: Crunchwrap Supreme (0)
 
-Crunchwrap Supreme from Day 1
-
-### Meat Dinner: Bacon Cheeseburger Casserole
+### Meat Dinner: Bacon Cheeseburger Casserole (2)
 
 > Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)  
 > 6 servings
@@ -154,7 +150,7 @@ Crunchwrap Supreme from Day 1
 1. Bake at 350 degrees for 30 minutes or until set and golden on top. Sprinkle with dill before serving.
 <!-- /f -->
 
-### Veggie Dinner: Cabbage and Peas Curry
+### Veggie Dinner: Cabbage and Peas Curry (2)
 
 > Recipe credit: [Piping Hot Curry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739)  
 > 3 servings
@@ -194,7 +190,7 @@ Leftovers in the fridge:
 - 2 servings Bacon Cheeseburger Casserole from Day 2
 - 2 servings Cabbage and Peas Curry from Day 2
 
-### Meat Lunch: Poutine
+### Meat Lunch: Poutine (0)
 
 > 1 serving
 
@@ -212,14 +208,13 @@ Leftovers in the fridge:
 1. Slide fries into a bowl. Sprinkle with cheese curds and drizzle gravy on top.
 <!-- /f -->
 
-### Veggie Lunch: Leftovers
+### Veggie Lunch: Sweet Potato Bread (2)
 
-Sweet Potato Bread from Day 2, with some [Laughing Cow cheese and honey](https://www.reddit.com/r/1200isplenty/comments/af7zy2/i_was_really_craving_a_danish_and_toast_with/)
+with some [Laughing Cow cheese and honey](https://www.reddit.com/r/1200isplenty/comments/af7zy2/i_was_really_craving_a_danish_and_toast_with/)
 
-### Meat Dinner: Beef Stroganoff
+### Meat Dinner: [Beef Stroganoff](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742) (5)
 
-> Recipe credit: [Well Plated](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742)  
-> 6 servings
+6 servings
 
 <!-- ff -->
 - 1 tablespoon extra virgin olive oil *
@@ -247,9 +242,7 @@ Sweet Potato Bread from Day 2, with some [Laughing Cow cheese and honey](https:/
 1. Carefully open the lid and stir. Let the stroganoff cool for a few minutes, then stir in the Greek yogurt. Serve hot, sprinkled with fresh parsley and/or thyme.
 <!-- /f -->
 
-### Veggie Dinner: Leftovers
-
-Cabbage and Peas Curry from Day 2
+### Veggie Dinner: Cabbage and Peas Curry (1)
 
 <!-- /f -->
 
@@ -264,13 +257,13 @@ Leftovers in the fridge:
 - 5 servings Beef Stroganoff from Day 3
 - 1 serving Cabbage and Peas Curry from Day 2
 
-### Meat Lunch: Leftovers (Beef Stroganoff from Day 3)
+### Meat Lunch: Beef Stroganoff (4)
 
-### Veggie Lunch: Leftovers (Cabbage and Peas Curry from Day 2)
+### Veggie Lunch: Cabbage and Peas Curry (0)
 
-### Meat Dinner: Pizza
+### Meat Dinner: Pizza (0)
 
-### Veggie Dinner: Leftovers (Sweet Potato Bread from Day 2)
+### Veggie Dinner: Sweet Potato Bread (0)
 
 <!-- /f -->
 
