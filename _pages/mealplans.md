@@ -186,32 +186,9 @@ Bread pudding
 
 Bacon Cheeseburger Casserole from Day 2
 
-### Veggie Lunch: Mini Crustless Tofu Quiches
+### Veggie Lunch: Leftovers
 
-> Recipe credit: [Fat Free Vegan](https://blog.fatfreevegan.com/2006/12/mini-crustless-tofu-quiches.html)  
-> 3 servings (12 quiches)
-
-* olive oil spray (optional)
-* 1 teaspoon minced garlic
-* 1/2 cup bell pepper *
-* 1 cup chopped mushrooms *
-* 1 tablespoon minced fresh chives or one green onion
-* 1 teaspoon minced fresh rosemary or 1/2 tsp. dried, crushed
-* black pepper to taste
-* 12.3-ounce package lite firm or extra-firm silken tofu drained of water, see note below *
-* 1/4 cup plain soymilk (optional) *
-* 2 tablespoons nutritional yeast
-* 1 tablespoon cornstarch may substitute another thickener such as arrowroot or * potato starch
-* 1 teaspoon tahini or cashew butter (optional) *
-* 1/4 teaspoon onion powder
-* 1/4 teaspoon turmeric
-* 1/2-3/4 teaspoon salt
-* 1 generous pinch black salt kala namak (optional)
-
-1. Preheat the oven to 375 F. Spray 12 regular-sized muffin cups well with non-stick spray or use silicone cups like these (do not use paper because it will stick).
-1. Heat a non-stick skillet and sauté the garlic, bell peppers, and mushrooms over medium heat until the mushrooms just begin to exude their juices. Stir in the chives, rosemary, and freshly ground black pepper, remove from the heat, and set aside.
-1. Place the tofu and all remaining ingredients into a food processor or blender. Process until completely smooth and silky. Add the tofu mixture to the vegetables and stir to combine. Spoon equally into the 12 muffin cups: it will fill regular muffin cups about halfway.
-1. Put the muffin pan into the oven and immediately reduce the heat to 350 F. Bake until the tops are golden and a knife inserted into the middle of a quiche comes out clean–about 25-35 minutes depending on your oven and muffin cups (silicone will take longer than metal, so if you’re using a metal pan, check it at 20 minutes). Remove from the oven and allow them to cool for about 10 minutes. Enjoy! They’re light, so plan on making more of these—or serve hearty side dishes—if you’re serving more than 3 people.
+Sweet Potato Bread from Day 2
 
 ### Meat Dinner: Beef Stroganoff
 
@@ -288,3 +265,12 @@ Bacon Cheeseburger Casserole from Day 2
 1. Meanwhile; heat the vegetable oil in a large frypan over medium heat. Stir in the onion and garlic; cook and stir until the onion has softened and turned translucent; about 5 minutes.
 1. Season with cumin, cayenne pepper, curry powder, garam masala, ginger and salt; cook for 2 minutes more.
 1. Add the tomatoes, chickpeas, peas and potatoes. Pour in the coconut milk and bring to a simmer. Simmer 5 to 10 minutes before serving.
+
+## Day 5
+
+### Shopping List
+
+* 1 large bok choy or Chinese cabbage
+* 1 can diced tomatoes
+* 1 cup green beans
+* 1 chayote or zucchini
