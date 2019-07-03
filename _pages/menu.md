@@ -42,14 +42,13 @@ permalink: /menu
 
 [https://www.planted365.com/2018/05/18/impossible-burger/](I'm Possible Burger)
 
-<div class="mermaid">
-  graph LR
-      A --- B
-      B-->C[fa:fa-ban forbidden]
-      B-->D(fa:fa-spinner);
-  </div>
-  <script src="mermaid.min.js"></script>
-  <script>mermaid.initialize({startOnLoad:true});</script>
+{% mermaid %}
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+{% endmermaid %}
 
 ## Day 1
 
