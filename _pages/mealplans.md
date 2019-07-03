@@ -50,6 +50,7 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 ### Meat Dinner: Crunchwrap Supreme
 
+<!-- ff -->
 ![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
 
 > Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859), [Power Hungry](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/), and [Budget Bytes](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/)  
@@ -76,6 +77,7 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 1. Spray another skillet or cooking pan with cooking spray and heat over medium heat. Place the crunchwrap supreme, seam-side down, onto the skillet. Cook for 2-3 min., or until golden brown.
 1. Flip over and cook the other side for another 2-3 min or until golden brown.
 1. Cook the rest of your crunchwraps and eat immediately.
+<!-- /f -->
 
 ## Day 2
 
@@ -84,6 +86,8 @@ Leftovers in the fridge:
 * 1 serving Crunchwrap Supreme from Day 1
 
 ### Snack: Sweet Potato Bread
+
+<!-- ff -->
 
 > Recipe credit: [Bake from Scratch](https://www.bakefromscratch.com/sweet-potato-dutch-oven-bread/)  
 > 1 small loaf (about 6 slices)
@@ -104,12 +108,15 @@ Leftovers in the fridge:
 1. Carefully remove hot Dutch oven from oven, remove lid, and quickly turn bread into Dutch oven so seam is now on bottom. Score top of bread (being careful not to touch hot sides of Dutch oven). Cover with lid, and place back in oven.
 1. Immediately reduce oven temperature to 450°F (230°C). Bake for 25 minutes. Remove lid, and bake until an instant-read thermometer inserted in center registers 190°F (88°C), 10 to 15 minutes more. Immediately remove loaf from Dutch oven, and let cool completely on a wire rack.
 
+<!-- /f -->
+
 ### Lunch: Leftovers
 
 Bread pudding and Crunchwrap Supreme from Day 1
 
 ### Meat Dinner: Bacon Cheeseburger Casserole
 
+<!-- ff -->
 > Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)  
 > 6 servings
 
@@ -140,9 +147,11 @@ Bread pudding and Crunchwrap Supreme from Day 1
 1. Pour the egg mixture over the beef and bacon.
 1. Top with the cheddar cheese.
 1. Bake at 350 degrees for 30 minutes or until set and golden on top. Sprinkle with dill before serving.
+<!-- /f -->
 
 ### Veggie Dinner: Cabbage and Peas Curry
 
+<!-- ff -->
 > Recipe credit: [Piping Hot Curry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739)  
 > 3 servings
 
@@ -165,6 +174,7 @@ Bread pudding and Crunchwrap Supreme from Day 1
 1. When the instant pot beeps, quick release the pressure manually.  Stir the cabbage.  
 (optional) Add the dry mango powder and mix it with the cabbage.  If there is any liquid, you can dry it by sauteing for 2 minutes.  
 1. Enjoy Cabbage & Peas Stir Fry with roti and yogurt.
+<!-- /f -->
 
 ## Day 3
 
