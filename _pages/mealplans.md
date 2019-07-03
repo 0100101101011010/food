@@ -266,7 +266,7 @@ Bacon Cheeseburger Casserole from Day 2
 
 ### Veggie Dinner: Potato Curry
 
-> Recipe credit: [MegKat from Allrecipes](https://blog.fatfreevegan.com/2006/12/mini-crustless-tofu-quiches.html)
+> Recipe credit: [MegKat from Allrecipes](https://blog.fatfreevegan.com/2006/12/mini-crustless-tofu-quiches.html)  
 > 6 servings
 
 * 4 potatoes, peeled and cubed
