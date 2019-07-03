@@ -79,6 +79,10 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 ## Day 2
 
+Leftovers in the fridge:
+
+* 1 serving Crunchwrap Supreme from Day 1
+
 ### Snack: Sweet Potato Bread
 
 > Recipe credit: [Bake from Scratch](https://www.bakefromscratch.com/sweet-potato-dutch-oven-bread/)  
@@ -102,25 +106,7 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 ### Lunch: Leftovers
 
-Bread pudding
-
-### Lunch: Poutine
-
-> 1 serving
-
-#### Ingredients
-
-- 2–3 potatoes
-- 1/2 cup homemade gravy
-- 75 g cheese curds
-
-1. Preheat oven to 425 °F.
-1. Slice potatoes into three even pieces lengthwise. Turn each piece on its side and slice into fry-shaped pieces.
-1. Line baking sheet with foil and apply cooking spray. Arrange potatos on the baking sheet at least one inch apart.
-1. Cover potatoes with cooking spray and season with ground black pepper, then place in preheated oven.
-1. Meanwhile, heat up gravy. Add water if it's thickened too much.
-1. Check on the fries after 10 minutes and flip pieces if necessary. Bake for another 10 minutes or until browned on all sides.
-1. Slide fries into a bowl. Sprinkle with cheese curds and drizzle gravy on top.
+Bread pudding and Crunchwrap Supreme from Day 1
 
 ### Meat Dinner: Bacon Cheeseburger Casserole
 
@@ -182,9 +168,29 @@ Bread pudding
 
 ## Day 3
 
-### Meat Lunch: Leftovers
+Leftovers in the fridge:
 
-Bacon Cheeseburger Casserole from Day 2
+* 4 slices Sweet Potato Bread from Day 2
+* 5 servings Bacon Cheeseburger Casserole from Day 2
+* 2 servings Cabbage and Peas Curry from Day 2
+
+### Meat Lunch: Poutine
+
+> 1 serving
+
+#### Ingredients
+
+- 2–3 potatoes
+- 1/2 cup homemade gravy
+- 75 g cheese curds
+
+1. Preheat oven to 425 °F.
+1. Slice potatoes into three even pieces lengthwise. Turn each piece on its side and slice into fry-shaped pieces.
+1. Line baking sheet with foil and apply cooking spray. Arrange potatos on the baking sheet at least one inch apart.
+1. Cover potatoes with cooking spray and season with ground black pepper, then place in preheated oven.
+1. Meanwhile, heat up gravy. Add water if it's thickened too much.
+1. Check on the fries after 10 minutes and flip pieces if necessary. Bake for another 10 minutes or until browned on all sides.
+1. Slide fries into a bowl. Sprinkle with cheese curds and drizzle gravy on top.
 
 ### Veggie Lunch: Leftovers
 
