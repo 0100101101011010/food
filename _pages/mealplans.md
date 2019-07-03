@@ -120,7 +120,6 @@ Crunchwrap Supreme from Day 1
 > 6 servings
 
 <!-- ff -->
-#### Ingredients
 
 - 230 g bacon *
 - 450 g ground beef *
@@ -244,6 +243,10 @@ Cabbage and Peas Curry from Day 2
 ## Day 4
 
 Leftovers in the fridge:
+
+- 2 slices Sweet Potato Bread from Day 2
+- 5 servings Bacon Cheeseburger Casserole from Day 2
+-
 
 ### Meat Lunch: Leftovers
 
