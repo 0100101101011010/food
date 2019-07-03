@@ -100,6 +100,10 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 1. Carefully remove hot Dutch oven from oven, remove lid, and quickly turn bread into Dutch oven so seam is now on bottom. Score top of bread (being careful not to touch hot sides of Dutch oven). Cover with lid, and place back in oven.
 1. Immediately reduce oven temperature to 450°F (230°C). Bake for 25 minutes. Remove lid, and bake until an instant-read thermometer inserted in center registers 190°F (88°C), 10 to 15 minutes more. Immediately remove loaf from Dutch oven, and let cool completely on a wire rack.
 
+### Lunch: Leftovers
+
+Bread pudding
+
 ### Lunch: Poutine
 
 > 1 serving
@@ -260,7 +264,7 @@ Cabbage and Peas Curry from Day 2
 
 Bacon Cheeseburger Casserole from Day 2
 
-### Veggie Dinner: Vegan Potato Curry
+### Veggie Dinner: Potato Curry
 
 > Recipe credit: [MegKat from Allrecipes](https://blog.fatfreevegan.com/2006/12/mini-crustless-tofu-quiches.html)
 > 6 servings
