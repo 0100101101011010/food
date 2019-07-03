@@ -50,12 +50,12 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 ### Meat Dinner: Crunchwrap Supreme
 
-<!-- ff -->
 ![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
 
 > Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859), [Power Hungry](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/), and [Budget Bytes](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/)  
 > 3 servings
 
+<!-- ff -->
 - 230 g ground beef *
 - 1 Tbsp taco seasoning (half a packet)
 - 3 large [tortillas](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/) *
@@ -83,14 +83,14 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 Leftovers in the fridge:
 
-* 1 serving Crunchwrap Supreme from Day 1
+- 1 serving Crunchwrap Supreme from Day 1
 
 ### Snack: Sweet Potato Bread
 
-<!-- ff -->
-
 > Recipe credit: [Bake from Scratch](https://www.bakefromscratch.com/sweet-potato-dutch-oven-bread/)  
 > 1 small loaf (about 6 slices)
+
+<!-- ff -->
 
 - 4 cups (250 g) bread flour
 - 3/4 cup (200 g) mashed sweet potato
@@ -112,14 +112,14 @@ Leftovers in the fridge:
 
 ### Lunch: Leftovers
 
-Bread pudding and Crunchwrap Supreme from Day 1
+Crunchwrap Supreme from Day 1
 
 ### Meat Dinner: Bacon Cheeseburger Casserole
 
-<!-- ff -->
 > Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)  
 > 6 servings
 
+<!-- ff -->
 #### Ingredients
 
 - 230 g bacon *
@@ -151,10 +151,10 @@ Bread pudding and Crunchwrap Supreme from Day 1
 
 ### Veggie Dinner: Cabbage and Peas Curry
 
-<!-- ff -->
 > Recipe credit: [Piping Hot Curry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739)  
 > 3 servings
 
+<!-- ff -->
 - 1 cabbage, chopped *
 - 1/2 cup green peas *
 - 1 tablespoon oil *
@@ -180,16 +180,15 @@ Bread pudding and Crunchwrap Supreme from Day 1
 
 Leftovers in the fridge:
 
-* 4 slices Sweet Potato Bread from Day 2
-* 5 servings Bacon Cheeseburger Casserole from Day 2
-* 2 servings Cabbage and Peas Curry from Day 2
+- 4 slices Sweet Potato Bread from Day 2
+- 5 servings Bacon Cheeseburger Casserole from Day 2
+- 2 servings Cabbage and Peas Curry from Day 2
 
 ### Meat Lunch: Poutine
 
 > 1 serving
 
-#### Ingredients
-
+<!-- ff -->
 - 2–3 potatoes
 - 1/2 cup homemade gravy
 - 75 g cheese curds
@@ -201,17 +200,17 @@ Leftovers in the fridge:
 1. Meanwhile, heat up gravy. Add water if it's thickened too much.
 1. Check on the fries after 10 minutes and flip pieces if necessary. Bake for another 10 minutes or until browned on all sides.
 1. Slide fries into a bowl. Sprinkle with cheese curds and drizzle gravy on top.
+<!-- /f -->
 
 ### Veggie Lunch: Leftovers
 
-Sweet Potato Bread from Day 2
+Sweet Potato Bread from Day 2, with some [Laughing Cow cheese and honey](https://www.reddit.com/r/1200isplenty/comments/af7zy2/i_was_really_craving_a_danish_and_toast_with/)
 
 ### Meat Dinner: Beef Stroganoff
 
+<!-- ff -->
 > Recipe credit: [Well Plated](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742)  
 > 6 servings
-
-#### Ingredients
 
 - 1 tablespoon extra virgin olive oil *
 - 1 tablespoon unsalted butter *
@@ -231,19 +230,20 @@ Sweet Potato Bread from Day 2
 - 1 cup plain whole milk Greek yogurt *
 - Chopped fresh parsley or thyme (optional)
 
-#### Instructions
-
 1. Set Instant Pot to SAUTE. Add the oil and butter. Once hot, add the onion and 1/2 teaspoon salt. Cook, stirring often, until the onion begins to soften but does not brown, 3 to 4 minutes.
 1. Sprinkle the beef with remaining 1 teaspoon salt and pepper. (You can toss the beef cubes together with salt pepper in a bowl, or to save a dish I like to do this right on the cutting board.) Add to the pot. Cook, stirring occasionally, until the meat is browned on all sides, about 4 to 6 minutes. Add the dillweed, garlic powder, onion powder, Worcestershire sauce, and mustard. Pour in 1/2 cup of the beef broth. Stir, scraping a wooden spoon or spatula along the bottom of the pot, to ensure you remove any stuck on bits of food (this will avoid a “burn” warning).
 1. Stir in the mushrooms, then sprinkle the flour over the top. Stir until evenly incorporated. Pour in the remaining beef broth. Close and seal the lid. Cook on HIGH pressure (Manual) for 10 minutes. When the time is up, immediately vent the Instant Pot to quick release the pressure.
 1. Once you can safely open the pressure cooker, carefully open the lid and add the egg noodles. Recover the Instant Pot, seal, and cook on HIGH (manual) for 5 minutes. When the time is up, allow the pressure to naturally release for 5 minutes, then immediately vent to release any remaining pressure.
 1. Carefully open the lid and stir. Let the stroganoff cool for a few minutes, then stir in the Greek yogurt. Serve hot, sprinkled with fresh parsley and/or thyme.
+<!-- /f -->
 
 ### Veggie Dinner: Leftovers
 
 Cabbage and Peas Curry from Day 2
 
 ## Day 4
+
+Leftovers in the fridge:
 
 ### Meat Lunch: Leftovers
 
