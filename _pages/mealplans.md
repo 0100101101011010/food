@@ -274,3 +274,27 @@ Bacon Cheeseburger Casserole from Day 2
 * 1 can diced tomatoes
 * 1 cup green beans
 * 1 chayote or zucchini
+
+### Veggie Dinner: Sinigang
+
+> Recipe credit: [MC Baker from Genius Kitchen](https://www.geniuskitchen.com/recipe/vegetarian-sinigang-filipino-tamarind-or-sour-soup-313263)  
+> 4 servings
+
+* (14 ounce) can diced tomatoes or 3 peeled chopped tomatoes, with their juice
+* 1 large potato or 3 small potatoes, diced to 1 inch cubes
+* 1 large bok choy or 1 large other greens
+* 1 cup fresh green beans, cut into 1 inch pieces
+* 450 g tofu, diced to 1 inch cubes
+* 1 chayote or zucchini, diced to 1 inch cubes
+* 1 medium onion, diced small
+* 4 garlic cloves
+* 2 sour tamarind pods or 2 two sweet tamarind pods and juice of one limes
+* salt
+* pepper
+* 6 cups (1400 mL) water or stock (approximate, adjust this to your liking)
+
+1. Chop all vegetables. If you use chayote, just cut it in half from where the dip is. It's similar to a mango with the shape of the pit being flat, but the pit is soft unlike in a mango so there's no need to cut around it. Remove the pit/seed from the two halves. Dice, peeling is not necessary.
+1. If you're using tamarind remove the hard outer shell. The insides feel and sometimes smell like the insides of raisins or prunes. If the tamarind tastes sweet it's not going to give you the right flavor for the soup, but can still be close with kalamansi or lemon juice added. It should be a sour taste. Soak the tamarind pulp, seeds and all, in 1 cup of warm water. Mash this with a fork to remove most of the tamarind from the seeds. Fish out the seeds and the membranes and reserve the liquid to add after potatoes are cooked.
+1. Cook potatoes in water with a touch of salt for about 10 minutes, or until almost cooked through.
+1. Add remaining veggies and seasoning and cook 10-15 minutes more, or until veggies are cooked to desired consistency.
+1. Taste broth and adjust water and tamarind seasoning and salt to your liking. Keep in mind that if you're serving this with rice, as I always do, you probably want more intense flavors and a more stew like consistency.
