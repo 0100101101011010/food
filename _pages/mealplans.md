@@ -79,7 +79,7 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 ## Day 2
 
-### Lunch: Sweet Potato Bread
+### Snack: Sweet Potato Bread
 
 > Recipe credit: [Bake from Scratch](https://www.bakefromscratch.com/sweet-potato-dutch-oven-bread/)
 > 1 small loaf (about 6 slices)
@@ -99,6 +99,24 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 1. When dough has 30 minutes left to rise, place a 6- to 7-quart Dutch oven and lid in a cold oven. Preheat oven to 500°F (260°C).
 1. Carefully remove hot Dutch oven from oven, remove lid, and quickly turn bread into Dutch oven so seam is now on bottom. Score top of bread (being careful not to touch hot sides of Dutch oven). Cover with lid, and place back in oven.
 1. Immediately reduce oven temperature to 450°F (230°C). Bake for 25 minutes. Remove lid, and bake until an instant-read thermometer inserted in center registers 190°F (88°C), 10 to 15 minutes more. Immediately remove loaf from Dutch oven, and let cool completely on a wire rack.
+
+### Lunch: Poutine
+
+> 1 serving
+
+#### Ingredients
+
+- 2–3 potatoes
+- 1/2 cup homemade gravy
+- 75 g cheese curds
+
+1. Preheat oven to 425 °F.
+1. Slice potatoes into three even pieces lengthwise. Turn each piece on its side and slice into fry-shaped pieces.
+1. Line baking sheet with foil and apply cooking spray. Arrange potatos on the baking sheet at least one inch apart.
+1. Cover potatoes with cooking spray and season with ground black pepper, then place in preheated oven.
+1. Meanwhile, heat up gravy. Add water if it's thickened too much.
+1. Check on the fries after 10 minutes and flip pieces if necessary. Bake for another 10 minutes or until browned on all sides.
+1. Slide fries into a bowl. Sprinkle with cheese curds and drizzle gravy on top.
 
 ### Meat Dinner: Bacon Cheeseburger Casserole
 
@@ -137,9 +155,8 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 ### Veggie Dinner: Cabbage and Peas Curry
 
-Recipe credit: [Piping Hot Curry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739)
-
-3 servings
+> Recipe credit: [Piping Hot Curry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739)
+> 3 servings
 
 - 1 cabbage, chopped
 - 1/2 cup green peas
