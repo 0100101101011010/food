@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meal Plans for 2
-permalink: /mealplans
+permalink: /menu
 ---
 
 <!-- These meal plans assume you have the following items already in your pantry:
@@ -288,9 +288,9 @@ Leftovers in the fridge:
 * 300 g green beans
 * 1 chayote or zucchini
 
-### Meat Lunch: Leftovers (Bacon Cheeseburger Casserole from Day 2)
+### Meat Lunch: Bacon Cheeseburger Casserole (1)
 
-### Veggie Lunch: Cornmeal Crusted Veggies
+### Veggie Lunch: Cornmeal Crusted Veggies (1)
 
 > Recipe credit: [Leanne Brown](https://cookbooks.leannebrown.com/good-and-cheap.pdf)
 > 4 servings
@@ -317,7 +317,7 @@ Leftovers in the fridge:
 
 ### Meat Dinner:
 
-### Veggie Dinner: Sinigang
+### Veggie Dinner: Sinigang (3)
 
 > Recipe credit: [MC Baker from Genius Kitchen](https://www.geniuskitchen.com/recipe/vegetarian-sinigang-filipino-tamarind-or-sour-soup-313263)  
 > 4 servings
@@ -343,7 +343,7 @@ Leftovers in the fridge:
 1. Taste broth and adjust water and tamarind seasoning and salt to your liking. Keep in mind that if you're serving this with rice, as I always do, you probably want more intense flavors and a more stew like consistency.
 <!-- /f -->
 
-### Dessert: New York Cheesecake
+### Dessert: New York Cheesecake (4)
 
 > Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-cheesecake-new-york/)
 > 6 servings (slices)
@@ -392,10 +392,10 @@ Leftovers in the fridge:
 - 3 servings Sinigang from Day 5
 - 4 servings New York Cheesecake from Day 5
 
-## Meat Lunch: Leftovers (Beef Stroganoff from Day 3)
+## Meat Lunch: Beef Stroganoff (3)
 
 ## Veggie Lunch:
 
-## Meat Dinner: Leftovers (Bacon Cheeseburger Casserole from Day 2)
+## Meat Dinner: Bacon Cheeseburger Casserole (0)
 
 <!-- /f -->
