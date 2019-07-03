@@ -44,9 +44,11 @@ permalink: /mealplans
 
 ## Day 1
 
+<!-- ff -->
+
 AM: Prepare tortilla ingredients by soaking 1 cup lentils in 2 cups water.
 
-PM: Prepare sweet potato bread for tomorrow by combining all ingredients and leaving in fridge overnight.
+PM: Prepare sweet potato bread for tomorrow by combining all ingredients and leaving in fridge overnight. Freeze 3 servings of Bacon Cheeseburger Casserole to eat later.
 
 ### Meat Dinner: Crunchwrap Supreme
 
@@ -79,7 +81,11 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 1. Cook the rest of your crunchwraps and eat immediately.
 <!-- /f -->
 
+<!-- /f -->
+
 ## Day 2
+
+<!-- ff -->
 
 Leftovers in the fridge:
 
@@ -175,12 +181,16 @@ Crunchwrap Supreme from Day 1
 1. Enjoy Cabbage & Peas Stir Fry with roti and yogurt.
 <!-- /f -->
 
+<!-- /f -->
+
 ## Day 3
+
+<!-- ff -->
 
 Leftovers in the fridge:
 
 - 4 slices Sweet Potato Bread from Day 2
-- 5 servings Bacon Cheeseburger Casserole from Day 2
+- 2 servings Bacon Cheeseburger Casserole from Day 2
 - 2 servings Cabbage and Peas Curry from Day 2
 
 ### Meat Lunch: Poutine
@@ -207,10 +217,10 @@ Sweet Potato Bread from Day 2, with some [Laughing Cow cheese and honey](https:/
 
 ### Meat Dinner: Beef Stroganoff
 
-<!-- ff -->
 > Recipe credit: [Well Plated](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742)  
 > 6 servings
 
+<!-- ff -->
 - 1 tablespoon extra virgin olive oil *
 - 1 tablespoon unsalted butter *
 - 1 small yellow or white onion, diced *
@@ -240,13 +250,18 @@ Sweet Potato Bread from Day 2, with some [Laughing Cow cheese and honey](https:/
 
 Cabbage and Peas Curry from Day 2
 
+<!-- /f -->
+
 ## Day 4
+
+<!-- ff -->
 
 Leftovers in the fridge:
 
 - 2 slices Sweet Potato Bread from Day 2
-- 5 servings Bacon Cheeseburger Casserole from Day 2
--
+- 2 servings Bacon Cheeseburger Casserole from Day 2
+- 5 servings Beef Stroganoff from Day 3
+- 1 serving Cabbage and Peas Curry from Day 2
 
 ### Meat Lunch: Leftovers
 
@@ -260,32 +275,18 @@ Cabbage and Peas Curry from Day 2
 
 Bacon Cheeseburger Casserole from Day 2
 
-### Veggie Dinner: Potato Curry
+### Veggie Dinner: Leftovers
 
-> Recipe credit: [MegKat from Allrecipes](https://blog.fatfreevegan.com/2006/12/mini-crustless-tofu-quiches.html)  
-> 6 servings
+Sweet Potato Bread from Day 2
 
-* 4 potatoes, peeled and cubed
-* 2 tablespoons vegetable oil
-* 1 yellow onion, diced
-* 3 cloves garlic, crushed
-* 2 teaspoons ground cumin
-* 1 1/2 teaspoons cayenne pepper
-* 4 teaspoons curry powder
-* 4 teaspoons garam masala
-* 1 (5cm) piece fresh ginger root, peeled and minced
-* 2 teaspoons salt
-* 1 (400g) tin diced tomatoes
-* 1 (400g) tin chickpeas, rinsed and drained
-* 1 (400g) tin peas, drained
-* 1 (400g) tin coconut milk
-
-1. Place potatoes into a large pot and cover with salted water. Bring to a boil over high heat then reduce heat to medium-low. Cover and simmer until just tender; about 15 minutes. Drain and allow to steam dry for a minute or two.
-1. Meanwhile; heat the vegetable oil in a large frypan over medium heat. Stir in the onion and garlic; cook and stir until the onion has softened and turned translucent; about 5 minutes.
-1. Season with cumin, cayenne pepper, curry powder, garam masala, ginger and salt; cook for 2 minutes more.
-1. Add the tomatoes, chickpeas, peas and potatoes. Pour in the coconut milk and bring to a simmer. Simmer 5 to 10 minutes before serving.
+<!-- /f -->
 
 ## Day 5
+
+Leftovers in the fridge:
+
+- 1 serving Bacon Cheeseburger Casserole from Day 2
+- 4 servings Beef Stroganoff from Day 3
 
 ### Shopping List
 
