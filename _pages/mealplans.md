@@ -186,6 +186,7 @@ Crunchwrap Supreme from Day 1
 ## Day 3
 
 <!-- ff -->
+PM: Put one ball of pizza dough in the fridge to defrost for tomorrow's dinner.
 
 Leftovers in the fridge:
 
@@ -263,43 +264,72 @@ Leftovers in the fridge:
 - 5 servings Beef Stroganoff from Day 3
 - 1 serving Cabbage and Peas Curry from Day 2
 
-### Meat Lunch: Leftovers
+### Meat Lunch: Leftovers (Beef Stroganoff from Day 3)
 
-Beef Stroganoff from Day 3
+### Veggie Lunch: Leftovers (Cabbage and Peas Curry from Day 2)
 
-### Veggie Lunch: Leftovers
+### Meat Dinner: Pizza
 
-Cabbage and Peas Curry from Day 2
-
-### Meat Dinner: Leftovers
-
-Bacon Cheeseburger Casserole from Day 2
-
-### Veggie Dinner: Leftovers
-
-Sweet Potato Bread from Day 2
+### Veggie Dinner: Leftovers (Sweet Potato Bread from Day 2)
 
 <!-- /f -->
 
 ## Day 5
 
+<!-- ff -->
+
+AM: Set 450 g of cream cheese, 120 g of sour cream, and 2 eggs on counter to bring to room temperature. Prepare cheesecake earlier in the day as it will take at least 4 hours to set.
+
+PM:
+
 Leftovers in the fridge:
 
 - 1 serving Bacon Cheeseburger Casserole from Day 2
+- 2 servings Bacon Cheeseburger Casserole from Day 2
 - 4 servings Beef Stroganoff from Day 3
 
 ### Shopping List
 
-* 1 large bok choy or Chinese cabbage
+* 1–2 lb (450–900 g) Shanghai bok choy or Chinese cabbage
 * 1 can diced tomatoes
-* 1 cup green beans
+* 300 g green beans
 * 1 chayote or zucchini
+
+### Meat Lunch: Leftovers (Bacon Cheeseburger Casserole from Day 2)
+
+### Veggie Lunch: Cornmeal Crusted Veggies
+
+> Recipe credit: [Leanne Brown](https://cookbooks.leannebrown.com/good-and-cheap.pdf)
+> 4 servings
+
+<!-- ff -->
+- ½ lb (230 g) green beans, stems cut off
+- ½ cup (60 g) all-purpose flour
+- 2 eggs
+- ¼ cup milk
+- 1 cup cornmeal
+- 1 tsp salt
+- 1 tsp black pepper
+- 1 tsp paprika
+- ½ tsp garlic powder
+
+1. Heat the oven to 450 °F.
+1. On one plate, spread out the flour.
+1. Crack both eggs into a bowl, add the milk, and mix lightly with a fork.
+1. On another plate, spread the cornmeal, salt, black pepper, paprika, and garlic powder. Mix the plate with your fingers.
+1. Spread a small amount of oil or butter across a baking sheet.
+1. A few at a time, take the green beans and dredge them in the flour. Next, transfer the flour-covered beans to the egg mixture. Cover the beans lightly with egg mixture, being careful to shake off any excess egg. Then transfer to the cornmeal mixture and coat them evenly. Carefully spread the crusted green beans onto the baking sheet. Repeat until you’ve done them all. If you run out of any of the three mixtures, just mix up a bit more.
+1. Bake for 10 to 15 minutes, until golden and crispy. Enjoy hot with your favorite dipping sauce!
+<!-- /f -->
+
+### Meat Dinner:
 
 ### Veggie Dinner: Sinigang
 
 > Recipe credit: [MC Baker from Genius Kitchen](https://www.geniuskitchen.com/recipe/vegetarian-sinigang-filipino-tamarind-or-sour-soup-313263)  
 > 4 servings
 
+<!-- ff -->
 * 400 g canned diced tomatoes or 3 peeled chopped tomatoes, with their juice *
 * 1 large potato or 3 small potatoes, diced to 1 inch cubes *
 * 1 large bok choy or Chinese cabbage *
@@ -318,3 +348,61 @@ Leftovers in the fridge:
 1. Cook potatoes in water with a touch of salt for about 10 minutes, or until almost cooked through.
 1. Add remaining veggies and seasoning and cook 10-15 minutes more, or until veggies are cooked to desired consistency.
 1. Taste broth and adjust water and tamarind seasoning and salt to your liking. Keep in mind that if you're serving this with rice, as I always do, you probably want more intense flavors and a more stew like consistency.
+<!-- /f -->
+
+### Dessert: New York Cheesecake
+
+> Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-cheesecake-new-york/)
+> 6 servings (slices)
+
+<!-- ff -->
+- 120 g graham crackers, finely ground *
+- 42–56 g unsalted butter, melted *
+- sea salt
+- 8.3 brown sugar (adjust to taste) *
+- 32 g all-purpose flour *
+- 454 g cream cheese, room temperature *
+- 2 large eggs, room temperature *
+- 100 g white sugar *
+- 120 g sour cream, room temperature *
+- 16 g cornstarch
+- 10 mL vanilla extract
+
+1. Finely ground 120g graham crackers in a food processor. Or place the graham crackers in a Ziploc bag and roll them with a rolling pin.
+1. Mix Crust Mixture: In a small mixing bowl, mix finely ground graham crackers, a pinch of sea salt, all purpose flour, and brown sugar together with a fork.
+1. Mix in melted butter until the mixture sticks together.
+1. Line the side & bottom of cheesecake pan with parchment paper.
+1. Pour in the graham cracker crumbs mixture. Gently press down the crumbs with a ramekin or Mason jar to form an even layer. You can also use a spoon for the edges.
+1. Blind-Bake (for firmer & crisper crust): Place crust in a 325°F oven for 15 minutes.
+1. Mix cornstarch, 2 pinches of sea salt, and white sugar together in a small mixing bowl.
+1. In a medium mixing bowl, briefly break up the 454g cream cheese by beating it for 10 seconds with a hand mixer using low speed.
+1. Add in half the sugar mixture and beat until just incorporated using low speed (roughly 20 - 30 seconds). Scrape down the sides and hand mixer with a silicone spatula every time a new ingredient is added. Add remaining sugar mixture and beat until just incorporated using low speed (roughly 20 - 30 seconds).
+1. Add sour cream and vanilla extract to the cream cheese mixture. Beat until just incorporated using low speed (20 - 30 seconds).
+1. Blend in the two eggs using low speed, one at a time. Mix until just incorporated (about 15 – 20 seconds with a hand mixer & less time if you are using a powerful stand mixer). Try not to overmix on this step. Scrape down the sides and hand mixer with a silicone spatula and fold a few times to make sure everything is fully incorporated.
+1. Pour cream cheese batter in cheesecake pan. Tap cheesecake pan against the counter to let air bubbles rise to the surface. Burst the air bubbles with a toothpick or fork. Tap until you are satisfied. Ensure the surface is clear of air bubbles or fork marks.
+1. Pour 1 cup (250 ml) of cold water in pressure cooker. Place cheesecake pan on top of a steamer rack (so, it’s not touching the water). Close lid and pressure cook at High Pressure for 26 minutes and Full Natural Release. Natural release will take roughly 7 minutes. Open lid gradually. Absorb any condensation on surface by lightly tapping it with a soft paper towel.
+1. Allow cheesecake to cool to room temperature with the lid open in the pressure cooker. Or place it on a wire rack to cool to room temperature.
+1. Release Cheesecake from Sidewall to Avoid Cracking: After cooling for 10 – 15 minutes, carefully run a thin paring knife between the sidewall and parchment paper to release the cheesecake from the pan. Pull the slightly wrinkled parchment paper lightly to straighten it out for a smooth side.
+1. Once the cheesecake has completely cooled, place it in the refrigerator for at least 4 – 8 hours (preferably overnight).
+1. Remove cheesecake from the refrigerator. The best way to release the cheesecake from the bottom pan is warm the bottom of the pan to melt the butter. You can use a torch or heating pad for this step. Carefully peel off the parchment paper. Enjoy~
+<!-- /f -->
+
+<!-- /f -->
+
+## Day 6
+
+<!-- ff -->
+Leftovers in the fridge:
+
+- 1 serving Bacon Cheeseburger Casserole from Day 2
+- 4 servings Beef Stroganoff from Day 3
+- 3 servings Sinigang from Day 5
+- 4 servings New York Cheesecake from Day 5
+
+## Meat Lunch: Leftovers (Beef Stroganoff from Day 3)
+
+## Veggie Lunch:
+
+## Meat Dinner: Leftovers (Bacon Cheeseburger Casserole from Day 2)
+
+<!-- /f -->
