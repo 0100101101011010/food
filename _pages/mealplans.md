@@ -61,7 +61,7 @@ permalink: /mealplans
 - 1 cup shredded lettuce
 - 1/2 diced tomato
 - 1/2 cup shredded cheese (optional) *
-- 1/4 cup nacho cheese *
+- 1/4 cup [nacho cheese](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/) *
 
 #### Instructions
 
