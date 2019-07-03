@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weekly Meal Plans
+title: Meal Plans for 2
 permalink: /mealplans
 ---
 
@@ -44,14 +44,16 @@ permalink: /mealplans
 
 ## Day 1
 
-### Lunch: Crunchwrap Supreme
+AM: Prepare tortilla ingredients by soaking 1 cup lentils in 2 cups water.
+
+PM: Prepare sweet potato bread for tomorrow by combining all ingredients and leaving in fridge overnight.
+
+### Meat Dinner: Crunchwrap Supreme
 
 ![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
 
 > Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859), [Power Hungry](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/), and [Budget Bytes](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/)
 > 3 servings
-
-#### Ingredients
 
 - 230 g ground beef *
 - 1 Tbsp taco seasoning (half a packet)
@@ -62,8 +64,6 @@ permalink: /mealplans
 - 1/2 diced tomato
 - 1/2 cup shredded cheese (optional) *
 - 1/4 cup [nacho cheese](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/) *
-
-#### Instructions
 
 1. In a skillet or large cooking pan, cook and crumble the ground beef over medium-high heat. When it is no longer pink, drain the grease.
 1. Place meat back into the pan and stir the taco seasoning mix as well as the water it calls for on the packet. Cook according to the package instructions.
@@ -77,27 +77,50 @@ permalink: /mealplans
 1. Flip over and cook the other side for another 2-3 min or until golden brown.
 1. Cook the rest of your crunchwraps and eat immediately.
 
-### Dinner: Bacon Cheeseburger Casserole
+## Day 2
+
+### Lunch: Sweet Potato Bread
+
+> Recipe credit: [Bake from Scratch](https://www.bakefromscratch.com/sweet-potato-dutch-oven-bread/)
+> 1 small loaf (about 6 slices)
+
+- 4 cups (250 g) bread flour
+- 3/4 cup (200 g) mashed sweet potato
+- 1/2 Tbsp (5 g) kosher salt
+- 4 g instant yeast
+- 150 g warm water
+- Corn flour, for dusting
+
+1. Wash sweet potatoes, prick with a fork, and bake in a 425°F (220°C) oven for 30 to 40 minutes.
+1. In a large bowl, place bread flour, sweet potato, salt, yeast, and warm water, and stir by hand until fully incorporated and a sticky dough forms. (Alternatively, place bread flour, sweet potato, salt, and yeast in the bowl of a stand mixer fitted with the paddle attachment. Add 1¼ cups [284 grams] warm water, and beat at medium speed until a sticky dough forms, about 30 seconds.)
+1. Cover and let rise in a warm, draft-free place (75°F/24°C) for 2 hours. Then, refrigerate for at least 2 hours (preferably overnight).
+1. Turn out dough onto a lightly floured surface, and gently press dough just to level and even it out. Starting on left side and working clockwise, fold edges of dough toward center, pressing lightly. Turn dough ball over, and using both hands, cup dough, and pull it toward you. Turn dough 90 degrees, and repeat until you have a smooth, tight, sealed round. (See Shape Your Boule on page 46.)
+1. Heavily dust a sheet of parchment paper with corn flour; place dough on parchment, seam side up. Cover and let rise in a warm, draft-free place (75°F/24°C) for 1 hour.
+1. When dough has 30 minutes left to rise, place a 6- to 7-quart Dutch oven and lid in a cold oven. Preheat oven to 500°F (260°C).
+1. Carefully remove hot Dutch oven from oven, remove lid, and quickly turn bread into Dutch oven so seam is now on bottom. Score top of bread (being careful not to touch hot sides of Dutch oven). Cover with lid, and place back in oven.
+1. Immediately reduce oven temperature to 450°F (230°C). Bake for 25 minutes. Remove lid, and bake until an instant-read thermometer inserted in center registers 190°F (88°C), 10 to 15 minutes more. Immediately remove loaf from Dutch oven, and let cool completely on a wire rack.
+
+### Meat Dinner: Bacon Cheeseburger Casserole
 
 > Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)
 > 4 servings
 
 #### Ingredients
 
-- 150 g bacon *
-- 230 g ground beef *
-- 1/2 small onion *
-- 1 clove garlic or 1 scant tsp minced garlic
-- 2.5 Tbsp cream cheese *
-- 1.5 Tbsp ketchup
-- 1 scant Tbsp yellow mustard
-- 1 scant Tbsp worcestershire sauce
-- 1 scant tsp salt
-- 2 large eggs or 3 small ones *
-- 2.5 Tbsp heavy cream *
+- 230 g bacon *
+- 450 g ground beef *
+- 1/2 sweet onion *
+- 1 tsp minced garlic
+- 4 Tbsp cream cheese *
+- 2 Tbsp ketchup
+- 1 Tbsp yellow mustard
+- 1 Tbsp Worcestershire sauce
+- 1 tsp salt
+- 4 large eggs *
+- 1/4 cup heavy cream *
 - 1 tsp ground black pepper
 - 1 tsp hot sauce (adjust to taste)
-- 340 g cheddar cheese, shredded *
+- 220 g cheddar cheese, shredded *
 - 1 tsp fresh dill
 
 #### Instructions
@@ -112,7 +135,33 @@ permalink: /mealplans
 1. Top with the cheddar cheese.
 1. Bake at 350 degrees for 30 minutes or until set and golden on top. Sprinkle with dill before serving.
 
-## Day 2
+### Veggie Dinner: Cabbage and Peas Curry
+
+Recipe credit: [Piping Hot Curry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739)
+
+3 servings
+
+- 1 cabbage, chopped
+- 1/2 cup green peas
+- 1 tablespoon oil
+- 1/2 teaspoon mustard seeds (rai)
+- 4 pods garlic
+- 1 tomato medium size, chopped
+- 1 teaspoon dry mango powder (amchur)
+- 1/4 teaspoon Ground Turmeric (Haldi powder)
+- 1 teaspoon Coriander powder (Dhaniya powder)
+- 1/4 teaspoon Cayenne or Red Chili powder
+- 1 teaspoon Salt
+
+1. Start the instant pot in Saute mode and heat oil in it.  Add mustard seeds, garlic and saute for 30 seconds until the mustard seeds start to splutter.
+1. Add chopped tomato and spices.  Mix well.
+1. Add chopped cabbage and green peas. Stir well so the spices mix with the cabbage. Make sure nothing is stuck to the bottom of the pot. If there is, add 2-3 tbsp of water, and deglaze the pot.
+1. Close the instant pot lid with vent in sealing position. Change the instant pot setting to manual or pressure cook mode at low pressure for 2 minutes.  
+1. When the instant pot beeps, quick release the pressure manually.  Stir the cabbage.  
+(optional) Add the dry mango powder and mix it with the cabbage.  If there is any liquid, you can dry it by sauteing for 2 minutes.  
+1. Enjoy Cabbage & Peas Stir Fry with roti and yogurt.
+
+## Day 3
 
 ### Meat Dinner: Beef Stroganoff
 
@@ -147,32 +196,4 @@ permalink: /mealplans
 1. Once you can safely open the pressure cooker, carefully open the lid and add the egg noodles. Recover the Instant Pot, seal, and cook on HIGH (manual) for 5 minutes. When the time is up, allow the pressure to naturally release for 5 minutes, then immediately vent to release any remaining pressure.
 1. Carefully open the lid and stir. Let the stroganoff cool for a few minutes, then stir in the Greek yogurt. Serve hot, sprinkled with fresh parsley and/or thyme.
 
-### Veggie Dinner: Cabbage and Peas Curry
-
-Recipe credit: [Piping Hot Curry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739)
-
-3 servings
-
-#### Ingredients
-
-- 1 cabbage, chopped
-- 1/2 cup green peas
-- 1 tablespoon oil
-- 1/2 teaspoon mustard seeds (rai)
-- 4 pods garlic
-- 1 tomato medium size, chopped
-- 1 teaspoon dry mango powder (amchur)
-- 1/4 teaspoon Ground Turmeric (Haldi powder)
-- 1 teaspoon Coriander powder (Dhaniya powder)
-- 1/4 teaspoon Cayenne or Red Chili powder
-- 1 teaspoon Salt
-
-#### Instructions
-
-1. Start the instant pot in Saute mode and heat oil in it.  Add mustard seeds, garlic and saute for 30 seconds until the mustard seeds start to splutter.
-1. Add chopped tomato and spices.  Mix well.
-1. Add chopped cabbage and green peas. Stir well so the spices mix with the cabbage. Make sure nothing is stuck to the bottom of the pot. If there is, add 2-3 tbsp of water, and deglaze the pot.
-1. Close the instant pot lid with vent in sealing position. Change the instant pot setting to manual or pressure cook mode at low pressure for 2 minutes.  
-1. When the instant pot beeps, quick release the pressure manually.  Stir the cabbage.  
-(optional) Add the dry mango powder and mix it with the cabbage.  If there is any liquid, you can dry it by sauteing for 2 minutes.  
-1. Enjoy Cabbage & Peas Stir Fry with roti and yogurt.
+## Day 4
