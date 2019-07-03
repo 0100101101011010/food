@@ -46,9 +46,10 @@ permalink: /mealplans
 
 ### Lunch: Crunchwrap Supreme
 
-Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859) and [Power Hungry](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/)
+![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
 
-3 servings
+> Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859) and [Power Hungry](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/)
+> 3 servings
 
 #### Ingredients
 
@@ -78,9 +79,8 @@ Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crun
 
 ### Dinner: Bacon Cheeseburger Casserole
 
-Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)
-
-4 servings
+> Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)
+> 4 servings
 
 #### Ingredients
 
@@ -116,9 +116,8 @@ Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-che
 
 ### Meat Dinner: Beef Stroganoff
 
-Recipe credit: [Well Plated](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742)
-
-6 servings
+> Recipe credit: [Well Plated](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742)
+> 6 servings
 
 #### Ingredients
 
