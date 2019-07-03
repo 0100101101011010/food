@@ -259,3 +259,28 @@ Cabbage and Peas Curry from Day 2
 ### Meat Dinner: Leftovers
 
 Bacon Cheeseburger Casserole from Day 2
+
+### Veggie Dinner: Vegan Potato Curry
+
+> Recipe credit: [MegKat from Allrecipes](https://blog.fatfreevegan.com/2006/12/mini-crustless-tofu-quiches.html)
+> 6 servings
+
+* 4 potatoes, peeled and cubed
+* 2 tablespoons vegetable oil
+* 1 yellow onion, diced
+* 3 cloves garlic, crushed
+* 2 teaspoons ground cumin
+* 1 1/2 teaspoons cayenne pepper
+* 4 teaspoons curry powder
+* 4 teaspoons garam masala
+* 1 (5cm) piece fresh ginger root, peeled and minced
+* 2 teaspoons salt
+* 1 (400g) tin diced tomatoes
+* 1 (400g) tin chickpeas, rinsed and drained
+* 1 (400g) tin peas, drained
+* 1 (400g) tin coconut milk
+
+1. Place potatoes into a large pot and cover with salted water. Bring to a boil over high heat then reduce heat to medium-low. Cover and simmer until just tender; about 15 minutes. Drain and allow to steam dry for a minute or two.
+1. Meanwhile; heat the vegetable oil in a large frypan over medium heat. Stir in the onion and garlic; cook and stir until the onion has softened and turned translucent; about 5 minutes.
+1. Season with cumin, cayenne pepper, curry powder, garam masala, ginger and salt; cook for 2 minutes more.
+1. Add the tomatoes, chickpeas, peas and potatoes. Pour in the coconut milk and bring to a simmer. Simmer 5 to 10 minutes before serving.
