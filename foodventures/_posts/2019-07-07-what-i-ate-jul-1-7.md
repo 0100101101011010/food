@@ -44,6 +44,12 @@ I did it! I finally achieved my dream of making poutine from scratch with real c
 
 Neither Kevin nor I have ever eaten at Taco Bell, but we both know about the legendary Crunchwrap Supremes
 
+## Wednesday
+
+### Bacon Cheeseburger Casserole
+
+According to the [meal plan schedule](/food/menu)
+
 ## Friday
 
 ### Butter Chicken
