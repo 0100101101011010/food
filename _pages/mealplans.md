@@ -52,7 +52,7 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 ![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
 
-> Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859), [Power Hungry](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/), and [Budget Bytes](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/)
+> Recipe credit: [Cooking with Janica](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859), [Power Hungry](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/), and [Budget Bytes](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/)  
 > 3 servings
 
 - 230 g ground beef *
@@ -124,7 +124,7 @@ Bread pudding
 
 ### Meat Dinner: Bacon Cheeseburger Casserole
 
-> Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)
+> Recipe credit: [Buns In My Oven](https://www.bunsinmyoven.com/low-carb-bacon-cheeseburger-casserole/)  
 > 6 servings
 
 #### Ingredients
@@ -157,7 +157,7 @@ Bread pudding
 
 ### Veggie Dinner: Cabbage and Peas Curry
 
-> Recipe credit: [Piping Hot Curry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739)
+> Recipe credit: [Piping Hot Curry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739)  
 > 3 servings
 
 - 1 cabbage, chopped *
@@ -215,7 +215,7 @@ Bacon Cheeseburger Casserole from Day 2
 
 ### Meat Dinner: Beef Stroganoff
 
-> Recipe credit: [Well Plated](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742)
+> Recipe credit: [Well Plated](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742)  
 > 6 servings
 
 #### Ingredients
