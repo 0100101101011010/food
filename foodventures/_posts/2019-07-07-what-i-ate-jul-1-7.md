@@ -30,6 +30,14 @@ discussion_id: 2019-07-07
 
 ###
 
+## Tuesday
+
+### Mock Taco Bell Crunchwrap Supremes
+
+![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
+
+Neither Kevin nor I have ever eaten at Taco Bell, but we both know about the legendary Crunchwrap Supremes
+
 ## Friday
 
 ### Butter Chicken
