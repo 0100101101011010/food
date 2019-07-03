@@ -48,7 +48,7 @@ permalink: /menu
 <div class="mermaid">
   graph LR
       A --- B
-      B-->C[fa:fa-ban forbidden]
+      B-->C[hello]
       B-->D(fa:fa-spinner);
 </div>
 
