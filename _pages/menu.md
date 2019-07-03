@@ -45,11 +45,17 @@ permalink: /menu
 <script src="https://unpkg.com/mermaid@8.0.0/dist/mermaid.min.js"></script>
 
 <div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+graph TB;
+subgraph DAY1;
+Lunch1[Lunch];
+Dinner1[Dinner]-->|Cook| BCC1(Bacon Cheeseburger Casserole, 3);
+1 -->|Get money| B(Go shopping);
+end;
+B --> C{Let me think};
+C -->|One| D[Laptop];
+C -->|Two| E[iPhone];
+C -->|Three| F[fa:fa-car Car];
+
 </div>
 
 ## Day 1
