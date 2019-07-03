@@ -32,6 +32,12 @@ discussion_id: 2019-07-07
 
 ## Tuesday
 
+### Poutine with St. Albert Cheese Curds
+
+![homemade poutine with baked fries, homemade gravy and st albert cheese curds](/food/foodventures/images/homemade-poutine-3.jpg){:width="50%"}{: .image-left}
+
+I did it! I finally achieved my dream of making poutine from scratch with real cheese curds! After looking for cheese curds at the supermarket in vain twice in a row, I finally found them today sharing shelf space with salad mixes and tofu. Looks like third time's the charm!
+
 ### Mock Taco Bell Crunchwrap Supremes
 
 ![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
