@@ -36,7 +36,7 @@ discussion_id: 2019-07-07
 
 ![homemade poutine with baked fries, homemade gravy and st albert cheese curds](/food/foodventures/images/homemade-poutine-3.jpg){:width="50%"}{: .image-left}
 
-I did it! I finally achieved my dream of making poutine from scratch with real cheese curds! After looking for cheese curds at the supermarket in vain twice in a row, I finally found them today sharing shelf space with salad mixes and tofu. Looks like third time's the charm!
+I did it! I finally achieved my dream of making poutine from scratch with real cheese curds! After looking for cheese curds at the supermarket in vain twice in a row, I found them today sharing shelf space with salad mixes and tofu. Looks like third time's the charm. I also made proper baked fries this time, instead of my [lazy method](/food/foodventures/what-i-ate-jun-17-23/#homemade-poutine-with-chicken-gravy) of smashing potatoes on a baking tray.
 
 ### Mock Taco Bell Crunchwrap Supremes
 
