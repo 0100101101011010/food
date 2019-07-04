@@ -118,6 +118,10 @@ AM: Prepare tortilla ingredients by soaking 1 cup lentils in 2 cups water.
 
 PM: Prepare sweet potato bread for tomorrow by combining all ingredients and leaving in fridge overnight.
 
+### Lunch: Poutine
+
+Meat option: [Poutine](/food/recipe/weeknight-poutine) (makes 1 serving; save leftover gravy for [Chicken Pot Pie on Day 7](#day-7))
+
 ### Dinner: Crunchwrap Supremes and Cabbage & Peas Stir Fry
 
 ![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
@@ -141,7 +145,7 @@ Leftovers in the fridge:
 
 Meat option: *Leftover* Crunchwrap Supreme
 
-Veg option: [Sweet Potato Bread](https://www.bakefromscratch.com/sweet-potato-dutch-oven-bread/) (makes 1 small loaf, about 6 slices), served with honey and laughing cow cheese
+Veg option: [Sweet Potato Bread](https://www.bakefromscratch.com/sweet-potato-dutch-oven-bread/) (makes 1 small loaf, about 6 slices), served with some [Laughing Cow cheese and honey](https://www.reddit.com/r/1200isplenty/comments/af7zy2/i_was_really_craving_a_danish_and_toast_with/)
 
 ### Meat Dinner: Bacon Cheeseburger Casserole and Cabbage & Peas Stir Fry
 
@@ -156,35 +160,13 @@ Veg option: *Leftover* Cabbage & Peas Stir Fry
 <!-- ff -->
 PM: Put one ball of pizza dough in the fridge to defrost for tomorrow's dinner.
 
-Leftovers in the fridge:
+### Lunch: Poutine and Sweet Potato Bread
 
-- 4 slices Sweet Potato Bread from Day 2
-- 2 servings Bacon Cheeseburger Casserole from Day 2
-- 2 servings Cabbage and Peas Curry from Day 2
+Veg option: *Leftover* Sweet Potato Bread
 
-### Meat Lunch: Poutine (0)
+### Dinner: [Beef Stroganoff](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742) (makes 6 servings)
 
-> 1 serving
-
-<!-- ff -->
-- 2–3 potatoes
-- 1/2 cup homemade gravy
-- 75 g cheese curds
-
-1. Preheat oven to 425 °F.
-1. Slice potatoes into three even pieces lengthwise. Turn each piece on its side and slice into fry-shaped pieces.
-1. Line baking sheet with foil and apply cooking spray. Arrange potatos on the baking sheet at least one inch apart.
-1. Cover potatoes with cooking spray and season with ground black pepper, then place in preheated oven.
-1. Meanwhile, heat up gravy. Add water if it's thickened too much.
-1. Check on the fries after 10 minutes and flip pieces if necessary. Bake for another 10 minutes or until browned on all sides.
-1. Slide fries into a bowl. Sprinkle with cheese curds and drizzle gravy on top.
 <!-- /f -->
-
-### Veggie Lunch: Sweet Potato Bread (2)
-
-with some [Laughing Cow cheese and honey](https://www.reddit.com/r/1200isplenty/comments/af7zy2/i_was_really_craving_a_danish_and_toast_with/)
-
-### Meat Dinner: [Beef Stroganoff](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742) (5)
 
 6 servings
 
