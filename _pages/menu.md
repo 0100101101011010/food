@@ -136,11 +136,6 @@ Veg option: [Cabbage & Peas Stir Fry](https://pipingpotcurry.com/cabbage-peas-st
 
 <!-- ff -->
 
-Leftovers in the fridge:
-
-- 1 serving Crunchwrap Supreme from Day 1
-- 2 servings Cabbage & Peas Stir Fry from Day 1
-
 ### Lunch: Sweet Potato Bread and Crunchwrap Supreme
 
 Meat option: *Leftover* Crunchwrap Supreme
@@ -158,13 +153,20 @@ Veg option: *Leftover* Cabbage & Peas Stir Fry
 ## Day 3
 
 <!-- ff -->
+
 PM: Put one ball of pizza dough in the fridge to defrost for tomorrow's dinner.
 
 ### Lunch: Poutine and Sweet Potato Bread
 
+Meat option: *Leftover* Bacon Cheeseburger Casserole
+
 Veg option: *Leftover* Sweet Potato Bread
 
-### Dinner: [Beef Stroganoff](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742) (makes 6 servings)
+### Dinner: Beef Stroganoff and Cabbage & Peas Stir Fry
+
+Meat option: [Beef Stroganoff](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742) (makes 6 servings)
+
+Veg option: *Leftover* Cabbage & Peas Stir Fry
 
 <!-- /f -->
 
