@@ -37,6 +37,8 @@ permalink: /menu
 * Yeast
 * Yellow onions -->
 
+Hello, and welcome to Jellie's Kitchen! We are open 7 days a week and offer healthy meat and vegetarian meal options. We have been mushroom free since 2019. Can I get you anything to drink? In the meantime, feel free to [ask me anything](/contact) about our menu! ♥
+
 * toc
 {:toc}
 
