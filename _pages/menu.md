@@ -52,15 +52,15 @@ PM: Prepare sweet potato bread for tomorrow by combining all ingredients and lea
 
 ### Lunch: Poutine
 
-Meat option: [Poutine](/food/recipe/weeknight-poutine) (makes 1 serving; save leftover gravy for [Chicken Pot Pie on Day 7](#day-7))
+**Meat option:** [Poutine](/food/recipe/weeknight-poutine) (makes 1 serving; save leftover gravy for [Chicken Pot Pie on Day 7](#day-7))
 
 ### Dinner: Crunchwrap Supremes and Cabbage & Peas Stir Fry
 
 ![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="20%"}{: .image-right}
 
-Meat option: [Crunchwrap Supreme](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859), made with [1-ingredient lentil tortillas](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/) and homemade [nacho cheese](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/) (makes 3 servings)
+**Meat option:** [Crunchwrap Supreme](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859), made with [1-ingredient lentil tortillas](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/) and homemade [nacho cheese](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/) (makes 3 servings)
 
-Veg option: [Cabbage & Peas Stir Fry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739) (makes 3 servings)
+**Veg option:** [Cabbage & Peas Stir Fry](https://pipingpotcurry.com/cabbage-peas-stir-fry-pressure-cooker/#wprm-recipe-container-2739) (makes 3 servings)
 
 <!-- /f -->
 
