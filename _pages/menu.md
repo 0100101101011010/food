@@ -154,7 +154,7 @@ Veg option: *Leftover* Cabbage & Peas Stir Fry
 
 <!-- ff -->
 
-PM: Put one ball of pizza dough in the fridge to defrost for tomorrow's dinner.
+PM: Put one ball of frozen pizza dough in the fridge to defrost for tomorrow's pizza dinner.
 
 ### Lunch: Poutine and Sweet Potato Bread
 
@@ -174,20 +174,15 @@ Veg option: *Leftover* Cabbage & Peas Stir Fry
 
 <!-- ff -->
 
-Leftovers in the fridge:
+### Lunch: Beef Stroganoff and Cabbage & Peas Stir Fry
 
-- 2 slices Sweet Potato Bread from Day 2
-- 2 servings Bacon Cheeseburger Casserole from Day 2
-- 5 servings Beef Stroganoff from Day 3
-- 1 serving Cabbage and Peas Curry from Day 2
+Meat option: *Leftover* Beef Stroganoff
 
-### Meat Lunch: Beef Stroganoff (4)
+Veg option: *Leftover* Cabbage & Peas Stir Fry
 
-### Veggie Lunch: Cabbage and Peas Curry (0)
+### Dinner: Pizza
 
-### Meat Dinner: Pizza (0)
-
-### Veggie Dinner: Sweet Potato Bread (0)
+Split pizza with half veg and half meat side.
 
 <!-- /f -->
 
@@ -321,6 +316,8 @@ Veg option:
 <!-- /f -->
 
 ## Day 7
+
+AM: Set gravy on counter to warm to room temperature.
 
 ### Dinner: Chicken Pot Pie
 
