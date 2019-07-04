@@ -40,8 +40,6 @@ permalink: /menu
 * toc
 {:toc}
 
-[https://www.planted365.com/2018/05/18/impossible-burger/](I'm Possible Burger)
-
 <script src="https://unpkg.com/mermaid@8.0.0/dist/mermaid.min.js"></script>
 
 <div class="mermaid">
@@ -322,3 +320,11 @@ AM: If you froze the gravy from [Day 1](#day-1), set it in the fridge to defrost
 ### Dinner: Chicken Pot Pie
 
 Meat option: [Chicken Pot Pie](https://cookthestory.com/chicken-korma-pot-pie/) (makes 4 servings) using gravy from [Day 1](#day-1) (boil for 3 minutes in a saucepan, then mix with the chicken and other ingredients in the same saucepan); served with naan
+
+## Day 14
+
+### Dinner: I'm Possible Burgers
+
+
+
+[I'm Possible Burger](https://www.planted365.com/2018/05/18/impossible-burger/)
