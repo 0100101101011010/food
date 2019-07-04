@@ -124,7 +124,7 @@ Meat option: [Poutine](/food/recipe/weeknight-poutine) (makes 1 serving; save le
 
 ### Dinner: Crunchwrap Supremes and Cabbage & Peas Stir Fry
 
-![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
+![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="20%"}{: .image-right}
 
 Meat option: [Crunchwrap Supreme](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/#tasty-recipes-6859), made with [1-ingredient lentil tortillas](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/) and homemade [nacho cheese](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/) (makes 3 servings)
 
