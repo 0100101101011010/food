@@ -55,3 +55,5 @@ According to the [meal plan schedule](/food/menu)
 ### Butter Chicken
 
 ## Saturday
+
+## Sunday
