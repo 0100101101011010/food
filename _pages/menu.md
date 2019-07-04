@@ -88,15 +88,15 @@ Veg option: *Leftover* Cabbage & Peas Stir Fry
 
 PM: Put one ball of frozen pizza dough in the fridge to defrost for tomorrow's pizza dinner.
 
-### Lunch: Poutine and Sweet Potato Bread
+### Lunch: Beef Stroganoff and Sweet Potato Bread
 
-Meat option: *Leftover* Bacon Cheeseburger Casserole
+Meat option: [Beef Stroganoff](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742) (makes 6 servings)
 
 Veg option: *Leftover* Sweet Potato Bread
 
-### Dinner: Beef Stroganoff and Cabbage & Peas Stir Fry
+### Dinner: Bacon Cheeseburger Casserole and Cabbage & Peas Stir Fry
 
-Meat option: [Beef Stroganoff](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742) (makes 6 servings)
+Meat option: *Leftover* Bacon Cheeseburger Casserole
 
 Veg option: *Leftover* Cabbage & Peas Stir Fry
 
