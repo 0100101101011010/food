@@ -317,8 +317,8 @@ Veg option:
 
 ## Day 7
 
-AM: Set gravy on counter to warm to room temperature.
+AM: If you froze the gravy from [Day 1](#day-1), set it in the fridge to defrost for tonight's dinner.
 
 ### Dinner: Chicken Pot Pie
 
-Meat option: [Chicken Pot Pie](https://cookthestory.com/chicken-korma-pot-pie/) (makes 4 servings) using gravy from [Day 1](#day-1); served with naan
+Meat option: [Chicken Pot Pie](https://cookthestory.com/chicken-korma-pot-pie/) (makes 4 servings) using gravy from [Day 1](#day-1) (boil for 3 minutes in a saucepan, then mix with the chicken and other ingredients in the same saucepan); served with naan
