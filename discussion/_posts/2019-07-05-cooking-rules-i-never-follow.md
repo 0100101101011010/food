@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Ate This Week: Apr 8–14"
+title: "10 Cooking "Rules" I Never Follow"
 author: Kelly Zhang
 permalink: :categories/:title/
 categories: foodventures
