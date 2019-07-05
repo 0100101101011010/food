@@ -67,9 +67,15 @@ Long answer: Although these bear only a passing resemblance to Crunchwrap Suprem
 
 They are really filling, though: Kevin ate two tonight and will eat the other one for lunch tomorrow. The only suggestions he offered were, of course, to add lettuce and tostadas because it was missing something crispy. I'm also planning to bake instead of pan-fry them next time, to make the outside tortilla a little crunchy as well. Maybe I didn't use a low enough heat setting, but cooking them on the skillet caused some parts to almost burn while other parts still remained soft.
 
-Those lentil tortillas have pleasantly surprised me. They were very easy to make with my Blendtec, and are every bit as pliable as a wheat flour tortilla. I made them a little too thick this time, but nevertheless they turned out very good for a first run. I'm planning to use a little more water with the next batch to thin out the batter and make it easier to pour into a nice thin wrap.
+Those lentil tortillas have pleasantly surprised me. They were very easy to make with my Blendtec, and are as pliable as wheat flour tortillas. I made them a little too thick this time, but nevertheless they turned out very good for a first run. I'm planning to use a little more water with the next batch to thin out the batter and make it easier to pour into a nice thin wrap.
 
 ## Wednesday
+
+### Brioche Loaf
+
+![brioche loaf](/food/foodventures/images/brioche-loaf.jpg){:width="30%"}{: .image-left}
+
+Even though I made this brioche loaf [last week](/food/foodventures/what-i-ate-jun-24-30/#brioche-dinner-rolls) (recognize the flax seeds?), I'm only slicing into it now! Disappointing, the crumb is too soft and flaky to work as sandwich bread, although I managed to messily spread some Laughing Cow cheese onto it.
 
 ### Bacon Cheeseburger Casserole
 
