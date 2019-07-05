@@ -91,9 +91,11 @@ I had to use up the rest of the ground beef I bought to make the [Crunchwraps on
 
 ### Beef Stroganoff
 
-![beef stroganoff](/food/foodventures/images/beef-stroganoff.jpg){:width="30%"}{: .image-left}
+![beef stroganoff](/food/foodventures/images/beef-stroganoff.jpg){:width="40%"}{: .image-left}
 
-I thought this [Instant Pot beef stroganoff recipe](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742) I made for Kevin's lunch today was awesome, but only got a lackluster response from Kevin
+I made Kevin this [Instant Pot beef stroganoff](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742) for lunch today (using potatoes in place of mushrooms). I tasted some of the noodles as I was putting it into his bowl because it just smelled so irresistible, and I'm seriously so impressed! Frankly, if there weren't meat chunks mixed in, I definitely would've eaten more, but it only got a lackluster response from Kevin.
+
+He says that he's just not big on creamy stuff, and that this same recipe would taste better with tomatoes. He had the same comments about the bacon cheeseburger casserole yesterday—he would've been much happier with a lasagna instead. I'm the total opposite. I don't like tomatoes very much and much prefer rich, creamy flavours to sharp, acidic ones. Maybe I've been focusing too much on what I think *I* would like to eat when I'm making his meals, rather than what *he* wants, if that makes sense. From now on, I'll be focusing on making more tomato dishes!
 
 ## Friday
 
