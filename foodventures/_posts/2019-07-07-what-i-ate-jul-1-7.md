@@ -51,15 +51,15 @@ Although Kevin liked these fries better than the smashed potatoes, he would stil
 1. another machine to take up space in the kitchen
 1. to deal with cleaning something so greasy
 1. the risk of oil splatters and burns
-1. having to buy so much oil
+1. to have to buy so much oil
 
-We also thought about getting an air fryer instead, but I'm afraid it won't taste the same to Kevin, who's particular about his fried foods. My other question is, why use a deep fryer when it looks like a saucepan can achieve the same thing? I just don't know if it's the worth the investment, guys. Do any of you own a deep fryer? Please comment with your experiences if you do!
+We also thought about getting an air fryer instead, but I'm afraid it won't taste the same to Kevin, who's particular about his fried foods. My other question is, why use a deep fryer when it looks like a saucepan can achieve the same thing? I just don't know if it's the worth the investment, guys. Do you own a deep fryer? Please comment with your experiences if you do!
 
 ### Mock Taco Bell Crunchwrap Supremes
 
 ![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
 
-Neither Kevin nor I have ever eaten at Taco Bell, but we both have heard so much about their legendary Crunchwrap Supremes. There has to be a hundred different DIY Crunchwrap Supreme recipes out there, and
+Neither Kevin nor I have ever eaten at Taco Bell, but we both have heard so much about their legendary Crunchwrap Supremes. There has to be a hundred different DIY Crunchwrap Supreme recipes out there, and today I finally decided to test one out to see if it really is as good as every American hypes it up to be.
 
 ## Wednesday
 
