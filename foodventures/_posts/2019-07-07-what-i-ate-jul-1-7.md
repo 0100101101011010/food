@@ -59,7 +59,11 @@ We also thought about getting an air fryer instead, but I'm afraid it won't tast
 
 ![first attempt at mock crunchwrap supremes](/food/foodventures/images/mock-crunchwrap-supremes.jpg){:width="50%"}{: .image-right}
 
-Neither Kevin nor I have ever eaten at Taco Bell, but we both have heard so much about their legendary Crunchwrap Supremes. There has to be a hundred different DIY Crunchwrap Supreme recipes out there, and today I finally decided to test one out to see if it really is as good as every American hypes it up to be.
+Neither Kevin nor I have ever eaten at Taco Bell, but we both have heard so much about their legendary Crunchwrap Supremes. There has to be a hundred different DIY Crunchwrap Supreme recipes out there, and today I finally decided to test one of [these recipes](https://cookingwithjanica.com/homemade-crunchwrap-supreme-recipe/) out to see if it really is as good as every American hypes it up to be.
+
+Short answer: yes
+
+Long answer: Although these bear only a passing resemblance to Crunchwrap Supremes (I was missing lettuce and tostadas, minimizing the "crunchiness" factor, so really these should just be called Wrap Supremes), Kevin still enjoyed them.
 
 ## Wednesday
 
