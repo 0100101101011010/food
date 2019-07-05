@@ -99,7 +99,7 @@ He says that he's just not big on creamy stuff, and that this same recipe would 
 
 ## Friday
 
-### Butter Chicken
+### Pizza
 
 ## Saturday
 
