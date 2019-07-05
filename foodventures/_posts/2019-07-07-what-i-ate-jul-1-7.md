@@ -13,7 +13,7 @@ keywords:
  - stand mixer
  - kenwood mixer
  - kenwood a701a
-excerpt: "Happy Canada Day! ♡"
+excerpt: "Happy Canada Day! ♡ We did most of our celebrating on Sunday, so this week is back to normal for us."
 img: /food/foodventures/images/jul-7-2019.jpg
 comments: "0"
 published: false
