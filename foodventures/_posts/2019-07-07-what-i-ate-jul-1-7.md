@@ -99,9 +99,9 @@ He says that he's just not big on creamy stuff, and that this same recipe would 
 
 ## Friday
 
-### Pizza
+### Spam and Sausage Pizza, Take 2
 
-This pizza features the same toppings as the [Monday pizza](#spam-and-sausage-pizza), but on the trusty NYT pizza dough instead
+This pizza features the same toppings as the [Monday pizza](#spam-and-sausage-pizza), but were made on the trusty all-white NYT pizza dough instead of the whole wheat dough.
 
 ## Saturday
 
