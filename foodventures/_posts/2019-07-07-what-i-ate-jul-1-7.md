@@ -10,9 +10,6 @@ keywords:
  - waterloo restaurants
  - food in waterloo
  - homemade bread
- - stand mixer
- - kenwood mixer
- - kenwood a701a
 excerpt: "Happy Canada Day ♡ We did most of our celebrating on Sunday, so this week is back to normal for us. We reached a new achievement this week: 0 instances of eating out!"
 img: /food/foodventures/images/jul-7-2019.jpg
 comments: "0"
@@ -101,9 +98,17 @@ He says that he's just not big on creamy stuff, and that this same recipe would 
 
 ## Friday
 
-### Spam and Sausage Pizza, Take 2
+### Triple Meat Pizza, Take 2
 
-This pizza features the same toppings as the [Monday pizza](#spam-and-sausage-pizza), but were made on the trusty all-white NYT pizza dough instead of the whole wheat dough.
+![triple meat pizza with bacon, salami and cheese sausage](/food/foodventures/images/triple-meat-pizza-2.jpg){:width="40%"}{: .image-left}
+
+This pizza features the same toppings as the [Monday pizza](#spam-and-sausage-pizza) plus some salami, but were made on the trusty all-white NYT pizza dough instead of the whole wheat dough. The ball of dough I used was slightly too big for one pizza, so I split it into two smaller balls. Unfortunately, this means each ball is very, very thin-crust.
+
+For some reason, my pizza cutter barely made a dent in this one. I thought a thin-crust pizza would be easier to slice, but maybe the lack of a soft center layer makes the entire thing more tough to cut through. This made the slices a little uneven and messy, but Kevin enjoyed it even though he prefers a thicker crust!
+
+### Older oranges taste better
+
+This is an [insight on my personal tastes](/food/til): Oranges (or clementines? I never remember the difference) taste best when they've been left on the counter for a while for the inside to dry slightly. I snacked on an orange today, the first one I've eaten in over a month. I bought a bag of oranges in mid-May, and only opened the bag now after I started worrying they would go bad. Although the skin had softened up a tiny bit, they were still perfectly fine to eat. I noticed while cutting into one that the flesh was quite dry, with each orange piece looking a bit shriveled, and the juice didn't go spraying everywhere for once! They were also much sweeter. Overall, not only are older oranges less messy to peel and eat, they also taste a lot better. :-)
 
 ## Saturday
 
