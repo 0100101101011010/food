@@ -101,6 +101,8 @@ He says that he's just not big on creamy stuff, and that this same recipe would 
 
 ### Pizza
 
+This pizza features the same toppings as the [Monday pizza](#spam-and-sausage-pizza), but on the trusty NYT pizza dough instead
+
 ## Saturday
 
 ## Sunday
