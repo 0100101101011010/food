@@ -83,7 +83,17 @@ Who would've thought it would be so hard to make a loaf of plain white grocery s
 
 ### Bacon Cheeseburger Casserole
 
-According to the [meal plan schedule](/food/menu)
+![bacon cheeseburger casserole](/food/foodventures/images/bacon-cheeseburger-casserole-1.jpg){:width="30%"}{: .image-left}
+
+I had to use up the rest of the ground beef I bought to make the [Crunchwraps on Tuesday](#mock-taco-bell-crunchwrap-supremes), so I settled on this recipe
+
+## Thursday
+
+### Beef Stroganoff
+
+![beef stroganoff](/food/foodventures/images/beef-stroganoff.jpg){:width="30%"}{: .image-left}
+
+I thought this [Instant Pot beef stroganoff recipe](https://www.wellplated.com/instant-pot-beef-stroganoff/#wprm-recipe-container-32742) I made for Kevin's lunch today was awesome, but only got a lackluster response from Kevin
 
 ## Friday
 
