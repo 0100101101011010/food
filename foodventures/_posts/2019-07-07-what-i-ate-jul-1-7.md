@@ -63,7 +63,11 @@ Neither Kevin nor I have ever eaten at Taco Bell, but we both have heard so much
 
 Short answer: yes
 
-Long answer: Although these bear only a passing resemblance to Crunchwrap Supremes (I was missing lettuce and tostadas, minimizing the "crunchiness" factor, so really these should just be called Wrap Supremes), Kevin still enjoyed them.
+Long answer: Although these bear only a passing resemblance to Crunchwrap Supremes (I was missing lettuce and tostadas, minimizing the "crunchiness" factor, so really these should just be called Wrap Supremes), Kevin still enjoyed them. Making these was kind of an adventure. First, I decided I wanted to use this opportunity to try these [1-ingredient lentil tortillas](https://powerhungry.com/2018/05/1-ingredient-red-lentil-tortillas-grain-free-vegan/) that I've had my eye on for some time. Second, I didn't realize this recipe required nacho cheese until I was halfway through cooking the beef. [Budget Bytes' 5-minute nacho cheese sauce](https://www.budgetbytes.com/5-minute-nacho-cheese-sauce/) really saved my ass here because I managed to whip it up just in time before the beef and tortillas got cold. I also used a home-mixed [taco seasoning](https://www.allrecipes.com/recipe/46653/taco-seasoning-i/). So basically, I made three separate recipes this evening and it all came together to make three measly Crunchwraps.
+
+They are really filling, though: Kevin ate two tonight and will eat the other one for lunch tomorrow. The only suggestions he offered were, of course, to add lettuce and tostadas because it was missing something crispy. I'm also planning to bake instead of pan-fry them next time, to make the outside tortilla a little crunchy as well. Maybe I didn't use a low enough heat setting, but cooking them on the skillet caused some parts to almost burn while other parts still remained soft.
+
+Those lentil tortillas have pleasantly surprised me. They were very easy to make with my Blendtec, and are every bit as pliable as a wheat flour tortilla. I made them a little too thick this time, but nevertheless they turned out very good for a first run. I'm planning to use a little more water with the next batch to thin out the batter and make it easier to pour into a nice thin wrap.
 
 ## Wednesday
 
