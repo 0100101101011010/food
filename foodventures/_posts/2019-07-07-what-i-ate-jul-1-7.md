@@ -87,7 +87,7 @@ Who would've thought it would be so hard to make a loaf of plain white grocery s
 
 I had to use up the rest of the ground beef I bought to make [Crunchwraps on Tuesday](#mock-taco-bell-crunchwrap-supremes), so I settled on this recipe. It's a perfect recipe to use up ingredients because it also happened to get rid of some of the excess food in my fridge—namely, an onion, some sour cream, and a bunch of cheese.
 
-Instead of six servings, I sliced it into four large ones—which, yeah, is a lot of food at over 700 cal per slice—but since Kevin had only eaten a leftover Crunchwrap earlier in the day, I thought that the bigger serving size would be better.
+Instead of six servings, I sliced it into four large ones—which, yeah, is a lot of food at over 700 cal per slice—but since Kevin had only eaten a leftover Crunchwrap earlier in the day, I thought that the bigger serving size would be better. The first thing he said after taking just one bit was that it could taste a lot better with some rice mixed in. I've never considered that, but it could work! Besides, this recipe is a keto one, so it's definitely lacking in some substantial carbs that he was probably craving. I don't know if I'll be making this again, since it's not exactly a healthy meal, but I'll serve the leftovers with some rice for the next few days.
 
 ## Thursday
 
