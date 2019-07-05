@@ -5,7 +5,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [100 calories]
-excerpt: "Pyrohy (better known as pierogis) are traditional Eastern European dumplings. This basic recipe is inspired by the Ukrainian Canadians of Alberta. You can build on it and customize to suit your taste."
+excerpt: "Pyrohy (better known as pierogis) are traditional Eastern European dumplings. This basic recipe is inspired by the early Ukrainian settlers of Canada's prairie provinces. You can build on it and customize to suit your taste."
 img: /food/recipe/images/sandwich-bread-cover.jpg
 
 comments: "6"
