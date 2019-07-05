@@ -30,9 +30,11 @@ discussion_id: 2019-07-07
 
 ### Spam and Sausage Pizza
 
-I made another pizza using another ball of the same dough from [two weeks ago](/food/foodventures/what-i-ate-jun-10-16/#triple-meat-pizza), the one Kevin said was his favourite to date. I put roughly the same toppings on this one: spam, cheese sausage, and mozzarella. To my surprise, he hated this pizza. The crust was the problem, he said it "tasted weird." After watching him struggling through a few slices I told him just to scrape the toppings off and leave the crust. No idea what changed between this one and the last. I had a little bit of the crust, and both of them taste the same to me.
+I made another pizza using another ball of the same dough from [two weeks ago](/food/foodventures/what-i-ate-jun-10-16/#triple-meat-pizza), the one Kevin said was his favourite to date. I put roughly the same toppings on this one: spam, cheese sausage, and mozzarella. To my surprise, he hated this pizza. The crust was the problem; he said it "tasted weird." After watching him struggle through a few slices, I told him just to scrape the toppings off and leave the crust. No idea what changed between this one and the last. I had a little bit of the crust, and both of them taste the same to me.
 
-At least this is in line with his character. Remember when I said I was really surprised when he said he liked this last time because he ordinarily hates anything whole wheat? I guess we're back to the regular Kevin we know and ~~hate~~ love.
+The only difference was this crust was still too soft in the middle the first time I took it out of the oven (I forgot to account for the fact that I was baking this from the fridge whereas the other one was already at room temp). But even after baking for an extra ten minutes to stiffen it up, it was still no good. According to the bf, it was the taste of the dough, not the texture, that was most off-putting. It's frustrating, to be honest, especially because I have like five more balls of this dough in the freezer.
+
+At least this is in line with his character. Remember when I said I was really surprised when he said he liked this last time because he ordinarily hates anything whole wheat? I guess last time was either a fluke or a whole wheat-tolerant demon briefly took possession of his human form, but now we're back to the regular Kevin we know and ~~hate~~ love.
 
 ## Tuesday
 
