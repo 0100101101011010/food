@@ -1,11 +1,11 @@
 ---
 layout: recipe
-title: "Vatrushkas (Russian creamy pastry)"
+title: "Potato Pyrohy (Ukrainian Dumplings)"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [100 calories]
-excerpt: "These delicious Eastern European pastries have a rich, custardy middle and a fragrant bread crust."
+excerpt: "Pyrohy (better known as pierogis) are traditional Ukrainian dumplings stuffed with an endless variety of sweet and savoury fillings. This basic recipe is vegan and made with potatoes. You can customize it to whatever flavours you like."
 img: /food/recipe/images/sandwich-bread-cover.jpg
 
 comments: "6"
@@ -17,6 +17,7 @@ keywords:
  - ethnic pastries
  - breadmaking
  - russian recipes
+ - ukrainian recipes
 
 cooktime: "PT4H30M"
 preptime: "PT30M"
@@ -26,9 +27,9 @@ cost: "0.11"
 calories: "112 calories"
 servings: "12"
 
-cookingmethod: "baking"
-recipecategory: "breakfast"
-cuisine: "Russian"
+cookingmethod: "steaming"
+recipecategory: "dinner"
+cuisine: "Ukrainian"
 
 rating: "4"
 reviews: "3"
