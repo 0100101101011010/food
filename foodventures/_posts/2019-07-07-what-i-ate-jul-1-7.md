@@ -75,7 +75,11 @@ Those lentil tortillas have pleasantly surprised me. They were very easy to make
 
 ![brioche loaf](/food/foodventures/images/brioche-loaf.jpg){:width="30%"}{: .image-left}
 
-Even though I made this brioche loaf [last week](/food/foodventures/what-i-ate-jun-24-30/#brioche-dinner-rolls) (recognize the flax seeds?), I'm only slicing into it now! Disappointing, the crumb is too soft and flaky to work as sandwich bread, although I managed to messily spread some Laughing Cow cheese onto it.
+Even though I made this brioche loaf [last week](/food/foodventures/what-i-ate-jun-24-30/#brioche-dinner-rolls) (recognize the flax seeds?), I'm only slicing into it now!
+
+Disappointing, the crumb is too soft and flaky to work as sandwich bread, although I managed to messily spread some Laughing Cow cheese onto it. (I don't even know why I bought a package of Laughing Cow cheese in the first place, because I hardly ever eat it now. I've had it for months and it's almost reached its expiry date, so I'm just trying to get rid of it. I saw it mentioned on [/r/1200isplenty](https://www.reddit.com/r/1200isplenty/comments/af7zy2/i_was_really_craving_a_danish_and_toast_with/) that it goes well with honey on some toast, so that's exactly what I did here.)
+
+Who would've thought it would be so hard to make a loaf of plain white grocery store style sandwich bread?
 
 ### Bacon Cheeseburger Casserole
 
