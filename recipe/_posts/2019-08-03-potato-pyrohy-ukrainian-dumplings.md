@@ -5,7 +5,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [100 calories]
-excerpt: "Pyrohy (better known as pierogis) are traditional Ukrainian dumplings stuffed with an endless variety of sweet and savoury fillings. This basic recipe is vegan and made with potatoes. You can customize it to whatever flavours you like."
+excerpt: "Pyrohy (better known as pierogis) are traditional Ukrainian dumplings stuffed with an endless variety of sweet and savoury fillings. This basic recipe is vegan and made with potatoes. You can build on it and customize to suit your taste."
 img: /food/recipe/images/sandwich-bread-cover.jpg
 
 comments: "6"
