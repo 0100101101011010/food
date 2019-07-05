@@ -65,3 +65,5 @@ discussion_id: 2019-07-02
 Recipe adapted from https://food52.com/recipes/4174-baba-s-pyrohy and https://www.youtube.com/watch?v=FNhXf83Mgqo
 
 Surprisingly, I have a lot to say about pyrohy!
+
+I started thinking about pyrohy again back in early July, when I was doing readings for my Business Law class. I came across *Sara’s Pyrohy Hut v Brooker* (1993), a lawsuit in which Sara's restaurant sued a radio station over a negative review!
