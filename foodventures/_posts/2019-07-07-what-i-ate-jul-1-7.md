@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Ate: Jul 1–7"
+title: "What I Ate This Week: Jul 1–7"
 author: Kelly Zhang
 permalink: :categories/:title/
 categories: foodventures
@@ -28,7 +28,11 @@ discussion_id: 2019-07-07
 
 ## Monday
 
-###
+### Spam and Sausage Pizza
+
+I made another pizza using another ball of the same dough from [two weeks ago](/food/foodventures/what-i-ate-jun-10-16/#triple-meat-pizza), the one Kevin said was his favourite to date. I put roughly the same toppings on this one: spam, cheese sausage, and mozzarella. To my surprise, he hated this pizza. The crust was the problem, he said it "tasted weird." After watching him struggling through a few slices I told him just to scrape the toppings off and leave the crust. No idea what changed between this one and the last. I had a little bit of the crust, and both of them taste the same to me.
+
+At least this is in line with his character. Remember when I said I was really surprised when he said he liked this last time because he ordinarily hates anything whole wheat? I guess we're back to the regular Kevin we know and ~~hate~~ love.
 
 ## Tuesday
 
