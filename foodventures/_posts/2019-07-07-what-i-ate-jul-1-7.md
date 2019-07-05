@@ -83,9 +83,11 @@ Who would've thought it would be so hard to make a loaf of plain white grocery s
 
 ### Bacon Cheeseburger Casserole
 
-![bacon cheeseburger casserole](/food/foodventures/images/bacon-cheeseburger-casserole-1.jpg){:width="30%"}{: .image-left}
+![bacon cheeseburger casserole](/food/foodventures/images/bacon-cheeseburger-casserole-1.jpg){:width="30%"}{: .image-left} ![bacon cheeseburger casserole](/food/foodventures/images/bacon-cheeseburger-casserole-2.jpg){:width="30%"}{: .image-left}
 
-I had to use up the rest of the ground beef I bought to make the [Crunchwraps on Tuesday](#mock-taco-bell-crunchwrap-supremes), so I settled on this recipe
+I had to use up the rest of the ground beef I bought to make [Crunchwraps on Tuesday](#mock-taco-bell-crunchwrap-supremes), so I settled on this recipe. It's a perfect recipe to use up ingredients because it also happened to get rid of some of the excess food in my fridge—namely, an onion, some sour cream, and a bunch of cheese.
+
+Instead of six servings, I sliced it into four large ones—which, yeah, is a lot of food at over 700 cal per slice—but since Kevin had only eaten a leftover Crunchwrap earlier in the day, I thought that the bigger serving size would be better.
 
 ## Thursday
 
