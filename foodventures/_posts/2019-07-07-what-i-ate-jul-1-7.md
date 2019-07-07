@@ -114,6 +114,8 @@ This is an [insight on my personal tastes](/food/til): Oranges (or clementines? 
 
 ### Vegetarian Sinigang
 
+![vegetarian sinigang](/food/foodventures/images/vegetarian-sinigang.jpg){:width="40%"}{: .image-right}
+
 Sinigang is a Filipino soup that's soured with tamarind.
 
 ## Sunday
