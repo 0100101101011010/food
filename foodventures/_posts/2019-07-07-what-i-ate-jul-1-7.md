@@ -112,4 +112,8 @@ This is an [insight on my personal tastes](/food/til): Oranges (or clementines? 
 
 ## Saturday
 
+### Vegetarian Sinigang
+
+Sinigang is a Filipino soup that's soured with tamarind.
+
 ## Sunday

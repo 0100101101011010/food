@@ -14,3 +14,5 @@ Easy, Fast Low-Calorie Snacks
 * Grass jelly, unsweetened
 * Rice cakes
 * Cottage cheese and applesauce
+* Shiritaki cake or shiritaki noodles
+* Water with stevia sweetener
