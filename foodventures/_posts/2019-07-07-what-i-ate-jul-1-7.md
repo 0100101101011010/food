@@ -118,4 +118,10 @@ This is an [insight on my personal tastes](/food/til): Oranges (or clementines? 
 
 Sinigang is a Filipino soup that's soured with tamarind.
 
+### Baked Teriyaki Tofu
+
+![baked teriyaki tofu](/food/foodventures/images/baked-teriyaki-tofu.jpg){:width="40%"}{: .image-left}
+
+I sliced them into quarter-inch pieces and covered both sides in a thin layer of store-bought teriyaki sauce. In retrospect, I should've made thicker slices because . 1/2 inch is probably the ideal size.
+
 ## Sunday
