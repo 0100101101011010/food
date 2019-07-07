@@ -120,10 +120,14 @@ Sinigang is a Filipino soup that's soured with tamarind.
 
 ### Baked Teriyaki Tofu
 
+My mind is BLOWN! Even though I am the world's #1 tofu lover, I'm quite inexperienced with marinating and baking tofu. Since tofu tastes so good to me even on its own, I haven't really bothered getting fancy in it. Usually, the most I do would be to fry it with a little cornstarch and soy sauce, but most of the time I just use whole, unseasoned cubes. Or even eat it raw.
+
 ![baked teriyaki tofu](/food/foodventures/images/baked-teriyaki-tofu.jpg){:width="60%"}{: .image-left}
 
-My mind is BLOWN! Even though I am the world's #1 tofu lover, I'm quite inexperienced with marinating and baking tofu. Since tofu tastes so good to me even on its own, I haven't really bothered getting fancy in it. Usually, the most I do would be to fry it with a little cornstarch and soy sauce, but most of the time I just use whole, unseasoned cubes. Or even eat it raw. Today, though, I had a lot of time on my hands, so I tried *pressing* my tofu. I don't think I've ever heard of anyone Chinese doing this, but it's a really popular technique in Western recipes to firm up the tofu a little more, especially for savoury recipes.
+Today, though, I had a lot of time on my hands, so I tried *pressing* my tofu. I don't think I've ever heard of anyone Chinese doing this, but it's a really popular technique in Western recipes to firm up the tofu a little more, especially for savoury recipes. I took a 700 g package of firm tofu from T&T, placed each of the four blocks onto a steaming rack, which was then placed on top of a cutting board, and then I put another cutting board on top plus a bag of oranges. I let the tofu sit there, slowly draining away, for the entire day!
 
-I sliced them into quarter-inch pieces and covered both sides in a thin layer of store-bought teriyaki sauce. In retrospect, I should've made thicker slices because . 1/2 inch is probably the ideal size.
+I was mostly just curious to see how much of a difference pressing tofu actually makes, so I used a super simple recipe to prepare it. I sliced each tofu block into quarter-inch pieces and covered both sides in a thin layer of store-bought teriyaki sauce. I baked it at 400 °F for 30 minutes, then I flipped them, added a bit more sauce to the flipped side, and baked for another 10 minutes.
+
+In retrospect, I should've made thicker slices because . 1/2 inch is probably the ideal size.
 
 ## Sunday
