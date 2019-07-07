@@ -120,7 +120,9 @@ Sinigang is a Filipino soup that's soured with tamarind.
 
 ### Baked Teriyaki Tofu
 
-![baked teriyaki tofu](/food/foodventures/images/baked-teriyaki-tofu.jpg){:width="40%"}{: .image-left}
+![baked teriyaki tofu](/food/foodventures/images/baked-teriyaki-tofu.jpg){:width="60%"}{: .image-left}
+
+My mind is BLOWN! Even though I am the world's #1 tofu lover, I'm quite inexperienced with marinating and baking tofu. Since tofu tastes so good to me even on its own, I haven't really bothered getting fancy in it. Usually, the most I do would be to fry it with a little cornstarch and soy sauce, but most of the time I just use whole, unseasoned cubes. Or even eat it raw. Today, though, I had a lot of time on my hands, so I tried *pressing* my tofu. I don't think I've ever heard of anyone Chinese doing this, but it's a really popular technique in Western recipes to firm up the tofu a little more, especially for savoury recipes.
 
 I sliced them into quarter-inch pieces and covered both sides in a thin layer of store-bought teriyaki sauce. In retrospect, I should've made thicker slices because . 1/2 inch is probably the ideal size.
 
