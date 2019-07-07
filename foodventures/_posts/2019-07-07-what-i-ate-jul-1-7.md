@@ -128,6 +128,6 @@ Today, though, I had a lot of time on my hands, so I tried *pressing* my tofu. I
 
 I was mostly just curious to see how much of a difference pressing tofu actually makes, so I used a super simple recipe to prepare it. I sliced each tofu block into quarter-inch pieces and covered both sides in a thin layer of store-bought teriyaki sauce. I baked it at 400 °F for 30 minutes, then I flipped them, added a bit more sauce to the flipped side, and baked for another 10 minutes.
 
-In retrospect, I should've made thicker slices because . 1/2 inch is probably the ideal size.
+In retrospect, I should've made thicker slices because this tofu was a bit too tough. I like my tofu to still have a little bit of moisture inside, for the perfect crunchy-outside juicy-inside texture. 1/2 inch is probably the ideal size. Also, next time I will bake at 425 °F. I think the lower temperature caused them to dry out without doing as much browning to the outside as I would like. Finally, I would add more teriyaki sauce! The amount I added today was tasty but I bet they would be even more flavourful if they were *slathered* in sauce.
 
 ## Sunday
