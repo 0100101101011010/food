@@ -118,7 +118,11 @@ This is an [insight on my personal tastes](/food/til): Oranges (or clementines? 
 
 Sinigang is a Filipino soup that's soured with tamarind. It's traditionally made with pork, but I followed a [vegetarian variation](https://www.geniuskitchen.com/recipe/vegetarian-sinigang-filipino-tamarind-or-sour-soup-313263).
 
-I bought a box of tamarinds last term when I thought they would be needed for curry, but turns out I had made a mistake and the recipe in question called for tamarind *paste.* I've been keeping an eye out for tamarind recipes ever since, but it's been difficult since it's a pretty rare ingredient. When I saw this recipe for sinigang, I had to make it! Without the meat, it becomes a very, very light dish. There's almost no fat in it, as it's all vegetables, tofu and stock. I don't know what it is about chopping up a cutting board full of veggies and dumping them into a soup, but it's just so satisfying.
+I bought a box of tamarinds last term when I thought they would be needed for curry, but turns out I had made a mistake and the recipe in question called for tamarind *paste.* I've been keeping an eye out for fresh tamarind recipes ever since, but it's been difficult since it's a pretty rare ingredient. When I saw this recipe for sinigang, I had to make it! Without the meat, it becomes a very, very light dish. There's almost no fat in it, as it's all vegetables, tofu and water. I don't know what it is about chopping up a cutting board full of veggies and dumping them into a soup, but it's just so satisfying.
+
+I used my Instant Pot for it, as I have to for every soup, because I don't have a big stock pot. I put the potatoes in first with half of the water and let them cook under high pressure for 0 minutes, and let naturally release. Then I added the rest of the ingredients and water, and cooked for 4 minutes under low pressure, then let naturally release. I think this was a bit too long, because the veggies were very soft when I opened the pot. Not falling apart, but getting there.
+
+This soup is ok. I guess it's about as much as you can expect from a recipe with no spices other than black pepper and tamarind. The tamarind didn't add a discernable flavour, even though I added three pods instead of the two called for in the recipe. I much prefer eating the tamarinds on their own.
 
 ### Baked Teriyaki Tofu
 
