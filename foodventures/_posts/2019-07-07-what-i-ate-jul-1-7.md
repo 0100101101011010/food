@@ -116,7 +116,9 @@ This is an [insight on my personal tastes](/food/til): Oranges (or clementines? 
 
 ![vegetarian sinigang](/food/foodventures/images/vegetarian-sinigang.jpg){:width="40%"}{: .image-right}
 
-Sinigang is a Filipino soup that's soured with tamarind.
+Sinigang is a Filipino soup that's soured with tamarind. It's traditionally made with pork, but I followed a [vegetarian variation](https://www.geniuskitchen.com/recipe/vegetarian-sinigang-filipino-tamarind-or-sour-soup-313263).
+
+I bought a box of tamarinds last term when I thought they would be needed for curry, but turns out I had made a mistake and the recipe in question called for tamarind *paste.* I've been keeping an eye out for tamarind recipes ever since, but it's been difficult since it's a pretty rare ingredient. When I saw this recipe for sinigang, I had to make it! Without the meat, it becomes a very, very light dish. There's almost no fat in it, as it's all vegetables, tofu and stock. I don't know what it is about chopping up a cutting board full of veggies and dumping them into a soup, but it's just so satisfying.
 
 ### Baked Teriyaki Tofu
 
