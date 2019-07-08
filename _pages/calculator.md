@@ -227,7 +227,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 |  | Soy Milk |
 |--|----------------------------------------|
-| <sup>Amount of soybeans:</sup> | <input id="inputSoyMilkCalc" type="number" placeholder="eggs" oninput="SoyMilkCalc(this.value)" onchange="SoyMilkCalc(this.value)"> |
+| <sup>Amount of soybeans:</sup> | <input id="inputSoyMilkCalc" type="number" placeholder="grams" oninput="SoyMilkCalc(this.value)" onchange="SoyMilkCalc(this.value)"> |
 | Water + Soybeans Total Mass: | <span id="outputSoyMilk"></span> |
 | Cook Setting: | Pressure cook on HIGH |
 | Cook Time: | 5 minutes |
@@ -236,7 +236,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 <script>
 function SoyMilkCalc(valNum) {
-  document.getElementById("outputSoyMilk").innerHTML = Math.round(valNum * 10) + " mL";
+  document.getElementById("outputSoyMilk").innerHTML = Math.round(valNum * 11) + " mL";
 }
 </script>
 
