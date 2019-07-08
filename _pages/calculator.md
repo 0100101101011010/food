@@ -223,10 +223,12 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 ### Soy Milk
 
+\* The amount of water is
+
 |  | Soy Milk |
 |--|----------------------------------------|
 | <sup>Amount of soybeans:</sup> | <input id="inputSoyMilkCalc" type="number" placeholder="eggs" oninput="SoyMilkCalc(this.value)" onchange="SoyMilkCalc(this.value)"> |
-| Water: | <span id="outputSoyMilk"></span> |
+| Water + Soybeans Total Mass: | <span id="outputSoyMilk"></span> |
 | Cook Setting: | Pressure cook on HIGH |
 | Cook Time: | 5 minutes |
 | Natural Pressure Release: | 25 min |
@@ -238,7 +240,7 @@ function SoyMilkCalc(valNum) {
 }
 </script>
 
-Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-kathy-egg-loaf/)
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-soy-milk/)
 
 ### Steel Cut Oats
 
