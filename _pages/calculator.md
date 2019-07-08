@@ -236,7 +236,7 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 <script>
 function SoyMilkCalc(valNum) {
-  document.getElementById("outputSoyMilk").innerHTML = Math.round(valNum * 8) + " mL";
+  document.getElementById("outputSoyMilk").innerHTML = Math.round(valNum * 10) + " mL";
 }
 </script>
 
