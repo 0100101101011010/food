@@ -223,20 +223,20 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 ### Soy Milk
 
-\* The amount of water is
+\* The amount of water can be varied a lot. Use less water for a more concentrated soy milk (good for baking)
 
-|  | Soy Milk |
-|--|----------------------------------------|
-| <sup>Amount of soybeans:</sup> | <input id="inputSoyMilkCalc" type="number" placeholder="grams" oninput="SoyMilkCalc(this.value)" onchange="SoyMilkCalc(this.value)"> |
-| Water + Soybeans Total Mass: | <span id="outputSoyMilk"></span> |
-| Cook Setting: | Pressure cook on HIGH |
-| Cook Time: | 5 minutes |
-| Natural Pressure Release: | 25 min |
+| <sup>Amount of soybeans:</sup> <input id="inputSoyMilkCalc" type="number" placeholder="grams" oninput="SoyMilkCalc(this.value)" onchange="SoyMilkCalc(this.value)"> | Thin (for drinking) | Concentrated (for cooking) |
+|--|----------------------|-----------------------|----------------------|
+| Water: | <span id="outputSoyMilkThin"></span> | <span id="outputSoyMilkThick"></span> |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | 5 minutes | 5 minutes |
+| Natural Pressure Release: | 25 minutes | 25 minutes |
 {: .table .table-striped .table-hover}
 
 <script>
 function SoyMilkCalc(valNum) {
-  document.getElementById("outputSoyMilk").innerHTML = Math.round(valNum * 11) + " mL";
+  document.getElementById("outputSoyMilkThin").innerHTML = Math.round(valNum * 11) + " mL";
+  document.getElementById("outputSoyMilkThick").innerHTML = Math.round(valNum * 7) + " mL";
 }
 </script>
 
