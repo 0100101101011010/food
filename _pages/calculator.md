@@ -221,6 +221,25 @@ function EggLoafCalc(valNum) {
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-kathy-egg-loaf/)
 
+### Soy Milk
+
+|  | Soy Milk |
+|--|----------------------------------------|
+| <sup>Amount of soybeans:</sup> | <input id="inputSoyMilkCalc" type="number" placeholder="eggs" oninput="SoyMilkCalc(this.value)" onchange="SoyMilkCalc(this.value)"> |
+| Water: | <span id="outputSoyMilk"></span> |
+| Cook Setting: | Pressure cook on HIGH |
+| Cook Time: | 5 minutes |
+| Natural Pressure Release: | 25 min |
+{: .table .table-striped .table-hover}
+
+<script>
+function SoyMilkCalc(valNum) {
+  document.getElementById("outputSoyMilk").innerHTML = Math.round(valNum * 7.5) + " mL";
+}
+</script>
+
+Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-kathy-egg-loaf/)
+
 ### Steel Cut Oats
 
 \* You can pour in the oats and water the night before and set a delay timer; the overnight soaking won't affect the texture of the oats very much, but you can reduce the cook time by 1 minute if you want.
