@@ -152,7 +152,7 @@ I won't waste words, since I already outlined [making cheesecake in the Instant 
 
 Although I followed the recipe more closely this time (I bought sour cream specifically for this cake), it turned out to be very soft—almost melty in texture. I personally like this more creamy version, but Kevin preferred the denser cake from last time. I think it was because this time I took care not to mix a second longer than necessary, whereas last time I took the "better safe than sorry route" and mixed longer at each step just to make sure all the ingredients were incorporated. According to the recipe page, the difference between a creamy cheesecake and a firmer one is the mixing time.
 
-### Burger Buns
+### Hamburger Buns
 
 ![hamburger buns](/food/foodventures/images/hamburger-buns-1.jpg){:width="60%"}{: .image-left}
 
