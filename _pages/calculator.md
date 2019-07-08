@@ -223,11 +223,11 @@ Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/insta
 
 ### Soy Milk
 
-\* The amount of water can be varied a lot. Use less water for a more concentrated soy milk (good for baking)
+\* The "amount of soybeans" (input) uses dried, unsoaked, unrinsed beans. The "total mass of soybeans + water" (output) indicates the weight of the soybeans *after* soaking, in addition to the water you should add. Place the inner pot on the scale, tare the scale, add all the soybeans, then pour in water until it reaches the number indicated in the table.
 
 | <sup>Amount of soybeans:</sup> <input id="inputSoyMilkCalc" type="number" placeholder="grams" oninput="SoyMilkCalc(this.value)" onchange="SoyMilkCalc(this.value)"> | Thin (for drinking) | Concentrated (for cooking) |
 |--|----------------------|-----------------------|----------------------|
-| Water: | <span id="outputSoyMilkThin"></span> | <span id="outputSoyMilkThick"></span> |
+| Total mass of soybeans + water: | <span id="outputSoyMilkThin"></span> | <span id="outputSoyMilkThick"></span> |
 | Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH |
 | Cook Time: | 5 minutes | 5 minutes |
 | Natural Pressure Release: | 25 minutes | 25 minutes |
