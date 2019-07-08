@@ -139,3 +139,13 @@ I was mostly just curious to see how much of a difference pressing tofu actually
 In retrospect, I should've made thicker slices because this tofu was a bit too tough. I like my tofu to still have a little bit of moisture inside, for the perfect crunchy-outside juicy-inside texture. 1/2 inch is probably the ideal size. Also, next time I will bake at 425 °F. I think the lower temperature caused them to dry out without doing as much browning to the outside as I would like. Finally, I would add more teriyaki sauce! The amount I added today was tasty but I bet they would be even more flavourful if they were *slathered* in sauce.
 
 ## Sunday
+
+Last night, I started making soy milk in my Instant Pot *WITHOUT PUTTING IN THE SEALING RING.* It spilled everywhere, and I mean everywhere, even places I didn't think it could go. This morning I took it apart after watching a couple of YouTube videos, cleaned up the mess inside, then pieced it back together. Between that and studying, it was nighttime before I even thought about cooking, so poor Kevin had to suffer through the stroganoff I made [this Thursday](#beef-stroganoff), which he seriously doesn't like. I promised him pulled pork today, but he'll have to wait until tomorrow instead. 😭 However! I did make one last thing before my Instant Pot disaster last night that he was able to enjoy today:
+
+### New York Cheesecake!
+
+![instant pot new york style cheesecake](/food/foodventures/images/instant-pot-cheesecake-4.jpg){:width="30%"}{: .image-left} ![instant pot new york style cheesecake](/food/foodventures/images/instant-pot-cheesecake-5.jpg){:width="30%"}{: .image-left}
+
+I won't waste words, since I already outlined [making cheesecake in the Instant Pot](/food/foodventures/what-i-ate-jun-17-23/#instant-pot-cheesecake) two posts ago.
+
+Although I followed the recipe more closely this time (I bought sour cream specifically for this cake), it turned out to be very soft—almost melty in texture. I personally like this more creamy version, but Kevin preferred the denser cake from last time. I think it was because this time I took care not to mix a second longer than necessary, whereas last time I took the "better safe than sorry route" and mixed longer at each step just to make sure all the ingredients were incorporated. According to the recipe page, the difference between a creamy cheesecake and a firmer one is the mixing time.
