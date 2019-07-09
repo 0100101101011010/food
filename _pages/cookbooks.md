@@ -70,6 +70,8 @@ The "Culinary Arts" chapter containing recipes starts on page 194 (200 in the pd
 
 #### [The Broadlands cookery-book : a comprehensive guide to the principles and practice of food reform](/food/cookbooks/broadlands.pdf)
 
+I have a special place in my heart for this book!! It features a picture of Hermes on the cover! ♡
+
 #### [Recipes for high-class cookery : as used in the Edinburgh School of Cookery](/food/cookbooks/high-class-cookery-1.pdf)
 
 #### [](/food/cookbooks/)
