@@ -42,7 +42,7 @@ The "Culinary Arts" chapter containing recipes starts on page 194 (200 in the pd
 
 #### [High-class cookery made easy](/food/cookbooks/high-class-cookery.pdf)
 
-#### [Katharine Mellish's Cookery and domestic management, including economic & middle class practical cookery](/food/cookbooks/katharine-mellish-2.pdf)
+#### Katharine Mellish's Cookery and domestic management, including economic & middle class practical cookery ([Volume 1](/food/cookbooks/katharine-mellish-1.pdf) and [Volume 2](/food/cookbooks/katharine-mellish-2.pdf))
 
 #### [The King's College Hospital book of cooking recipes : being a collection of recipes contributed by Friends of the Hospital and published in aid of the Fund for the Removal of King's College Hospital to South London](/food/cookbooks/kings-college-hospital.pdf)
 
@@ -64,13 +64,13 @@ The "Culinary Arts" chapter containing recipes starts on page 194 (200 in the pd
 
 #### [Valuable recipes for cooking Duryeas' Improved Corn Starch](/food/cookbooks/duryeas-improved-corn-starch.pdf)
 
-#### [](/food/cookbooks/)
+#### [Breakfast and savoury dishes (Florence B Jack)](/food/cookbooks/breakfast-savoury-florence.pdf)
 
-#### [](/food/cookbooks/)
+#### [Breakfast and savoury dishes (Rose Owen)](/food/cookbooks/breakfast-savoury-roc.pdf)
 
-#### [](/food/cookbooks/)
+#### [The Broadlands cookery-book : a comprehensive guide to the principles and practice of food reform](/food/cookbooks/broadlands.pdf)
 
-#### [](/food/cookbooks/)
+#### [Recipes for high-class cookery : as used in the Edinburgh School of Cookery](/food/cookbooks/high-class-cookery-1.pdf)
 
 #### [](/food/cookbooks/)
 
