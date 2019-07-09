@@ -94,6 +94,12 @@ The cursive writing is extremely hard to read, but this looks like someone's per
 
 #### [](/food/cookbooks/)
 
+### Canadian
+
+#### [Old Québec recipes (Recettes Québecoise)](https://ia902906.us.archive.org/27/items/McGillLibrary-rbsc-cookbook-coll-TX7156O5361966-18655/rbsc-cookbook-coll-TX7156O5361966.pdf)
+
+French and English versions of each recipe.
+
 ### Spanish
 
 #### [Arte de cocina, pasteleria, vizcocheria, y conserveria](/food/cookbooks/arte-de-cocina.pdf)
@@ -104,9 +110,11 @@ The author, Martínez Montiño, was the chief chef for King Philip III of Spain 
 
 ### French
 
-#### The French Cook: a system of fashionable, practical, and economical cookery, adapted to the use of English families ([5th Edition](/food/cookbooks/french-cook-5.pdf) and [8th Edition](https://ia802807.us.archive.org/15/items/b29308719/b29308719.pdf))
-
 #### [The art of French cookery](/food/cookbooks/art-french-cookery.pdf)
+
+#### [Colette's best recipes : a book of French cookery](https://archive.org/details/McGillLibrary-104452-189/page/n8)
+
+#### The French Cook: a system of fashionable, practical, and economical cookery, adapted to the use of English families ([5th Edition](/food/cookbooks/french-cook-5.pdf) and [8th Edition](https://ia802807.us.archive.org/15/items/b29308719/b29308719.pdf))
 
 #### [Easy French cookery : containing over 300 economical and attractive recipes from a celebrated chef's note-book](https://archive.org/details/b21506036/page/n4)
 
