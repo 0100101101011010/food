@@ -26,14 +26,20 @@ All of these books are old as hell, and are therefore in the public domain. They
 
 ### [The Boston cooking-school cook book](/food/cookbooks/boston-cooking-school.pdf)
 
-Source: [Smithsonian Libraries](https://library.si.edu/digital-library/book/bostoncookingsc00farm)
+### [Five thousand receipts in all the useful and domestic arts](/food/cookbooks/five-thousand-receipts.pdf)
+
+The "Culinary Arts" chapter containing recipes starts on page 194 (200 in the pdf).
+
+### [The Godey's Lady's book receipts and household hints](/food/cookbooks/)
 
 ### [Miss Beecher's domestic receipt book](/food/cookbooks/miss-beecher.pdf)
 
 ### [Modern Day Cookery for Private Families](/food/cookbooks/modern-cookery.pdf)
 
-Source: [Archive](https://archive.org/details/moderncookeryin00actogoog)
-
 ### [Mrs Beeton's Cookery Book](/food/cookbooks/mrs-beeton.pdf)
 
-Source: []
+### [Practical cooking and dinner giving](/food/cookbooks/practical-cooking.pdf)
+
+### (/food/cookbooks/)
+
+### (/food/cookbooks/)
