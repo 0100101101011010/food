@@ -156,4 +156,8 @@ Although I followed the recipe more closely this time (I bought sour cream speci
 
 ![hamburger buns](/food/foodventures/images/hamburger-buns-1.jpg){:width="60%"}{: .image-left}
 
-In preparation for the pulled pork that I'll be making soon, I baked a batch of hamburger buns using the famous [King Arthur Flour](https://www.kingarthurflour.com/recipes/beautiful-burger-buns-recipe) recipe. I also threw in some extra *tangzhong* I made last week when I was baking Hokkaido milk breads. This is the first time I'm using it in a recipe that's not milk bread, but I've heard that it can add some fluffiness to every bread recipe. I'm not sure if the *tangzhong* is what made the difference or the original recipe is just that good, but these buns were beautifully soft and fragrant! Lovely chew as well. Can't wait to stuff them with pulled pork tomorrow!
+In preparation for the pulled pork that I'll be making soon, I baked a batch of hamburger buns using the famous [King Arthur Flour](https://www.kingarthurflour.com/recipes/beautiful-burger-buns-recipe) recipe. I also threw in some extra *tangzhong* I made last week when I was baking Hokkaido milk breads. This is the first time I'm using it in a recipe that's not milk bread, but I've heard that it can add some fluffiness to every bread recipe.
+
+The dough was not the easiest to shape, since it was quite sticky, but I found that if you shape it by passing it between your hands really quickly like a hot potato it becomes less sticky and more smooth the more times you throw it back and forth.
+
+I'm not sure if the *tangzhong* is what made the difference or the original recipe is just that good, but these buns were beautifully soft and fragrant! Lovely chew as well. Can't wait to stuff them with pulled pork tomorrow!
