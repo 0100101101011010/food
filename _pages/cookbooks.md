@@ -102,16 +102,38 @@ The author, Martínez Montiño, was the chief chef for King Philip III of Spain 
 
 #### (/food/cookbooks/)
 
-#### (/food/cookbooks/)
+### French
 
-#### (/food/cookbooks/)
+#### The French Cook: a system of fashionable, practical, and economical cookery, adapted to the use of English families ([5th Edition](/food/cookbooks/french-cook-5.pdf) and [8th Edition](https://ia802807.us.archive.org/15/items/b29308719/b29308719.pdf))
 
-#### (/food/cookbooks/)
+#### [The art of French cookery](/food/cookbooks/art-french-cookery.pdf)
 
-#### (/food/cookbooks/)
+#### [Easy French cookery : containing over 300 economical and attractive recipes from a celebrated chef's note-book](https://archive.org/details/b21506036/page/n4)
 
-#### (/food/cookbooks/)
+#### [French cookery: comprising L'art de la cuisine francaise, Le patissier royal, Le cuisinier parisien](/food/cookbooks/french-cookery.pdf)
 
-#### (/food/cookbooks/)
+#### [French cookery adapted for English families](https://archive.org/details/b21505330/page/n4)
 
-#### (/food/cookbooks/)
+#### [French cookery for ladies](https://archive.org/details/b21524671/page/n4)
+
+#### [French Dishes for American Tables](https://archive.org/details/frenchdishesfora45348gut)
+
+#### [French domestic cookery : combining economy with elegance, and adapted to the use of families of moderate fortune](https://ia801306.us.archive.org/32/items/b21531171/b21531171.pdf)
+
+#### [The French family cook : being a complete system of French cookery](/food/cookbooks/french-family-cook.pdf)
+
+#### [French household cooking : with a number of recipes from the best Paris chefs, simple and inexpensive](/food/cookbooks/french-household-cooking.pdf)
+
+#### [The gastronomic regeneration : a simplified and entirely new system of cookery](https://archive.org/details/gastronomicregen00soye/page/n6)
+
+#### [A guide to modern cookery](https://archive.org/details/b21530142/page/n4)
+
+#### [The ideal cookery book](https://archive.org/details/frenchdishesfora45348gut)
+
+#### [Manual of French cookery : dedicated to the housekeepers and cooks of England who wish to study the art / simplified for the benefit of the most unlearned by one who has tested the receipts.](/food/cookbooks/manual-french-cookery.pdf)
+
+#### [The new professed cook : adapted to the famillies of either noblemen, gentlemen, or citizens, containing upwards of seven hundred French and English practical receipts in cookery and one hundred in confectionary, to which is added bottling of fruits and juices, home-made wines, distilling, pickling and preserving, and many other articles of information necessary to be known by every mistress of a family, and servant](https://archive.org/details/b21530865/page/n4)
+
+#### [The royal cookery book (le livre de cuisine)](/food/cookbooks/royal-cookery.pdf)
+
+#### [The royal cookery book (le livre de cuisine) : comprising domestic and high-class cookery](/food/cookbooks/royal-cookery-1.pdf)
