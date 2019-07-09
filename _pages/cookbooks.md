@@ -32,7 +32,7 @@ All of these books are old as hell, and are therefore in the public domain. They
 
 The "Culinary Arts" chapter containing recipes starts on page 194 (200 in the pdf).
 
-#### [The Godey's Lady's book receipts and household hints](/food/cookbooks/the-godeys-ladys.pdf)
+#### [The Godey's Lady's book receipts and household hints](/food/cookbooks/godeys-lady.pdf)
 
 #### [Miss Beecher's domestic receipt book](/food/cookbooks/miss-beecher.pdf)
 
@@ -44,15 +44,55 @@ The "Culinary Arts" chapter containing recipes starts on page 194 (200 in the pd
 
 #### [Practical cooking and dinner giving](/food/cookbooks/practical-cooking.pdf)
 
-#### [Recipes by Bradford Lifeboat Bazaar](/food/cookbooks/bradford-lifeboat-bazaar)
+#### [Recipes by Bradford Lifeboat Bazaar](/food/cookbooks/bradford-lifeboat-bazaar.pdf)
 
 #### [Valuable recipes for cooking Duryeas' Improved Corn Starch](/food/cookbooks/duryeas-improved-corn-starch.pdf)
 
-#### [The Englishwoman's cookery book : being a collection of economical recipes taken from her "Book of household management"](/food/cookbooks/englishwomans-cookery)
+#### [The Englishwoman's cookery book : being a collection of economical recipes taken from her "Book of household management"](/food/cookbooks/englishwomans-cookery.pdf)
 
 #### [High-class cookery made easy](/food/cookbooks/high-class-cookery.pdf)
 
 #### [Domestic and economical cookery recipes : with special hints on gas cooking](/food/cookbooks/domestic-and-economical.pdf)
+
+#### [The King's College Hospital book of cooking recipes : being a collection of recipes contributed by Friends of the Hospital and published in aid of the Fund for the Removal of King's College Hospital to South London](/food/cookbooks/kings-college-hospital.pdf)
+
+#### [The country house : a collection of useful information and recipes : adapted to the country gentleman and his household, and of the greatest utility to the housekeeper generally](/food/cookbooks/country-house.pdf)
+
+#### [Katharine Mellish's Cookery and domestic management, including economic & middle class practical cookery](/food/cookbooks/katharine-mellish-2.pdf)
+
+#### [The Northampton cookery book : favourite recipes tested by well-known ladies](/food/cookbooks/northampton.pdf)
+
+#### [Middle class cookery book](/food/cookbooks/middle-class.pdf)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### [](/food/cookbooks/)
+
+#### (/food/cookbooks/)
 
 #### (/food/cookbooks/)
 
