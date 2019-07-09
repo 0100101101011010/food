@@ -96,6 +96,8 @@ The cursive writing is extremely hard to read, but this looks like someone's per
 
 ### Canadian
 
+#### [The Black Whale cook book : famous old recipes handed down from mother to daughter](https://ia600701.us.archive.org/12/items/McGillLibrary-rbsc_black-whale-cook-book_OCTAVO9893-18717/rbsc_black-whale-cook-book_OCTAVO9893.pdf)
+
 #### [Old Québec recipes (Recettes Québecoise)](https://ia902906.us.archive.org/27/items/McGillLibrary-rbsc-cookbook-coll-TX7156O5361966-18655/rbsc-cookbook-coll-TX7156O5361966.pdf)
 
 French and English versions of each recipe.
