@@ -82,17 +82,23 @@ The "Culinary Arts" chapter containing recipes starts on page 194 (200 in the pd
 
 #### [](/food/cookbooks/)
 
+#### [Domestic economy, and cookery, for rich and poor [electronic resource] : containing an account of the best English, Scotch, French, Oriental, and other foreign dishes ; preparations of broths and milks for consumption ; receipts for sea-faring men, travellers, and children's food ; together with estimates and comparisons of dinners and dishes ; the whole composed with the utmost attention to health, economy, and elegance](/food/cookbooks/domestic-economy.pdf)
+
 #### [](/food/cookbooks/)
+
+#### [Handwritten Recipe Book](/food/cookbooks/handwritten-recipe-book-1.pdf) and [additional volume](handwritten-recipe-book-2)
+
+The cursive writing is extremely hard to read, but this looks like someone's personally recipe collection.
 
 #### [](/food/cookbooks/)
 
 #### [](/food/cookbooks/)
 
-#### [](/food/cookbooks/)
+### Spanish
 
-#### [](/food/cookbooks/)
+#### [Arte de cocina, pasteleria, vizcocheria, y conserveria](/food/cookbooks/arte-de-cocina.pdf)
 
-#### [](/food/cookbooks/)
+The author, Martínez Montiño, was the chief chef for King Philip III of Spain at the time the book was published.
 
 #### (/food/cookbooks/)
 
