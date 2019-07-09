@@ -28,6 +28,14 @@ All of these books are old as hell, and are therefore in the public domain. They
 
 #### [The Boston cooking-school cook book](/food/cookbooks/boston-cooking-school.pdf)
 
+#### [Breakfast and savoury dishes (Florence B Jack)](/food/cookbooks/breakfast-savoury-florence.pdf)
+
+#### [Breakfast and savoury dishes (Rose Owen)](/food/cookbooks/breakfast-savoury-roc.pdf)
+
+#### [The Broadlands cookery-book : a comprehensive guide to the principles and practice of food reform](/food/cookbooks/broadlands.pdf)
+
+I have a special place in my heart for this book!! It features a picture of Hermes on the cover! ♡
+
 #### [The country house : a collection of useful information and recipes : adapted to the country gentleman and his household, and of the greatest utility to the housekeeper generally](/food/cookbooks/country-house.pdf)
 
 #### [Domestic and economical cookery recipes : with special hints on gas cooking](/food/cookbooks/domestic-and-economical.pdf)
@@ -63,14 +71,6 @@ The "Culinary Arts" chapter containing recipes starts on page 194 (200 in the pd
 #### [Recipes by Bradford Lifeboat Bazaar](/food/cookbooks/bradford-lifeboat-bazaar.pdf)
 
 #### [Valuable recipes for cooking Duryeas' Improved Corn Starch](/food/cookbooks/duryeas-improved-corn-starch.pdf)
-
-#### [Breakfast and savoury dishes (Florence B Jack)](/food/cookbooks/breakfast-savoury-florence.pdf)
-
-#### [Breakfast and savoury dishes (Rose Owen)](/food/cookbooks/breakfast-savoury-roc.pdf)
-
-#### [The Broadlands cookery-book : a comprehensive guide to the principles and practice of food reform](/food/cookbooks/broadlands.pdf)
-
-I have a special place in my heart for this book!! It features a picture of Hermes on the cover! ♡
 
 #### [Recipes for high-class cookery : as used in the Edinburgh School of Cookery](/food/cookbooks/high-class-cookery-1.pdf)
 
