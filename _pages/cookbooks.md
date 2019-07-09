@@ -20,11 +20,9 @@ input[type=text], input[type=number], select {
 * Table of Contents
 {:toc}
 
-## Instant Pot recipes
+## Old Cookbooks
 
-Note: It may be helpful to weigh your inner pot by itself and keep the number handy, for instance if you forget to weigh something before you put it in the pot, you can use subtraction to work backwards and figure it out. For reference, the inner pot of my Instant Pot Viva 6 Qt (pretty much similar to IP Duo) is **843 g**.
-
-\* Use cold tap water for all recipes unless otherwise stated.
+All of these books are old as hell, and are therefore in the public domain. They're free to use for non-commerical purposes.
 
 ### Basmati Rice
 
