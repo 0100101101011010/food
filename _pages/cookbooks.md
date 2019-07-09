@@ -22,53 +22,17 @@ input[type=text], input[type=number], select {
 
 ## Old Cookbooks
 
-All of these books are old as hell, and are therefore in the public domain. They're free to use for non-commerical purposes.
+All of these books are old as hell, and are therefore in the public domain. They're free to use for non-commercial purposes.
 
-### Basmati Rice
+### [The Boston cooking-school cook book](/food/cookbooks/boston-cooking-school-fannie-merritt-farmer.pdf)
 
-\* If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water, as the water absorbed by the rice should be counted as part of the water volumes below.
+Source: [Smithsonian Libraries](https://library.si.edu/digital-library/book/bostoncookingsc00farm)
 
-| <sup>Amount of rice:</sup> <input id="inputBasmati" type="number" placeholder="grams" oninput="BasmatiCalc(this.value)" onchange="BasmatiCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
-|--|----------------------|-----------------------|----------------------|
-| Water: | <span id="outputBasmatiHard"></span> | <span id="outputBasmatiMed"></span> | <span id="outputBasmatiSoft"></span> |
-| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
-| Cook Time: | 5 minutes | 6 minutes | 6 minutes |
-| Natural Pressure Release: | 10 minutes | 10 minutes | 10 minutes |
-{: .table .table-striped .table-hover .table-bordered}
+### [Modern Day Cookery for Private Families](/food/cookbooks/modern-cookery-eliza-acton.pdf)
 
-<script>
-function BasmatiCalc(valNum) {
-  document.getElementById("outputBasmatiHard").innerHTML = Math.round(valNum * 250 / 210) + " mL";
-  document.getElementById("outputBasmatiMed").innerHTML = Math.round(valNum * 250 / 210) + " mL";
-  document.getElementById("outputBasmatiSoft").innerHTML = Math.round(valNum * 312.5 / 210) + " mL";
-}
-</script>
+Source: [Archive](https://archive.org/details/moderncookeryin00actogoog)
 
-Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-basmati-rice/#exp)
-
-### Calrose Rice
-
-\* If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water, as the water absorbed by the rice should be counted as part of the water volumes below.
-
-| <sup>Amount of rice:</sup> <input id="inputCalrose" type="number" placeholder="grams" oninput="CalroseCalc(this.value)" onchange="CalroseCalc(this.value)"> | Harder, chewier rice | Al dente (just right) | Softer, mushier rice |
-|--|----------------------|-----------------------|----------------------|
-| Water: | <span id="outputWaterHard"></span> | <span id="outputWaterMed"></span> | <span id="outputWaterSoft"></span> |
-| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
-| Cook Time: | 6 minutes | 6 minutes | 6 minutes |
-| Natural Pressure Release: | 9 minutes | 10 minutes | 10 minutes |
-{: .table .table-striped .table-hover}
-
-<script>
-function CalroseCalc(valNum) {
-  document.getElementById("outputWaterHard").innerHTML = Math.round(valNum * 250 / 235) + " mL";
-  document.getElementById("outputWaterMed").innerHTML = Math.round(valNum * 295 / 235) + " mL";
-  document.getElementById("outputWaterSoft").innerHTML = Math.round(valNum * 312.5 / 235) + " mL";
-}
-</script>
-
-Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-calrose-rice/#exp)
-
-### Chickpeas (or Garbanzo Beans), Dry
+### [Mrs Beeton's Cookery Book](/food/cookbooks/mrs-beetons-cookery-book-isabella-beeton.pdf)
 
 \* Baking soda optional—produces more tender chickpeas (useful for hummus).
 
