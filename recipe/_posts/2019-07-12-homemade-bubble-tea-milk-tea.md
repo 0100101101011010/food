@@ -108,7 +108,7 @@ discussion_id: 2019-07-12
 
 *Nutrition info is for milk tea without toppings.*
 
-\* Btw, it's totally fine to use honey, syrup, sugar, or anything else to sweeten your drink. I use natural stevia, a 0 calorie sweetener, to make it healthier.
+\* Btw, it's totally fine to use honey, syrup, sugar, or anything else to sweeten your drink. I use stevia, a 0 sweetener, to make it healthier. You can even choose not to add sugar at all, to make a Hong Kong-style milk tea.
 
 ### Mix-n-Match Toppings
 
