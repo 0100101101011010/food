@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Homemade Bubble Tea (or Milk Tea), 2 Ways"
+title: "Homemade Bubble Tea or Milk Tea"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
