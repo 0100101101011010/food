@@ -104,7 +104,7 @@ discussion_id: 2019-07-12
 
 ## Recipe notes
 
-![nutrition information for homemade bubble tea or milk tea (made with powder)](/food/recipe/images/homemade-bubble-tea-milk-tea-nutrition-1.jpg){:width="40%"}{: .image-right} ![nutrition information for homemade bubble tea or milk tea (made with brewed tea)](/food/recipe/images/homemade-bubble-tea-milk-tea-nutrition-2.jpg){:width="40%"}{: .image-right}
+![nutrition information for milk tea (made with powder)](/food/recipe/images/homemade-bubble-tea-milk-tea-nutrition-1.jpg){:width="40%"}{: .image-right} ![nutrition information for milk tea (made with brewed tea)](/food/recipe/images/homemade-bubble-tea-milk-tea-nutrition-2.jpg){:width="40%"}{: .image-right}
 
 *Nutrition information calculated without toppings.*
 
