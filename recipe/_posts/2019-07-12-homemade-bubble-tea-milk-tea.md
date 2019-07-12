@@ -64,7 +64,7 @@ discussion_id: 2019-07-12
 > **SERVINGS:** {{page.servings}}  
 > **CALORIES:** {{page.calories}} per serving  
 > **COST:** CAD ${{page.cost}} per serving  
-> **FRIDGE:** keeps for over a week, covered
+> **FRIDGE:** keeps for over a week, covered  
 > **FREEZER:** keeps for several months
 
 ## Ingredients
