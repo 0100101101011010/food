@@ -60,7 +60,7 @@ discussion_id: 2019-07-12
 *{{page.excerpt}}*
 
 > **ACTIVE TIME:** 30 minutes  
-> **TOTAL TIME:** 1 hour 30 minutes
+> **TOTAL TIME:** 1 hour 30 minutes  
 > **SERVINGS:** {{page.servings}}  
 > **CALORIES:** {{page.calories}} per serving  
 > **COST:** CAD ${{page.cost}} per serving  
