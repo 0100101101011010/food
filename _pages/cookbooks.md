@@ -147,3 +147,6 @@ The author, Martínez Montiño, was the chief chef for King Philip III of Spain 
 #### [The royal cookery book (le livre de cuisine)](/food/cookbooks/royal-cookery.pdf)
 
 #### [The royal cookery book (le livre de cuisine) : comprising domestic and high-class cookery](/food/cookbooks/royal-cookery-1.pdf)
+
+http://www.gutenberg.org/ebooks/43879
+https://chestofbooks.com/food/index.html
