@@ -66,7 +66,7 @@ published: false
 > **SERVINGS:** {{page.servings}}  
 > **CALORIES:** {{page.calories}} per serving  
 > **COST:** CAD ${{page.cost}} per serving  
-> **FRIDGE:** keeps for three days, covered
+> **FRIDGE:** keeps for over a week, covered
 > **FREEZER:** keeps for several months
 
 ## Ingredients
@@ -129,3 +129,5 @@ The brand that I use (just the first one I spotted on the store aisles) is only 
 Having tried both to brew my own black tea as well as using a pre-made powder, I have to say the powder option is tastier. The tea flavour is a lot more concentrated, like store-bought bubble tea. However, brewing your own is much healthier, without all the additives that powder mixes throw in, and it's something you can drink every day.
 
 Both are still healthier than store-bought options, though, and so much more affordable! I bought my 700 g bag of milk tea powder for $6.99, which comes down to 80¢ per glass. If you choose to brew your own tea and add milk powder, that's even more inexpensive. Bubble tea cafes charge upwards of $3.99 for their smallest cups, so you're saving over $3 every time you choose to make tea at home.
+
+You can even brew a huge batch (I typically make 1–2 litres at a time now) and store them in plastic water bottles in the fridge, so you can quickly satisfy your boba craving whenever it comes up.
