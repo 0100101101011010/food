@@ -5,7 +5,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
 tags: [100 calories]
-excerpt: "Cool down this summer with your own addictive milk tea drink for a fraction of the cost of boba shops! Here I give options for brewing your own tea or using a pre-mixed powder."
+excerpt: "Cool down during the summer with your own addictive milk tea drink for a fraction of the cost of boba shops! Here I give options for brewing your own tea or using a pre-mixed powder."
 img: /food/recipe/images/homemade-bubble-tea-milk-tea-cover.jpg
 
 comments: "2"
