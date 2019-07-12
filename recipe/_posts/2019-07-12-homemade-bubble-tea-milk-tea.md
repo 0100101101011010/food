@@ -81,7 +81,7 @@ discussion_id: 2019-07-12
 
 ![greenmax black tea flavoured boba milk tea powder](/food/recipe/images/homemade-bubble-tea-milk-tea-powder.jpg){:width="30%"}{: .image-right}
 
-* 80 g milk tea powder (I use Greenmax Black Tea Flavour, the cheapest brand I could find at my Asian grocery store, but any will work. I recommend buying a large bag of powder instead of the ones that come in individual sachets, to cut down on plastic waste.)
+* 80 g milk tea powder (I use Greenmax Black Tea Flavour, but any will work. I recommend buying a large bag of powder instead of the ones that come in individual sachets, to cut down on plastic waste.)
 * 500 mL boiling water
 
 ## Instructions
