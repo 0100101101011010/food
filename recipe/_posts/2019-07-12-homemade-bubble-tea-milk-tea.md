@@ -15,6 +15,7 @@ keywords:
  - bubble tea
  - milk tea
  - asian desserts
+ - grass jelly
 
 cooktime: "PT10M"
 preptime: "PT10M"
@@ -62,8 +63,8 @@ published: false
 > **SERVINGS:** {{page.servings}}  
 > **CALORIES:** {{page.calories}} per serving  
 > **COST:** CAD ${{page.cost}} per serving  
-> **FRIDGE:** haven't tried yet, but they keep just fine at room temperature for a week  
-> **FREEZER:** haven't tried yet
+> **FRIDGE:** keeps for three days, covered
+> **FREEZER:** keeps for several months
 
 ## Ingredients
 
