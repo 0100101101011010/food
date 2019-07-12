@@ -4,7 +4,7 @@ title: "Homemade Bubble Tea (or Milk Tea), 2 Ways"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 categories: recipe
-tags: [300 calories]
+tags: [100 calories]
 excerpt: "Cool down this summer with your own addictive milk tea drink for a fraction of the cost of boba shops! Here I give options for brewing your own tea or using a pre-mixed powder."
 img: /food/recipe/images/homemade-bubble-tea-milk-tea-cover.jpg
 
@@ -15,22 +15,25 @@ keywords:
  - bubble tea
  - milk tea
  - asian desserts
+ - asian drinks
  - grass jelly
+ - drink recipes
+ - budget friendly
 
 cooktime: "PT10M"
 preptime: "PT10M"
 totaltime: "PT1H30M"
 
-cost: "0.11"
-calories: "99 calories"
+cost: "0.80"
+calories: "86 calories"
 servings: "1"
 
-cookingmethod: "boiling"
+cookingmethod: "infusing"
 recipecategory: "drink"
 cuisine: "Taiwanesse"
 
 rating: "5"
-reviews: "4"
+reviews: "7"
 
 
 ingredients:
@@ -125,4 +128,4 @@ The brand that I use (just the first one I spotted on the store aisles) is only 
 
 Having tried both to brew my own black tea as well as using a pre-made powder, I have to say the powder option is tastier. The tea flavour is a lot more concentrated, like store-bought bubble tea. However, brewing your own is much healthier, without all the additives that powder mixes throw in, and it's something you can drink every day.
 
-Both are still healthier than store-bought options, though
+Both are still healthier than store-bought options, though, and so much more affordable! I bought my 700 g bag of milk tea powder for $6.99, which comes down to 80¢ per glass. If you choose to brew your own tea and add milk powder, that's even more inexpensive. Bubble tea cafes charge upwards of $3.99 for their smallest cups, so you're saving over $3 every time you choose to make tea at home.
