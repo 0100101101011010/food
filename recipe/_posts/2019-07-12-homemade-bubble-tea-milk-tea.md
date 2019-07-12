@@ -116,7 +116,7 @@ The great thing about making homemade boba is you can customize your drink to yo
 
 My personal favourite topping is unsweetened herbal grass jelly. On its own, it's quite flavourless, with a hint of herbal medicine, but it goes so well with a sweet, creamy tea.
 
-The brand that I use (just the first one I spotted on the store aisles) is only 75 calories for the entire can, and I use only a fifth of it for each glass of milk tea! It is firmer than the grass jelly they use in shops, and has a more satisfying chew to it.
+The brand that I use (just the first one I spotted on the store aisles) is only 75 calories for the entire can, and I use just 1/5 of it for each glass of milk tea! It is firmer than the grass jelly they use in shops, and has a more satisfying chew to it.
 
 ## Which option do you prefer?
 
