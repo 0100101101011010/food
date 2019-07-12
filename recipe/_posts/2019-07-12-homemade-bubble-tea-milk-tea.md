@@ -106,7 +106,7 @@ discussion_id: 2019-07-12
 
 ![nutrition information for milk tea made with powder](/food/recipe/images/homemade-bubble-tea-milk-tea-nutrition-1.jpg){:width="40%"}{: .image-right} ![nutrition information for milk tea made with brewed tea](/food/recipe/images/homemade-bubble-tea-milk-tea-nutrition-2.jpg){:width="40%"}{: .image-right}
 
-*Nutrition information calculated without toppings.*
+*Nutrition info is for milk tea without toppings.*
 
 \* Btw, it's totally fine to use honey, syrup, sugar, or anything else to sweeten your drink. I use natural stevia, a 0 calorie sweetener, to make it healthier.
 
