@@ -10,4 +10,11 @@
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5d1c0b4bff2f050012eec178&product='inline-share-buttons' async='async'></script>
 
 <title>{{page.title}}</title>
+
+{% if page.image %}
+  <meta property="og:image" content="{{site.url}}{{post.img}}">
+{% else %}
+  <meta property="og:image" content="{{site.url}}{{post.img}}">
+{% endif %}
+
 </head>
