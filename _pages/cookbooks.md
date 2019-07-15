@@ -20,6 +20,12 @@ input[type=text], input[type=number], select {
 * Table of Contents
 {:toc}
 
+## Modern Cookbooks
+
+#### [Everything Tastes Better Outside](https://assets.tastecooking.com/wp-content/uploads/2018/05/Everything-Tastes-Better-Outside-Cookbook.pdf)
+
+#### [Sweater Weather](https://assets.tastecooking.com/wp-content/uploads/2017/11/TASTE-SWEATER-COOKBOOK_links_compressed.pdf)
+
 ## Old Cookbooks
 
 ### British Cuisine
