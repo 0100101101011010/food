@@ -41,7 +41,7 @@ ingredients:
  - 2 bay leaves
  - 0.5 tbsp dried thyme
  - 2 L water
- - 5 g chicken bouillon powder
+ - 5 g chicken bouillon powder* (See Recipe Notes for vegan substitution)
  - 6 g salt
 
 instructions:
