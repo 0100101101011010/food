@@ -46,11 +46,11 @@ ingredients:
 
 instructions:
  - Chop onion, carrot, and celery into small pieces (think about how you like your soups—you want the chunks small enough to eat in one bite comfortably). Roughly chop spinach. Mince garlic.
- - Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat. Add 2 tbsp of water. Add onion and saute until most of the water is dried up.
+ - Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat.) Add 2 tbsp of water. Add onion and saute until most of the water is dried up.
  - Add garlic and sautee until water is almost gone.
  - Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.
  - For slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.
- - For Instant Pot, set mode to PRESSURE COOK and leave on HIGH for 15 minutes, then natural release (or 18 minutes for quick release).
+ - For Instant Pot, set mode to PRESSURE COOK and leave on HIGH for 5 minutes, then natural release (or 8 minutes for quick release).
 
 discussion_id: 2019-01-14
 ---
@@ -58,7 +58,7 @@ discussion_id: 2019-01-14
 *{{page.excerpt}}*
 
 > **ACTIVE TIME:** 15 min  
-> **TOTAL TIME:** 4–9 hours  
+> **TOTAL TIME:** 4–9 hours (slow cooker) or 30 minutes (Instant Pot)  
 > **SERVINGS:** {{page.servings}}  
 > **CALORIES:** {{page.calories}} per serving  
 > **COST:** CAD ${{page.cost}} per serving  
