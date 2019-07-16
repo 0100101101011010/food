@@ -45,7 +45,7 @@ ingredients:
  - 6 g salt
 
 instructions:
- - Chop onion, carrot, and celery into small pieces (think about how you like your soups—you want the chunks small enough to eat in one bite comfortably). Roughly chop spinach. Mince garlic.
+ - Chop onion, carrot, and celery into small bite-sized pieces. Roughly chop spinach. Mince garlic.
  - Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat.) Add 2 tbsp of water. Add onion and saute until most of the water is dried up.
  - Add garlic and sautee until water is almost gone.
  - Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.
