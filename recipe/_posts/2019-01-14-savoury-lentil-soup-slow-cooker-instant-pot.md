@@ -16,9 +16,9 @@ keywords:
  - health recipes
  - pulses
 
-cooktime: "PT15M"
-preptime: "PT15M"
-totaltime: "PT30M"
+cooktime: "PT10M"
+preptime: "PT10M"
+totaltime: "PT20M"
 
 cost: "0.34"
 calories: "168 calories"
