@@ -34,7 +34,7 @@ reviews: "8"
 ingredients:
  - 1 yellow onion
  - 2 garlic cloves
- - 400 g dried lentils
+ - 400 g dried green lentils
  - 60 g spinach
  - 2 carrots
  - 4 celery stalks
