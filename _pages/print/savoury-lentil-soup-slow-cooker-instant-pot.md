@@ -6,9 +6,9 @@ permalink: /print/savoury-lentil-soup-slow-cooker-instant-pot
 excerpt: "Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious."
 ---
 
-Savoury Lentil Soup in the Slow Cooker or Instant Pot
-
 Author: Kelly Zhang
+
+Link: [https://kellyzhang.me/food/recipe/savoury-lentil-soup-slow-cooker-instant-pot/](https://kellyzhang.me/food/recipe/savoury-lentil-soup-slow-cooker-instant-pot/)
 
 Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious.
 
