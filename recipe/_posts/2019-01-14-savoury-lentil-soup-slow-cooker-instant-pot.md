@@ -57,7 +57,7 @@ discussion_id: 2019-01-14
 *{{page.excerpt}}*
 
 > **ACTIVE TIME:** 15 min  
-> **TOTAL TIME:** 4–9 hours (slow cooker) or 30 minutes (Instant Pot)  
+> **TOTAL TIME:** 4–9 hours (slow cooker) or 20 minutes (Instant Pot)  
 > **SERVINGS:** {{page.servings}}  
 > **CALORIES:** {{page.calories}} per serving  
 > **COST:** CAD ${{page.cost}} per serving  
