@@ -16,9 +16,9 @@ keywords:
  - health recipes
  - pulses
 
-cooktime: "PT4H"
+cooktime: "PT15M"
 preptime: "PT15M"
-totaltime: "PT4H"
+totaltime: "PT30M"
 
 cost: "0.34"
 calories: "168 calories"
@@ -46,7 +46,7 @@ ingredients:
 
 instructions:
  - Chop onion, carrot, and celery into small bite-sized pieces. Roughly chop spinach. Mince garlic if using whole cloves.
- - Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.
+ - Add the rest of the ingredients to the Instant Pot or slow cooker. Stir a few times.
  - For traditional slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.
  - For Instant Pot SLOW COOK mode, set on HIGH for 7 hours.
  - For Instant Pot PRESSURE COOK mode, leave on HIGH for 5 minutes, then natural release (or 8 minutes for quick release).
