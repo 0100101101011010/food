@@ -33,7 +33,7 @@ reviews: "8"
 
 ingredients:
  - 1 yellow onion
- - 2 garlic cloves
+ - 2 garlic cloves or 2 tsp minced garlic
  - 400 g dried green lentils
  - 60 g spinach
  - 2 carrots
@@ -45,9 +45,7 @@ ingredients:
  - 6 g salt
 
 instructions:
- - Chop onion, carrot, and celery into small bite-sized pieces. Roughly chop spinach. Mince garlic.
- - Turn instant pot to SAUTE mode on MORE. (If using the slow cooker method, heat a skillet on medium heat.) Add 2 tbsp of water. Add onion and saute until most of the water is dried up.
- - Add garlic and sautee until water is almost gone.
+ - Chop onion, carrot, and celery into small bite-sized pieces. Roughly chop spinach. Mince garlic if using whole cloves.
  - Add the rest of the ingredients to the Instant Pot. (If using slow cooker, add all ingredients including garlic and onion to the slow cooker.) Stir a few times.
  - For traditional slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.
  - For Instant Pot SLOW COOK mode, set on HIGH for 7 hours.
