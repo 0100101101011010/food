@@ -28,6 +28,16 @@ input[type=text], input[type=number], select {
 
 ## Old Cookbooks
 
+### American
+
+#### [Feeding America Project](http://digital.lib.msu.edu/projects/cookbooks/index.cfm)
+
+A collection of "most important and influential American cookbooks from the late 18th to early 20th century."
+
+#### [Vintage Californian Cuisine](http://www.vintagecaliforniacuisine.com/)
+
+Interesting blog that tries out and documents old Californian recipes.
+
 ### British Cuisine
 
 All of these books are old as hell, and are therefore in the public domain. They're free to use for non-commercial purposes.
