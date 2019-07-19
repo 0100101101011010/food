@@ -20,8 +20,7 @@ permalink: /bookclub/
 * Cuisine of the sun : classic recipes from Nice and Provence / Mireille Johnston.
 * Simca's cuisine / Beck, Simone
 * The 100-mile diet : a year of local eating / Smith, Alisa
-* Encarnación's kitchen Mexican recipes from nineteenth-century California : selections from Encarnación Pinedo's El cocinero español
-Pinedo, Encarnació
+* Encarnación's kitchen Mexican recipes from nineteenth-century California : selections from Encarnación Pinedo's El cocinero español / Pinedo, Encarnació
 * Food culture in the Caribbean / Houston, Lynn Marie
 * Traveling Jamaica with knife, fork & spoon : a righteous guide to Jamaican cookery / Walsh, Robb. McCarthy, Jay.
 * The flavor of Cuba : traditional recipes from the Cuban kitchen / Milera, Laura
