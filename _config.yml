@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-title: Hi I'm Kelly and I Love Food
+title: Jellie's Kitchen
 
 # Name of your site (displayed in the header)
 name: Kelly Zhang
@@ -24,7 +24,7 @@ footer-links:
   email:
   facebook: jelliesbakery
   flickr:
-  instagram: cicoclub
+  instagram: jellieeats
   linkedin:
   rss: # just type anything here for a working RSS icon
   twitter:

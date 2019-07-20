@@ -34,3 +34,9 @@ I baked them in my toaster oven on the middle rack.
 * room temperature dough
 * 375 °F
 * 8 minutes
+
+## Round 2
+
+* dough chilled for 2 hours
+* 375 °F
+* 10 minutes
