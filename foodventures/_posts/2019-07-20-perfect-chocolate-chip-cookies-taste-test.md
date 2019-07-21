@@ -27,6 +27,8 @@ published: false
 * TOC
 {:toc}
 
+So this is my first "test kitchen" recipe, where I make the same recipe a bunch of times, each with slight variations, to find the *Goldilocks* batch of chocolate chip cookies.
+
 I baked them in my toaster oven on the middle rack.
 
 ## Round 1
@@ -53,8 +55,12 @@ I baked them in my toaster oven on the middle rack.
 * 350 °F
 * 12 minutes
 
+My favourite!
+
 ## Round 5
 
 * room temperature dough
 * 350 °F
 * 12 minutes
+
+Looks like temperature of the dough before baking does make a big difference, because these are visibly browner than the previous batch, which were baked for the same time and at the same temperature.

@@ -8,9 +8,9 @@ excerpt: "Make a delicious, filling soup that's high in fiber and protein. It's 
 
 Author: Kelly Zhang
 
-Link: [https://kellyzhang.me/food/recipe/savoury-lentil-soup-slow-cooker-instant-pot/](https://kellyzhang.me/food/recipe/savoury-lentil-soup-slow-cooker-instant-pot/)
+Link: https://kellyzhang.me/food/recipe/savoury-lentil-soup-slow-cooker-instant-pot/
 
-Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious.
+*Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious.*
 
 Ingredients:
 
