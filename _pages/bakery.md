@@ -661,7 +661,7 @@ thank you!! ♡♡♡
         <img src="project image url" alt="project name" class="lightbox">
         <div class="info">
           <div class="name">whole wheat peanut butter oatmeal cookies</div>
-          <div class="date">00.00.00 - 00.00.00</div>
+          <div class="date">$12 for a dozen</div>
           <div class="tags">
             <span>tag</span>
             <a href="url">link</a>
