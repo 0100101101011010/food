@@ -24,6 +24,10 @@ $6 per dozen
 
 $6 per dozen
 
+## Waffle Cookies
+
+$6 per dozen
+
 ## Whole Wheat Peanut Butter Cookies
 
 $12 per dozen
