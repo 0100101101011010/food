@@ -21,9 +21,6 @@ discussion_id: 2019-07-22
 
 {{page.excerpt}}
 
-* TOC
-{:toc}
-
 So this is my first "test kitchen" recipe, where I make the same recipe a bunch of times, each with slight variations, to find the *Goldilocks* batch of chocolate chip cookies.
 
 For this experiment, I used a recipe provided by [/u/sewamyruth](https://www.reddit.com/r/Old_Recipes/comments/cf7r7o/turn_grandmas_old_recipe_into_a_tea_towel/eu8czuj/), passed down from their grandma. The original recipe is as follows (with some edits for clarity):
