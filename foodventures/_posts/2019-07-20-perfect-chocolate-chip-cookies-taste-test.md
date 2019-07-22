@@ -27,7 +27,7 @@ published: false
 
 So this is my first "test kitchen" recipe, where I make the same recipe a bunch of times, each with slight variations, to find the *Goldilocks* batch of chocolate chip cookies.
 
-For this experiment, I used a recipe provided by [/u/sewamyruth](https://www.reddit.com/r/Old_Recipes/comments/cf7r7o/turn_grandmas_old_recipe_into_a_tea_towel/eu8czuj/), passed down from their grandma. The original recipe is as follows:
+For this experiment, I used a recipe provided by [/u/sewamyruth](https://www.reddit.com/r/Old_Recipes/comments/cf7r7o/turn_grandmas_old_recipe_into_a_tea_towel/eu8czuj/), passed down from their grandma. The original recipe is as follows (with some edits for clarity):
 
 ## Chocolate Chip Cookies Recipe
 
@@ -54,7 +54,17 @@ For this experiment, I used a recipe provided by [/u/sewamyruth](https://www.red
 1. Fold in chocolate chips.
 1. Bake at 375 °F for 10 minutes.
 
-I baked them in my toaster oven on the middle rack.
+## The Tests
+
+So the reason I decided to play around with this recipe:
+
+1. This makes a *lot* of dough—enough for 45 large cookies in my case—and since my oven can only fit one baking sheet of nine cookies at once, I decided to vary the conditions of each batch to see what the differences might be.
+1. I had always been curious about whether the baking instructions provided in recipes were arbitrary, were from past experience, or whether the author had really tested each recipe with a variety of times and temperatures to find the perfect combination.
+1. Probably the biggest reason, though, was just failing to read the original recipe card correctly... I totally missed the directions to bake for "10 min" and thought that only a temperature had been given, leaving the time up to the baker. So this was even more reason for me to play around with the instructions a little.
+
+I baked them in my toaster oven on the middle rack. All taste tests were performed after the cookies had fully cooled (important! They are very soft and fragile when still warm).
+
+![chocolate chip cookies taste test](/food/foodventures/images/chocolate-chip-cookies-1.jpg){:width="100%"}{: .image-right}
 
 ## Round 1
 
@@ -62,11 +72,15 @@ I baked them in my toaster oven on the middle rack.
 * 375 °F
 * 8 minutes
 
+This batch was pretty good for a first go, but it had baked a little unevenly—the edges were getting crispy, but the middle was barely browned.
+
 ## Round 2
 
 * dough chilled for 2 hours
 * 375 °F
 * 10 minutes
+
+These were verging on the over-baked side, for me. I like my cookies gooey and chewy. These were crunchy around the outside, with only the core remaining soft and chewy.
 
 ## Round 3
 
@@ -74,13 +88,15 @@ I baked them in my toaster oven on the middle rack.
 * 350 °F
 * 10 minutes
 
+Now we're getting somewhere... Perfectly chewy. These, however, were very soft and started to droop between your fingers even after they had fully cooled down. They would probably do ok once they've been chilled in the fridge, but none of the cookies survived long enough to have to refrigerate.
+
 ## Round 4
 
 * dough chilled for 6 hours
 * 350 °F
 * 12 minutes
 
-My favourite!
+My favourite! There wasn't a whole lot of difference between this batch and the previous batch, with similar texture and chew, the only difference being they were a little firmer. They're not quite as delicate as Round 3, and thus would fare better in transport or storage.
 
 ## Round 5
 
