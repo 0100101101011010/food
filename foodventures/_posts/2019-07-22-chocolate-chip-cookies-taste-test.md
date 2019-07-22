@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing for the Perfect Batch of Grandma's Chocolate Chip Cookies"
+title: "The Perfect Batch of Grandma's Chocolate Chip Cookies"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
