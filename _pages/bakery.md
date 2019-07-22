@@ -8,6 +8,8 @@ excerpt: "♡ CUSTOM BAKED TREATS AT STUDENT PRICES ♡ I bake at home from scra
 
 Fill out the [contact](/contact) form to place an order! Please be detailed as to your allergies, dietary needs, and additional preferences.
 
+### Returning Customers: Enjoy 30% of any size order! ♡
+
 ## Butter Cookies
 
 $12 per dozen
