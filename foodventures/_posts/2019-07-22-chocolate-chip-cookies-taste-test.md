@@ -48,7 +48,7 @@ For this experiment, I used a recipe provided by [/u/sewamyruth](https://www.red
 1. Sift flour, salt, and baking soda into a separate bowl, and mix well.
 1. Add to creamed mixture until incorporated.
 1. Fold in chocolate chips.
-1. Bake at 375 °F for 10 minutes.
+1. ~~Bake at 375 °F for 10 minutes.~~ Per results of [tests below](#conclusions), my preferred baking time is 12 minutes at 350 °F, after waiting for the dough to chill in the fridge for half a day.
 
 ## The Tests
 
