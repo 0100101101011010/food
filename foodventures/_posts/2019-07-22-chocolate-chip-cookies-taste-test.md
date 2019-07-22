@@ -121,6 +121,8 @@ You can see that the cookies made from chilled dough spread out more evenly, wit
 
 ![grandma's chocolate chip cookies](/food/foodventures/images/chocolate-chip-cookies-6.jpg){:width="100%"}{: .image-right}
 
-
-
 Chilling cookie dough in the fridge before baking for 12 minutes at 350 °F resulted in the best cookies. They baked evenly and spread a lot on the baking sheet, resulting in big, chewy cookies very much like what you'd find at a bakery.
+
+That said, all of the cookies I made throughout the course of this experiment were delicious. Finding the perfect cookie is a subjective test, and if I hadn't actively been looking for differences between each batch, I wouldn't have minded (or probably noticed) eating any of them.
+
+I think that using butter in place of shortening would yield even richer, more alluring cookies, although obviously shortening is a much more economic choice. I don't like my chocolate chip cookies to be overwhelmed by the taste of chocolate, so using about 200 g of chocolate chips for the entire batch was perfect for me, but if you like your cookies very, very chocolatey, you can always add more.
