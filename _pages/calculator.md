@@ -294,6 +294,18 @@ Recipe credit: [Pressure Cook Recipes (Broccoli)](https://www.pressurecookrecipe
 
 Recipe credit: [Pressure Cook Recipes](https://www.pressurecookrecipes.com/instant-pot-brussels-sprouts/)
 
+#### Potato
+
+|  | Small | Medium | Large |
+|--------|--------|--------|--------|
+| Water: | 250 mL | 250 mL | 250 mL |
+| Cook Setting: | Pressure cook on HIGH | Pressure cook on HIGH | Pressure cook on HIGH |
+| Cook Time: | 8 minutes | 12 minutes | 20 minutes |
+| Natural Pressure Release: | 10 minutes | 10 minutes | 10 minutes |
+{: .table .table-striped .table-hover}
+
+Recipe credit: [/u/Paths98](https://www.reddit.com/r/instantpot/comments/biomro/i_just_discovered_perfect_ip_veggies/em2j7y0/)
+
 #### Spaghetti Squash
 
 \* Slice in half cross-wise or length-wise before pressure cooking.
