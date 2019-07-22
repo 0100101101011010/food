@@ -20,7 +20,7 @@ input[type=text], input[type=number], select {
 * Table of Contents
 {:toc}
 
-## Instant Pot recipes
+## Instant Pot
 
 Note: It may be helpful to weigh your inner pot by itself and keep the number handy, for instance if you forget to weigh something before you put it in the pot, you can use subtraction to work backwards and figure it out. For reference, the inner pot of my Instant Pot Viva 6 Qt (pretty much similar to IP Duo) is **843 g**.
 
@@ -366,6 +366,10 @@ function VeggieCalc(valNum) {
 
 }
 </script>
+
+## Slow Cooking
+
+https://blogs.extension.iastate.edu/answerline/2014/02/06/slow-cookers-times-temperatures-and-techniques/
 
 ## Roasting Vegetables
 
