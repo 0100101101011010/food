@@ -10,7 +10,7 @@ excerpt: "A light and healthy casserole that doesn't taste healthy or light, and
 > Author: Kelly Zhang  
 > [Recipe page](https://kellyzhang.me/food/recipe/{{page.rname}})
 
-*Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious.*
+*A light and healthy casserole that doesn't taste healthy or light, and you won't feel have to feel guilty coming back for seconds! It's perfect as a main course or a side. See recipe notes for keto and gluten-free variations.*
 
 ## Ingredients:
 
