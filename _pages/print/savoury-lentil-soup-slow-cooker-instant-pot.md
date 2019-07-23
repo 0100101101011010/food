@@ -28,8 +28,8 @@ excerpt: "Make a delicious, filling soup that's high in fiber and protein. It's 
 
 ## Instructions:
 
-* Chop onion, carrot, and celery into small bite-sized pieces. Roughly chop spinach. Mince garlic if using whole cloves.
-* Add the rest of the ingredients to the Instant Pot or slow cooker. Stir a few times.
-* For traditional slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.
-* For Instant Pot SLOW COOK mode, set on HIGH for 7 hours.
-* For Instant Pot PRESSURE COOK mode, leave on HIGH for 5 minutes, then natural release (or 8 minutes for quick release).
+1. Chop onion, carrot, and celery into small bite-sized pieces. Roughly chop spinach. Mince garlic if using whole cloves.
+1. Add the rest of the ingredients to the Instant Pot or slow cooker. Stir a few times.
+1. For traditional slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.
+1. For Instant Pot SLOW COOK mode, set on HIGH for 7 hours.
+1. For Instant Pot PRESSURE COOK mode, leave on HIGH for 5 minutes, then natural release (or 8 minutes for quick release).
