@@ -26,6 +26,8 @@ Note: It may be helpful to weigh your inner pot by itself and keep the number ha
 
 \* Use cold tap water for all recipes unless otherwise stated.
 
+[This](https://cookingtimes.info/) is another good site for finding cook times for various IP foods.
+
 ### Basmati Rice
 
 \* If rinsing your rice, weigh out the inner pot + dry rice first before rinsing and adding water, as the water absorbed by the rice should be counted as part of the water volumes below.
