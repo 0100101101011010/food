@@ -66,7 +66,7 @@ I baked them in my toaster oven on the middle rack. All taste tests were perform
 
 ![grandma's chocolate chip cookies taste test](/food/foodventures/images/chocolate-chip-cookies-1.jpg){:width="100%"}{: .image-right}
 
-### Round 1
+### Trial 1
 
 * room temperature dough
 * 375 °F
@@ -74,7 +74,7 @@ I baked them in my toaster oven on the middle rack. All taste tests were perform
 
 This batch was pretty good for a first go, but it had baked a little unevenly—the edges were getting crispy, but the middle was barely browned.
 
-### Round 2
+### Trial 2
 
 * dough chilled for 2 hours
 * 375 °F
@@ -82,7 +82,7 @@ This batch was pretty good for a first go, but it had baked a little unevenly—
 
 These were verging on the over-baked side, for me. I like my cookies gooey and chewy. These were crunchy around the outside, with only the core remaining soft and chewy.
 
-### Round 3
+### Trial 3
 
 * dough chilled for 6 hours
 * 350 °F
@@ -90,7 +90,7 @@ These were verging on the over-baked side, for me. I like my cookies gooey and c
 
 Now we're getting somewhere... Perfectly chewy. These, however, were very soft and started to droop between your fingers even after they had fully cooled down. They would probably do ok once they've been chilled in the fridge, but none of the cookies survived long enough to have to refrigerate.
 
-### Round 4
+### Trial 4
 
 * dough chilled for 6 hours
 * 350 °F
@@ -98,7 +98,7 @@ Now we're getting somewhere... Perfectly chewy. These, however, were very soft a
 
 My favourite! There wasn't a whole lot of difference between this batch and the previous batch, with similar texture and chew, the only difference being they were a little firmer. They're not quite as delicate as Round 3, and thus would fare better in transport or storage.
 
-### Round 5
+### Trial 5
 
 * room temperature dough
 * 350 °F
