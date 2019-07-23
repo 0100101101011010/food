@@ -1,9 +1,9 @@
 ---
 layout: page
 author: Kelly Zhang
-title: Savoury Lentil Soup in the Slow Cooker or Instant Pot (Print-Friendly)
-permalink: /print/savoury-lentil-soup-slow-cooker-instant-pot
-rname: savoury-lentil-soup-slow-cooker-instant-pot
+title: Creamy Cauliflower Cheese Bake (Print-Friendly)
+permalink: /print/creamy-cauliflower-cheese-bake
+rname: creamy-cauliflower-cheese-bake
 excerpt: "Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious."
 ---
 
@@ -14,22 +14,18 @@ excerpt: "Make a delicious, filling soup that's high in fiber and protein. It's 
 
 ## Ingredients:
 
-* 1 yellow onion
-* 2 garlic cloves or 2 tsp jarred minced garlic
-* 400 g dried green or brown lentils
-* 60 g spinach
-* 2 carrots
-* 4 celery stalks
-* 2 bay leaves
-* 0.5 tbsp dried thyme
-* 2 L water
-* 5 g chicken bouillon powder (see Recipe Notes for vegan substitution)
-* 6 g salt
+- 1 medium head or 550 g of cauliflower
+- 25 g butter (about 2 tbsp)
+- 10 g flour (about 2 tbsp)
+- 150 mL milk
+- 1 cup or 113 g of roughly chopped cheese (I used marbled cheddar)
 
 ## Instructions:
 
-* Chop onion, carrot, and celery into small bite-sized pieces. Roughly chop spinach. Mince garlic if using whole cloves.
-* Add the rest of the ingredients to the Instant Pot or slow cooker. Stir a few times.
-* For traditional slow cooker, leave on HIGH for 4 hours or LOW for 8 hours.
-* For Instant Pot SLOW COOK mode, set on HIGH for 7 hours.
-* For Instant Pot PRESSURE COOK mode, leave on HIGH for 5 minutes, then natural release (or 8 minutes for quick release).
+1. Steam cauliflower until almost fall-apart tender. I used my Instant Pot's STEAM function (5 min @ high).
+1. While you let the cauliflower cool, add butter and flour to a medium saucepan on medium heat and whisk together.
+1. When thoroughly mixed, add milk and turn heat down to low. Whisk frequently until sauce thickens.
+1. Stir in two-thirds of the cheese and turn off heat.
+1. When cauliflower is cool enough to handle, break into small florets and add to saucepan. Stir, coating all the florets.
+1. Pour into a small glass casserole dish (or foil-lined baking pan) and sprinkle remaining cheese on top.
+1. Bake at 375° F on the second-to-top rack for 25–30 minutes, or until golden on top.
