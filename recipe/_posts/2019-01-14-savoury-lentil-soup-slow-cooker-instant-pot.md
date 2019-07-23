@@ -3,6 +3,7 @@ layout: recipe
 title: "Savoury Lentil Soup in the Slow Cooker or Instant Pot"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
+rname: savoury-lentil-soup-slow-cooker-instant-pot
 categories: recipe
 tags: [200 calories]
 excerpt: "Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious."
