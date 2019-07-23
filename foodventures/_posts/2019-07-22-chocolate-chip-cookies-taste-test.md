@@ -62,7 +62,9 @@ So the reason I decided to play around with this recipe:
 
 Each cookie was the size of a large spoonful (roughly 2 tbsp).
 
-I baked them in my toaster oven (Breville Smart Oven®) on the middle rack. All taste tests were performed after the cookies had fully cooled. Even though it smells amazing right out of the oven, try to resist the urge to try one right away, because when they are hot, they are very soft and fragile and don't have much structure. They will look a bit puffy because of the rise in the oven. You have to wait for them to cool down and sink a little to achieve that classic chocolate chip cookies look.
+I baked them in my toaster oven (Breville Smart Oven®) on the middle rack, using the Cookies setting. I'm not sure how this setting differs from a regular baking setting. Breville claims that their oven cooks food up to 30% faster than a traditional oven, but in my experience, this isn't always the case: some foods take as long, or just as long, to bake.
+
+All taste tests were performed after the cookies had fully cooled. Even though it smells amazing right out of the oven, try to resist the urge to try one right away, because when they are hot, they are very soft and fragile and don't have much structure. They will look a bit puffy because of the rise in the oven. You have to wait for them to cool down and sink a little to achieve that classic chocolate chip cookies look.
 
 ![grandma's chocolate chip cookies taste test](/food/foodventures/images/chocolate-chip-cookies-1.jpg){:width="100%"}{: .image-right}
 
