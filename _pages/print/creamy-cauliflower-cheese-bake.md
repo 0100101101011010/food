@@ -10,7 +10,7 @@ excerpt: "A light and healthy casserole that doesn't taste healthy or light, and
 > Author: Kelly Zhang  
 > [Recipe page](https://kellyzhang.me/food/recipe/{{page.rname}})
 
-*A light and healthy casserole that doesn't taste healthy or light, and you won't feel have to feel guilty coming back for seconds! It's perfect as a main course or a side. See recipe notes for keto and gluten-free variations.*
+*{{page.excerpt}}*
 
 ## Ingredients:
 

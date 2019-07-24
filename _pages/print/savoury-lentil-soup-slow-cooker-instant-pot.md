@@ -10,7 +10,7 @@ excerpt: "Make a delicious, filling soup that's high in fiber and protein. It's 
 > Author: Kelly Zhang  
 > [Recipe page](https://kellyzhang.me/food/recipe/{{page.rname}})
 
-*Make a delicious, filling soup that's high in fiber and protein. It's perfect for meal prep, and I always stock a portion or two in the freezer. Both the vegan and omni versions are delicious.*
+*{{page.excerpt}}*
 
 ## Ingredients:
 
