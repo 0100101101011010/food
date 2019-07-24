@@ -8,7 +8,13 @@ excerpt: "♡ CUSTOM BAKED TREATS AT STUDENT PRICES ♡ I bake at home from scra
 
 Fill out the [contact](/contact) form to place an order! Please be detailed as to your allergies, dietary needs, and additional preferences.
 
-### Returning Customers: Enjoy 30% of any size order! ♡
+### Returning Customers: Refer a friend and get half off your next order. ♡
+
+## Biscuit Waffle Cookies
+
+![biscuit waffle cookies from jellie's bakery](/food/images/bakery-biscuit-waffle-cookies.jpg){:width="40%"}{: .image-right} ![biscuit waffle cookies from jellie's bakery](/food/images/bakery-biscuit-waffle-cookies-1.jpg){:width="40%"}{: .image-right}
+
+$12 per dozen. They taste like a cross between a biscuit and a sugar cookie.
 
 ## Butter Cookies
 
@@ -23,10 +29,6 @@ $12 per dozen
 $6 per dozen
 
 ## Sugar Cookies
-
-$6 per dozen
-
-## Waffle Cookies
 
 $6 per dozen
 
