@@ -18,6 +18,8 @@ $12 per dozen. They taste like a cross between a biscuit and a sugar cookie.
 
 Ingredients: egg, butter, brown sugar, white sugar, vanilla extract, salt, baking soda, flour
 
+\* Vegan (egg- and dairy-free) version available
+
 ## Chocolate Chip Cookies
 
 $12 per dozen
