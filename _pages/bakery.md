@@ -32,7 +32,7 @@ $6 per dozen
 
 ![ugly butter cookies from jellie's bakery](/food/images/bakery-biscuit-waffle-cookies.jpg){:width="40%"}{: .image-right}
 
-$12 per dozen. These don't look like much, but according to my boyfriend they are "the best cookies I've ever eaten." They're a bit like a super duper rich shortbread.
+$12 per dozen. These don't look like much, but according to my boyfriend they are "the best cookies I've ever eaten." They're a little like a super duper rich shortbread.
 
 Ingredients: butter, sugar, vanilla extract, pastry flour, cinnamon powder, salt
 
