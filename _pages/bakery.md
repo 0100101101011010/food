@@ -24,10 +24,6 @@ Ingredients: egg, butter, brown sugar, white sugar, vanilla extract, salt, bakin
 
 $12 per dozen
 
-## Polvorones
-
-$6 per dozen
-
 ## Sugar Cookies
 
 $6 per dozen
@@ -36,7 +32,7 @@ $6 per dozen
 
 ![ugly butter cookies from jellie's bakery](/food/images/bakery-biscuit-waffle-cookies.jpg){:width="40%"}{: .image-right}
 
-$12 per dozen. These don't look like much, but according to my boyfriend they are "the best cookies I've ever eaten."
+$12 per dozen. These don't look like much, but according to my boyfriend they are "the best cookies I've ever eaten." They're a bit like a super duper rich shortbread.
 
 Ingredients: butter, sugar, vanilla extract, pastry flour, cinnamon powder, salt
 
