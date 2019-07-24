@@ -16,6 +16,8 @@ Fill out the [contact](/contact) form to place an order! Please be detailed as t
 
 $12 per dozen. They taste like a cross between a biscuit and a sugar cookie.
 
+Ingredients: egg, butter or margarine, brown sugar, white sugar, vanilla extract, salt, baking soda, flour
+
 ## Butter Cookies
 
 $12 per dozen
