@@ -8,7 +8,7 @@ excerpt: "♡ CUSTOM BAKED TREATS AT STUDENT PRICES ♡ I bake at home from scra
 
 Fill out the [contact](/contact) form to place an order! Please be detailed as to your allergies, dietary needs, and additional preferences.
 
-### Returning Customers: Refer a friend and get half off your next order. ♡
+### Returning customers: Enjoy 10% off any size purchase, every time! Refer a friend and get an additional 30% off your next order. ♡
 
 ## Biscuit Waffle Cookies
 
