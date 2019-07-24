@@ -6,7 +6,7 @@ permalink: /bakery/
 excerpt: "♡ CUSTOM BAKED TREATS AT STUDENT PRICES ♡ I bake at home from scratch and would love to share some of my treats with you! Serving Kitchener-Waterloo area."
 ---
 
-Fill out the [contact](/contact) form to place an order! Please be detailed as to your allergies, dietary needs, and additional preferences.
+Fill out the [contact](/contact) form to place an order. Please be detailed as to your allergies, dietary needs, and additional preferences.
 
 ### Returning customers: Enjoy 10% off any size purchase, every time! Refer a friend and get an additional 30% off your next order. ♡
 
