@@ -3,6 +3,7 @@ layout: recipe
 title: "The Easiest Ladoos Ever!"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
+rname: easiest-ladoos-ever
 categories: recipe
 tags: [100 calories]
 excerpt: "(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious, I couldn't stop eating them even before they cooled down. Did I mention it's a one-pot recipe?!"
