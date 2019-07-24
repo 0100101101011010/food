@@ -16,7 +16,7 @@ Fill out the [contact](/contact) form to place an order! Please be detailed as t
 
 $12 per dozen. They taste like a cross between a biscuit and a sugar cookie.
 
-Ingredients: egg, butter or margarine, brown sugar, white sugar, vanilla extract, salt, baking soda, flour
+Ingredients: egg, butter, brown sugar, white sugar, vanilla extract, salt, baking soda, flour
 
 ## Chocolate Chip Cookies
 
@@ -32,9 +32,11 @@ $6 per dozen
 
 ## Ugly Butter Cookies
 
+![ugly butter cookies from jellie's bakery](/food/images/bakery-biscuit-waffle-cookies.jpg){:width="40%"}{: .image-right}
+
 $12 per dozen. These don't look like much, but according to my boyfriend they are "the best cookies I've ever eaten."
 
-Ingredients: butter, powdered sugar, vanilla extract, pastry flour, cinnamon powder, salt
+Ingredients: butter, sugar, vanilla extract, pastry flour, cinnamon powder, salt
 
 ## Whole Wheat Peanut Butter Cookies
 
