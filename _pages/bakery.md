@@ -32,7 +32,9 @@ $6 per dozen
 
 ## Ugly Butter Cookies
 
-$12 per dozen. These look pretty ugly, but according to my boyfriend they are "the best cookies I've ever tasted."
+$12 per dozen. These don't look like much, but according to my boyfriend they are "the best cookies I've ever eaten."
+
+Ingredients: butter, powdered sugar, vanilla extract, pastry flour, cinnamon powder, salt
 
 ## Whole Wheat Peanut Butter Cookies
 
