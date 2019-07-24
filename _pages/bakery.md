@@ -24,6 +24,10 @@ Ingredients: egg, butter, brown sugar, white sugar, vanilla extract, salt, bakin
 
 $12 per dozen
 
+## Shrewsbury Cookies
+
+$6 per dozen
+
 ## Sugar Cookies
 
 $6 per dozen
