@@ -18,10 +18,6 @@ $12 per dozen. They taste like a cross between a biscuit and a sugar cookie.
 
 Ingredients: egg, butter or margarine, brown sugar, white sugar, vanilla extract, salt, baking soda, flour
 
-## Butter Cookies
-
-$12 per dozen
-
 ## Chocolate Chip Cookies
 
 $12 per dozen
@@ -33,6 +29,10 @@ $6 per dozen
 ## Sugar Cookies
 
 $6 per dozen
+
+## Ugly Butter Cookies
+
+$12 per dozen. These look pretty ugly, but according to my boyfriend they are "the best cookies I've ever tasted."
 
 ## Whole Wheat Peanut Butter Cookies
 
