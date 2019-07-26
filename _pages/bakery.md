@@ -22,7 +22,13 @@ Ingredients: egg, butter, brown sugar, white sugar, vanilla extract, salt, bakin
 
 ## Chocolate Chip Cookies
 
+![chocolate chip cookies from jellie's bakery](/food/foodventures/images/chocolate-chip-cookies-cover.jpg){:width="40%"}{: .image-right}
+
 $12 per dozen
+
+Soft and chewy on the inside, crispy and fragrant on the outside. What's not to love about this classic?
+
+\* Vegan (egg- and dairy-free) version available
 
 ## Shrewsbury Cookies
 
