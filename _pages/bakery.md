@@ -28,7 +28,7 @@ $12 per dozen
 
 Soft and chewy on the inside, crispy and fragrant on the outside. What's not to love about this classic?
 
-\* Vegan (egg- and dairy-free) version available
+\* Vegan (egg- and dairy-free) version available (extra $1 per dozen)
 
 ## Shrewsbury Cookies
 
