@@ -14,9 +14,11 @@ Fill out the [contact](/contact) form to place an order. Please be detailed as t
 
 ![biscuit waffle cookies from jellie's bakery](/food/images/bakery-biscuit-waffle-cookies.jpg){:width="40%"}{: .image-right} ![biscuit waffle cookies from jellie's bakery](/food/images/bakery-biscuit-waffle-cookies-1.jpg){:width="40%"}{: .image-right}
 
-$12 per dozen. They taste like a cross between a biscuit and a sugar cookie.
+$12 per dozen
 
-Ingredients: egg, butter, brown sugar, white sugar, vanilla extract, salt, baking soda, flour
+They taste like a cross between a biscuit and a sugar cookie.
+
+Ingredients: egg, butter, sugar, vanilla extract, salt, baking soda, flour
 
 \* Vegan (egg- and dairy-free) version available
 
@@ -27,6 +29,8 @@ Ingredients: egg, butter, brown sugar, white sugar, vanilla extract, salt, bakin
 $12 per dozen
 
 Soft and chewy on the inside, crispy and fragrant on the outside. What's not to love about this classic?
+
+Ingredients: egg, shortening, sugar, vanilla extract, salt, baking soda, flour, chocolate chips
 
 \* Vegan (egg- and dairy-free) version available (extra $1 per dozen)
 
