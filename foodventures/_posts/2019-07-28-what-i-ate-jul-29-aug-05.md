@@ -38,6 +38,14 @@ discussion_id: 2019-08-05
 
 ## Wednesday
 
+## Saturday
+
+### Roast Chicken with Rosemary and Thyme
+
+We were both puzzled over it for a few hours until I suddenly remembered—I hadn't flipped the cauliflower halfway through roasting, like I had last time!
+
+OMG! I had no idea how a little thing like that could impact the flavour so much.
+
 ### Protose
 
 ![protose](/food/foodventures/images/#.jpg){:width="60%"}{: .image-right}
