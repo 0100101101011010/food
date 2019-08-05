@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Showing posts in "discussion"
 permalink: /discussion/
 ---
-
-<h1>Showing posts in "discussion"</h1>
 
 <ul>
   {% for post in site.categories.discussion %}

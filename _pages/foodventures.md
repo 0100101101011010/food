@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Showing posts in "foodventures"
 permalink: /foodventures/
 ---
-
-<h1>Showing posts in "foodventures"</h1>
 
 <ul>
   {% for post in site.categories.foodventures %}

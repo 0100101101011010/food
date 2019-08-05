@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Showing posts in "bookclub"
 permalink: /bookclub/
 ---
-
-<h1>Showing posts in "bookclub"</h1>
 
 <ul>
   {% for post in site.categories.bookclub %}
