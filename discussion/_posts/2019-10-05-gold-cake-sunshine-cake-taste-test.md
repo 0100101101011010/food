@@ -17,7 +17,9 @@ discussion_id: 2019-07-05
 
 I found this recipe in [Bread making and bread baking](https://archive.org/details/breadmakingbread00brot/page/26) by Minnie E. Brothers, a cookbook published in 1915!
 
-Although she provided the ingredients, below, there was no accompanying recipe:
+
+
+Although she provided the ingredients, below, there were no accompanying instructions. It looks like it could be a predecessor to modern boxed yellow cake mix.
 
 * 2 cups sugar
 * 2.5 cups flour
@@ -27,3 +29,5 @@ Although she provided the ingredients, below, there was no accompanying recipe:
 * 1/2 tsp [baking] soda
 * 2 tsp vanilla [extract]
 * yolks of 11 eggs
+
+I found a [recipe by Alton Brown](https://www.foodnetwork.com/recipes/alton-brown/gold-cake-recipe-1913120) that seems very similar, so I used that for guidance on how long to cook for.
