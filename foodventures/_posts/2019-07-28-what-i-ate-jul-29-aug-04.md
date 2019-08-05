@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Ate This Week: Jul 22–28"
+title: "What I Ate This Week: Jul 29 – Aug 5"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
@@ -15,13 +15,13 @@ keywords:
  - healthy diet
  - home cooking
  - homemade bread
-excerpt: "Since last week's meals weren't the healthiest, I'm trying to get back on track this week with more vegetables and whole foods in my diet."
-img: /food/foodventures/images/jul-28-2019.jpg
+excerpt: ""
+img: /food/foodventures/images/jul-21-2019.jpg
 comments: "0"
 
 published: false
 
-discussion_id: 2019-07-28
+discussion_id: 2019-08-05
 ---
 
 {{page.excerpt}}
@@ -31,10 +31,16 @@ discussion_id: 2019-07-28
 
 ## Monday
 
-
+I made these [Parker House Rolls](https://www.tasteofhome.com/recipes/parker-house-rolls/) to eat with the stuffed mushroom filling that I didn't quite use up from last Saturday's recipe.
 
 ## Tuesday
 
 
 
 ## Wednesday
+
+
+
+## Saturday
+
+### Roast Chicken with Rosemary and Thyme
