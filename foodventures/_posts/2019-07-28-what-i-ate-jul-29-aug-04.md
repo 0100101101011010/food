@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Ate This Week: Jul 29 – Aug 5"
+title: "What I Ate This Week: Jul 29 – Aug 4"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
@@ -31,7 +31,7 @@ discussion_id: 2019-08-05
 
 ## Monday
 
-I made these [Parker House Rolls](https://www.tasteofhome.com/recipes/parker-house-rolls/) to eat with the stuffed mushroom filling that I didn't quite use up from last Saturday's recipe.
+
 
 ## Tuesday
 

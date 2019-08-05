@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Showing posts in "recipe"
 permalink: /recipe/
 ---
