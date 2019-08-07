@@ -11,9 +11,9 @@ img: /food/recipe/images/creamy-cauliflower-cheese-bake-cover.jpg
 
 comments: "1"
 keywords:
- - volume eating
- - low calorie
- - weight loss
+ - vegan
+ - vegetarian
+ - umami
  - filling recipe
  - high fiber
 
@@ -27,18 +27,21 @@ servings: "4"
 
 cookingmethod: "baking"
 recipecategory: "casserole"
-cuisine: "Canadian"
+cuisine: "Chinese"
 
 rating: "4"
 reviews: "7"
 
 
 ingredients:
- - 1 medium head or 550 g of cauliflower
- - 25 g butter (about 2 tbsp)
- - 10 g flour (about 2 tbsp)
- - 150 mL milk
- - 1 cup or 113 g of roughly chopped cheese (I used marbled cheddar)
+ - 15 shitake mushrooms (dried or fresh)
+ - 1 block of tofu (400–500 g)
+ - 300 g bok choy or baby bok choy
+ - 2 tbsp rice vinegar
+ - 2 tbsp soy sauce
+ - 1 tbsp oyster sauce (if vegan, use mushroom-made oyster sauce)
+ - 1 tbsp minced garlic
+ - 2 packages of dumpling wrappers
 
 instructions:
  - Steam cauliflower until almost fall-apart tender. I used my Instant Pot's STEAM function (5 min @ high).
