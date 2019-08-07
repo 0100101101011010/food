@@ -39,7 +39,7 @@ ingredients:
  - 300 g bok choy or baby bok choy
  - 2 tbsp rice vinegar
  - 2 tbsp soy sauce
- - 1 tbsp oyster sauce (if vegan, use mushroom-made oyster sauce)
+ - 1 tbsp oyster sauce (if vegan, use mushroom-made oyster sauce) or hoisin sauce
  - 1 tbsp minced garlic
  - 2 packages of dumpling wrappers
 
