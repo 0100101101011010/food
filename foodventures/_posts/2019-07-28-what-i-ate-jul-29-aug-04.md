@@ -33,15 +33,31 @@ discussion_id: 2019-08-04
 
 ## Monday
 
+### Veggie Hot Dog
+
+![yves vegetarian hot dog](/food/foodventures/images/hot-dogs-2.jpg){:width="60%"}{: .image-right}
+
+A Yves veggie dog
+
+### Spam & Salami Pizza
+
+![yves vegetarian hot dog](/food/foodventures/images/spam-salami-pizza.jpg){:width="60%"}{: .image-right}
+
 
 
 ## Tuesday
 
+### Bok Choy and Spam Fried Rice
 
+![yves vegetarian hot dog](/food/foodventures/images/bok-choy-spam-fried-rice.jpg){:width="60%"}{: .image-right}
+
+### Roast Chicken with Cauliflower and Potatoes Lyonnaise
+
+![yves vegetarian hot dog](/food/foodventures/images/roast-chicken-1.jpg){:width="60%"}{: .image-right}
 
 ## Wednesday
 
-
+### Instant Pot Mantou
 
 ## Saturday
 
