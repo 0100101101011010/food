@@ -49,7 +49,9 @@ A Yves veggie dog
 
 ### Bok Choy and Spam Fried Rice
 
-![yves vegetarian hot dog](/food/foodventures/images/bok-choy-spam-fried-rice.jpg){:width="60%"}{: .image-right}
+![bok choy and spam fried rice](/food/foodventures/images/bok-choy-spam-fried-rice.jpg){:width="60%"}{: .image-right}
+
+I think this combo of baby bok choy and spam is a winner, but the rice wasn't right. Generally, each time I make rice, it's a big batch at once that we reheat for the rest of the week (your girl hates scrubbing rice off the bottom of the cooking pot). Last week, I made some basmati rice to go with a [veggie egg hash](/food/foodventures/what-i-ate-jul-22-28/#veggie-egg-hash), so that's what I used tonight. Note to self: *Basmati rice does not work in fried rice!* The grains had no stickiness and didn't have the nice chew that you expect from a good fried rice dish.
 
 ### Roast Chicken with Cauliflower and Potatoes Lyonnaise
 
