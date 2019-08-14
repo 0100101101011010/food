@@ -6,9 +6,19 @@ permalink: /bakery/
 excerpt: "♡ CUSTOM BAKED TREATS AT STUDENT PRICES ♡ I bake at home from scratch and would love to share some of my treats with you! Serving Kitchener-Waterloo area."
 ---
 
-Fill out the [contact](/contact) form to place an order. Please be detailed as to your allergies, dietary needs, and additional preferences.
+Fill out the [contact](/contact) form to place an order. Please be detailed as to your allergies, dietary needs, and additional preferences. Minimum order size is half-dozen.
 
 ### Returning customers: Enjoy 10% off any size purchase, every time! Refer a friend and get an additional 30% off your next order. ♡
+
+## Blueberry Muffins
+
+![blueberry muffins from jellie's bakery](/food/foodventures/images/blueberry-okara-muffins-2.jpg.jpg){:width="40%"}{: .image-right}
+
+$12 per dozen
+
+My healthy blueberry muffins have a secret ingredient and are only 130 calories each. They keep for a week in the fridge and are perfect for a quick snack anytime.
+
+Ingredients: blueberries, soybeans, flour, sugar, baking powder, salt, oil, vanilla extract
 
 ## Biscuit Waffle Cookies
 
