@@ -6,16 +6,40 @@ permalink: :categories/:title/
 categories: discussion
 tags:
 keywords:
-excerpt: "I am so excited to throw in my endorsements, along with the millions of others who've already tried it, for Jim Lahey's no-knead bread recipe."
+excerpt: "Buonasera from Italia! It's the first day of our trip to Northern Italy, and we are HERE for the food. I'd like to share some of the research I've done on the regional cuisines of the three provinces we'll be visiting."
 img: /food/discussion/images/crash-course-northern-italian-cuisine.jpg
 comments: "2"
 
 published: false
 
-discussion_id: 2019-07-05
+discussion_id: 2019-08-17
 ---
 
+> In our culture if you want to express love, if you want to thank someone, food is the way to show these sentiments. I open my house; I share my food with you. It is more than a gift.
+
+– Patrizia Faccioli, *The Italian Way*
+
 ## Emilia-Romagna
+
+"On Sunday," Lucia says, "I make an effort to do—not great things—to make some *tagliatelle* by hand and make the *ragu* with some mushrooms ... I prepare something more, or some *pasta al forno*, or some tortelloni." They may have some ice cream, "mostly for the kids." But if there are guests she prepares a cake, or at least a pie. There is an orange cake they prefer, and the *certosino* (an Italian cake named after a Carthusian monk) is made by hand.
+
+A study done ... in 1872 "found that in 488 communi (towns) in all regions of Italy, the majority of Italians consumed polenta, rice, pasta, or chestnuts. For the poor, wehat bread was as rare as meat."
+
+The two regions of Emilia-Romagna have very different cuisines: the seacoast (Romagna) features soups, lighter fare, and fish. It is hard to believe, but one seldom finds the stuffed pastas and lasagnas of Bologna in seacost trattorie fifty miles to the east. ... The food of Romagna is more experimental; the recipes of Emilia (Bologna-Parma-Modena) are rigid, and the food is rich (Bologna *la grassa, la rossa, la dotta*—the fat, the red, the learned). The famous foods of Bologna include lasagna, stuffed pastas, in particular tortellini and ravioli; sausages (most famously mortadella); pasta made fresh with eggs; *ragu* made with pork; ice cream, milk, and butter from local cows. To this add northern vegetables (squash and pumpkin as ravioli stuffing), the vinegar from Modena, and, in varied forms, *prosciutto* and *parmigiano.*
+
+Perhaps the most famous exports of this region are balsamic vinegar (from Modena), parmigiano reggiano (from Reggio nell' Emilia), prosciutto (Parma), and lasagna (Bologna).
+
+> I must not forget to mention that in Bologna they make the best sausages that man has ever tasted. They are eaten either cured or cooked and are always appetizing. Bless the one who invented this sausage; I kiss and worship his virtuous hands.
+
+– Ortensio Lando, *Commentario delle piu notabili e mostrusose cose d'Italia e d'altri luoghi*
+
+### Desserts
+
+Castagnaccio (a chestnut flour cake) and frittelle (similar to fried doughnut holes, these originate from Venice but are eaten in Bologna as well)
+
+Torta mantovana (from the city of Mantova, or Mantua)
+Pannettone (a dish invented by Ludovico Sforza, a duke of Milan, and now eaten as a Christmas tradition)
+Torrone
 
 The capital of Emilia-Romagna is Bologna, known for Europe's oldest university and its world-renowned lasagna.
 
