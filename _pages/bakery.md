@@ -16,9 +16,11 @@ Fill out the [contact](/contact) form to place an order. Please be detailed as t
 
 $12 per dozen
 
-My healthy blueberry muffins have a secret ingredient and are only 130 calories each. They keep for a week in the fridge and are perfect for a quick snack anytime.
+My healthy blueberry muffins have a secret ingredient and are only 130 calories each, but don't compromise on taste. They keep for a week in the fridge and are perfect for a quick snack anytime.
 
 Ingredients: blueberries, soybeans, flour, sugar, baking powder, salt, oil, vanilla extract
+
+\* Vegan (egg-free) version available (at no extra cost)
 
 ## Biscuit Waffle Cookies
 
@@ -30,7 +32,7 @@ They taste like a cross between a biscuit and a sugar cookie.
 
 Ingredients: egg, butter, sugar, vanilla extract, salt, baking soda, flour
 
-\* Vegan (egg- and dairy-free) version available
+\* Vegan (egg- and dairy-free) version available (at no extra cost)
 
 ## Chocolate Chip Cookies
 
@@ -54,7 +56,7 @@ Something like a cross between a shortbread and a biscuit, these are a British c
 
 Ingredients: butter, sugar, flour, soy milk, egg, ground cinnamon
 
-\* Vegan (egg- and dairy-free) version available (at the same price)
+\* Vegan (egg- and dairy-free) version available (at no extra cost)
 
 ## Sugar Cookies
 
