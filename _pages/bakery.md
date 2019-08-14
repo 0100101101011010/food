@@ -28,15 +28,23 @@ Ingredients: egg, butter, sugar, vanilla extract, salt, baking soda, flour
 
 $12 per dozen
 
-Soft and chewy on the inside, crispy and fragrant on the outside. What's not to love about this classic?
+Soft and chewy on the inside, crispy and fragrant on the outside. What's not to love about this tried and true cookie?
 
 Ingredients: egg, shortening, sugar, vanilla extract, salt, baking soda, flour, chocolate chips
 
 \* Vegan (egg- and dairy-free) version available (extra $1 per dozen)
 
-## Shrewsbury Cookies
+## Shrewsbury Biscuits
+
+![shrewsbury cookies from jellie's bakery](/food/foodventures/images/shrewsbury-cookies-1.jpg){:width="40%"}{: .image-right}
 
 $6 per dozen
+
+Something like a cross between a shortbread and a biscuit, these are a British classic.
+
+Ingredients: butter, sugar, flour, soy milk, egg, ground cinnamon
+
+\* Vegan (egg- and dairy-free) version available (at the same price)
 
 ## Sugar Cookies
 
