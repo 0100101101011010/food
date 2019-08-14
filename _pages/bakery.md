@@ -12,7 +12,7 @@ Fill out the [contact](/contact) form to place an order. Please be detailed as t
 
 ## Blueberry Muffins
 
-![blueberry muffins from jellie's bakery](/food/foodventures/images/blueberry-okara-muffins-2.jpg.jpg){:width="40%"}{: .image-right}
+![blueberry muffins from jellie's bakery](/food/foodventures/images/blueberry-okara-muffins-2.jpg){:width="40%"}{: .image-right}
 
 $12 per dozen
 
