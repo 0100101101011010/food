@@ -36,7 +36,7 @@ Ingredients: egg, butter, sugar, vanilla extract, salt, baking soda, flour
 
 ## Chocolate Chip Cookies
 
-![chocolate chip cookies from jellie's bakery](/food/foodventures/images/chocolate-chip-cookies-cover.jpg){:width="40%"}{: .image-right}
+![chocolate chip cookies from jellie's bakery](/food/foodventures/images/chocolate-chip-cookies-cover.jpg){:width="40%"}{: .image-right} ![chocolate chip cookies from jellie's bakery](/food/foodventures/images/chocolate-chip-cookies-6.jpg){:width="40%"}{: .image-right}
 
 $12 per dozen
 
