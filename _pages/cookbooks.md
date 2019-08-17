@@ -20,6 +20,20 @@ input[type=text], input[type=number], select {
 * Table of Contents
 {:toc}
 
+## Cookbooks of Antiquity
+
+### Ancient Greece
+
+#### [Ancient Hellenic Recipes](https://www.academia.edu/1937302/Ancient_Hellenic_recipes)
+
+### Ancient Rome
+
+#### [Olivia's Cookbook, Roman Recipies Adapted for the 21st Century](https://www.academia.edu/482561/Olivias_Cookbook_Roman_Recipies_Adapted_for_the_21st_Century)
+
+### Other
+
+#### [Viking -and Anglo-Saxon Recipes](https://www.academia.edu/30931880/Viking_-and_Anglo-Saxon_Recipes)
+
 ## Modern Cookbooks
 
 #### [Everything Tastes Better Outside](https://assets.tastecooking.com/wp-content/uploads/2018/05/Everything-Tastes-Better-Outside-Cookbook.pdf)

@@ -37,7 +37,7 @@ discussion_id: 2019-08-04
 
 ![yves vegetarian hot dog](/food/foodventures/images/hot-dogs-2.jpg){:width="60%"}{: .image-right}
 
-A Yves veggie dog, prepped from
+A Yves veggie dog, prepped from [two months ago](/food/foodventures/what-i-ate-jun-10-16/#hot-dog-sandwiches-meal-prep).
 
 ### Spam & Salami Pizza
 
@@ -91,9 +91,9 @@ I'll be posting a recipe soon, but they were so easy to make. In my experience, 
 
 Purple yam jam, or ube halaya, is a Filipino dessert that can be eaten on its own or as, well, a jam or spread. The [recipe I used](https://panlasangpinoy.com/ube-halaya-with-cheese-recipe/) calls for grated cheese on top, but after tasting it I decided it was already plenty rich on its own without adding cheese.
 
-I intended to cook this to eat on its own, but it was way too cloying and sweet for me to take many bites, so the rest of it is probably going to go into an ensaymada recipe in the next few days. This is quite a tedious recipe to make, tbh, because you need to boil all the water off which takes *forever.* And you can't turn away from the stove either, because the mixture of coconut milk and condensed milk can very very quickly boil over.
+I intended to cook this to eat on its own, but it was way too cloying and sweet for me to take many bites, so the rest of it is probably going to go into an [ensaymada](#ube-ensaymada) recipe in the next few days. This is quite a tedious recipe to make, tbh, because you need to boil all the water off which takes *forever.* And you can't turn away from the stove either, because the mixture of coconut milk and condensed milk can very very quickly boil over.
 
-Conclusion: will not be making this again, but am very glad I did because I absolutely love all things ube, and it was gonna bother me forever that I hadn't tried it. 
+Conclusion: will not be making this again, but am very glad I did because I absolutely love all things ube, and it was gonna bother me forever that I hadn't tried it.
 
 ### Ong Choy in XO Sauce
 
@@ -103,7 +103,88 @@ Well I am super happy to rediscover another old favourite veggie at T&T that I c
 
 I didn't want to eat too much for dinner after such a calorific day, so I cooked it following a super simple recipe: [pan frying ong choy in XO sauce](https://thewoksoflife.com/ong-choy-xo-sauce/). It was sooo tasty, and such a quick, easy meal. I want to buy more of this vegetable and try different sauces to go with it!
 
-### Instant Pot Mantou
+## Thursday
+
+### Ube Ensaymada
+
+![ube ensaymada](/food/foodventures/images/ube-ensaymada-1.jpg){:width="60%"}{: .image-right}
+
+I hinted [yesterday](#ube-jam) that I would make ensaymadas, and here we are!
+
+Wow, this turned out so much better than I'd expected. It is a very very soft dough, but by using a lot of flour to shape and roll it up, I avoided any stickiness.
+
+To shape each ensaymada, I grabbed a handful of dough (what I estimate roughly to be 1/4–1/2 cup), rolled it into a long, slightly-flattened tube on a floured cutting board, then spread a generous layer of ube jam over the entire top surface. I then held it up in the air from one end. The dough is so soft that it'll stretch itself out even more when you dangle it in the air. Next, I rolled it up into a spiral shape (like a cinnamon bun) and placed it onto sprayed baking sheet.
+
+![ube ensaymada](/food/foodventures/images/ube-ensaymada-2.jpg){:width="40%"}{: .image-right}
+
+The bread was totally dreamy after baking. This is one of the softest buns I've ever eaten, even the golden crust was super soft and melts in your mouth. Thanks to my generous portioning of ube jam, each bun produced a vibrant purple swirl and hit you with an intense ube flavour.
+
+My only complaint is that the ube jam is still a bit too overpoweringly rich. Next time I think I'll try filling these ensaymadas with mashed cooked ube on its own.
+
+
+### Artichoke-Stuffed Mushrooms
+
+![artichoke-stuffed mushrooms](/food/foodventures/images/artichoke-stuffed-mushrooms.jpg){:width="40%"}{: .image-left}
+
+This is the first time I've eaten mushrooms all term, believe it or not. I was never the world's biggest mushroom fan, and since Kevin shuns mushrooms in all forms, I've always opted for recipes that don't call for mushrooms or left them out in ones that do. However, I've been wanting to try this recipe for a while now, and mushrooms were on sale this week, so I went for them!
+
+While the filling was really, really delicious on its own, I found that the mushroom and filling together was just *too mushroomy* for my taste. I guess I prefer mushrooms as a flavour enhancer, not as the main feature of a dish, because I would've happily eaten the filling as part of a salad, in deviled eggs, or on a baked potato, but not stuffed into mushroom caps.
+
+### Scallion Pancakes
+
+!["dumpling wrapper" scallion pancakes](/food/foodventures/images/scallion-pancakes-1.jpg){:width="50%"}{: .image-left}
+
+This is a "shortcut" recipe that uses dumpling wrappers to achieve the thin crispy layers of a scallion pancake. I have to say this is not nearly as easy as the video on the recipe website makes it look: the layered dumpling wrappers did not want to stick together when I pressed them with a rolling pin, instead slipping up and down past each other. Scallion bits were falling out everywhere!
+
+Quite messy, and at that point you might as well just boil some water and make them the traditional way.
+
+All that effort later, and I still ended up with just a few mediocre pancakes. Even though I used medium heat, the outsides browned too much while the inside wasn't fully cooked. Also, apparently, I used too much scallion (this was coming from Kevin, who loves scallion, so yeah I probably overdid it).
+
+### Pork Gyoza with Homemade Dipping Sauce
+
+![t&t pork gyoza with homemade dipping sauce](/food/foodventures/images/pork-gyoza-1.jpg){:width="50%"}{: .image-left}
+
+Kevin and I bought a couple bags of "emergency meal" T&T pork gyozas, intended for those days when I don't feel like cooking anything and Kevin needs to eat a quick meal.
+
+We were both disappointed by these ones. Usually, T&T branded food is pretty on point, but these ones lacked flavour. They were missing that savouriness you expect from good dumplings.
+
+To their credit, they fry up really well (to cook from frozen, you basically heat up 1/2 cup of water with a tbsp or two of oil, then let the dumplings boil in the water until it's all evaporated off). The outside was so crispy and fragrant and the inside was a total letdown. :-(
+
+The other saving grace was the gyoza dipping sauce I made, following this simple recipe from [Allrecipes](). It's soooo easy, but it looks (and tastes) great!
+
+### Soft Rum Cookies
+
+![soft rum cookies](/food/foodventures/images/rum-cookies-1.jpg){:width="40%"}{: .image-left} ![soft rum cookies](/food/foodventures/images/rum-cookies-2.jpg){:width="40%"}{: .image-left}
+
+From the dough, you can tell that this is one super, duper soft cookie. Even after they'd fully cooled down, it was tricky removing them from the baking sheet because they were so fragile. I definitely ate a few that fell apart on me. I made these for Kevin because he loves the rum flavour in baked goods, but his reaction was totally disappointing. He couldn't even taste the rum!
+
+I still can't quite figure it out. I actually added way more rum than the recipe suggested and I feel like it's quite intense. I personally liked them, but I ended up giving most of them away to a friend because without Kevin's help, I would end up eating all of them which is seriously not a good idea, especially because I baked some *zaeti* cookies this same day.
+
+### Not-Quite-Venetian Zaeti Cookies
+
+![venetian zaeti cookies](/food/foodventures/images/zaeti-2.jpg){:width="30%"}{: .image-right}
+
+*Zaeti* are a traditional Venetian biscuit made with half flour and half cornmeal. Polenta is frequently eaten here, so it makes sense that they would have a cookie made from cornmeal too, doesn't it?
+
+My recipe comes from [Dead Chef](), but I deviated in some pretty significant ways. The recipe calls for rolling the dough out into a thin layer and cutting out triangle shapes for the cookies. Well, at this point in the night I was pretty tired and not in the mood for fanciful cookie shapes, so I simply portioned out spoonfuls of dough and flattened the centre with a spoon, and baked them like that.
+
+![venetian zaeti cookies](/food/foodventures/images/zaeti-1.jpg){:width="30%"}{: .image-right}
+
+Would I make them again? No. Not even the right way. I think the use of cornmeal in a cookie is a fascinating idea, but in the end there are better ways to appreciate and enjoy its unique flavour. I don't like hard, snappy cookies, so I don't think *zaeti* are worth the effort for me. I am certainly gonna pick up a pack of the real deal in Venice, though!
+
+### Two-Ingredient Greek Yogurt Naan
+
+![two-ingredient greek yogurt naan bread](/food/foodventures/images/greek-yogurt-naan-1.jpg){:width="30%"}{: .image-right}
+
+You've probably seen this recipe before, because it's one that was quite viral at some point. However, the title is sort of misleading because you technically need three ingredients (self-rising flour, greek yogurt, and *salt*) to turn out something edible, and who keeps self-rising flour at home, so it's more like four ingredients (flour, *baking soda*, greek yogurt, and salt).
+
+I made these once last fall, and remember being pretty impressed by the flavour even though I totally burned the whole batch. For some reason, these ones didn't turn out as great. Or maybe it's because as my bread-making skills have gotten better, I've developed higher standards for my bread? Either way, I was mostly disappointed by the lack of air pockets that you'd expect in naan. These looked, and tasted, quite flat. They are good enough as a vehicle for curry (which is what I made them for) but nothing beyond that.
+
+### Mango Toast
+
+![mango on toast](/food/foodventures/images/mango-toast.jpg){:width="30%"}{: .image-right}
+
+This is what it looks like: I put sliced up pieces of mango onto my [homemade bread](#parker-house-rolls-and-loaf) and toasted them. I was kinda inspired by avocado toast, I guess? I've seen mango toast on Instagram as well, but obviously a lot more aesthetic than mine. Although I like most fruit after it's been roasted a little (especially apples and peaches... mmm), turns out mango is not one of those fruits. Maybe it was because I didn't heat them long enough for the sugars to start caramelizing, but toasting mango did nothing to enhance its flavour for me.
 
 ## Saturday
 
