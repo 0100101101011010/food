@@ -21,8 +21,6 @@ excerpt: "Since the past two weeks haven't the healthiest in terms of meals, I'm
 img: /food/foodventures/images/aug-4-2019.jpg
 comments: "0"
 
-published: false
-
 discussion_id: 2019-08-04
 ---
 
@@ -121,6 +119,7 @@ The bread was totally dreamy after baking. This is one of the softest buns I've 
 
 My only complaint is that the ube jam is still a bit too overpoweringly rich. Next time I think I'll try filling these ensaymadas with mashed cooked ube on its own.
 
+## Saturday
 
 ### Artichoke-Stuffed Mushrooms
 
@@ -129,6 +128,8 @@ My only complaint is that the ube jam is still a bit too overpoweringly rich. Ne
 This is the first time I've eaten mushrooms all term, believe it or not. I was never the world's biggest mushroom fan, and since Kevin shuns mushrooms in all forms, I've always opted for recipes that don't call for mushrooms or left them out in ones that do. However, I've been wanting to try this recipe for a while now, and mushrooms were on sale this week, so I went for them!
 
 While the filling was really, really delicious on its own, I found that the mushroom and filling together was just *too mushroomy* for my taste. I guess I prefer mushrooms as a flavour enhancer, not as the main feature of a dish, because I would've happily eaten the filling as part of a salad, in deviled eggs, or on a baked potato, but not stuffed into mushroom caps.
+
+## Sunday
 
 ### Scallion Pancakes
 
@@ -171,21 +172,3 @@ My recipe comes from [Dead Chef](), but I deviated in some pretty significant wa
 ![venetian zaeti cookies](/food/foodventures/images/zaeti-1.jpg){:width="30%"}{: .image-right}
 
 Would I make them again? No. Not even the right way. I think the use of cornmeal in a cookie is a fascinating idea, but in the end there are better ways to appreciate and enjoy its unique flavour. I don't like hard, snappy cookies, so I don't think *zaeti* are worth the effort for me. I am certainly gonna pick up a pack of the real deal in Venice, though!
-
-### Two-Ingredient Greek Yogurt Naan
-
-![two-ingredient greek yogurt naan bread](/food/foodventures/images/greek-yogurt-naan-1.jpg){:width="30%"}{: .image-right}
-
-You've probably seen this recipe before, because it's one that was quite viral at some point. However, the title is sort of misleading because you technically need three ingredients (self-rising flour, greek yogurt, and *salt*) to turn out something edible, and who keeps self-rising flour at home, so it's more like four ingredients (flour, *baking soda*, greek yogurt, and salt).
-
-I made these once last fall, and remember being pretty impressed by the flavour even though I totally burned the whole batch. For some reason, these ones didn't turn out as great. Or maybe it's because as my bread-making skills have gotten better, I've developed higher standards for my bread? Either way, I was mostly disappointed by the lack of air pockets that you'd expect in naan. These looked, and tasted, quite flat. They are good enough as a vehicle for curry (which is what I made them for) but nothing beyond that.
-
-### Mango Toast
-
-![mango on toast](/food/foodventures/images/mango-toast.jpg){:width="30%"}{: .image-right}
-
-This is what it looks like: I put sliced up pieces of mango onto my [homemade bread](#parker-house-rolls-and-loaf) and toasted them. I was kinda inspired by avocado toast, I guess? I've seen mango toast on Instagram as well, but obviously a lot more aesthetic than mine. Although I like most fruit after it's been roasted a little (especially apples and peaches... mmm), turns out mango is not one of those fruits. Maybe it was because I didn't heat them long enough for the sugars to start caramelizing, but toasting mango did nothing to enhance its flavour for me.
-
-## Saturday
-
-### Roast Chicken with Rosemary and Thyme
