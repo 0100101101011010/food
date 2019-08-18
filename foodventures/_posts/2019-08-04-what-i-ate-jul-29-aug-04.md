@@ -71,13 +71,13 @@ Dinner tonight was a total success! Kevin was a huge fan of the cauliflower (I'v
 
 ### Chinese Steamed Buns (Mantou)
 
-![mini mantou in the instant pot](/food/foodventures/images/mantou-1.jpg){:width="60%"}{: .image-left}
+![mini mantou in the instant pot](/food/foodventures/images/mantou-1.jpg){:width="50%"}{: .image-left}
 
 Yes, you can make these bbs in the Instant Pot!!
 
 *Mantou* were a huge part of my breakfasts growing up, but my mom liked to use whole wheat flour, which is a no for me, so I never particularly liked them. (I love whole wheat flour in so many things, but in something as pure as mantou where there are no competing flavours or textures in the dough, the whole wheat is too much.) However, I've always loved the ones served at restaurants, you know, the ones that were fried to golden perfection and dipped in some condensed milk?
 
-![mini mantou dipped in condensed milk](/food/foodventures/images/mantou-2.jpg){:width="60%"}{: .image-right}
+![mini mantou dipped in condensed milk](/food/foodventures/images/mantou-2.jpg){:width="50%"}{: .image-right}
 
 When I moved out, I realized I could make my own cute, white flour only mantou. And since I don't have a double steamer like my parents do at home, the Instant Pot was a perfect substitute!
 
