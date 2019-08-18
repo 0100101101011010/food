@@ -33,9 +33,11 @@ discussion_id: 2019-08-04
 
 ### Veggie Hot Dog
 
-![yves vegetarian hot dog](/food/foodventures/images/hot-dogs-2.jpg){:width="20%"}{: .image-right}
+![yves vegetarian hot dog](/food/foodventures/images/hot-dogs-2.jpg){:width="10%"}{: .image-right}
 
 A Yves veggie dog, prepped from [two months ago](/food/foodventures/what-i-ate-jun-10-16/#hot-dog-sandwiches-meal-prep). Not much to say here. My hot dog buns definitely need work, as these were a bit too crusty. Not too bad for a zero-prep breakfast, though.
+
+Yves veggie dogs actually taste quite close to hot dogs made with real meat, as far as I'm concerned. But I don't think I will be buying these that often because they are very processed and, tbh, I don't need hot dogs in my life this badly.
 
 ### Spam & Salami Pizza
 
