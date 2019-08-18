@@ -17,7 +17,7 @@ keywords:
  - healthy diet
  - home cooking
  - homemade bread
-excerpt: "Since the past two weeks haven't the healthiest in terms of meals, I'm trying to get back on track this week with more vegetables and whole foods in my diet."
+excerpt: "Since the past two weeks haven't the healthiest in terms of meals, I'm trying to get back on track with more vegetables and whole foods in my diet. The start of exam season isn't going to stop me from making yummy food."
 img: /food/foodventures/images/aug-4-2019.jpg
 comments: "0"
 
