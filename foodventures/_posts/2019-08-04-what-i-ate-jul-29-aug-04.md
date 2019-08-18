@@ -49,7 +49,7 @@ I think this is the first time Kevin has ever complained about too much garlic o
 
 ### Bok Choy and Spam Fried Rice
 
-![bok choy and spam fried rice](/food/foodventures/images/bok-choy-spam-fried-rice.jpg){:width="60%"}{: .image-right}
+![bok choy and spam fried rice](/food/foodventures/images/bok-choy-spam-fried-rice.jpg){:width="40%"}{: .image-left}
 
 I think this combo of baby bok choy and spam is a winner, but this time the rice wasn't right.
 
