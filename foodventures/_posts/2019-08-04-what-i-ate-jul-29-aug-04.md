@@ -127,7 +127,7 @@ My only complaint is that the ube jam is still a bit too overpoweringly rich. Ne
 
 ![artichoke-stuffed mushrooms](/food/foodventures/images/artichoke-stuffed-mushrooms.jpg){:width="40%"}{: .image-left}
 
-This is the first time I've eaten mushrooms all term, believe it or not. I was never the world's biggest mushroom fan, and since Kevin shuns mushrooms in all forms, I've always opted for recipes that don't call for mushrooms or left them out in ones that do. However, I've been wanting to try this recipe for a while now, and mushrooms were on sale this week, so I went for them!
+This is the first time I've eaten mushrooms all term, believe it or not. I was never the world's biggest mushroom fan, and since Kevin shuns mushrooms in all forms, I've always opted for recipes that don't call for mushrooms or left them out in ones that do. However, I've been wanting to try [this recipe](https://www.reddit.com/r/veganrecipes/comments/c0xnoa/-/er8moki) for a while now, and mushrooms were on sale this week, so I went for them!
 
 While the filling was really, really delicious on its own, I found that the mushroom and filling together was just *too mushroomy* for my taste. I guess I prefer mushrooms as a flavour enhancer, not as the main feature of a dish, because I would've happily eaten the filling as part of a salad, in deviled eggs, or on a baked potato, but not stuffed into mushroom caps.
 
@@ -153,7 +153,7 @@ We were both disappointed by these ones. Usually, T&T branded food is pretty on 
 
 To their credit, they fry up really well (to cook from frozen, you basically heat up 1/2 cup of water with a tbsp or two of oil, then let the dumplings boil in the water until it's all evaporated off). The outside was so crispy and fragrant and the inside was a total letdown. :-(
 
-The other saving grace was the gyoza dipping sauce I made, following this simple recipe from [Allrecipes](). It's soooo easy, but it looks (and tastes) great!
+The other saving grace was the gyoza dipping sauce I made, following this simple recipe from [Allrecipes](https://www.allrecipes.com/recipe/162361/gyoza-sauce/). It's soooo easy, but it looks (and tastes) great!
 
 ### Soft Rum Cookies
 
@@ -161,7 +161,7 @@ The other saving grace was the gyoza dipping sauce I made, following this simple
 
 From the dough, you can tell that this is one super, duper soft cookie. Even after they'd fully cooled down, it was tricky removing them from the baking sheet because they were so fragile. I definitely ate a few that fell apart on me. I made these for Kevin because he loves the rum flavour in baked goods, but his reaction was totally disappointing. He couldn't even taste the rum!
 
-I still can't quite figure it out. I actually added way more rum than the recipe suggested and I feel like it's quite intense. I personally liked them, but I ended up giving most of them away to a friend because without Kevin's help, I would end up eating all of them which is seriously not a good idea, especially because I baked some *zaeti* cookies this same day.
+I still can't quite figure it out. I actually added way more rum than the [recipe](https://realhousemoms.com/buttered-rum-snickerdoodles/#wprm-recipe-container-61553) suggested and I feel like it's quite intense. I personally liked them, but I ended up giving most of them away to a friend because without Kevin's help, I would end up eating all of them which is seriously not a good idea, especially because I baked some *zaeti* cookies this same day.
 
 ### Not-Quite-Venetian Zaeti Cookies
 
@@ -169,7 +169,7 @@ I still can't quite figure it out. I actually added way more rum than the recipe
 
 *Zaeti* are a traditional Venetian biscuit made with half flour and half cornmeal. Polenta is frequently eaten here, so it makes sense that they would have a cookie made from cornmeal too, doesn't it?
 
-My recipe comes from [Dead Chef](), but I deviated in some pretty significant ways. The recipe calls for rolling the dough out into a thin layer and cutting out triangle shapes for the cookies. Well, at this point in the night I was pretty tired and not in the mood for fanciful cookie shapes, so I simply portioned out spoonfuls of dough and flattened the centre with a spoon, and baked them like that.
+My recipe comes from [Dead Chef](http://deadchefdc.blogspot.com/2014/06/half-cup-sugar-cornmeal-cookies-zaleti.html), but I deviated in some pretty significant ways. The recipe calls for rolling the dough out into a thin layer and cutting out triangle shapes for the cookies. Well, at this point in the night I was pretty tired and not in the mood for fanciful cookie shapes, so I simply portioned out spoonfuls of dough and flattened the centre with a spoon, and baked them like that.
 
 ![venetian zaeti cookies](/food/foodventures/images/zaeti-1.jpg){:width="30%"}{: .image-right}
 
