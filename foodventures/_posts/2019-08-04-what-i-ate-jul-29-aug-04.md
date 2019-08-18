@@ -33,9 +33,9 @@ discussion_id: 2019-08-04
 
 ### Veggie Hot Dog
 
-![yves vegetarian hot dog](/food/foodventures/images/hot-dogs-2.jpg){:width="60%"}{: .image-right}
+![yves vegetarian hot dog](/food/foodventures/images/hot-dogs-2.jpg){:width="20%"}{: .image-right}
 
-A Yves veggie dog, prepped from [two months ago](/food/foodventures/what-i-ate-jun-10-16/#hot-dog-sandwiches-meal-prep).
+A Yves veggie dog, prepped from [two months ago](/food/foodventures/what-i-ate-jun-10-16/#hot-dog-sandwiches-meal-prep). Not much to say here. My hot dog buns definitely need work, as these were a bit too crusty. Not too bad for a zero-prep breakfast, though.
 
 ### Spam & Salami Pizza
 
@@ -171,4 +171,4 @@ My recipe comes from [Dead Chef](), but I deviated in some pretty significant wa
 
 ![venetian zaeti cookies](/food/foodventures/images/zaeti-1.jpg){:width="30%"}{: .image-right}
 
-Would I make them again? No. Not even the right way. I think the use of cornmeal in a cookie is a fascinating idea, but in the end there are better ways to appreciate and enjoy its unique flavour. I don't like hard, snappy cookies, so I don't think *zaeti* are worth the effort for me. I am certainly gonna pick up a pack of the real deal in Venice, though!
+Would I make them again? Noooo. Not even the right way. I think the use of cornmeal in a cookie is a fascinating idea, but in the end there are better ways to appreciate and enjoy its unique flavour. I don't like hard, snappy cookies, so I don't think *zaeti* are worth the effort for me. I am certainly gonna pick up a pack of the real deal in Venice, though!
