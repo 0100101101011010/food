@@ -137,7 +137,7 @@ While the filling was really, really delicious on its own, I found that the mush
 
 !["dumpling wrapper" scallion pancakes](/food/foodventures/images/scallion-pancakes-1.jpg){:width="50%"}{: .image-left}
 
-This is a "shortcut" recipe that uses dumpling wrappers to achieve the thin crispy layers of a scallion pancake. I have to say this is not nearly as easy as the video on the recipe website makes it look: the layered dumpling wrappers did not want to stick together when I pressed them with a rolling pin, instead slipping up and down past each other. Scallion bits were falling out everywhere!
+This is a "shortcut" recipe that uses dumpling wrappers to achieve the thin crispy layers of a scallion pancake. I have to say this is not nearly as easy as the video on the [recipe website](https://thewoksoflife.com/easy-scallion-pancakes/) makes it look: the layered dumpling wrappers did not want to stick together when I pressed them with a rolling pin, instead slipping up and down past each other. Scallion bits were falling out everywhere!
 
 Quite messy, and at that point you might as well just boil some water and make them the traditional way.
 

@@ -111,7 +111,7 @@ When it comes to meal prep, my recipes follow three guiding principles:
 
 I'm very happy to report that this lentil soup is all three!
 
-I'm not into fresh herbs at all... every college student who tries to cook at home knows the struggle of buying a handful of cilantro or parsley for a recipe, only to have to throw away the wilted remainder a week later. There's nothing more stressful than knowing you have produce going bad in your fridge but not having a recipe to use it in. I don't want my life to be run by herbs!! That's why when I come up with recipes, I try to stick to dried spices and herbs. These babies don't go bad for a long time, plus they don't take up space in the fridge.
+Part of my low effort criteria involves minimizing the number of ingredients you have to keep on hand. Dried spices and herbs, especially. I'm not into fresh herbs at all... every college student who tries to cook at home knows the struggle of buying a handful of cilantro or parsley for a recipe, only to have to throw away the wilted remainder a week later. There's nothing more stressful than knowing you have produce going bad in your fridge but not having a recipe to use it in. I don't want my life to be run by herbs!! That's why when I come up with recipes, I try to stick to dried spices and herbs. These babies don't go bad for a long time, plus they don't take up space in the fridge.
 
 I also try to make my recipes versatile. This one is super flexible on the vegetables. You can add in whatever you have, like tomatoes, squash, kale, mushrooms, etc. It's great for dumping leftovers in!
 
