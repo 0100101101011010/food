@@ -111,7 +111,7 @@ I didn't want to eat too much for dinner after such a calorific day, so I cooked
 
 I hinted [yesterday](#ube-jam) that I would make ensaymadas, and here we are!
 
-Wow, this turned out so much better than I'd expected. It is a very very soft dough, but by using a lot of flour to shape and roll it up, I avoided any stickiness.
+[This is the recipe recipe](https://www.foxyfolksy.com/ensaymada-recipe/#wprm-recipe-container-11897) used for the dough. WOW, it turned out much better than I'd expected. It is a very very soft dough, but by using a lot of flour to shape and roll it up, I avoided any stickiness.
 
 To shape each ensaymada, I grabbed a handful of dough (what I estimate roughly to be 1/4–1/2 cup), rolled it into a long, slightly-flattened tube on a floured cutting board, then spread a generous layer of ube jam over the entire top surface. I then held it up in the air from one end. The dough is so soft that it'll stretch itself out even more when you dangle it in the air. Next, I rolled it up into a spiral shape (like a cinnamon bun) and placed it onto sprayed baking sheet.
 
