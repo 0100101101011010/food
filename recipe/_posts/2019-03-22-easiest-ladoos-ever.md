@@ -9,7 +9,7 @@ tags: [100 calories]
 excerpt: "(And the tastiest too!) These simple 4-ingredient ladoos are so creamy and delicious, I couldn't stop eating them even before they cooled down. Did I mention it's a one-pot recipe?!"
 img: /food/recipe/images/easiest-ladoos-ever-cover.jpg
 
-comments: "3"
+comments: "1"
 
 keywords:
  - chickpeas
