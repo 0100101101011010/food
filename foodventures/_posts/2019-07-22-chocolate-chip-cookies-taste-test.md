@@ -14,7 +14,7 @@ keywords:
  - cookies
 excerpt: "Welcome to Jellie's Taste Kitchen. Today we're studying how changes to the baking time and temperature of cookie dough produce different results. These are my most successful chocolate chip cookies to date!"
 img: /food/foodventures/images/chocolate-chip-cookies-cover.jpg
-comments: "0"
+comments: "2"
 
 discussion_id: 2019-07-22
 ---
