@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Ate: North Italy (Part 1/3: Milan)"
+title: "What I Ate: North Italy Edition (Part 1/3: Milan)"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
