@@ -10,8 +10,8 @@ keywords:
  - european food
  - italian restaurants
  - italian cuisine
-excerpt: "It's another short post this week as I'm heading off to Italy on Friday. This week has been less than healthy because I've been a bit preoccupied with exams, and I've had no motivation to cook."
-img: /food/foodventures/images/aug-16-2019.jpg
+excerpt: "The cosmopolitan nature of Milan is reflected through its varied cuisine. We ate everything from modern Italian dishes at a Michelin-starred restaurant to Brazilian-Japanese fusion sushi."
+img: /food/foodventures/images/aug-22-2019.jpg
 comments: "0"
 
 published: false
@@ -28,9 +28,18 @@ discussion_id: 2019-08-22
 
 ### Osteria di Brera
 
-I have to say, the most culture-shock part of this lunch came from the bread situation.
+A mere five minutes' walk from our Airbnb, Osteria di Brera was the perfect choice for our first meal in Italy. Even though it was past 4 pm when we arrived, several tables were still sitting around enjoying their food, which seemed to be a good sign.
 
-![risotto with shrimp and mollusc](/food/foodventures/images/risotto-shrimp-mollusc.jpg){:width="50%"}{: .image-left}
+We had no idea of what to expect from Italian dining customs, but I have to say, the most culture-shock part of this lunch came from the bread situation. After we placed our orders, our waiter brought forth a basket of bread and a jar of olive oil. No plate, no bowl... we were really at a loss. It seemed that we were supposed to eat the bread with some olive oil, but how...? In the few North American restaurants that serve this combination, the olive oil is always brought over in a dish which you then dip bread into.
+
+We speculated that one is either supposed to:
+
+1. Pour olive oil directly over the piece of bread one is eating.
+1. Drizzle the olive oil over the entire bread basket.
+
+Both of these didn't seem to make a lot of sense, but I decided to try the first option. Total mess, dripped olive oil all over the tablecloth and my fingers. Bread tasted amazing though.
+
+![risotto with shrimp and mollusc](/food/foodventures/images/osteria-di-brera-risotto-shrimp-mollusc.jpg){:width="50%"}{: .image-left}
 
 Kevin got the risotto with shrimp and mollusc, since risotto is one of Milan's specialties. He liked the rice and shrimp but found the molluscs too briny. I thought the flavour was okay, but tbh, I've never really cared for risotto. The rice is kind of hard and chalky to me, and even though I like dairy-rich dishes like Alfredo, I don't enjoy the taste of milk in risotto.
 
