@@ -81,7 +81,23 @@ I'll be going over the items we bought in detail in my [Italian junk food](/food
 
 ![spontini pizza](/food/foodventures/images/spontini-pizza-1.jpg){:width="40%"}{: .image-right}
 
-Although Milan and Northern Italy in general are not known for pizza, Spontini is a local institution. Unlike the thin-crusted, lightly-topped Neapolitan pizzas, the pies here are absolute units.
+After walking around the city centre, visiting Galleria Vittorio Emanuele II, and a couple other attractions in the Duomo area, we stopped by Spontini, Milan's own pizzeria, to grab a quick bite for lunch.
+
+The inside of this particular Spontini location is interesting, in that there are no chairs. The counters are made for you to eat while standing, not exactly a comfortable experience for long meals, but it works when you just want to wolf down a thick, greasy pizza slice and get on with your day.
+
+![spontini pizza slices](/food/foodventures/images/spontini-pizza-2.jpg){:width="30%"}{: .image-left}
+
+Although Milan and Northern Italy in general are not known for pizza, Spontini is a local institution, one of the oldest pizza chains still around in the city. Unlike the thin-crusted, lightly-topped Neapolitan pizzas, the pies here are absolute units.
+
+This is kinda funny to me because I've heard so much shit about how thick-crusted pizza is the greasy, bastardized American form of traditional Neapolitan pizza, but meanwhile the one here in Milan is fatter than any North American pizza I've ever seen!
+
+!["spontini 1953" pizza](/food/foodventures/images/spontini-pizza-3.jpg){:width="40%"}{: .image-right}
+
+We debated whether to order two individual slices or one large slice, but in the end, sharing turned out to be the correct option because those pizzas were *MASSIVE!* Sharing a single large slice (€6 each) was enough to fill us up for the next few hours.
+
+We ordered the classic "Spontini 1953," which is their standard pizza base of tomato sauce, cheese, and dried basil, with the additional topping of anchovies. Of course Kevin stayed away from the anchovies as far as possible, and I ate them all up. They were so salty they made my mouth pucker, but 10/10 would eat them again.
+
+Kevin and I both concluded that while tasty, it was not our fave, being too greasy, cheesy, and thick. However, I loved the crust. It was golden brown, completely drenched in oil, and reminded me a little of the taste of *youtiao* (Chinese fried long donuts).
 
 ## Monday
 
