@@ -14,8 +14,6 @@ excerpt: "The cosmopolitan nature of Milan is reflected through its varied cuisi
 img: /food/foodventures/images/aug-22-2019.jpg
 comments: "0"
 
-published: false
-
 discussion_id: 2019-08-22
 ---
 
@@ -208,10 +206,28 @@ Our bill at Paper Moon came to €55, which is on the expensive side of our meal
 
 ### Dinner at Osteria Brunello
 
-![gazpacho appetizer at osteria brunello](/food/foodventures/images/osteria-brunello-gazpacho.jpg){:width="30%"}{: .image-right}
+Our last dinner in the city was at Osteria Brunello, a restaurant known for serving up quality traditional Milanese food.
 
-![bread at osteria brunello](/food/foodventures/images/osteria-brunello-bread.jpg){:width="30%"}{: .image-right}
+![gazpacho appetizer at osteria brunello](/food/foodventures/images/osteria-brunello-gazpacho.jpg){:width="30%"}{: .image-left} ![bread at osteria brunello](/food/foodventures/images/osteria-brunello-bread.jpg){:width="30%"}{: .image-left}
 
-![eggplant ravioli at osteria brunello](/food/foodventures/images/osteria-brunello-ravioli.jpg){:width="30%"}{: .image-right}
+We received a complimentary appetizer of watermelon gazpacho with soft cheese. The cheese was very strong, but it tasted good spread onto the bread. The watermelon gazpacho was an interesting flavour, but I don't like gazpacho very much so I didn't really enjoy this.
 
-![cotoletta alla milanese at osteria brunello](/food/foodventures/images/osteria-brunello-cotoletta.jpg){:width="30%"}{: .image-right}
+This bread basket is my favourite of all the restaurants that have provided bread so far.
+
+![eggplant ravioli at osteria brunello](/food/foodventures/images/osteria-brunello-ravioli.jpg){:width="40%"}{: .image-right}
+
+![cotoletta alla milanese at osteria brunello](/food/foodventures/images/osteria-brunello-cotoletta.jpg){:width="40%"}{: .image-right}
+
+My parmigiana di melanzane (eggplant and parmesan cheese) ravioli was delicious! The smoked provola cheese stew that it sat in was creamy and rich, but not cloying. The candied tomato provided a citrusy note, and the dried squash strips (I assume that's what those black-yellow sticks are, though tbh I couldn't tease the flavour from them) added some crunch. All in all, a lot of different tastes and textures going on here, but they manage to come together.
+
+Kevin ordered what is ostensibly this restaurant's most famous dish, their [award-winning](https://www.gamberorosso.it/notizie/milano-2015-del-gambero-rosso-migliori-cucine-cantine-qualita-prezzo/) *cotoletta alla Milanese,* or cutlet in the Milanese style, a traditional Milanese main course which turns out to be a big cutlet of breaded veal. I tried a little bit and was kind of underwhelmed. It didn't taste like much. Just... meat and batter, which is what it is?
+
+Tbh, the most interesting part of the dish was the side salad of arugula and the accompanying mayonnaise. This mayonnaise was infused with arugula! Kevin and I are both strong arugula-haters, so obviously we weren't big on it, but I think it's kind of neat to have tried "arugula-flavoured" mayo. I never even knew mayo could have different flavours before. It's like a cursed ice cream.
+
+> Hong Kong pork cutlet is better. This one is basically just meat battered and fried. It didn't taste [savoury.] Wasn't that good, very bland. The arugula was very bad and the sauce [was also infused with it] for some reason.
+
+– Kevin
+
+So as you can tell, he was a little disappointed as well.
+
+Thanks for reading the first part of my Italy food blog! We're leaving Milan on Thursday for Bologna, where we'll be spending three days. I am *excited* for Bolognese food. Emilia-Romagna (the region where Bologna is the capital) is renowned for its deliciously rich cuisine, and hopefully we'll be able to experience it to the max. Watch out for my post soon. Ciao!
