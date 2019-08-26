@@ -207,3 +207,11 @@ For dessert, we split the tiramisu, which was quite good. Kevin compared it favo
 Our bill at Paper Moon came to €55, which is on the expensive side of our meals here.
 
 ### Dinner at Osteria Brunello
+
+![gazpacho appetizer at osteria brunello](/food/foodventures/images/osteria-brunello-gazpacho.jpg){:width="30%"}{: .image-right}
+
+![bread at osteria brunello](/food/foodventures/images/osteria-brunello-bread.jpg){:width="30%"}{: .image-right}
+
+![eggplant ravioli at osteria brunello](/food/foodventures/images/osteria-brunello-ravioli.jpg){:width="30%"}{: .image-right}
+
+![cotoletta alla milanese at osteria brunello](/food/foodventures/images/osteria-brunello-cotoletta.jpg){:width="30%"}{: .image-right}
