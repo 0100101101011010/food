@@ -23,14 +23,6 @@ discussion_id: 2019-08-22
 * TOC
 {:toc}
 
-## A few notes about dining out in Italy
-
-* Myth: Bread is additional charge
-* Coperto
-* Water is fee
-* Pay at counter
-* Lots of restaurants closed in August
-
 ## Saturday
 
 ### Late Lunch at Osteria di Brera
