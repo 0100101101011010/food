@@ -223,4 +223,8 @@ Tbh, the most interesting part of the dish was the side salad of arugula and the
 
 So as you can tell, he was a little disappointed as well.
 
+![fior di latte ice cream at osteria brunello](/food/foodventures/images/osteria-brunello-ice-cream.jpg){:width="40%"}{: .image-right}
+
+![tiramisu at osteria brunello](/food/foodventures/images/osteria-brunello-tiramisu.jpg){:width="40%"}{: .image-right}
+
 Thanks for reading the first part of my Italy food blog! We're leaving Milan on Thursday for Bologna, where we'll be spending three days. I am *excited* for Bolognese food. Emilia-Romagna (the region where Bologna is the capital) is renowned for its deliciously rich cuisine, and hopefully we'll be able to experience it to the max. Watch out for my post soon. Ciao!
