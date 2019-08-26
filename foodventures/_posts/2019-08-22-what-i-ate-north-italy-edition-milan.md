@@ -4,9 +4,10 @@ title: "What I Ate: North Italy Edition (Part 1/3: Milan)"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
-tags: milan italy restaurants
+tags: travel restaurants
 keywords:
  - food tour
+ - milanese cuisine
  - european food
  - italian restaurants
  - italian cuisine
