@@ -143,7 +143,7 @@ Kevin let one of the servers know about the issue early on, but he didn't seem t
 
 ![contraste tasting menu](/food/foodventures/images/contraste-1.jpg){:width="40%"}{: .image-right} ![contraste tasting menu](/food/foodventures/images/contraste-3.jpg){:width="40%"}{: .image-right}
 
-On the bright side, the particular server who handled our mosquito problem was nice about it and continually checked up on us throughout the meal to see if we were still being bothered. (The mosquitoes did go away after putting on bug spray.) Anyway, I might come back later to do a more in-depth write-up about the food, but I think the mosquitoes are a more interesting story.
+On the bright side, the server who handled our mosquito problem was nice about it and continually checked up on us throughout the meal to see if we were still being bothered. (The mosquitoes did go away after putting on bug spray.) Anyway, I might come back later to do a more in-depth write-up about the food, but I think the mosquitoes are a more interesting story.
 
 ![contraste tasting menu](/food/foodventures/images/contraste-2.jpg){:width="40%"}{: .image-right} ![contraste tasting menu](/food/foodventures/images/contraste-4.jpg){:width="40%"}{: .image-right}
 
