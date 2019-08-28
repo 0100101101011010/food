@@ -31,7 +31,7 @@ A mere five minutes' walk from our Airbnb, [Osteria di Brera](https://www.osteri
 
 We had no idea of what to expect from Italian dining customs, but I have to say, the most culture-shock part of this lunch came from the bread situation. After we placed our orders, our waiter brought forth a basket of bread and a jar of evoo. No plate, no bowl... we were really at a loss. It seemed that we were supposed to eat the bread with some oil, but how...? In the few North American restaurants that serve this combination, the olive oil is always brought over in a dish which you then dip bread into.
 
-![bread with extra virgin olive oil](/food/foodventures/images/osteria-di-brera-bread.jpg){:width="30%"}{: .image-left}
+![bread with extra virgin olive oil](/food/foodventures/images/osteria-di-brera-bread.jpg){:width="30%"}{: .image-right}
 
 We speculated that one is either supposed to:
 
@@ -48,7 +48,7 @@ I ordered a raw seafood platter, or *mix di crudo,* which cost about €35 (or r
 
 [\*EDIT: It's now two days later, and I haven't suffered any gastrointestinal issues at all. I have some concerns of food poisoning or indigestion every time I eat so much raw seafood, but in this case everything was perfectly fresh.]
 
-![risotto with shrimp and mollusc](/food/foodventures/images/osteria-di-brera-risotto-shrimp-mollusc.jpg){:width="50%"}{: .image-right}
+![risotto with shrimp and mollusc](/food/foodventures/images/osteria-di-brera-risotto-shrimp-mollusc.jpg){:width="40%"}{: .image-left}
 
 Kevin got the risotto with shrimp and mollusc (€18), since risotto is one of Milan's specialties. He liked the rice and shrimp but found the molluscs too briny. I thought the flavour was okay, but tbh, I've never really cared for risotto. The rice is kind of hard and chalky to me, and even though I like dairy-rich dishes like Alfredo, I don't enjoy the taste of milk in risotto.
 
