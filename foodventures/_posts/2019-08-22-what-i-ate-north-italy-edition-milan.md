@@ -147,7 +147,7 @@ On the bright side, the particular server who handled our mosquito problem was n
 
 ![contraste tasting menu](/food/foodventures/images/contraste-2.jpg){:width="40%"}{: .image-right} ![contraste tasting menu](/food/foodventures/images/contraste-4.jpg){:width="40%"}{: .image-right}
 
-We were served a tasting menu of over nine dishes, but these are the only photos I took. Think of these as a little appetizer for a possible future review. :-)
+We were served a tasting menu of over nine dishes, but these are the only photos I took. The experience overall (following the mosquito attack) was great, more reminiscent of viewing an art gallery than eating at a restaurant. Think of these photos as a little *antipasto* for a possible future review. :-)
 
 ## Tuesday
 
