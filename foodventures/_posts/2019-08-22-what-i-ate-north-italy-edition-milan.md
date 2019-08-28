@@ -225,7 +225,7 @@ So as you can tell, he was a little disappointed as well.
 
 ![fior di latte ice cream at osteria brunello](/food/foodventures/images/osteria-brunello-ice-cream.jpg){:width="40%"}{: .image-right}
 
-For dessert, I ordered the fior di latte ice cream. I've always been intrigued by just how fior di latte would taste different from vanilla... I figured it would be like eating vanilla ice cream without the vanilla flavour, but I couldn't imagine what that would actually taste like. Well, I found out this evening that it is basically exactly what it sounds like: sweet ice cream with no distinct flavour. Not a real fan of this, even more boring than vanilla, will not be trying again.
+For dessert, I ordered the fior di latte ice cream. I've always been intrigued by just how fior di latte would taste different from vanilla... I figured it would be like eating vanilla ice cream without the vanilla flavour, but I couldn't imagine what that would actually taste like. Well, I found out this evening that it is basically exactly what it sounds like: sweet ice cream with no distinct flavour, not even particularly milky. Not a real fan of this, even more boring than vanilla, will not be trying again.
 
 ![tiramisu at osteria brunello](/food/foodventures/images/osteria-brunello-tiramisu.jpg){:width="40%"}{: .image-right}
 
