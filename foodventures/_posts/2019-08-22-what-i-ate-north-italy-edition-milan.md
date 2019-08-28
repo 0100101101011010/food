@@ -193,7 +193,7 @@ Kevin's margherita pizza was very flimsy and floppy, and he didn't like that it 
 
 ![tiramisu at paper moon](/food/foodventures/images/paper-moon-tiramisu.jpg){:width="30%"}{: .image-right}
 
-For dessert, we split the tiramisu, which was quite good. Kevin compared it favourably to the [McDonald's tiramisu](#) he tried earlier this week (not that that's saying much LOL). The cocoa powder topping was very substantial on this one, achieving a bitter, chocolatey top layer that contrasts with the light, creamy bottom layers.
+For dessert, we split the tiramisu, which was quite good. It's Kevin's favourite of all the ones we tried in Milan. The cocoa powder topping was very substantial on this one, achieving a bitter, chocolatey top layer that contrasts with the light, creamy bottom layers.
 
 Our bill at Paper Moon came to €55, which is on the expensive side of our meals here.
 
