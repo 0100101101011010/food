@@ -199,7 +199,7 @@ Our bill at Paper Moon came to €55, which is on the expensive side of our meal
 
 ### Dinner at Osteria Brunello
 
-Our last dinner in the city was at Osteria Brunello, a restaurant known for serving up quality traditional Milanese food. Overall it was a wonderful meal to wrap up our trip to Milan. The only thing that put on damper on the experience is the number of street hawkers and beggars harrassing the people sitting outside. We also sat outside, but luckily near the inside corner, so we were insulated by the other tables. It was still very awkward to watch them repeatedly approached by people asking for money, selling cigarettes, offering photos with roses, etc...
+Our last dinner in the city was at Osteria Brunello, a restaurant known for serving up quality traditional Milanese food. Overall it was a wonderful meal to wrap up our trip to Milan. The only thing that put on damper on the experience is the number of street hawkers and beggars harrassing the tables outside. We also sat outside, but luckily near the inside corner, so we were insulated by the other groups of patrons. It was still very awkward to watch them repeatedly approached by people on the street asking for money, selling cigarettes, offering photos with roses, etc... all while the waiter stood there and watched. I understand that it isn't exactly the restaurant's fault, and they can't ban people from the public sidewalk, but if you eat here I recommend sitting inside the restaurant.
 
 ![gazpacho appetizer at osteria brunello](/food/foodventures/images/osteria-brunello-gazpacho.jpg){:width="30%"}{: .image-left} ![bread at osteria brunello](/food/foodventures/images/osteria-brunello-bread.jpg){:width="30%"}{: .image-left}
 
