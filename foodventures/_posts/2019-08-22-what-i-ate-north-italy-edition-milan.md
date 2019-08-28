@@ -209,11 +209,11 @@ This bread basket is my favourite of all the restaurants that have provided brea
 
 ![eggplant ravioli at osteria brunello](/food/foodventures/images/osteria-brunello-ravioli.jpg){:width="40%"}{: .image-right}
 
-![cotoletta alla milanese at osteria brunello](/food/foodventures/images/osteria-brunello-cotoletta.jpg){:width="40%"}{: .image-right}
-
 My parmigiana di melanzane (eggplant and parmesan cheese) ravioli was delicious! The smoked provola cheese stew that it sat in was creamy and rich, but not cloying. The candied tomato provided a citrusy note, and the dried squash strips (I assume that's what those black-yellow sticks are, though tbh I couldn't tease the flavour from them) added some crunch. All in all, a lot of different tastes and textures going on here, but they manage to come together.
 
 Kevin ordered what is ostensibly this restaurant's most famous dish, their [award-winning](https://www.gamberorosso.it/notizie/milano-2015-del-gambero-rosso-migliori-cucine-cantine-qualita-prezzo/) *cotoletta alla Milanese,* or cutlet in the Milanese style, a traditional Milanese main course which turns out to be a big cutlet of breaded veal. I tried a little bit and was kind of underwhelmed. It didn't taste like much. Just... meat and batter, which is what it is?
+
+![cotoletta alla milanese at osteria brunello](/food/foodventures/images/osteria-brunello-cotoletta.jpg){:width="40%"}{: .image-right}
 
 Tbh, the most interesting part of the dish was the side salad of arugula and the accompanying mayonnaise. This mayonnaise was infused with arugula! Kevin and I are both strong arugula-haters, so obviously we weren't big on it, but I think it's kind of neat to have tried "arugula-flavoured" mayo. I never even knew mayo could have different flavours before. It's like a cursed ice cream.
 
