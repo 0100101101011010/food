@@ -171,7 +171,7 @@ Temakinho is a chain of Italian restaraunts serving Brazilian-Japanese fusion. I
 
 We each ordered a temaki, or hand roll, and a sushi roll. The Salmão Empanada temaki consisted of bread salmon salmon with lettuce, drizzled with teriyaki sauce and topped with almonds, rolled up with rice in a nori sheet. Kevin liked this one so much that we ordered another roll for takeaway. The Salmão Abacate temaki had more standard sushi ingredients, with raw salmon and avocado, and a touch of spicy mayo.
 
-![violeta roll at temakinho](/food/foodventures/images/temakinho-violeta-roll.jpg){:width="40%"}{: .image-right}
+![violeta roll at temakinho](/food/foodventures/images/temakinho-violeta-roll.jpg){:width="40%"}{: .image-left}
 
 My Violeta roll was really unique. It was a vegan roll of yam tempura and other veggies, complete with vegan roe (it tasted a bit like sago pearls in a savoury marinade, very interesting). The purple rice comes from staining with beetroot.
 
