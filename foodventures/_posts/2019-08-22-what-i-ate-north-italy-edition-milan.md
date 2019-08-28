@@ -203,7 +203,7 @@ Our last dinner in the city was at Osteria Brunello, a restaurant known for serv
 
 ![gazpacho appetizer at osteria brunello](/food/foodventures/images/osteria-brunello-gazpacho.jpg){:width="30%"}{: .image-left} ![bread at osteria brunello](/food/foodventures/images/osteria-brunello-bread.jpg){:width="30%"}{: .image-left}
 
-We received a complimentary appetizer of watermelon gazpacho with soft cheese. The cheese was very strong, but it tasted good spread onto the bread. The watermelon gazpacho was an interesting flavour, but I don't like gazpacho very much so I didn't really enjoy this.
+We received a complimentary appetizer of watermelon gazpacho with soft cheese (I think a buttery gorgonzola or similar). The cheese was very strong, but it tasted good spread onto the bread. The watermelon gazpacho was an interesting flavour, but I don't like gazpacho very much so I didn't really enjoy this.
 
 This bread basket is my favourite of all the restaurants that have provided bread so far. I love the slices of multigrain bread, which had a softer crust than most Italian bread, making them actually edible without breaking my teeth off.
 
