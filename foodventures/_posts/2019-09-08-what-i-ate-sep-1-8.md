@@ -1,0 +1,134 @@
+---
+layout: post
+title: "What I Ate This Week: Aug 12–16"
+author: Kelly Zhang
+permalink: /:categories/:title/
+categories: foodventures
+tags: waterloo restaurants
+keywords:
+ - diet diary
+ - meal ideas
+ - dinner ideas
+ - homemade meals
+ - healthy food
+ - what i ate
+ - healthy diet
+ - home cooking
+ - homemade dessert
+ - old recipes
+ - historical cooking
+excerpt: "It's another short post this week as I'm heading off to Italy on Friday. This week has been less than healthy because I've been a bit preoccupied with exams, and I've had no motivation to cook."
+img: /food/foodventures/images/aug-16-2019.jpg
+comments: "0"
+published: false
+
+discussion_id: 2019-08-16
+---
+
+{{page.excerpt}}
+
+* TOC
+{:toc}
+
+## Monday
+
+
+### Coconut Chocolate Chip Blondies
+
+![coconut chocolate chip blondies](/food/foodventures/images/vegan-brownies-toasted-coconut.jpg){:width="30%"}{: .image-right}
+
+Since Kevin thought the [brownies](/food/foodventures/what-i-ate-aug-5-11/#vegan-brownies-with-toasted-coconut) I made last week were too chocolatey and rich, I thought he would probably like blondies better than brownies. He did like the toasted coconut from the brownies, though, so I set out to find a recipe for coconut blondies.
+
+The recipe [one I settled on](https://theconscientiouseater.com/vegan-coconut-chocolate-chunk-blondies/) calls for 1 cup of sugar (200 g), but I only used 75 g and it was plenty. I love sweets, but I can't understand how someone could eat something that sweet!!
+
+## Wednesday
+
+### Laughing Cow and Honey on Toast
+
+![vegan brownies](/food/foodventures/images/laughing-cow-honey-toast.jpg){:width="30%"}{: .image-right}
+
+This is the [second time]() I've made this combination, and although I'd much prefer an actual jam or spread, I kind of enjoy the taste of honey and mild cheese together.
+
+I didn't look too closely the last time I'd eaten it, but this time, I took a pretty clear picture, and as you can see... the cheese kind of... split. It looked gross, but I ate it anyway. I did some Googling afterwards and found out that the pH of honey is 3.9 on average!! That's so acidic (even more so than fresh tomatoes)! No wonder the cheese reacted badly.
+
+### Canadian War Cake
+
+![canadian war cake](/food/foodventures/images/canadian-war-cake-1.jpg){:width="30%"}{: .image-right} ![canadian war cake](/food/foodventures/images/canadian-war-cake-2.jpg){:width="30%"}{: .image-right}
+
+The name of the cake sounds a bit aggressive, but it's a fitting descriptor when you learn [this was a cake created during WWII](https://youtu.be/6o_1JqqfoZo). Food supplies in Canada were rationed at the time, and home cooks had to find creative ways to stretch their ingredients while still making something tasty. This batter uses no butter or eggs, and as a result, it's a super economical recipe.
+
+
+
+It's not an exclusively Canadian recipe either, because Googling it turns up results for similar cakes made throughout North America using a boiled syrup mixture of sugar and raisins mixed with flour. Variations of this cake go by names like "depression cake" and "boiled cake." Absolutely zero of these names sound appetizing, but I really wanted to give this particular recipe a try because 1) it's Canadian!! and 2) I was curious if it would actually taste good even from a modern perspective, for someone like me who has never lacked for food.
+
+![canadian war cake batter](/food/foodventures/images/canadian-war-cake-4.jpg){:width="30%"}{: .image-left} ![canadian war cake](/food/foodventures/images/canadian-war-cake-3.jpg){:width="30%"}{: .image-left}
+
+To make the batter, you first boil the sugar, raisins, and shortening together to make a sort of runny syrup. After letting it cool for a few minutes, you stir in flour and baking soda. It looks awful, doesn't it?
+
+
+
+From this brown and lumpy batter, you can actually make a pretty nice cake. It's not fancy by any means, with nothing in the way of decoration like an icing or glaze or some powdered sugar on top. But the cakes I make for personal consumption don't usually have those either (I find the cake sponge itself tasty enough without that extra sugar).
+
+The texture is a little bit gluey (is this what Paul Hollywood means when he says something is "claggy?") but it's pretty enjoyable! I don't like the raisins, but I know there are depression cakes with chocolate flavours, so I might try that variation next time.
+
+### Poutine from Chef On Call
+
+OMG, look at this plate of carby goodness!
+
+![large poutine from chef on call turnovers](/food/foodventures/images/chef-on-call-poutine.gif){:width="40%"}{: .image-right}
+
+I don't know if you've noticed but I've been kind of sleeping on healthy meals this week because of a lack of motivation. (WE'RE GOING TO ITALY IN TWO DAYS!! I don't know how anyone can stay motivated to carry on daily life tasks in the face of that news.)
+
+We haven't had poutine [in over a month](/food/foodventures/what-i-ate-jul-1-7/#poutine-with-st-albert-cheese-curds), so I acquiesced when Kevin suggested getting delivery from Chef on Call and sharing a poutine. This is a fairly new restaurant in our area. We had tried a sample of their food not long ago and liked it, so we wanted to give it a try. This is the first restaurant I've seen that gives the option for the poutine to be made with *CURLY FRIES!!!* I know that there's no difference between regular fries and curly fries except for the shape, but curly fries are just so much more fun to eat, so even though it was an extra $1 charge to make the change, we went for it.
+
+The food is on the expensive side, clocking in at $11.50 for the "O.G. Large" poutine (with regular fries), but it was very delicious. Our only complaint is the gravy could have been thicker. There was also too much cheese for Kevin's taste, but one upside of living with me is never having to worry about anything having too much cheese—ya girl will take care of it for you.
+
+## Thursday
+
+### Apple Turnovers
+
+This was literally baked at the last minute before I had to go write my Chemistry exam. Nothing better to take your mind off of your impending doom than some baking! I had a tube of Pillsbury Crescent Roll Dough in the fridge that I wanted to use up before it expired.
+
+It's my first time using this stuff, and hmm, it's saltier than I expected? It wasn't too much of a problem because I used Empire apples, which are very sweet.
+
+![apple turnovers](/food/foodventures/images/apple-turnovers.jpg){:width="50%"}{: .image-right}
+
+It's very loosely based off of a [recipe from the Pillsbury website](https://www.pillsbury.com/recipes/apple-pie-crescents/bebb6148-6e4a-441d-9212-f435d974dcc6), but basically, I smeared some apple pie spice (2 tsp cinnamon, 1 tsp nutmeg, 1/2 tsp cardamom, ur welcome) on each of the eight pieces of triangular dough. Then I placed a quarter of an apple at the larger end of the triangle and rolled it up, like an overweight croissant. I didn't find it necessary to add any sugar because of the sweetness of the apples, but feel free to do so.
+
+I baked at 350 °F until the top looked golden brown, which took about 15 minutes.
+
+After all was said and done, I found the pre-made crescent roll dough... underwhelming. I don't make pastry much to begin with, so I think for the future I'd rather just take the time to make my own dough from scratch. I'm excited to start experimenting with some vegan pastries.
+
+## Friday
+
+I wrote my last exam today (bye-bye forever BIOL 241) and we are now on our way from Toronto Pearson to Milan Malpensa!
+
+### Shrimp, Scallop and Salmon Brochettes from Lee Kitchen
+
+After checking into our flight and getting through security, we were searching for a place to eat before takeoff. We were really excited to see Lee Kitchen, because we had recently watched chef and owner Susur Lee on the cooking show Iron Chef Canada.
+
+First impressions weren't great, but then you have to lower the bar a certain level for airport food. The utensils weren't fully clean, the table had a grease stain, and my seat hadn't been fully set with utensils.
+
+Kevin ordered the fried rice dish to be safe while I went with seafood brochettes (no idea what brochettes were at the time of ordering but they sounded fancy).
+
+![seafood brochettes from lee kitchen (pearson airport)](/food/foodventures/images/lee-kitchen-brochettes.jpg){:width="60%"}{: .image-left}
+
+The original plan was to share both plates, but once the brochettes arrived (and it turns out they are basically a French term for kebabs, at least in this restaurant's interpretation), Kevin for whatever reason no longer took interest in the dish and told me to take it all.
+
+The brochettes were glazed in a savoury-sweet sauce and grilled, along with some slices of red onion and red pepper. It was served with some baby bok choy and a tomato-pea pilaf. I thought everything was quite delicious. Nothing special but nothing inedible. Kevin fared worse with his fried rice dish, which he said was "disgusting," but ate it all anyway because he hadn't eaten anything else that day and was starving. How exactly does an ostensibly Chinese restaurant fuck up fried rice? We will never know.
+
+We're sure the original Lee Kitchen in downtown Toronto is a lot higher quality than this, but it feels tacky to slap your brand on something and hand the reins to someone else without giving a shit about the quality of food being turned out under your name.
+
+### Air Canada Flight Meal
+
+Air Canada disappoints with its in-flight menu, as always. I had pre-selected the Fruit Plate as my meal in an effort to be healthier (I always get bloated after eating airplane food), and while the fruit surpassed my expectations, it was still pretty bad. Exactly two slices of honeydew, one large slice of cantaloupe, 1.5 strawberries, a handful of blueberries and a watermelon square made up each "plate." In the dinner version, it came with a piece of bread, a salad with funky tasting corn and a very sour vinaigrette, and a brownie for dessert; in the breakfast, it came with a yogurt (surprisingly Iogo, a quality choice) and another piece of bread.
+
+![air canada flight meal](/food/foodventures/images/air-canada-meal-1.jpg){:width="40%"}{: .image-right}
+
+For the passengers who picked standard meals, they had the choice between a chicken orzo pasta or a creamy tomato caviatappi, both of which sound delicious. Kevin chose the chicken option and ended up with this sad tray. I actually thought it tasted decent; the orzo was way overcooked and soft but the chicken was actually quite tender, and the sauce was fine. The reason I am giving my personal thoughts is because Kevin had one taste and that was enough.
+
+Neither of us ate more than a bite of the salad. The brownies were my favourite part of the meal! They were more like a dried out cake than a moist fudgy brownie, but tasted pretty yummy.
+
+For breakfast, we got spiced loafs, which was a piece of dense bread (texture similar to banana bread) spiced with cinnamon, clove, nutmeg, etc. This was actually pretty tasty, but again, Kevin didn't like it, so I ate both servings.
+
+I am very grateful that despite all the food I ate in-flight, I didn't run into any digestion issues on this trip. So maybe Air Canada has improved its food in one way after all!
