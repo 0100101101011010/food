@@ -85,50 +85,15 @@ The food is on the expensive side, clocking in at $11.50 for the "O.G. Large" po
 
 ## Thursday
 
-### Apple Turnovers
+### Roasted Cauliflower Rice with Garlic and Lemon
 
-This was literally baked at the last minute before I had to go write my Chemistry exam. Nothing better to take your mind off of your impending doom than some baking! I had a tube of Pillsbury Crescent Roll Dough in the fridge that I wanted to use up before it expired.
+So I found out something ~~disturbing~~ interesting today... apparently cauliflower takes a hella long time to go bad. I had a head of cauliflower sitting in the fridge when we left for [Italy](/food/foodventures/what-i-ate-north-italy-edition-milan), and when I opened the fridge again today, fully expecting it to be brown and soggy, it was still in pretty good shape.
 
-It's my first time using this stuff, and hmm, it's saltier than I expected? It wasn't too much of a problem because I used Empire apples, which are very sweet.
-
-![apple turnovers](/food/foodventures/images/apple-turnovers.jpg){:width="50%"}{: .image-right}
-
-It's very loosely based off of a [recipe from the Pillsbury website](https://www.pillsbury.com/recipes/apple-pie-crescents/bebb6148-6e4a-441d-9212-f435d974dcc6), but basically, I smeared some apple pie spice (2 tsp cinnamon, 1 tsp nutmeg, 1/2 tsp cardamom, ur welcome) on each of the eight pieces of triangular dough. Then I placed a quarter of an apple at the larger end of the triangle and rolled it up, like an overweight croissant. I didn't find it necessary to add any sugar because of the sweetness of the apples, but feel free to do so.
-
-I baked at 350 °F until the top looked golden brown, which took about 15 minutes.
-
-After all was said and done, I found the pre-made crescent roll dough... underwhelming. I don't make pastry much to begin with, so I think for the future I'd rather just take the time to make my own dough from scratch. I'm excited to start experimenting with some vegan pastries.
+I made some roasted cauliflower rice according to [Skinnytaste's recipe](https://www.skinnytaste.com/roasted-cauliflower-rice-with-garlic-and-lemon/) and no exaggeration, this is the best cauli rice I've had yet.
 
 ## Friday
 
-I wrote my last exam today (bye-bye forever BIOL 241) and we are now on our way from Toronto Pearson to Milan Malpensa!
+### Sushi
 
-### Shrimp, Scallop and Salmon Brochettes from Lee Kitchen
-
-After checking into our flight and getting through security, we were searching for a place to eat before takeoff. We were really excited to see Lee Kitchen, because we had recently watched chef and owner Susur Lee on the cooking show Iron Chef Canada.
-
-First impressions weren't great, but then you have to lower the bar a certain level for airport food. The utensils weren't fully clean, the table had a grease stain, and my seat hadn't been fully set with utensils.
-
-Kevin ordered the fried rice dish to be safe while I went with seafood brochettes (no idea what brochettes were at the time of ordering but they sounded fancy).
-
-![seafood brochettes from lee kitchen (pearson airport)](/food/foodventures/images/lee-kitchen-brochettes.jpg){:width="60%"}{: .image-left}
-
-The original plan was to share both plates, but once the brochettes arrived (and it turns out they are basically a French term for kebabs, at least in this restaurant's interpretation), Kevin for whatever reason no longer took interest in the dish and told me to take it all.
-
-The brochettes were glazed in a savoury-sweet sauce and grilled, along with some slices of red onion and red pepper. It was served with some baby bok choy and a tomato-pea pilaf. I thought everything was quite delicious. Nothing special but nothing inedible. Kevin fared worse with his fried rice dish, which he said was "disgusting," but ate it all anyway because he hadn't eaten anything else that day and was starving. How exactly does an ostensibly Chinese restaurant fuck up fried rice? We will never know.
-
-We're sure the original Lee Kitchen in downtown Toronto is a lot higher quality than this, but it feels tacky to slap your brand on something and hand the reins to someone else without giving a shit about the quality of food being turned out under your name.
-
-### Air Canada Flight Meal
-
-Air Canada disappoints with its in-flight menu, as always. I had pre-selected the Fruit Plate as my meal in an effort to be healthier (I always get bloated after eating airplane food), and while the fruit surpassed my expectations, it was still pretty bad. Exactly two slices of honeydew, one large slice of cantaloupe, 1.5 strawberries, a handful of blueberries and a watermelon square made up each "plate." In the dinner version, it came with a piece of bread, a salad with funky tasting corn and a very sour vinaigrette, and a brownie for dessert; in the breakfast, it came with a yogurt (surprisingly Iogo, a quality choice) and another piece of bread.
-
-![air canada flight meal](/food/foodventures/images/air-canada-meal-1.jpg){:width="40%"}{: .image-right}
-
-For the passengers who picked standard meals, they had the choice between a chicken orzo pasta or a creamy tomato caviatappi, both of which sound delicious. Kevin chose the chicken option and ended up with this sad tray. I actually thought it tasted decent; the orzo was way overcooked and soft but the chicken was actually quite tender, and the sauce was fine. The reason I am giving my personal thoughts is because Kevin had one taste and that was enough.
-
-Neither of us ate more than a bite of the salad. The brownies were my favourite part of the meal! They were more like a dried out cake than a moist fudgy brownie, but tasted pretty yummy.
-
-For breakfast, we got spiced loafs, which was a piece of dense bread (texture similar to banana bread) spiced with cinnamon, clove, nutmeg, etc. This was actually pretty tasty, but again, Kevin didn't like it, so I ate both servings.
-
-I am very grateful that despite all the food I ate in-flight, I didn't run into any digestion issues on this trip. So maybe Air Canada has improved its food in one way after all!
+Sadly it's not fully vegan yet, because I used a spicy Japanese mayo
+http://www.isachandra.com/2008/10/spicy-tempeh-roll/
