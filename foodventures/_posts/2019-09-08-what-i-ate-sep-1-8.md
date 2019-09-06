@@ -87,9 +87,9 @@ The food is on the expensive side, clocking in at $11.50 for the "O.G. Large" po
 
 ### Roasted Cauliflower Rice with Garlic and Lemon
 
-So I found out something ~~disturbing~~ interesting today... apparently cauliflower takes a hella long time to go bad. I had a head of cauliflower sitting in the fridge when we left for [Italy](/food/foodventures/what-i-ate-north-italy-edition-milan), and when I opened the fridge again today, fully expecting it to be brown and soggy, it was still in pretty good shape.
+So I learned something ~~disturbing~~ interesting today... apparently cauliflower takes a hella long time to go bad. I had a head of cauliflower sitting in the fridge when we left for [Italy](/food/foodventures/what-i-ate-north-italy-edition-milan), and when I opened the fridge again today, fully expecting it to be brown and soggy, it was still in pretty good shape.
 
-I made some roasted cauliflower rice according to [Skinnytaste's recipe](https://www.skinnytaste.com/roasted-cauliflower-rice-with-garlic-and-lemon/) and no exaggeration, this is the best cauli rice I've had yet.
+I made some roasted cauliflower rice with it according to [Skinnytaste's recipe](https://www.skinnytaste.com/roasted-cauliflower-rice-with-garlic-and-lemon/) and no exaggeration, this is the best cauli rice I've had yet.
 
 ## Friday
 
