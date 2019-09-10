@@ -31,13 +31,19 @@ discussion_id: 2019-08-24
 
 On the way back from the racetrack, we spotted a gelateria on the side of the road, and I couldn't resist. Did you know, this is the first time we've had gelato in Italy?! I can't tell you how many gelato shops we passed [in Milan](/food/foodventures/what-i-ate-north-italy-edition-milan), but we never found the time to try any. This time, since we had loads of time to kill waiting for a train, we decided to sit down and enjoy some of Italy's most famous summer treat.
 
+![stracciatella ice cream from gelateria nordpol](/food/foodventures/images/gelateria-nordpol-stracciatella.jpg){:width="35%"}{: .image-right}
+
 I bought a scoop of stracciatella in a cone, which Kevin liked a lot, to my surprise. He's not big on chocolate, so I was really not expecting that! He later went up to buy another one. For this second scoop, we tried the "Nord Pol" special flavour, and I wouldn't be able to tell you what that one tastes like—there were a lot of different flavours hitting my mouth at once, but I couldn't figure out what any of them were—kind of nutty? Kind of fruity? Not the best flavour I've had but it's not bad.
 
 ### Dinner at Ristorante Ca' de Ven
 
+![ristorante ca de ven interior](/food/foodventures/images/ristorante-ca-de-ven-interior.jpg){:width="40%"}{: .image-right}
+
 The interior decoration of this restaurant is the *coolest ever*. It is so fitting that Ravenna would have a restaurant like this: the walls are covered in Byzantine motifs, and although certain aspects felt very modern, the building had such an old-time feel to it.
 
 The food here was amazing, too. I ordered a gnocchi with shrimp and pesto. ASLKDKLHAFK it was so good! Probably the best gnocchi dish I've ever had (not saying I've tried a lot of gnocchi, but...). I'm not even the biggest fan of pesto, and yet it worked really well in this dish, pairing with the shrimp perfectly.
+
+![ravioli al ragu at ristorante ca' de ven](/food/foodventures/images/ristorante-ca-de-ven-ravioli.jpg){:width="40%"}{: .image-left} ![gnocchi with shrimp and pesto at ristorante ca' de ven](/food/foodventures/images/ristorante-ca-de-ven-gnocchi.jpg){:width="40%"}{: .image-right}
 
 Kevin wanted the *tagliatelle al ragu*, which was misheard by the server as *ravioli*, oops! It was too cheesy for him, but I liked the one that I tried. I actually think they went lighter than they could've on the cheese, but you know that's just me :-)
 
@@ -49,20 +55,19 @@ The portions are on the large side: I was close to bursting after just a main co
 
 The entire reason we made a reservation at this restaurant was to try their *lasagna alla bolognese*, which was good enough to have won a local television award and had been recommended by our Airbnb host. However, it's a tradition in the region to eat lasagna for lunch on Sundays, and apparently, that's the only time most restaurants serve it, too. Since we had to check out of our Airbnb by Sunday morning, we missed out this time, but even without it, this was one of our favourite meals in Bologna.
 
-L to R: cow, goat, blue (gorgonzola) with fig jam and crackers. The cracker was nutty tasting. Not a fan. Fig jam was very strong and a bit bitter, similar to prune sauce or similar. Not a fan.
-The ice creams are best eaten on their own. I found the gorgonzola to be my favourite (even
-though I'm not usually the biggest fan of blue cheese). The goat cheese was also good (it was
-the softest and melted extremely quickly), while the cow cheese was too subtle for my taste.
-All the cold meats were delicious. Kevin's favourite was the mortadella, but I preferred the one to
-its left (no idea the name)
-Furthermore, Kevin was a huge fan of the paired sauce.
-Crescentines are soft, thin fried dough pockets
+The star of the show was definitely the appetizer of *crescentines* (a thin, fried pocket of dough local to the region) with a board of mixed cold meats. Besides great lasagna and tagliatelle, Bologna is also home to many delicious cured meats, most famous of which is *mortadella* (better known as baloney, after "bologna," in North America).
 
+The crescentines were delicious on their own, but paired with the cold cuts and some caramelized onions as a side, they became even better. Kevin was totally in love with every part of the dish, especially the mortadella. I also liked the meats, which came as a surprise since I generally dislike pork, although my favourite was the one to the left of the mortadella in the photo (no idea what it was called, sorry). He also enjoyed the paired side dish of caramelized onion.
 
+In addition to that, we also ordered a second appetizer (on the server's recommendation) of cheese ice cream.
 
-The star of the show was definitely the appetizer of *crescentines* (a thin, fried bread local to the region) with a board of mixed cold meats. Besides great lasagna and tagliatelle, Bologna is also home to many delicious cured meats, most famous of which is *mortadella* (better known as baloney, after "bologna," in North America).
+What does that mean? Exactly what it sounds like. Cold, creamed cheese.
 
-The crescentines were delicious on their own, but paired with the cold cuts and some caramelized onions as a side, they became even better. Kevin was totally in love with every part of the dish, especially the mortadella.
+I was expecting something milder and sweeter than regular cheese, but instead I got the exact same flavour profile, just in a frozen form.
+
+From left to right: cow cheese, goat cheese, blue cheese (gorgonzola); served with fig jam and crackers.
+
+The cracker was dry and nutty tasting—not a fan. The fig jam was very strong and a bit bitter, similar to prune sauce or similar—also not a fan. The ice creams are best eaten on their own. I found the gorgonzola to be my favourite (even though I'm not usually the biggest fan of blue cheese), it actually works so much better as an ice cream than a hard cheese block. The goat cheese was also tasty (it was the softest and melted extremely quickly), while the cow cheese was too subtle for my taste.
 
 After the mindblowing appetizers, the mains were almost a disappointment. Kevin got the tagliatelle alla bolognese, the next closest thing to lasagna. I had a taste and both he and I agreed that it tasted, well, just like a regular pasta, I suppose? No new flavours here, just a solid meal.
 
