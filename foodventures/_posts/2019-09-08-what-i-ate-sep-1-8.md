@@ -41,6 +41,7 @@ Since Kevin thought the [brownies](/food/foodventures/what-i-ate-aug-5-11/#vegan
 
 The recipe [one I settled on](https://theconscientiouseater.com/vegan-coconut-chocolate-chunk-blondies/) calls for 1 cup of sugar (200 g), but I only used 75 g and it was plenty. I love sweets, but I can't understand how someone could eat something that sweet!!
 
+
 ## Wednesday
 
 ### Laughing Cow and Honey on Toast
@@ -97,3 +98,13 @@ I made some roasted cauliflower rice with it according to [Skinnytaste's recipe]
 
 Sadly it's not fully vegan yet, because I used a spicy Japanese mayo
 http://www.isachandra.com/2008/10/spicy-tempeh-roll/
+
+![homemade sushi](/food/foodventures/images/homemade-sushi-1.jpg){:width="50%"}{: .image-right}
+
+![homemade sushi](/food/foodventures/images/home-made-sushi-2.jpg){:width="40%"}{: .image-right}
+
+### Sunday
+
+
+
+As usual, I'm not so impressed with [this curry](https://www.greensnchocolate.com/red-lentil-coconut-curry-stuffed-spaghetti-squash/) (followed recipe except for spinach, since I didn't have any on hand). I've eaten plenty of lentil curries in restaurants, so I know it's something I enjoy, but I can never quite replicate it at home.

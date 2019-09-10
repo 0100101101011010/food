@@ -31,17 +31,34 @@ discussion_id: 2019-08-24
 
 On the way back from the racetrack, we spotted a gelateria on the side of the road, and I couldn't resist. Did you know, this is the first time we've had gelato in Italy?! I can't tell you how many gelato shops we passed [in Milan](/food/foodventures/what-i-ate-north-italy-edition-milan), but we never found the time to try any. This time, since we had loads of time to kill waiting for a train, we decided to sit down and enjoy some of Italy's most famous summer treat.
 
-I bought a scoop of stracciatella in a cone, which Kevin liked a lot, to my surprise. He's not big on chocolate, so I was really not expecting that! He later went up to buy another one. We tried the "Nord Pol" special flavour,
+I bought a scoop of stracciatella in a cone, which Kevin liked a lot, to my surprise. He's not big on chocolate, so I was really not expecting that! He later went up to buy another one. For this second scoop, we tried the "Nord Pol" special flavour, and I wouldn't be able to tell you what that one tastes like—there were a lot of different flavours hitting my mouth at once, but I couldn't figure out what any of them were—kind of nutty? Kind of fruity? Not the best flavour I've had but it's not bad.
 
 ### Dinner at Ristorante Ca' de Ven
 
-Interestingly, this restaurant doesn't charge a *coperto* (cover fee).
+The interior decoration of this restaurant is the *coolest ever*. It is so fitting that Ravenna would have a restaurant like this: the walls are covered in Byzantine motifs, and although certain aspects felt very modern, the building had such an old-time feel to it.
+
+The food here was amazing, too. I ordered a gnocchi with shrimp and pesto. ASLKDKLHAFK it was so good! Probably the best gnocchi dish I've ever had (not saying I've tried a lot of gnocchi, but...). I'm not even the biggest fan of pesto, and yet it worked really well in this dish, pairing with the shrimp perfectly.
+
+Kevin wanted the *tagliatelle al ragu*, which was misheard by the server as *ravioli*, oops! It was too cheesy for him, but I liked the one that I tried. I actually think they went lighter than they could've on the cheese, but you know that's just me :-)
+
+The portions are on the large side: I was close to bursting after just a main course (on the other hand, Kevin said he wasn't too full...). Also, maybe an interesting perk: this restaurant doesn't charge a *coperto* (cover fee)! So all in all, it was a very reasonably priced meal. Luckily for us, we came right as they opened, because by the time we left there was a crowd at the entrance. If I lived in Ravenna (one can dream) I would come here regularly, I think.
 
 ## Friday: Bologna
 
 ### Dinner at Trattoria Da Me
 
-The entire reason we made a reservation at this restaurant was to try their *lasagna alla bolognese,* which was good enough to have won a local television award and had been recommended by our Airbnb host. However, there's a tradition in the region of only eating lasagna for lunch on Sundays... and apparently, that's the only time most restaurants serve it, too. Unfortunately we missed out this time, but despite the disappointment, this was still one of our favourite meals in Bologna.
+The entire reason we made a reservation at this restaurant was to try their *lasagna alla bolognese*, which was good enough to have won a local television award and had been recommended by our Airbnb host. However, it's a tradition in the region to eat lasagna for lunch on Sundays, and apparently, that's the only time most restaurants serve it, too. Since we had to check out of our Airbnb by Sunday morning, we missed out this time, but even without it, this was one of our favourite meals in Bologna.
+
+L to R: cow, goat, blue (gorgonzola) with fig jam and crackers. The cracker was nutty tasting. Not a fan. Fig jam was very strong and a bit bitter, similar to prune sauce or similar. Not a fan.
+The ice creams are best eaten on their own. I found the gorgonzola to be my favourite (even
+though I'm not usually the biggest fan of blue cheese). The goat cheese was also good (it was
+the softest and melted extremely quickly), while the cow cheese was too subtle for my taste.
+All the cold meats were delicious. Kevin's favourite was the mortadella, but I preferred the one to
+its left (no idea the name)
+Furthermore, Kevin was a huge fan of the paired sauce.
+Crescentines are soft, thin fried dough pockets
+
+
 
 The star of the show was definitely the appetizer of *crescentines* (a thin, fried bread local to the region) with a board of mixed cold meats. Besides great lasagna and tagliatelle, Bologna is also home to many delicious cured meats, most famous of which is *mortadella* (better known as baloney, after "bologna," in North America).
 
@@ -53,20 +70,22 @@ After the mindblowing appetizers, the mains were almost a disappointment. Kevin 
 
 – Kevin
 
-For my main, I ordered the *passatelli* with cold liquid escarole, black olives, and lemon. What were *passatelli?* I couldn't tell you, and there was no signal within the restaurant so I wasn't even able to google it. Hopefully this doesn't ruin *passatelli* for anyone, but when my food arrived at the table, I had the first impression of worms swimming in a green swamp. Don't get me wrong, it was quite yummy! Would I order it again? No, and not just because it looks unappetizing.
+For my main, I ordered the *passatelli* with cold liquid escarole, black olives, and lemon. What were *passatelli*? I couldn't tell you, and there was no signal within the restaurant so I wasn't even able to google it. Hopefully this doesn't ruin *passatelli* for anyone, but when my food arrived at the table, I had the first impression of worms swimming in a green swamp. Don't get me wrong, it was quite yummy! Would I order it again? No, and not just because it looks unappetizing.
 
 Like the [maltagliati](/food/foodventures/what-i-ate-north-italy-edition-milan/#lunch-at-cantina-della-vetra) I had earlier in Milan, this dish contains pine nuts, but whereas the flavour of the earlier dish complemented the nuts very well, this one didn't. Every bite I took with pine nuts overwhelmed all other flavours. Furthermore, since they are made with breadcrumbs, the *passatelli* are dry and crumbly, almost like they are stale. Not exactly my favourite pasta texture, but the whole point of eating food in different countries is trying their local cuisine, and I definitely got to eat something that's very hard to come by back home. The sauce of escaroles, olives and lemons was wonderful, quite "homey," although I couldn't taste the lemon.
 
 ## Saturday: Modena and Maranello
 
-A warning about traveling to Modena in August: *EVERYTHING IS CLOSED.* Despite being a small city, Modena is a culinary destination in Italy, known especially for its balsamic vinegar production but also for many fantastic restaurants, including *Osteria de Francesca,* one of the top restaurants in the world. It, in addition to what seems like every other restaurant in the entire city, was closed in mid-late August.
+A warning about traveling to Modena in August: *EVERYTHING IS CLOSED*. Despite being a small city, Modena is a culinary destination in Italy, known especially for its balsamic vinegar production but also for many fantastic restaurants, including the *Osteria de Francesca*, one of the top restaurants in the world. It, along with half the city, was on vacation when we visited.
+
+So if you visit at this time, even if the restaurant normally should be open or says it's open on Google maps, check the website or search for them on Facebook. Many restaurants won't update the website but will mention holiday closures on their Facebook page. Or just try your luck and go to the restaurant in person, but be prepared for disappointment and have a backup or three in mind.
 
 ### Ice Cream at Gelateria K2
 
-We were in Modena and its neighbouring town Maranello to visit the [Ferrari museums](#), and wanted to eat lunch in Modena after touring the museums. We couldn't find a single decent-looking restaurant open for business. Downtown Modena was very quiet even in the middle of the day; like Milan, it seems a lot of locals here take their vacations in August.
+ Downtown Modena was very quiet even in the middle of the day; like Milan, it seems a lot of locals here take their vacations in August.
 
-In desperation, we settled for some gelato, and bought some snacks from the [Coop](/food/foodventures/italian-junk-food) next to the train station.
+Since we couldn't find a single decent-looking restaurant open for business, in desperation, we settled for some gelato, and bought some snacks from the [Coop](/food/foodventures/italian-junk-food) next to the train station to take home with us.
 
-My flavours: Spagnola (vanilla and cherry) and Zuppa Inglese. Yah, we're feeling international today!!
+My flavours: Spagnola (vanilla and cherry) and Zuppa Inglese. Yeah, we're feeling international today!!
 
 Kevin's flavours: tiramisu, amaretto, and crema.
