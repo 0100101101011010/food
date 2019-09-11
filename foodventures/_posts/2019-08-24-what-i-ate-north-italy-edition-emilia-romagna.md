@@ -87,11 +87,9 @@ Like the [maltagliati](/food/foodventures/what-i-ate-north-italy-edition-milan/#
 
 A warning about traveling to Modena in August: *EVERYTHING IS CLOSED*. Despite being a small city, Modena is a culinary destination in Italy, known especially for its balsamic vinegar production but also for many fantastic restaurants, including the *Osteria de Francesca*, one of the top restaurants in the world. It, along with half the city, was on vacation when we visited.
 
-So if you visit at this time, even if the restaurant normally should be open or says it's open on Google maps, check the website or search for them on Facebook. Many restaurants won't update the website but will mention holiday closures on their Facebook page. Or just try your luck and go to the restaurant in person, but be prepared for disappointment and have a backup or three in mind.
+So if you visit at this time, even if the restaurant normally should be open or says it's open on Google maps, check the website or search for them on Facebook. Many restaurants won't even update the website but will mention holiday closures on their Facebook page. Or just try your luck and go to the restaurant in person, but be prepared for disappointment and have a backup or three in mind.
 
 ### Ice Cream at Gelateria K2
-
- Downtown Modena was very quiet even in the middle of the day; like Milan, it seems a lot of locals here take their vacations in August.
 
 Since we couldn't find a single decent-looking restaurant open for business, in desperation, we settled for some gelato, and bought some snacks from the [Coop](/food/foodventures/italian-junk-food) next to the train station to take home with us.
 

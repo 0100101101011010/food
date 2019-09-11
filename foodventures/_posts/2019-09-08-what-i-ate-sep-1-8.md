@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Ate This Week: Aug 12–16"
+title: "Food Diary: Teeny Tiny Toronto Trip (Sep 1–4)"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
