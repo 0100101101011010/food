@@ -53,6 +53,8 @@ The portions are on the large side: I was close to bursting after just a main co
 
 ### Dinner at Trattoria Da Me
 
+![bread basket at trattoria da me](/food/foodventures/images/trattoria-da-me-bread.jpg){:width="40%"}{: .image-right}
+
 The entire reason we made a reservation at this restaurant was to try their *lasagna alla bolognese*, which was good enough to have won a local television award and had been recommended by our Airbnb host. However, it's a tradition in the region to eat lasagna for lunch on Sundays, and apparently, that's the only time most restaurants serve it, too. Since we had to check out of our Airbnb by Sunday morning, we missed out this time, but even without it, this was one of our favourite meals in Bologna.
 
 The star of the show was definitely the appetizer of *crescentines* (a thin, fried pocket of dough local to the region) with a board of mixed cold meats. Besides great lasagna and tagliatelle, Bologna is also home to many delicious cured meats, most famous of which is *mortadella* (better known as baloney, after "bologna," in North America).
@@ -67,11 +69,9 @@ What does that mean? Exactly what it sounds like. Cold, creamed cheese.
 
 I was expecting something milder and sweeter than regular cheese, but instead I got the exact same flavour profile, just in a frozen form.
 
-![cheese ice cream appetizer at trattoria da me](/food/foodventures/images/trattoria-da-me-cheese-ice-cream.jpg){:width="100%"}{: .image-right}
+From left to right in the picture above: cow cheese, goat cheese, blue cheese (gorgonzola); served with fig jam and crackers.
 
-From left to right: cow cheese, goat cheese, blue cheese (gorgonzola); served with fig jam and crackers.
-
-The cracker was dry and nutty tasting—not a fan. The fig jam was very strong and a bit bitter, similar to prune sauce or similar—also not a fan. The ice creams are best eaten on their own. I found the gorgonzola to be my favourite (even though I'm not usually the biggest fan of blue cheese), it actually works so much better as an ice cream than a hard cheese block. The goat cheese was also tasty (it was the softest and melted extremely quickly), while the cow cheese was too subtle for my taste.
+The cracker was dry and nutty tasting—not a fan. The fig jam was very strong and a bit bitter, similar to prune sauce or similar—also not a fan. The ice creams are best eaten on their own. I found the gorgonzola to be my favourite (even though I'm not usually the biggest fan of blue cheese), it actually works so much better as an ice cream than a hard cheese block. The goat cheese was also tasty (it was the softest and melted extremely quickly—you can see it melting even in the photo), while the cow cheese was too subtle for my taste.
 
 After the mindblowing appetizers, the mains were almost a disappointment. Kevin got the tagliatelle alla bolognese, the next closest thing to lasagna. I had a taste and both he and I agreed that it tasted, well, just like a regular pasta, I suppose? No new flavours here, just a solid meal.
 
@@ -79,9 +79,13 @@ After the mindblowing appetizers, the mains were almost a disappointment. Kevin 
 
 – Kevin
 
+![passatelli at trattoria da me](/food/foodventures/images/trattoria-da-me-passatelli.jpg){:width="40%"}{: .image-right}
+
 For my main, I ordered the *passatelli* with cold liquid escarole, black olives, and lemon. What were *passatelli*? I couldn't tell you, and there was no signal within the restaurant so I wasn't even able to google it. Hopefully this doesn't ruin *passatelli* for anyone, but when my food arrived at the table, I had the first impression of worms swimming in a green swamp. Don't get me wrong, it was quite yummy! Would I order it again? No, and not just because it looks unappetizing.
 
 Like the [maltagliati](/food/foodventures/what-i-ate-north-italy-edition-milan/#lunch-at-cantina-della-vetra) I had earlier in Milan, this dish contains pine nuts, but whereas the flavour of the earlier dish complemented the nuts very well, this one didn't. Every bite I took with pine nuts overwhelmed all other flavours. Furthermore, since they are made with breadcrumbs, the *passatelli* are dry and crumbly, almost like they are stale. Not exactly my favourite pasta texture, but the whole point of eating food in different countries is trying their local cuisine, and I definitely got to eat something that's very hard to come by back home. The sauce of escaroles, olives and lemons was wonderful, quite "homey," although I couldn't taste the lemon.
+
+In total, our meal came to €56. The most expensive item turned out to be the *tagliere*, meat plate appetizer, for good reason of course, at €15. Also, this restaurant doesn't charge for water, so don't be afraid to ask for another bottle!
 
 ## Saturday: Modena and Maranello
 
@@ -91,8 +95,12 @@ So if you visit at this time, even if the restaurant normally should be open or 
 
 ### Ice Cream at Gelateria K2
 
+![gelateria k2 in modena](/food/foodventures/images/gelateria-k2.jpg){:width="40%"}{: .image-left}
+
 Since we couldn't find a single decent-looking restaurant open for business, in desperation, we settled for some gelato, and bought some snacks from the [Coop](/food/foodventures/italian-junk-food) next to the train station to take home with us.
 
-My flavours: Spagnola (vanilla and cherry) and Zuppa Inglese. Yeah, we're feeling international today!!
+My flavours, on the left: Spagnola (vanilla and cherry) and Zuppa Inglese. Yeah, we're feeling international today!!
 
-Kevin's flavours: tiramisu, amaretto, and crema.
+Kevin's flavours, on the right: tiramisu, amaretto, and crema.
+
+Each of our cups cost €2.40, which was ok for the portions. I didn't dig the Spagnola flavour (confession time: I only chose it for the name), since I don't like cherry flavour in practically anything. I did enjoy the zuppa inglese a lot, though! There were actual chunks of zuppa inglese cake in there, which was nice, and the whole thing had a bit of that alcoholic flavour that Italians seem to love in their gelato.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Food Diary: (Sep 5–8)"
+title: "Food Diary: Sep 5–8"
 author: Kelly Zhang
 permalink: /:categories/:title/
 categories: foodventures
