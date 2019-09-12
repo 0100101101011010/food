@@ -19,8 +19,6 @@ excerpt: "Emilia-Romagna is not only home to the "Motor Valley" of Italy but als
 img: /food/foodventures/images/aug-24-2019.jpg
 comments: "0"
 
-published: false
-
 discussion_id: 2019-08-24
 ---
 
@@ -122,3 +120,15 @@ My flavours, on the left: Spagnola (vanilla and cherry) and Zuppa Inglese. Yeah,
 Kevin's flavours, on the right: tiramisu, amaretto, and crema.
 
 Each of our cups cost €2.40, which was ok for the portions. I didn't dig the Spagnola flavour (confession time: I only chose it for the name), since I don't like cherry flavour in practically anything. I did enjoy the zuppa inglese a lot, though! There were actual chunks of zuppa inglese cake in there, which was nice, and the whole thing had a bit of that alcoholic flavour that Italians seem to love in their gelato.
+
+### Empanadas from CHIMI CHURRI EMPANADAS ARGENTINAS
+
+![chimi churri empanadas argentinas](/food/foodventures/images/chimi-churri-empanadas-argentinas.jpg){:width="40%"}{: .image-left}
+
+I know, I know! You're thinking, what the hell are you two doing, eating Argentinian delivery in the foodie province of Italy?! In our defence, it was late at night, we were tired from our day of zipping around Modena and Maranello, and freakin' every good *trattoria* or *osteria* in the neighbourhood was closed.
+
+So we ordered empanadas and we enjoyed it! Italy has its own set of food delivery services to mirror our SkiptheDishes and Foodora. The one we saw most frequently used was [Deliveroo](http://deliveroo.it/) (such a cute name). The other difference is that most of the deliveries seem to be on bikes, I guess because everything is closer to each other in these Italian cities. Anyway, I think it's great! And the empanadas were great too. I ordered a tuna empanada, while Kevin ordered a couple of meat ones. The fillings were delicious and there was quite a lot of it relative to the pastry.
+
+## Wrap-Up
+
+So my takeaway from the Emilia-Romagna segment of our journey is that, this area is definitely worth staying more than three days in, if you want to really enjoy everything, food or otherwise. But also, it is key to check that restaurants are going to be open when you go. At the very least, if we had done our research more thoroughly, we would've stayed until lunch on Sunday to try some lasagna!
