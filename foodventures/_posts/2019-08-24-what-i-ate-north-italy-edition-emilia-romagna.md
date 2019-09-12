@@ -31,9 +31,9 @@ discussion_id: 2019-08-24
 
 ### Gelateria Nord Pol
 
-On the way back from the racetrack, we spotted a gelateria on the side of the road, and I couldn't resist. Did you know, this is the first time we've had gelato in Italy?! I can't tell you how many gelato shops we passed [in Milan](/food/foodventures/what-i-ate-north-italy-edition-milan), but we never found the time to try any. This time, since we had loads of time to kill waiting for a train, we decided to sit down and enjoy some of Italy's most famous summer treat.
+![stracciatella ice cream from gelateria nordpol](/food/foodventures/images/gelateria-nordpol-stracciatella.jpg){:width="35%"}{: .image-left}
 
-![stracciatella ice cream from gelateria nordpol](/food/foodventures/images/gelateria-nordpol-stracciatella.jpg){:width="35%"}{: .image-right}
+On the way back from the racetrack, we spotted a gelateria on the side of the road, and I couldn't resist. Did you know, this is the first time we've had gelato in Italy?! I can't tell you how many gelato shops we passed [in Milan](/food/foodventures/what-i-ate-north-italy-edition-milan), but we never found the time to try any. This time, since we had loads of time to kill waiting for a train, we decided to sit down and enjoy some of Italy's most famous summer treat.
 
 I bought a scoop of stracciatella in a cone, which Kevin liked a lot, to my surprise. He's not big on chocolate, so I was really not expecting that! He later went up to buy another one. For this second scoop, we tried the "Nord Pol" special flavour, and I wouldn't be able to tell you what that one tastes like—there were a lot of different flavours hitting my mouth at once, but I couldn't figure out what any of them were—kind of nutty? Kind of fruity? Not the best flavour I've had but it's not bad.
 
