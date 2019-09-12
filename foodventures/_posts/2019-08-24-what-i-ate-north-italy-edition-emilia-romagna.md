@@ -35,6 +35,8 @@ On the way back from the racetrack, we spotted a gelateria on the side of the ro
 
 I bought a scoop of stracciatella in a cone, which Kevin liked a lot, to my surprise. He's not big on chocolate, so I was really not expecting that! He later went up to buy another one. For this second scoop, we tried the "Nord Pol" special flavour, and I wouldn't be able to tell you what that one tastes like—there were a lot of different flavours hitting my mouth at once, but I couldn't figure out what any of them were—kind of nutty? Kind of fruity? Not the best flavour I've had but it's not bad.
 
+Each ice cream costed us €2.50.
+
 ### Dinner at Ristorante Ca' de Ven
 
 Few people may think of Ravenna when they consider Italy's top tourist destinations, but if you're a history buff like me, this city could very well be the highlight of your trip! It was one of the last capitals of the Western Roman Empire, and you can see that reflected throughout the entire city in the form of Eastern, Byzantine-inspired motifs, including inside this restaurant we ate at.
@@ -45,11 +47,11 @@ The interior decoration of Ristorante Ca' de Ven is the *coolest ever*. It is so
 
 The food here was amazing, too. I ordered a gnocchi with shrimp and pesto. ASLKDKLHAFK it was so good! Probably the best gnocchi dish I've ever had (not saying I've tried a lot of gnocchi, but...). I'm not even the biggest fan of pesto, and yet it worked really well in this dish, pairing with the shrimp perfectly.
 
-![ravioli al ragu at ristorante ca' de ven](/food/foodventures/images/ristorante-ca-de-ven-ravioli.jpg){:width="40%"}{: .image-left} ![gnocchi with shrimp and pesto at ristorante ca' de ven](/food/foodventures/images/ristorante-ca-de-ven-gnocchi.jpg){:width="40%"}{: .image-left}
+![cappelletti al ragu at ristorante ca' de ven](/food/foodventures/images/ristorante-ca-de-ven-cappelletti.jpg){:width="40%"}{: .image-left} ![gnocchi with shrimp and pesto at ristorante ca' de ven](/food/foodventures/images/ristorante-ca-de-ven-gnocchi.jpg){:width="40%"}{: .image-left}
 
-Kevin tried to order the *tagliatelle al ragu*, which was misheard by the server as *ravioli*, oops! It was too cheesy for him, but I liked the one that I tried. I actually think they went lighter than they could've on the cheese, but you know that's just me :-)
+Kevin tried to order the *tagliatelle al ragu*, which was misheard by the server as *cappelletti*, oops! It was too cheesy for him, but I liked the one that I tried. I actually think they went lighter than they could've on the cheese, but you know that's just me :-)
 
-The portions are on the large side: I was close to bursting after just a main course (on the other hand, Kevin said he wasn't too full...). Also, maybe an interesting perk: this restaurant doesn't charge a *coperto* (cover fee)! So all in all, it was a very reasonably priced meal. Luckily for us, we came right as they opened, because by the time we left there was a crowd at the entrance. If I lived in Ravenna (one can dream) I would come here regularly, I think.
+The portions are on the large side: I was close to bursting after just a main course (on the other hand, Kevin said he wasn't too full...). Also, maybe an interesting perk: this restaurant doesn't charge a *coperto* (cover fee)! Our bill came to €26, so all in all, it was a very reasonably priced meal. Luckily for us, we came right as they opened, because by the time we left there was a crowd at the entrance. If I lived in Ravenna (one can dream) I would come here regularly, I think.
 
 ## Friday: Bologna
 

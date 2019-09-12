@@ -229,7 +229,7 @@ For dessert, I ordered the fior di latte ice cream. I've always been intrigued b
 
 ![tiramisu at osteria brunello](/food/foodventures/images/osteria-brunello-tiramisu.jpg){:width="40%"}{: .image-right}
 
-Kevin's tiramisu, on the other hand, was delicious. It tastes very different from the [other](#) [tiramisus](#lunch-at-paper-moon) we've eaten so far. It was almost all mousse and cream, with no sponge layer, making it very light.
+Kevin's tiramisu, on the other hand, was delicious. It tastes very different from the [other](/food/foodventures/italian-junk-food/#) [tiramisus](#lunch-at-paper-moon) we've eaten so far. It was almost all mousse and cream, with no sponge layer, making it very light.
 
 > There were chocolate shavings in it. It wasn't very bitter or super chocolatey. It was non-traditional, but tasted good.
 

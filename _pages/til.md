@@ -2,11 +2,18 @@
 layout: page
 author: Kelly Zhang
 title: TIL (Today I Learned) in the Kitchen
-permalink: /til
+permalink: /til/
 excerpt: "TIL in the Kitchen is a page for me to jot down lessons I've learned from cooking on a daily basis. I am by no means a good cook yet, but I hope that collecting all the insights I gain will turn me into a better one."
 ---
 
 ## 2019
+
+### March
+
+- I do not like pumpkin in baked goods (other than pie)
+- I do not like persimmons in baked goods
+- I do not like strawberries in baked goods (except like fresh strawberries in cake, or again, pie)
+- I love apples in baked goods but only with a good amount of fat
 
 ### June
 

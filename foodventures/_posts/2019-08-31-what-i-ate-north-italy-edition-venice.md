@@ -29,6 +29,10 @@ discussion_id: 2019-08-31
 
 ### Lunch at Osteria al Duomo
 
+This restaurant has a lengthy history, since it was established in 1903 (that's earlier than Alberta became a province... omg), but the food is average.
+
+I'm not one to be grossed out by the black colour or anything like that, but the sauce was not good at all. Just kind of salty.
+
 ## Monday
 
 ### Lunch at
@@ -46,6 +50,8 @@ The chef was very involved here, stopping by our table after we left the raw bee
 ### Lunch, Take 2 at Osteria al Duomo
 
 Remember the restaurant where we were [massacred by mosquitoes](#lunch-at-osteria-al-duomo)? We decided to give them another try since neither of us had been in the right state of mind to enjoy our meal the last time around.
+
+Sadly this time wasn't too great, either.
 
 ## Thursday
 
