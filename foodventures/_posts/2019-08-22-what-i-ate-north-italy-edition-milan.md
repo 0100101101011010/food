@@ -235,6 +235,8 @@ Kevin's tiramisu, on the other hand, was delicious. It tastes very different fro
 
 – Kevin
 
+Overall, a wonderful dinner to end our stay in Milan. One point I haven't touched upon yet is the service was very fast. So far, Italian servers act much slower than their North American counterparts, and while I'm sure for locals it's a good thing because it allows them time to talk without being rushed, we weren't used to such laidback service. The speed here more closely matched the kind of speed we were used to back home.
+
 ## Wrap-Up
 
 Thanks for reading the first part of my Italy food blog! We're leaving Milan on Thursday for Bologna, where we'll be spending three days. I am *excited* for Bolognese food. Emilia-Romagna (the region where Bologna is the capital) is renowned for its deliciously rich cuisine, and hopefully we'll be able to experience it to the max. Watch out for my post soon. Ciao!
