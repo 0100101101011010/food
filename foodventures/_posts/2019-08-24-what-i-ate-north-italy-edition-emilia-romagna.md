@@ -7,9 +7,6 @@ categories: foodventures
 tags: travel restaurants
 keywords:
  - food tour
- - romagnan cuisine
- - ravenna cuisine
- - bologna food
  - modena food
  - ice cream
  - european food
