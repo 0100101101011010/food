@@ -35,7 +35,7 @@ discussion_id: 2019-08-31
 
 ### Dinner at Il Ridotto
 
-The chef was
+The chef was very involved here, stopping by our table after we left the raw beef tartare barely eaten. He also personally served a few of the dishes.
 
 ## Tuesday
 
