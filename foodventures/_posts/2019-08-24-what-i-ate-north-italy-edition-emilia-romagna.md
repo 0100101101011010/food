@@ -63,7 +63,7 @@ The star of the show was definitely the appetizer of *crescentines* (a thin, fri
 
 ![trattoria da me cold cuts appetizer](/food/foodventures/images/trattoria-da-me-cold-cuts.jpg){:width="100%"}{: .image-right}
 
-The crescentines were delicious on their own, but paired with the cold cuts and some caramelized onions as a side, they became even better. Kevin was totally in love with every part of the dish, especially the mortadella. I also liked the meats, which came as a surprise since I generally dislike pork, although my favourite was the one to the left of the mortadella in the photo (no idea what it was called, sorry). He also enjoyed the paired side dish of caramelized onion.
+The crescentines (on the far right of the picture) were delicious on their own, but paired with the cold cuts and some caramelized onions as a side, they became even better. Kevin was totally in love with every part of the dish, especially the mortadella. I also liked the meats, which came as a surprise since I generally dislike pork, although my favourite was the one to the left of the mortadella in the photo (no idea what it was called, sorry). He also enjoyed the paired side dish of caramelized onion.
 
 In addition to that, we also ordered a second appetizer (on the server's recommendation) of cheese ice cream.
 
@@ -103,7 +103,7 @@ I don't remember what Kevin's gelato was, I'll have to ask him and report back.
 
 A warning about traveling to Modena in August: *EVERYTHING IS CLOSED*. Despite being a small city, Modena is a culinary destination in Italy, known especially for its balsamic vinegar production but also for many fantastic restaurants, including the *Osteria de Francesca*, one of the top restaurants in the world. It, along with half the city, was on vacation when we visited.
 
-![ferrari museum aloe vera drink](/food/foodventures/images/ferrari-museum-drink.jpg){:width="40%"}{: .image-right}
+![ferrari museum aloe vera drink](/food/foodventures/images/ferrari-museum-drink.jpg){:width="3%"}{: .image-right}
 
 So if you visit at this time, even if the restaurant normally should be open or says it's open on Google maps, check the website or search for them on Facebook. Many restaurants won't even update the website but will mention holiday closures on their Facebook page. Or just try your luck and go to the restaurant in person, but be prepared for disappointment and have a backup or three in mind.
 
