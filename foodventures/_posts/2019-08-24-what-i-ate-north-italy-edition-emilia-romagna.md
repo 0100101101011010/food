@@ -7,9 +7,6 @@ categories: foodventures
 tags: travel restaurants
 keywords:
  - food tour
- - ravenna food
- - bologna food
- - ice cream
  - european food
  - italian restaurants
  - italian cuisine
