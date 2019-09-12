@@ -45,7 +45,7 @@ The interior decoration of Ristorante Ca' de Ven is the *coolest ever*. It is so
 
 The food here was amazing, too. I ordered a gnocchi with shrimp and pesto. ASLKDKLHAFK it was so good! Probably the best gnocchi dish I've ever had (not saying I've tried a lot of gnocchi, but...). I'm not even the biggest fan of pesto, and yet it worked really well in this dish, pairing with the shrimp perfectly.
 
-![ravioli al ragu at ristorante ca' de ven](/food/foodventures/images/ristorante-ca-de-ven-ravioli.jpg){:width="40%"}{: .image-left} ![gnocchi with shrimp and pesto at ristorante ca' de ven](/food/foodventures/images/ristorante-ca-de-ven-gnocchi.jpg){:width="40%"}{: .image-right}
+![ravioli al ragu at ristorante ca' de ven](/food/foodventures/images/ristorante-ca-de-ven-ravioli.jpg){:width="40%"}{: .image-left} ![gnocchi with shrimp and pesto at ristorante ca' de ven](/food/foodventures/images/ristorante-ca-de-ven-gnocchi.jpg){:width="40%"}{: .image-left}
 
 Kevin tried to order the *tagliatelle al ragu*, which was misheard by the server as *ravioli*, oops! It was too cheesy for him, but I liked the one that I tried. I actually think they went lighter than they could've on the cheese, but you know that's just me :-)
 
