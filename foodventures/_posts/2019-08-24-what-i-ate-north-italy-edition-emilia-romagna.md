@@ -93,7 +93,7 @@ In total, our meal came to €56. The most expensive item turned out to be the *
 
 Since we skipped dessert at dinner, we stopped for gelato on the walk home (ft. the worst lighting ever). According to their Instagram Stories on the day I'm writing this, Katy Perry came here recently :-D
 
-![ice cream at gelateriagalliera49](/food/foodventures/images/gelateriagalliera49.jpg){:width="40%"}{: .image-left}
+![ice cream at gelateriagalliera49](/food/foodventures/images/gelateriagalliera49.jpg){:width="40%"}{: .image-right}
 
 I had the "Marsala" flavour because my dumb mind connected it to garam masala; well, it turns out marsala is a type of Sicilian wine so obviously I couldn't be further from the truth! It was a very interesting taste, I've never had alcoholic ice cream before, and to me the closest comparison would be egg nog. I recommend trying it at least once.
 
