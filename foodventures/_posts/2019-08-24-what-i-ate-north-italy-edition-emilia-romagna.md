@@ -10,6 +10,9 @@ keywords:
  - european food
  - italian restaurants
  - italian cuisine
+ - ravenna food
+ - bologna food
+ - ice cream
 excerpt: "Emilia-Romagna is not only home to the Motor Valley of Italy but also to culinary bastions like Bologna and Modena. Although we missed out on the famous lasagna alla bolognese this time, we managed to have a number of amazing meals and no shortage of gelato!"
 img: /food/foodventures/images/aug-24-2019.jpg
 comments: "0"
