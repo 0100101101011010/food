@@ -7,11 +7,15 @@ categories: foodventures
 tags: travel restaurants
 keywords:
  - food tour
- - milanese cuisine
+ - romagnan cuisine
+ - ravenna cuisine
+ - bologna food
+ - modena food
+ - ice cream
  - european food
  - italian restaurants
  - italian cuisine
-excerpt: "Although we missed out on the famous lasagna alla bolognese, we managed to have a number of amazing meals and no shortage of gelato!"
+excerpt: "Emilia-Romagna is not only home to the "Motor Valley" of Italy but also to culinary bastions like Bologna and Modena. Although we missed out on the famous lasagna alla bolognese this time, we managed to have a number of amazing meals and no shortage of gelato!"
 img: /food/foodventures/images/aug-24-2019.jpg
 comments: "0"
 
@@ -37,9 +41,11 @@ I bought a scoop of stracciatella in a cone, which Kevin liked a lot, to my surp
 
 ### Dinner at Ristorante Ca' de Ven
 
-![ristorante ca de ven interior](/food/foodventures/images/ristorante-ca-de-ven-interior.jpg){:width="40%"}{: .image-right}
+Few people may think of Ravenna when they consider Italy's top tourist destinations, but if you're a history buff like me, this city could very well be the highlight of your trip! It was one of the last capitals of the Western Roman Empire, and you can see that reflected throughout the entire city in the form of Eastern, Byzantine-inspired motifs, including inside this restaurant we ate at.
 
-The interior decoration of this restaurant is the *coolest ever*. It is so fitting that Ravenna would have a restaurant like this: the walls are covered in Byzantine motifs, and although certain aspects felt very modern, the building had such an old-time feel to it.
+![ristorante ca de ven interior](/food/foodventures/images/ristorante-ca-de-ven-interior.jpg){:width="60%"}{: .image-right}
+
+The interior decoration of Ristorante Ca' de Ven is the *coolest ever*. It is so fitting that Ravenna would have a restaurant like this: the walls are covered in Byzantine motifs, and although certain aspects felt very modern, the building had such an old-time feel to it.
 
 The food here was amazing, too. I ordered a gnocchi with shrimp and pesto. ASLKDKLHAFK it was so good! Probably the best gnocchi dish I've ever had (not saying I've tried a lot of gnocchi, but...). I'm not even the biggest fan of pesto, and yet it worked really well in this dish, pairing with the shrimp perfectly.
 
@@ -87,9 +93,21 @@ Like the [maltagliati](/food/foodventures/what-i-ate-north-italy-edition-milan/#
 
 In total, our meal came to €56. The most expensive item turned out to be the *tagliere*, meat plate appetizer, for good reason of course, at €15. Also, this restaurant doesn't charge for water, so don't be afraid to ask for another bottle!
 
+### GelateriaGalliera49
+
+Since we skipped dessert at dinner, we stopped for gelato on the walk home (ft. the worst lighting ever). According to their Instagram Stories on the day I'm writing this, Katy Perry came here recently :-D
+
+![ice cream at gelateriagalliera49](/food/foodventures/images/gelateriagalliera49.jpg){:width="40%"}{: .image-left}
+
+I had the "Marsala" flavour because my dumb mind connected it to garam masala; well, it turns out marsala is a type of Sicilian wine so obviously I couldn't be further from the truth! It was a very interesting taste, I've never had alcoholic ice cream before, and to me the closest comparison would be egg nog. I recommend trying it at least once.
+
+I don't remember what Kevin's gelato was, I'll have to ask him and report back.
+
 ## Saturday: Modena and Maranello
 
 A warning about traveling to Modena in August: *EVERYTHING IS CLOSED*. Despite being a small city, Modena is a culinary destination in Italy, known especially for its balsamic vinegar production but also for many fantastic restaurants, including the *Osteria de Francesca*, one of the top restaurants in the world. It, along with half the city, was on vacation when we visited.
+
+![ferrari museum aloe vera drink](/food/foodventures/images/ferrari-museum-drink.jpg){:width="40%"}{: .image-right}
 
 So if you visit at this time, even if the restaurant normally should be open or says it's open on Google maps, check the website or search for them on Facebook. Many restaurants won't even update the website but will mention holiday closures on their Facebook page. Or just try your luck and go to the restaurant in person, but be prepared for disappointment and have a backup or three in mind.
 
