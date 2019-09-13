@@ -24,3 +24,7 @@ excerpt: "TIL in the Kitchen is a page for me to jot down lessons I've learned f
 
 * Leave fresh oranges or clementines on the counter for a month before eating. – [What I ate, Jul 1–7](/food/foodventures/what-i-ate-jul-1-7/#older-oranges-taste-better)
 * Keep some [coin batteries](https://amzn.to/2XAhHrA) on hand when your scale starts showing the Lo indicator occasionally.
+
+### September
+
+- Peaches, when baked, taste amazingly sweet but can smell bad
