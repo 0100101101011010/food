@@ -77,6 +77,8 @@ From left to right in the picture above: cow cheese, goat cheese, blue cheese (g
 
 The cracker was dry and nutty tasting—not a fan. The fig jam was very strong and a bit bitter, similar to prune sauce or similar—also not a fan. The ice creams are best eaten on their own. I found the gorgonzola to be my favourite (even though I'm not usually the biggest fan of blue cheese), it actually works so much better as an ice cream than a hard cheese block. The goat cheese was also tasty (it was the softest and melted extremely quickly—you can see it melting even in the photo), while the cow cheese was too subtle for my taste.
 
+![tagliatelle at trattoria da me](/food/foodventures/images/trattoria-da-me-tagliatelle.jpg){:width="40%"}{: .image-right}
+
 After the mindblowing appetizers, the mains were almost a disappointment. Kevin got the tagliatelle alla bolognese, the next closest thing to lasagna. I had a taste and both he and I agreed that it tasted, well, just like a regular pasta, I suppose? No new flavours here, just a solid meal.
 
 > Nothing special, [especially] after that appetizer. Wasn't bad tho.
