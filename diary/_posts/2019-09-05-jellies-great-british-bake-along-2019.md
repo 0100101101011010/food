@@ -24,7 +24,7 @@ We have been following each episode of Season 10 as it comes out episode by epis
 
 As you've noticed if you follow the show closely, this year's lineup of bakers is a lot younger as well, which is another inspiration for me. After all, if [Henry](https://www.instagram.com/henryfabird/) (the youngest contestant this year) can do these bakes, so can I! Of course, I'm not nearly as talented as anyone on the cast, but the only way to get better is to practice.
 
-I'm hoping to be challenged beyond my usual rotation of plain bread loaves, chocolate chip cookies, and one-bowl muffin batters and to be introduced to some new baking techniques. Wish me luck! ♡
+I'm hoping to be challenged beyond my usual rotation of plain bread loaves, chocolate chip cookies, and one-bowl muffin batters and to be introduced to some new baking techniques. Wish me luck ♡
 
 * TOC
 {:toc}
