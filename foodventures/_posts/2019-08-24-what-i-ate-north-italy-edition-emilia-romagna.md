@@ -85,7 +85,7 @@ After the mindblowing appetizers, the mains were almost a disappointment. Kevin 
 
 – Kevin
 
-![passatelli at trattoria da me](/food/foodventures/images/trattoria-da-me-passatelli.jpg){:width="40%"}{: .image-right}
+![passatelli at trattoria da me](/food/foodventures/images/trattoria-da-me-passatelli.jpg){:width="50%"}{: .image-left}
 
 For my main, I ordered the *passatelli* with cold liquid escarole, black olives, and lemon. What were *passatelli*? I couldn't tell you, and I couldn't get cell signal inside the restaurant so I wasn't even able to google it. Hopefully this doesn't ruin *passatelli* for anyone, but when my food arrived at the table, I had the first impression of worms swimming in a green swamp. Don't get me wrong, it was quite yummy! Would I order it again? No, and not just because it looks unappetizing.
 
