@@ -31,6 +31,10 @@ I'm hoping to be challenged beyond my usual rotation of plain bread loaves, choc
 
 ## Episode 1: Cake
 
+The first week's technical challenge for the bakers is [angel slices](/food/diary/gbbo-bake-along-cake/). I've never made genoise sponge before, or used fondant, so it should be a good learning opportunity for me!
+
+[See my results here](/food/diary/gbbo-bake-along-cake/).
+
 ## Episode 2: Biscuits
 
 ## Episode 3: Bread
