@@ -30,7 +30,7 @@ Following the instructions, the first issue I ran into was the baking pan itself
 
 ![whisking the egg and sugar together](/food/diary/images/gbbo-bake-along-cake-3.jpg){:width="40%"}{: .image-left}
 
-Despite that narrowly-averted disaster, the assembly of the genoise sponge went pretty smoothly. As I said earlier, I've never made genoise sponge before, and it's definitely a hassle. I ended up dirtying a lot of bowls, especially because each layer requires its own set of dishes to keep the colours and flavours separate. I'm seriously missing Kevin my dish ~slave~ ~servant~ washer because it was not fun to clean up.
+Despite that narrowly-averted disaster, the assembly of the genoise sponge went pretty smoothly. As I said earlier, I've never made genoise sponge before, and it's definitely a hassle. I ended up dirtying a lot of bowls, especially because each layer requires its own set of dishes to keep the colours and flavours separate. I'm seriously missing Kevin my dish ~~slave~~ ~~servant~~ washer. I hate scrubbing the raw egg smell off of my dishes.
 
 Overall, though, I was quite happy with my sponges. I was grateful to have my thermometer on hand for the initial step of mixing the egg and sugar together, since it provided some assurance that I was doing things right. And I was paranoid about overmixing the batter and collapsing the whipped eggs, like so many contestants had on the show (this is my fear *every* time I work with whipped eggs, which is why I do it so rarely LOL), but at least two of my layers looked quite fluffy and strong still.
 
