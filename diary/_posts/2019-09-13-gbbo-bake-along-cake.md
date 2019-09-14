@@ -15,8 +15,7 @@ keywords:
  - british junk food
 excerpt: "The first challenge of my 2019 GBBO Bake Along is already a disaster! Not only am I over three weeks late, my cake suffered a terrible accident en route from the oven. Doctors say he's not going to make it :'("
 img: /food/diary/images/gbbo-bake-along-cake-cover.jpg
-comments: "0"
-published: false
+comments: "0
 
 discussion_id: 2019-09-13
 ---
