@@ -102,7 +102,7 @@ Nutrition facts is calculated using 400 g of firm tofu, and does not include any
 
 Easy answer: throw it into your next stir-fry or fried rice dish!
 
-![tofu bok choy mushroom burrito](/food/foodventures/images/tofu-bok-choy-mushroom-burrito.jpg){:width="40%"}{: .image-right}
+![tofu bok choy mushroom burrito](/food/foodventures/images/tofu-bok-choy-mushroom-burrito.jpg){:width="30%"}{: .image-right}
 
 This other method is a little unorthodox, but I rolled up my extra dumpling filling in a tortilla to make some kind of ["Asian-Mexican fusion" burrito](/food/foodventures/what-i-ate-aug-5-11/#tofu-bok-choy-mushroom-burrito), and frankly it was delicious with some spicy mayo.
 
