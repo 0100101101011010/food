@@ -112,7 +112,7 @@ Maybe it's /r/shittyfoodporn material, but hey, the protein from the tofu makes 
 
 ## Dipping Sauces
 
-For dipping sauces, I like this one.
+For dipping sauces, I like [this one](https://www.allrecipes.com/recipe/162361/gyoza-sauce/), a classic in our Asian household growing up! A spicy Japanese mayo is also really tasty.
 
 ## How to Freeze and Reheat Dumplings
 
