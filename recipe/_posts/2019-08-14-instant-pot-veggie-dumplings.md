@@ -96,6 +96,8 @@ You do *not* have to use a bamboo steamer like the photo above, any metal steame
 
 ![nutrition information for instant pot veggie dumplings](/food/recipe/images/instant-pot-veggie-dumplings-nutrition.jpg){:width="200px"}{: .image-right}
 
+Nutrition facts is calculated using 400 g of firm tofu
+
 ## Got Leftover Filling?
 
 Easy answer: throw it into your next stir-fry or fried rice dish!
