@@ -47,8 +47,7 @@ ingredients:
 
 instructions:
  - Add 1 cup of water to the bottom of the Instant Pot.
- - (If using dried shiitake mushrooms, soak them in 1 cup of water for at least 10 minutes to rehydrate.)
- - Finely chop up the mushrooms and bok choy.
+ - Wash and pat dry the mushrooms and bok choy, and chop finely. (If using dried shiitake mushrooms, soak them in 1 cup of water for at least 10 minutes to rehydrate.)
  - Crumble tofu into a large mixing bowl, and add the mushrooms and bok choy. Stir in the rest of the ingredients except for dumpling wrappers.
  - After everything is well-incorporated, add ~1 tbsp of the filling mixture to a dumpling wrapper (or however much you can without it overflowing).
  - Dip your fingers in some water, then fold the dumpling wrapper in half and press firmly along the seams all the way around to seal the dumpling.
