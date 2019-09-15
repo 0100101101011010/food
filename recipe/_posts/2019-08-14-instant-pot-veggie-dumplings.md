@@ -86,7 +86,7 @@ discussion_id: 2019-08-14
 
 ## Nutrition
 
-![nutrition information for instant pot veggie dumplings](/food/recipe/images/instant-pot-veggie-dumplings-nutrition.jpg){:width="200px"}{: .image-right}
+![nutrition information for instant pot veggie dumplings](/food/recipe/images/instant-pot-veggie-dumplings-nutrition.jpg){:width="250px"}
 
 Nutrition facts is calculated using 400 g of firm tofu, and does not include any dipping sauces.
 
