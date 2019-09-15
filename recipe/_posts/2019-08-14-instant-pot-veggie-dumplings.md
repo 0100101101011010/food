@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 rname: instant-pot-veggie-dumplings
 categories: recipe
 tags: [500 calories]
-excerpt: "I recently discovered that the Instant Pot is magic for steaming dumplings to perfection."
+excerpt: "I recently discovered that the Instant Pot is magic for steaming dumplings to perfection. You don't have to worry about chewy, undercooked dumplings or soft, soggy dumplings that fall apart between your chopsticks. Get dumplings that are just right every time with this recipe!"
 img: /food/recipe/images/instant-pot-veggie-dumplings-cover.jpg
 
 comments: "1"
