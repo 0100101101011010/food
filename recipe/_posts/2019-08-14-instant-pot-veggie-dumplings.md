@@ -92,7 +92,7 @@ Nutrition facts is calculated using 400 g of firm tofu, and does not include any
 
 ## Recipe notes
 
-![veggie dumplings in bamboo steamer basket](/food/recipe/images/instant-pot-veggie-dumplings-1.jpg)
+![veggie dumplings in bamboo steamer basket](/food/recipe/images/instant-pot-veggie-dumplings-1.jpg){:width="40%"}{: .image-left}
 
 When arranging the dumplings in the Instant Pot, they can be packed quite close together, but make sure none of them are touching.
 
