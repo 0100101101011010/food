@@ -6,7 +6,7 @@ permalink: /:categories/:title/
 rname: instant-pot-veggie-dumplings
 categories: recipe
 tags: [500 calories]
-excerpt: "You don't have to worry about chewy, undercooked dumplings or soft, soggy dumplings that fall apart between your chopsticks. With the Instant Pot, get dumplings that are just right every time!"
+excerpt: "No more worrying about chewy, undercooked dumplings or soft, soggy dumplings that fall apart between your chopsticks. With the Instant Pot, get dumplings that are just right every time!"
 img: /food/recipe/images/instant-pot-veggie-dumplings-cover.jpg
 
 comments: "1"
