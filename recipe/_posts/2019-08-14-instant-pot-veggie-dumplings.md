@@ -98,6 +98,8 @@ When arranging the dumplings in the Instant Pot, they can be packed quite close 
 
 You do *not* have to use a bamboo steamer like the photo above, any metal steamer is fine too. If you don't have a steamer basket, lay a large piece of parchment paper over the trivet that came with your instant pot, and rest your dumplings on top.
 
+Btw, it doesn't really matter what kind of wrapper you use, ones for wontons / potstickers / gyoza all work fine. Personally I just use [this brand](https://www.walmart.ca/en/ip/sun-on-dumpling-wrappers/6000196789446), it's the easiest to find around here.
+
 ## Got Leftover Filling?
 
 Easy answer: throw it into your next stir-fry or fried rice dish!
