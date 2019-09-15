@@ -84,6 +84,12 @@ discussion_id: 2019-08-14
   {% endfor %}
 </ol>
 
+## Nutrition
+
+![nutrition information for instant pot veggie dumplings](/food/recipe/images/instant-pot-veggie-dumplings-nutrition.jpg){:width="200px"}{: .image-right}
+
+Nutrition facts is calculated using 400 g of firm tofu, and does not include any dipping sauces.
+
 ## Recipe notes
 
 ![veggie dumplings in bamboo steamer basket](/food/recipe/images/instant-pot-veggie-dumplings-1.jpg)
@@ -91,12 +97,6 @@ discussion_id: 2019-08-14
 When arranging the dumplings in the Instant Pot, they can be packed quite close together, but make sure none of them are touching.
 
 You do *not* have to use a bamboo steamer like the photo above, any metal steamer is fine too. If you don't have a steamer basket, lay a large piece of parchment paper over the trivet that came with your instant pot, and rest your dumplings on top.
-
-## Nutrition
-
-![nutrition information for instant pot veggie dumplings](/food/recipe/images/instant-pot-veggie-dumplings-nutrition.jpg){:width="200px"}{: .image-right}
-
-Nutrition facts is calculated using 400 g of firm tofu, and does not include any dipping sauces.
 
 ## Got Leftover Filling?
 
