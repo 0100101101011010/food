@@ -1,15 +1,14 @@
 ---
 layout: recipe
-title: "Instant Pot Veggie Dumplings"
+title: "Instant Pot Veggie Dumplings (jiaozi)"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
 rname: instant-pot-veggie-dumplings
 categories: recipe
-tags: [200 calories]
+tags: [400 calories]
 excerpt: "I recently discovered that the Instant Pot is magic for steaming dumplings to perfection."
 img: /food/recipe/images/instant-pot-veggie-dumplings-cover.jpg
 
-published: false
 comments: "1"
 keywords:
  - vegan
@@ -17,13 +16,15 @@ keywords:
  - umami
  - filling recipe
  - high fiber
+ - asian recipes
+ - gyoza
 
-cooktime: "PT4H"
-preptime: "PT15M"
-totaltime: "PT4H"
+cooktime: "PT30M"
+preptime: "PT1H"
+totaltime: "PT1H30M"
 
-cost: "0.80"
-calories: "220 calories"
+cost: "1.76"
+calories: "450 calories"
 servings: "4"
 
 cookingmethod: "steaming"
@@ -38,7 +39,7 @@ ingredients:
  - 15 shiitake mushrooms (dried or fresh)
  - 1 block of tofu (400–500 g), firm or extra firm works best
  - 300 g bok choy or baby bok choy
- - 2 tbsp rice vinegar
+ - 2 tbsp rice vinegar (apple cider vinegar works as well)
  - 2 tbsp soy sauce
  - 1 tbsp oyster sauce (if vegan, use mushroom-made oyster sauce) or hoisin sauce
  - 1 tbsp minced garlic
@@ -51,8 +52,8 @@ instructions:
  - Crumble tofu into a large mixing bowl, and add the mushrooms and bok choy. Stir in the rest of the ingredients except for dumpling wrappers.
  - After everything is well-incorporated, add ~1 tbsp of the filling mixture to a dumpling wrapper (or however much you can without it overflowing).
  - Dip your fingers in some water, then fold the dumpling wrapper in half and press firmly along the seams all the way around to seal the dumpling.
- - Place on a steamer basket and set in a trivet inside the Instant Pot. Repeat with remaining wrappers and filling.
- - Use the Instant Pot's STEAM function on High for 2 minutes (if yours doesn't have the STEAM function, the manual PRESSURE COOK function works fine). Quick release.
+ - Place on a steamer basket and set in a trivet inside the Instant Pot. Repeat with remaining wrappers and filling. You will have to steam in batches, I could only fit five or six dumplings in the steamer at a time.
+ - Use the Instant Pot's STEAM function on High for 2 minutes (if yours doesn't have the STEAM function, the manual PRESSURE COOK function works fine). When done, immediately quick release.
  - You can either eat your dumplings right away, fry them up in a skillet for potstickers, or freeze them for meal prep.
 
 discussion_id: 2019-08-14
@@ -60,12 +61,12 @@ discussion_id: 2019-08-14
 
 *{{page.excerpt}}*
 
-> **ACTIVE TIME:** 30 minutes  
+> **ACTIVE TIME:** 1 hour (depending on how fast you are at folding dumplings—I would enlist some help from those around you, folding dumplings together is such a fun time!)  
 > **TOTAL TIME:** 1 hour 30 minutes  
-> **SERVINGS:** {{page.servings}}  
+> **SERVINGS:** {{page.servings}} (10 dumplings each)  
 > **CALORIES:** {{page.calories}} per serving  
 > **COST:** CAD ${{page.cost}} per serving  
-> **FRIDGE:** keeps for over a week, covered  
+> **FRIDGE:** keeps for at least a few days (although I would just freeze whatever you can't eat and reheat it, following the steps below)  
 > **FREEZER:** keeps for several months
 
 ## Ingredients
@@ -86,13 +87,23 @@ discussion_id: 2019-08-14
 
 ## Recipe notes
 
-![nutrition information for milk tea made with powder](/food/recipe/images/homemade-bubble-tea-milk-tea-nutrition-1.jpg){:width="200px"}{: .image-right} ![nutrition information for milk tea made with brewed tea](/food/recipe/images/homemade-bubble-tea-milk-tea-nutrition-2.jpg){:width="200px"}{: .image-right}
-
-*Nutrition info is for milk tea without toppings.*
-
-
-
 When arranging the dumplings together in the steamer basket, they can be packed quite close together, but make sure none of them are touching.
+
+## Nutrition
+
+![nutrition information for instant pot veggie dumplings](/food/recipe/images/instant-pot-veggie-dumplings-nutrition.jpg){:width="200px"}{: .image-right}
+
+## Got Leftover Filling?
+
+Easy answer: throw it into your next stir-fry or fried rice dish!
+
+![tofu bok choy mushroom burrito](/food/foodventures/images/tofu-bok-choy-mushroom-burrito.jpg){:width="40%"}{: .image-right}
+
+This other method is a little unorthodox, but I rolled up my extra dumpling filling in a tortilla to make some kind of ["Asian-Mexican fusion" burrito](/food/foodventures/what-i-ate-aug-5-11/#tofu-bok-choy-mushroom-burrito), and frankly it was delicious with some spicy mayo.
+
+Maybe it's /r/shittyfoodporn material, but hey, the protein from the tofu makes it sturdy and filling and the mushrooms and sauce make it so savoury. 10/10 would make filling again just for burrito stuffing.
+
+## Dipping Sauces
 
 For dipping sauces, I like this one.
 
