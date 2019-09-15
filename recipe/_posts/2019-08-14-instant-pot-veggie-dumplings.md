@@ -118,6 +118,8 @@ For dipping sauces, I like [this one](https://www.allrecipes.com/recipe/162361/g
 
 Lay dumplings (it's fine if they're still hot) in a single-layer on a wax paper or parchment paper lined sheet and freeze. When they're solid, you can transfer them to a ziploc bag or container for easy storage.
 
+![tofu bok choy mushroom dumpling potstickers](/food/foodventures/images/instant-pot-veggie-dumplings-2.jpg){:width="30%"}{: .image-right}
+
 To reheat, add just enough water to a non-stick skillet to cover the bottom. Add about a tsp of oil to the water, then turn on the stove to maximum heat. Add dumplings to the skillet (again, they can be close together but make sure they don't touch) and let boil, uncovered. Don't worry if there is some popping and splashing due to the oil and water reacting. When the water has almost completely boiled off, turn the heat down to medium. When all the water is gone, flip the dumplings and fry the other side until both sides are a nice golden brown.
 
 Or, if you're making an Asian soup, throw some frozen dumplings in there, they are a fantastic addition.
