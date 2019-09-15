@@ -5,7 +5,7 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 rname: instant-pot-veggie-dumplings
 categories: recipe
-tags: [400 calories]
+tags: [500 calories]
 excerpt: "I recently discovered that the Instant Pot is magic for steaming dumplings to perfection."
 img: /food/recipe/images/instant-pot-veggie-dumplings-cover.jpg
 
