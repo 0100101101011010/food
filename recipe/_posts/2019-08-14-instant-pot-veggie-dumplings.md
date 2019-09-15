@@ -51,7 +51,7 @@ instructions:
  - Crumble tofu into a large mixing bowl, and add the mushrooms and bok choy. Stir in the rest of the ingredients except for dumpling wrappers.
  - After everything is well-incorporated, add ~1 tbsp of the filling mixture to a dumpling wrapper (or however much you can without it overflowing).
  - Dip your fingers in some water, then fold the dumpling wrapper in half and press firmly along the seams all the way around to seal the dumpling.
- - Place on a steamer basket and set in a trivet inside the Instant Pot. Repeat with remaining wrappers and filling. You will have to steam in batches, I could only fit five or six dumplings in the steamer at a time.
+ - Place on a steamer basket and set in a trivet inside the Instant Pot. Repeat with remaining wrappers and filling. You will have to steam in batches, I could only fit six or seven dumplings in the steamer at a time.
  - Use the Instant Pot's STEAM function on High for 2 minutes (if yours doesn't have the STEAM function, the manual PRESSURE COOK function works fine). When done, immediately quick release.
  - You can either eat your dumplings right away, fry them up in a skillet for potstickers, or freeze them for meal prep.
 
