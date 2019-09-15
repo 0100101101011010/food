@@ -65,7 +65,7 @@ discussion_id: 2019-08-14
 > **SERVINGS:** {{page.servings}} (10 dumplings each)  
 > **CALORIES:** {{page.calories}} per serving  
 > **COST:** CAD ${{page.cost}} per serving  
-> **FRIDGE:** keeps for at least a few days (although I would just freeze whatever you can't eat and reheat it, following the steps below)  
+> **FRIDGE:** keeps for at least a few days (although I would just freeze whatever you can't eat and reheat it, following the steps at the bottom of this page)  
 > **FREEZER:** keeps for several months
 
 ## Ingredients
