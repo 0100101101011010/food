@@ -77,9 +77,19 @@ I didn't know it was so popular to create noodles out of seafood, but we ate a s
 
 ![il ridotto steak tartare](/food/foodventures/images/il-ridotto-beef-tartare.jpg){:width="50%"}{: .image-right}
 
-Oof... now this one was not good. Two balls of raw ground beef. I have never eaten raw beef before except
+Oof... now this one was not good. Two balls of raw ground beef. I have never eaten raw beef before except in Japanese tataki (which I think is more rare than raw, anyway), and I was not prepared for this. The flavour of this thing is one of the reasons I find it so easy to avoid meat—fatty, strong, a little gamey—let's just say it was not at all subtle about being completely raw. Even Kevin couldn't eat much of it.
 
-The chef was very involved here, stopping by our table after we left the raw beef tartare barely eaten. He also personally served a few of the dishes.
+Aside from the meat itself, the other parts of the dish were fine—the truffle and parmigiano reggiano garnishes were delicious, and mmm, that slice of tomato with the fresh slice of basil, it was heaven! If we'd been served two balls of that tomato on its own, I wouldn't have minded.
+
+It was a little awkward when the server came to take away our barely touched plates. But next thing we knew, the chef himself came out. He seemed very apologetic, and then let us know the next few dishes with meat and asked if we were okay with them. I really appreciate that he stopped by, since that meant diners' remarks are actually passed on to the kitchen, and it showed that at least our experience was acknowledged.
+
+![il ridotto red pepper risotto](/food/foodventures/images/il-ridotto-risotto.jpg){:width="40%"}{: .image-right}
+
+Luckily, the next dish was absolutely delicious.
+
+It looks kind of rustic, but oh man, at this point of our trip I had not yet tasted risotto this good. I had never heard of, let alone tasted, red pepper risotto with capers, but it's a winning combination! This may actually be my first time (knowingly) eating capers, as well. The tart, almost lemony note introduced by the capers worked so well with the hearty risotto. And the cheese, don't get me started on the cheese! The mozzarella di bufala was so fresh, tender, and juicy. *I WANTED MORE!!!*
+
+He also personally served a few of the dishes.
 
 ## Tuesday
 
