@@ -89,7 +89,7 @@ discussion_id: 2019-08-14
 
 ![nutrition information for instant pot veggie dumplings](/food/recipe/images/instant-pot-veggie-dumplings-nutrition.jpg){:width="250px"}
 
-Nutrition facts is calculated using 400 g of firm tofu, and does not include any dipping sauces.
+Nutrition facts are calculated using 400 g of firm tofu, and does not include any dipping sauces.
 
 ## Recipe notes
 
@@ -100,6 +100,12 @@ When arranging the dumplings in the Instant Pot, they can be packed quite close 
 You do *not* have to use a bamboo steamer like the photo above, any metal steamer is fine too. If you don't have a steamer basket, lay a large piece of parchment paper over the trivet that came with your instant pot, and rest your dumplings on top.
 
 Btw, it doesn't really matter what kind of wrapper you use, ones for wontons / potstickers / gyoza all work fine. Personally I just use [this brand](https://www.walmart.ca/en/ip/sun-on-dumpling-wrappers/6000196789446), it's the easiest to find around here.
+
+## Switching It Up
+
+I personally dislike the taste of Chinese leeks, but they are a classic ingredient in Chinese dumplings. So if you don't mind, dice some up and give it a try in your filling!
+
+If you aren't vegan or vegetarian, adding some shrimp or ground pork to your dumplings kicks the flavour profile to a new dimension. ♡
 
 ## Got Leftover Filling?
 
