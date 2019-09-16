@@ -18,3 +18,7 @@ discussion_id: 2019-07-05
 ![protose](/food/foodventures/images/#.jpg){:width="60%"}{: .image-right}
 
 http://www.sewhistorically.com/victorian-1850s-graham-bread-recipe-historical-food-fortnightly/
+
+https://lightorangebean.com/4-ingredient-homemade-soy-butter/
+
+seafoam cake
