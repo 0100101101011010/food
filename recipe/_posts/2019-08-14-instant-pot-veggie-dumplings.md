@@ -117,9 +117,9 @@ This other method is a little unorthodox, but I rolled up my extra dumpling fill
 
 Maybe it's /r/shittyfoodporn material, but hey, the protein from the tofu makes it sturdy and filling and the mushrooms and sauce make it so savoury. 10/10 would make filling again just for burrito stuffing.
 
-## Dipping Sauces
+## Suggestions for Dipping Sauce
 
-For dipping sauces, I like [this one](https://www.allrecipes.com/recipe/162361/gyoza-sauce/), a classic in our Asian household growing up! A spicy Japanese also goes really well.
+For dipping sauces, I like [this one](https://www.allrecipes.com/recipe/162361/gyoza-sauce/), a classic in our Asian household growing up! A spicy Japanese mayo also goes really well.
 
 ## How to Freeze and Reheat Dumplings
 
