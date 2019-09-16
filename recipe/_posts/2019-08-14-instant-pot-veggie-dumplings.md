@@ -39,6 +39,7 @@ ingredients:
  - 15 shiitake mushrooms (dried or fresh)
  - 1 block of tofu (400–500 g), firm or extra firm works best
  - 300 g bok choy or baby bok choy
+ - 1/2 tsp fine salt
  - 2 tbsp rice vinegar (apple cider vinegar works as well)
  - 2 tbsp soy sauce
  - 1 tbsp oyster sauce (if vegan, use mushroom-made oyster sauce) or hoisin sauce
