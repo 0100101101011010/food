@@ -3,10 +3,11 @@ layout: recipe
 title: "Minestrone Soup — Dump & Go in the Instant Pot"
 author: "Kelly Zhang"
 permalink: /:categories/:title/
+rname: minestrone-soup-dump-go-instant-pot
 categories: recipe
 tags: [100 calories]
 excerpt: "Pyrohy (better known as pierogis) are traditional Eastern European dumplings. This basic recipe is inspired by the early Ukrainian settlers of Canada's prairie provinces. You can build on it and customize to suit your taste."
-img: /food/recipe/images/sandwich-bread-cover.jpg
+img: /food/recipe/images/minestrone-soup-dump-go-instant-pot-cover.jpg
 
 comments: "6"
 
