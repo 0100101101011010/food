@@ -92,7 +92,7 @@ discussion_id: 2019-09-17
 
 ## Nutrition
 
-![nutrition information for instant pot veggie dumplings](/food/recipe/images/instant-pot-veggie-dumplings-nutrition.jpg){:width="250px"}
+![nutrition information for minestrone soup](/food/recipe/images/minestrone-soup-dump-go-instant-pot-nutrition.jpg){:width="250px"}
 
 Nutrition facts are calculated using 400 g of firm tofu, and does not include any dipping sauces.
 
@@ -102,4 +102,4 @@ Whether you are using canned beans or cooked your own from dry, you can save the
 
 Adjust any of the ingredients to your liking! I love garlicky flavour so I added 2 whole tbsps of garlic. I also use 1.5 L of stock because I prefer a more soupy version of minestrone. The only thing I wouldn't touch would be the chili garlic sauce; if you add more than 1 tbsp, it becomes too spicy and not really true to minestrone anymore.
 
-\* I use my own homemade Italian seasoning, following this recipe
+\* I use my own homemade Italian seasoning, using [this recipe](https://addapinch.com/italian-seasoning-mix-recipe/).
