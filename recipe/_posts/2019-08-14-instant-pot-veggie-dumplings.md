@@ -91,7 +91,7 @@ discussion_id: 2019-08-14
 
 Nutrition facts are calculated using 400 g of firm tofu, and does not include any dipping sauces.
 
-## Recipe notes
+## Recipe Notes
 
 ![veggie dumplings in bamboo steamer basket](/food/recipe/images/instant-pot-veggie-dumplings-1.jpg){:width="40%"}{: .image-left}
 
