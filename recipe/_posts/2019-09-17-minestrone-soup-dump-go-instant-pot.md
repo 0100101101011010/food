@@ -58,8 +58,6 @@ instructions:
  - Once pressure has released, open the lid, add spinach or kale to the Instant Pot, then immediately close lid again for 5 more minutes.
  - Remove lid and serve! Add more s&p to taste.
 
-published: false
-
 discussion_id: 2019-09-17
 ---
 
