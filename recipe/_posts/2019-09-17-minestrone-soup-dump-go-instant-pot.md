@@ -31,7 +31,7 @@ cookingmethod: "pressure cooking"
 recipecategory: "soup"
 cuisine: "Italian"
 
-rating: "4"
+rating: "5"
 reviews: "3"
 
 
@@ -62,6 +62,39 @@ published: false
 
 discussion_id: 2019-09-17
 ---
+
+
+*{{page.excerpt}}*
+
+> **ACTIVE TIME:** 10 minutes  
+> **TOTAL TIME:** 30 minutes  
+> **SERVINGS:** {{page.servings}}  
+> **CALORIES:** {{page.calories}} per serving  
+> **COST:** CAD ${{page.cost}} per serving  
+> **FRIDGE:** keeps for at least a few days (although I would just freeze whatever you can't eat and reheat when needed, following the steps at the bottom of this page)  
+> **FREEZER:** keeps for several months
+
+## Ingredients
+
+<ul>
+  {% for item in page.ingredients %}
+    <li>{{ item }}</li>
+  {% endfor %}
+</ul>
+
+## Instructions
+
+<ol>
+  {% for item in page.instructions %}
+    <li>{{ item }}</li>
+  {% endfor %}
+</ol>
+
+## Nutrition
+
+![nutrition information for instant pot veggie dumplings](/food/recipe/images/instant-pot-veggie-dumplings-nutrition.jpg){:width="250px"}
+
+Nutrition facts are calculated using 400 g of firm tofu, and does not include any dipping sauces.
 
 ## Recipe Notes
 
