@@ -6,19 +6,18 @@ permalink: /:categories/:title/
 rname: minestrone-soup-dump-go-instant-pot
 categories: recipe
 tags: [100 calories]
-excerpt: "Pyrohy (better known as pierogis) are traditional Eastern European dumplings. This basic recipe is inspired by the early Ukrainian settlers of Canada's prairie provinces. You can build on it and customize to suit your taste."
+excerpt: "I always find myself craving minestrone after eating junk food. It's savoury and delicious, but so light and healthy that it feels cleansing. With a pressure cooker, you'll be able to make yourself a bowl of soup in less than half an hour—Instant gratification!"
 img: /food/recipe/images/minestrone-soup-dump-go-instant-pot-cover.jpg
 
 comments: "6"
 
 keywords:
- - homemade bread
- - baking
- - beginner bread baking
- - ethnic pastries
- - breadmaking
- - russian recipes
- - ukrainian recipes
+ - italian recipes
+ - vegan
+ - vegetarian
+ - comfort food
+ - one pot recipe
+ - one pot meals
 
 cooktime: "PT4H30M"
 preptime: "PT30M"
@@ -28,25 +27,29 @@ cost: "0.11"
 calories: "112 calories"
 servings: "12"
 
-cookingmethod: "steaming"
-recipecategory: "dinner"
-cuisine: "Ukrainian"
+cookingmethod: "pressure cooking"
+recipecategory: "soup"
+cuisine: "Italian"
 
 rating: "4"
 reviews: "3"
 
 
 ingredients:
- - 60 g (scant 1/3 cup) sugar + 2 tbsp sugar, divided
- - 8 g (1 tbsp) active dry yeast (or 6 g instant yeast, or 21 g fresh yeast)
- - 250 mL (1 cup) milk, warm
- - 2 eggs
- - 500 g (4 cups) flour
- - 75 g (heaping 1/3 cup) butter, room temperature
- - 6 g (1 tsp) fine salt
- - 200 g farmer's cheese or cottage cheese
- - 2 tbsp sour cream
- - 1 tsp vanilla extract or lemon zest
+  - splash of olive oil
+  - 1 can (or 400 g cooked) great northern beans, drained
+  - 2 carrots
+  - 2 stalks of celery
+  - 1 tsp fine salt
+  - 1.5 tsp ground black pepper
+  - 1 tsp paprika
+  - 1 tbsp Italian seasoning*
+  - 85 g (1/2 cup) small pasta
+  - 1 tbsp (3 cloves) minced garlic
+  - 1 tbsp chili garlic sauce, sambal oelek, or sriracha (if you don't have any of these, use 1/2 tsp red pepper flakes)
+  - 2 heaping tbsp tomato paste
+  - 1 L (4 cups) chicken stock or vegetable stock (I used 1 L water + 1 rounded tsp vegetable bouillon powder)
+  - 2 cups spinach or 2 stalks of kale
 
 instructions:
  - Mix 60 g of sugar, yeast, and milk.
