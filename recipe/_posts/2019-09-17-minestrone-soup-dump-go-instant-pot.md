@@ -90,7 +90,7 @@ discussion_id: 2019-09-17
 
 ## Nutrition
 
-![nutrition information for minestrone soup](/food/recipe/images/minestrone-soup-dump-go-instant-pot-nutrition.jpg){:width="250px"}
+![nutrition information for minestrone soup](/food/recipe/images/minestrone-soup-dump-go-instant-pot-nutrition.jpg){:width="350px"}
 
 
 ## Recipe Notes
