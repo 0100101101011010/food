@@ -9,7 +9,7 @@ tags: [100 calories]
 excerpt: "I always find myself craving minestrone after eating junk food. It's savoury and delicious, but so light and healthy that it feels cleansing. With a pressure cooker, you'll be able to make yourself a bowl of soup in less than half an hour—Instant gratification!"
 img: /food/recipe/images/minestrone-soup-dump-go-instant-pot-cover.jpg
 
-comments: "6"
+comments: "0"
 
 keywords:
  - italian recipes
@@ -32,24 +32,24 @@ recipecategory: "soup"
 cuisine: "Italian"
 
 rating: "5"
-reviews: "3"
+reviews: "10"
 
 
 ingredients:
- - splash of olive oil
- - 1 can (or 400 g cooked) great northern beans, drained
+ - splash of olive oil*
+ - 1 can (or 350 g cooked) great northern beans, drained
  - 2 carrots
  - 2 stalks of celery
  - 1 tsp fine salt
  - 1.5 tsp ground black pepper
  - 1 tsp paprika
- - 1 tbsp Italian seasoning*
+ - 1 tbsp Italian seasoning**
  - 85 g (1/2 cup) small pasta
  - 1 tbsp (3 cloves) minced garlic
  - 1 tbsp chili garlic sauce, sambal oelek, or sriracha (if you don't have any of these, use 1/2 tsp red pepper flakes)
  - 2 heaping tbsp tomato paste
  - 1 L (4 cups) chicken stock or vegetable stock (I used 1 L water + 1 rounded tsp vegetable bouillon powder)
-- 2 cups spinach or 2 stalks of kale
+ - 2 cups spinach or 2 stalks of kale
 
 instructions:
  - Add everything except spinach or kale into the Instant Pot, stirring to mix well.
@@ -71,7 +71,7 @@ discussion_id: 2019-09-17
 > **SERVINGS:** {{page.servings}}  
 > **CALORIES:** {{page.calories}} per serving  
 > **COST:** CAD ${{page.cost}} per serving  
-> **FRIDGE:** keeps for at least a few days (although I would just freeze whatever you can't eat and reheat when needed, following the steps at the bottom of this page)  
+> **FRIDGE:** keeps for up to a week  
 > **FREEZER:** keeps for several months
 
 ## Ingredients
@@ -94,7 +94,6 @@ discussion_id: 2019-09-17
 
 ![nutrition information for minestrone soup](/food/recipe/images/minestrone-soup-dump-go-instant-pot-nutrition.jpg){:width="250px"}
 
-Nutrition facts are calculated using 400 g of firm tofu, and does not include any dipping sauces.
 
 ## Recipe Notes
 
@@ -102,4 +101,6 @@ Whether you are using canned beans or cooked your own from dry, you can save the
 
 Adjust any of the ingredients to your liking! I love garlicky flavour so I added 2 whole tbsps of garlic. I also use 1.5 L of stock because I prefer a more soupy version of minestrone. The only thing I wouldn't touch would be the chili garlic sauce; if you add more than 1 tbsp, it becomes too spicy and not really true to minestrone anymore.
 
-\* I use my own homemade Italian seasoning, using [this recipe](https://addapinch.com/italian-seasoning-mix-recipe/).
+\* You can leave out the oil to make it healthier.
+
+** I use my own homemade Italian seasoning, using [this recipe](https://addapinch.com/italian-seasoning-mix-recipe/).
