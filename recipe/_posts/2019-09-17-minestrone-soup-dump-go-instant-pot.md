@@ -101,6 +101,6 @@ Whether you are using canned beans or cooked your own from dry, you can save the
 
 Adjust any of the ingredients to your liking! I love garlicky flavour so I added 2 whole tbsps of garlic. I also use 1.5 L of stock because I prefer a more soupy version of minestrone. The only thing I wouldn't touch would be the chili garlic sauce; if you add more than 1 tbsp, it becomes too spicy and not really true to minestrone anymore.
 
-\* You can leave out the oil to make it healthier.
+\* You can leave out the olive oil to make it healthier.
 
 ** I use my own homemade Italian seasoning, using [this recipe](https://addapinch.com/italian-seasoning-mix-recipe/).
