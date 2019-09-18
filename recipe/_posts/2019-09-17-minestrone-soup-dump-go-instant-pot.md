@@ -106,4 +106,4 @@ Adjust any of the ingredients to your liking! I love garlicky flavour so I added
 
 ## Step-By-Step Video
 
-{% include youtubePlayer.html id=page.youtube %}
+{% include youtube-player.html id=page.youtube %}
