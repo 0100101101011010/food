@@ -113,11 +113,17 @@ Kevin's marinara pizza was really funny! It was a totally bare pizza, with just 
 
 ## Thursday
 
+For Thursday we decided to take a day trip to Burano (which always makes me laugh, 'cause Burano, Murano...) and holy shit this is the prettiest little village ever.
+
 ### Dinner at Trattoria da Romano
 
 We shared the *Risotto da Romano*, which blew both our minds. I have never tasted a flavour more suited to risotto!
 
 I was afraid Kevin would find it fishy, but he loved it too. Sadly, it was also super expensive, at €20 per person. And we weren't even completely full after licking our plates clean, so we ordered a fried seafood platter to share.
+
+Again, although delicious, the portions were small.
+
+The polenta here was made with white cornmeal rather than the yellow cornmeal at [Osteria al Duomo](#lunch-at-osteria-al-duomo). Both of them tasted pretty similar tbh. How is white cornmeal even made?!
 
 This place also has the softest bread we encountered yet in Italy, another bonus.
 
