@@ -83,8 +83,6 @@ discussion_id: 2019-09-17
 
 ## Instructions
 
-![nutrition information for minestrone soup](/food/recipe/images/minestrone-soup-dump-go-instant-pot-nutrition.jpg){:width="350px"}{: .image-right}
-
 <ol>
   {% for item in page.instructions %}
     <li>{{ item }}</li>
@@ -103,6 +101,14 @@ Adjust any of the ingredients to your liking! I love garlicky flavour so I added
 ** I use my own homemade Italian seasoning, using [this recipe](https://addapinch.com/italian-seasoning-mix-recipe/).
 
 ## What Kinds of Pasta Should You Use?
+
+Technically, any shape of pasta would work. If you're using a larger pasta, like farfalle or penne, increase the Pressure Cook time to 4 minutes. I prefer a smaller-shaped pasta, though, because that's my preference for soups.
+
+In the video, I'm using a small pasta called *lumachine*, which I picked up on my [recent trip to Italy](/blog/italy-trip-venice-bologna-milan). The pasta shells resemble little critters. So cute!
+
+## Nutrition
+
+![nutrition information for minestrone soup](/food/recipe/images/minestrone-soup-dump-go-instant-pot-nutrition.jpg){:width="350px"}
 
 ## Step-By-Step Video
 
