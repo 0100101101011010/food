@@ -95,7 +95,7 @@ He also personally served a few of the dishes.
 
 ### Lunch at La Zucca
 
-*La zucca* means "the squash" in Italian.
+*La zucca* means "the squash" in Italian. So of course, I ordered their pumpkin entree.
 
 ## Wednesday
 
@@ -104,6 +104,12 @@ He also personally served a few of the dishes.
 Remember the restaurant where we were [massacred by mosquitoes](#lunch-at-osteria-al-duomo)? We decided to give them another try since neither of us had been in the right state of mind to enjoy our meal the last time around.
 
 Sadly this time wasn't too great, either. I have to conclude that although the restaurant has a lengthy history, having been established in 1903 (that's earlier than Alberta became a province... omg), the food itself is average.
+
+We made sure to shower in bug spray before we went, so mosquitoes weren't a problem. However, this time, there was a weird smell near where we were sitting and it really wasn't pleasant to smell right before a meal.
+
+The entrees themselves were ok, I ordered a linguine with pistachio pesto dish. I liked the subtle flavours, but it wasn't salted enough, and I would've like more of the pistachio to come through.
+
+Kevin's marinara pizza was really funny! It was a totally bare pizza, with just ~~tomato~~ marinara sauce and two whole cloves of garlic in the centre. This guy loved it, though, so who am I to judge :-)
 
 ## Thursday
 
@@ -124,3 +130,5 @@ The service was friendly, but slow (and I don't mean that it was relaxed, in the
 ## Saturday
 
 ### Lunch on Air Canada Rouge
+
+Ironically, we got better meals on Rouge than on the main Air Canada line that we flew in on.

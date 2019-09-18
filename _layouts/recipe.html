@@ -58,7 +58,8 @@ layout: default
     "contentUrl": "https://www.youtube.com/watch?v={{ page.youtube }}",
     "embedUrl": "https://www.youtube.com/embed/{{ page.youtube }}",
     "thumbnailUrl": "https://kellyzhang.me/food/recipe/images/{{ page.rname }}-youtube.jpg",
-    "uploadDate": {{ page.date | jsonify }}
+    "uploadDate": {{ page.date | jsonify }},
+    "duration": "PT1M30S"
   },
 
   "recipeYield": {{page.servings | jsonify}},
@@ -77,7 +78,7 @@ layout: default
   "datePublished": {{ page.date | jsonify }},
   "publisher": {
     "@type": "Organization",
-    "name": "Hi I'm Kelly and I Love My Life",
+    "name": "Kelly Zhang",
     "logo": {
       "@type": "ImageObject",
       "URL": "http://kellyzhang.me/food/images/logo.jpg"
