@@ -5,10 +5,10 @@ author: "Kelly Zhang"
 permalink: /:categories/:title/
 rname: minestrone-soup-dump-go-instant-pot
 categories: recipe
-tags: [100 calories]
+tags: [300 calories]
 excerpt: "I always find myself craving minestrone after eating junk food. It's savoury and delicious, but so light and healthy. With a pressure cooker, you'll be able to make yourself a bowl of soup in less than half an hour—Instant gratification! Check out the how-to video at the bottom of the page to see a visual demonstration."
 img: /food/recipe/images/minestrone-soup-dump-go-instant-pot-cover.jpg
-youtube:
+youtube: fr2G3wWlXSQ
 
 comments: "0"
 
@@ -25,8 +25,8 @@ preptime: "PT10M"
 totaltime: "PT30M"
 
 cost: "0.11"
-calories: "112 calories"
-servings: "12"
+calories: "276 calories"
+servings: "4"
 
 cookingmethod: "pressure cooking"
 recipecategory: "soup"
