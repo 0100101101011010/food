@@ -53,8 +53,8 @@ layout: default
 
   "video": {
     "@type": "VideoObject",
-    "contentUrl": "https://www.youtube.com/watch?v="{{page.youtube | jsonify}},
-    "embedUrl": "https://www.youtube.com/embed/"{{page.youtube | jsonify}}
+    "contentUrl": "https://www.youtube.com/watch?v={{page.youtube | jsonify}}",
+    "embedUrl": "https://www.youtube.com/embed/{{page.youtube | jsonify}}"
   },
 
   "recipeYield": {{page.servings | jsonify}},
