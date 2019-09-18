@@ -6,8 +6,9 @@ permalink: /:categories/:title/
 rname: minestrone-soup-dump-go-instant-pot
 categories: recipe
 tags: [100 calories]
-excerpt: "I always find myself craving minestrone after eating junk food. It's savoury and delicious, but so light and healthy that it feels cleansing. With a pressure cooker, you'll be able to make yourself a bowl of soup in less than half an hour—Instant gratification!"
+excerpt: "I always find myself craving minestrone after eating junk food. It's savoury and delicious, but so light and healthy. With a pressure cooker, you'll be able to make yourself a bowl of soup in less than half an hour—Instant gratification! Check out the how-to video at the bottom of the page to see a visual demonstration."
 img: /food/recipe/images/minestrone-soup-dump-go-instant-pot-cover.jpg
+youtube:
 
 comments: "0"
 
@@ -102,3 +103,7 @@ Adjust any of the ingredients to your liking! I love garlicky flavour so I added
 \* You can leave out the olive oil to make it healthier.
 
 ** I use my own homemade Italian seasoning, using [this recipe](https://addapinch.com/italian-seasoning-mix-recipe/).
+
+## Step-By-Step Video
+
+{% include youtubePlayer.html id=page.youtube %}
