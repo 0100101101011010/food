@@ -138,3 +138,5 @@ The service was friendly, but slow (and I don't mean that it was relaxed, in the
 ### Lunch on Air Canada Rouge
 
 Ironically, we got better meals on Rouge than on the main Air Canada line that we flew in on.
+
+We got apple pie for the breakfast before landing!

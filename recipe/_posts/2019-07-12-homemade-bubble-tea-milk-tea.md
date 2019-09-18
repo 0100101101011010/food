@@ -8,6 +8,8 @@ tags: [100 calories]
 excerpt: "Cool down during the summer with your own addictive milk tea drink for a fraction of the cost of boba shops! Here I give options for brewing your own tea or using a pre-mixed powder."
 img: /food/recipe/images/homemade-bubble-tea-milk-tea-cover.jpg
 
+rname: homemade-bubble-tea-milk-tea
+
 comments: "2"
 
 keywords:
