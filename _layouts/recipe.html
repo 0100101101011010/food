@@ -18,7 +18,7 @@ layout: default
   "author": {{ page.author | jsonify }},
   "keywords": {{ page.keywords | jsonify }},
   "description": {{ page.excerpt | jsonify }},
-  "image": "https://kellyzhang.me/{{ page.img }}",
+  "image": "https://kellyzhang.me{{ page.img }}",
 
   "interactionStatistic": {
     "@type": "InteractionCounter",
@@ -58,7 +58,7 @@ layout: default
     "contentUrl": "https://www.youtube.com/watch?v={{ page.youtube }}",
     "embedUrl": "https://www.youtube.com/embed/{{ page.youtube }}",
     "thumbnailUrl": "https://kellyzhang.me/food/recipe/images/{{ page.rname }}-youtube.jpg",
-
+    "uploadDate": {{ page.date | jsonify }}
   },
 
   "recipeYield": {{page.servings | jsonify}},
