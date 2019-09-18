@@ -117,15 +117,19 @@ For Thursday we decided to take a day trip to Burano (which always makes me laug
 
 ### Dinner at Trattoria da Romano
 
+You may think that such a small island wouldn't have a lot of food options, but there are actually several restaurants here that have been recognized by the Michelin guide, among others.
+
+The place we chose for dinner, Trattoria da Romano, has been visited by several celebrities according to its website. Obviously, those celebs knew what they were doing, because the food here was *mouthwatering*.
+
 We shared the *Risotto da Romano*, which blew both our minds. I have never tasted a flavour more suited to risotto!
 
-I was afraid Kevin would find it fishy, but he loved it too. Sadly, it was also super expensive, at €20 per person. And we weren't even completely full after licking our plates clean, so we ordered a fried seafood platter to share.
+I was afraid Kevin would find it fishy, but he loved it too. Sadly, it was also super expensive, at €20 per person! And we weren't even completely full after licking our plates clean, so we ordered a fried seafood platter to share.
 
 Again, although delicious, the portions were small.
 
-The polenta here was made with white cornmeal rather than the yellow cornmeal at [Osteria al Duomo](#lunch-at-osteria-al-duomo). Both of them tasted pretty similar tbh. How is white cornmeal even made?!
+The polenta here was made with white cornmeal rather than the yellow cornmeal at [Osteria al Duomo](#lunch-at-osteria-al-duomo). Both of them tasted pretty similar. However, it pairs with the other fried veggies and seafood a lot better than it pairs with [cuttlefish](#lunch-at-osteria-al-duomo).
 
-This place also has the softest bread we encountered yet in Italy, another bonus.
+This place also has the softest bread we encountered yet in Italy, another bonus. So overall thoughts: yes, it's very expensive, no doubt to price-gouge tourists, but I have yet to find another place that serves such flavourful risotto, so I would recommend a visit! Will totally change your expectations of what risotto can be.
 
 ## Friday
 
