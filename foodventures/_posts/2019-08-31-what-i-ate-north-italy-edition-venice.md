@@ -95,6 +95,8 @@ He also personally served a few of the dishes.
 
 ### Lunch at La Zucca
 
+*La zucca* means "the squash" in Italian.
+
 ## Wednesday
 
 ### Lunch, Take 2 at Osteria al Duomo
@@ -107,9 +109,11 @@ Sadly this time wasn't too great, either. I have to conclude that although the r
 
 ### Dinner at Trattoria da Romano
 
-We shared the *Risotto da Romano*
+We shared the *Risotto da Romano*, which blew both our minds. I have never tasted a flavour more suited to risotto!
 
-This place also has the softest bread we encountered yet in Italy.
+I was afraid Kevin would find it fishy, but he loved it too. Sadly, it was also super expensive, at €20 per person. And we weren't even completely full after licking our plates clean, so we ordered a fried seafood platter to share.
+
+This place also has the softest bread we encountered yet in Italy, another bonus.
 
 ## Friday
 
