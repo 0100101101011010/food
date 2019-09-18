@@ -83,15 +83,13 @@ discussion_id: 2019-09-17
 
 ## Instructions
 
+![nutrition information for minestrone soup](/food/recipe/images/minestrone-soup-dump-go-instant-pot-nutrition.jpg){:width="350px"}{: .image-right}
+
 <ol>
   {% for item in page.instructions %}
     <li>{{ item }}</li>
   {% endfor %}
 </ol>
-
-## Nutrition
-
-![nutrition information for minestrone soup](/food/recipe/images/minestrone-soup-dump-go-instant-pot-nutrition.jpg){:width="350px"}
 
 
 ## Recipe Notes
@@ -103,6 +101,8 @@ Adjust any of the ingredients to your liking! I love garlicky flavour so I added
 \* You can leave out the olive oil to make it healthier.
 
 ** I use my own homemade Italian seasoning, using [this recipe](https://addapinch.com/italian-seasoning-mix-recipe/).
+
+## What Kinds of Pasta Should You Use?
 
 ## Step-By-Step Video
 
