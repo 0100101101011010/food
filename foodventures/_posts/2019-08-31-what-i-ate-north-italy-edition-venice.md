@@ -89,6 +89,18 @@ Luckily, the next dish was absolutely delicious.
 
 It looks kind of rustic, but oh man, at this point of our trip I had not yet tasted risotto this good. I had never heard of, let alone tasted, red pepper risotto with capers, but it's a winning combination! This may actually be my first time (knowingly) eating capers, as well. The tart, almost lemony note introduced by the capers worked so well with the hearty risotto. And the cheese, don't get me started on the cheese! The mozzarella di bufala was so fresh, tender, and juicy. *I WANTED MORE!!!*
 
+![il ridotto beef tripe stew with beans](/food/foodventures/images/il-ridotto-tripe-beans.jpg){:width="40%"}{: .image-right}
+
+I rarely use this word because sometimes I'm not sure what it means, but I can 100% say the taste of this next dish is the definition of rustic. It was a hearty, warm stew with beef tripe and kidney beans.
+
+![il ridotto with beans](/food/foodventures/images/il-ridotto-sausage-potatoes-beans.jpg){:width="40%"}{: .image-left}
+
+The next course was also something Kevin loved, although I didn't really.
+
+![saffron ice cream with graham crumbs](/food/foodventures/images/il-ridotto-saffron-ice-cream.jpg){:width="40%"}{: .image-right}
+
+This ice
+
 He also personally served a few of the dishes.
 
 ## Tuesday
