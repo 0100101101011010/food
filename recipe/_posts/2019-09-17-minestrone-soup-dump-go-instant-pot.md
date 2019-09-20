@@ -102,7 +102,7 @@ Adjust any of the ingredients to your liking! I love garlicky flavour so I added
 
 ** I use my own homemade Italian seasoning, using [this recipe](https://addapinch.com/italian-seasoning-mix-recipe/).
 
-## What Kinds of Pasta Should You Use?
+## What Kinds of Pasta Should You Use? + Gluten-Free Option
 
 ![lumachine dry pasta](/food/recipe/images/minestrone-soup-dump-go-instant-pot-1.jpg){:width="30%"}{: .image-left}
 
