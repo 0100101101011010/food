@@ -92,6 +92,8 @@ discussion_id: 2019-09-17
 
 ## Recipe Notes
 
+![minestrone soup with kale](/food/recipe/images/minestrone-soup-dump-go-instant-pot-3.jpg){:width="40%"}{: .image-right}
+
 Whether you are using canned beans or cooked your own from dry, you can save the drained liquid (called aquafaba) and use it as a substitute for eggs in so many recipes.
 
 Adjust any of the ingredients to your liking! I love garlicky flavour so I added 2 whole tbsps of garlic. I also use 1.5 L of stock because I prefer a more soupy version of minestrone. The only thing I wouldn't touch would be the chili garlic sauce; if you add more than 1 tbsp, it becomes too spicy and not really true to minestrone anymore.
@@ -102,7 +104,7 @@ Adjust any of the ingredients to your liking! I love garlicky flavour so I added
 
 ## What Kinds of Pasta Should You Use?
 
-![lumachine dry pasta](/food/recipe/images/minestrone-soup-dump-go-instant-pot-1.jpg){:width="40%"}{: .image-right}
+![lumachine dry pasta](/food/recipe/images/minestrone-soup-dump-go-instant-pot-1.jpg){:width="40%"}{: .image-left}
 
 Technically, any shape of pasta would work. If you're using a larger pasta, like farfalle or penne, increase the Pressure Cook time to 4 minutes. I prefer a smaller-shaped pasta, though, because that's my preference for soups.
 
