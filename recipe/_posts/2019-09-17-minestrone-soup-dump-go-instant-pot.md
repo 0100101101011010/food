@@ -106,9 +106,9 @@ Adjust any of the ingredients to your liking! I love garlicky flavour so I added
 
 ![lumachine dry pasta](/food/recipe/images/minestrone-soup-dump-go-instant-pot-1.jpg){:width="30%"}{: .image-left}
 
-Technically, any shape of pasta would work. If you're using a larger pasta, like farfalle or penne, increase the Pressure Cook time to 4 minutes. I prefer a smaller-shaped pasta, though, because that's my preference for soups.
+Technically, any shape of pasta would work. If you're using a larger pasta, like farfalle or penne, increase the Pressure Cook time to 4 minutes. Personally, though, I prefer smaller-shaped pastas for soups.
 
-In the video, I'm using a small pasta called *lumachine*, which I picked up on my [recent trip to Italy](/blog/italy-trip-venice-bologna-milan). The pasta shells resemble little critters. So cute!
+In the video, I'm using a type of pasta called *lumachine*, which I picked up on my [recent trip to Italy](/blog/italy-trip-venice-bologna-milan). The pasta shells resemble little critters. So cute!
 
 ## Nutrition
 
