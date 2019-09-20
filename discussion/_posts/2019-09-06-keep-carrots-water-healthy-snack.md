@@ -7,7 +7,7 @@ categories: discussion
 tags:
 keywords:
 excerpt: "I am so excited to throw in my endorsements, along with the millions of others who've already tried it, for Jim Lahey's no-knead bread recipe."
-img: /food/foodventures/images/apr-14-2019.jpg
+img: /food/discussion/images/keep-carrots-water-healthy-snack-cover.jpg
 comments: "2"
 
 published: false
@@ -15,4 +15,4 @@ published: false
 discussion_id: 2019-07-05
 ---
 
-## Throw out Spices after their Expiry Date
+My latest food obsession is with carrots.
