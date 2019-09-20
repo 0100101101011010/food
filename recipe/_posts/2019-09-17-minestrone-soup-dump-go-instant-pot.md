@@ -108,7 +108,7 @@ Adjust any of the ingredients to your liking! I love garlicky flavour so I added
 
 Technically, any shape of pasta would work. If you're using a larger pasta, like farfalle or penne, increase the Pressure Cook time to 4 minutes. Personally, though, I prefer smaller-shaped pastas for soups.
 
-In the video, I'm using a type of pasta called *lumachine*, which I picked up on my [recent trip to Italy](/blog/italy-trip-venice-bologna-milan). The pasta shells resemble little critters. So cute!
+In the video, I'm using a type of pasta called *lumachine*, which I picked up on my [recent trip to Italy](/food/foodventures/what-i-ate-north-italy-edition-milan/). The pasta shells resemble little critters. So cute!
 
 ## Nutrition
 
