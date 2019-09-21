@@ -89,17 +89,19 @@ Luckily, the next dish was absolutely delicious.
 
 It looks kind of rustic, but oh man, at this point of our trip I had not yet tasted risotto this good. I had never heard of, let alone tasted, red pepper risotto with capers, but it's a winning combination! This may actually be my first time (knowingly) eating capers, as well. The tart, almost lemony note introduced by the capers worked so well with the hearty risotto. And the cheese, don't get me started on the cheese! The mozzarella di bufala was so fresh, tender, and juicy. *I WANTED MORE!!!*
 
-![il ridotto beef tripe stew with beans](/food/foodventures/images/il-ridotto-tripe-beans.jpg){:width="40%"}{: .image-right}
+![il ridotto beef tripe stew with beans](/food/foodventures/images/il-ridotto-tripe-beans.jpg){:width="30%"}{: .image-right}
 
 I rarely use this word because sometimes I'm not sure what it means, but I can 100% say the taste of this next dish is the definition of rustic. It was a hearty, warm stew with beef tripe and kidney beans. Kevin ate all the tripe and I ate all the beans :-P As someone who has rarely eaten tripe outside of pho (which is a really low standard, I know), I was surprised by how tender and lovely the tripe was. Still wasn't enough to make me take more than a bite, though.
 
-![il ridotto pork belly, mashed potatoes, and green beans](/food/foodventures/images/il-ridotto-pork-belly-potatoes-green-beans.jpg){:width="40%"}{: .image-left}
+![il ridotto pork belly, mashed potatoes, and green beans](/food/foodventures/images/il-ridotto-pork-belly-potatoes-green-beans.jpg){:width="30%"}{: .image-left}
 
 Kevin loved this next dish, which is some sort of meat with pork belly, mashed potatoes, and a bundle of green beans, although the only things I ate were the potatoes (delicious) and beans (not very flavourful).
 
 I don't remember much about this one, and neither does Kevin except that he said it was really good.
 
 ![saffron ice cream with graham crumbs](/food/foodventures/images/il-ridotto-saffron-ice-cream.jpg){:width="40%"}{: .image-right}
+
+We were pretty stuffed at this point, so it was a good thing there was just one last thing left on the menu: dessert.
 
 This was hands-down the most amazing ice cream I had on this trip. And do you even know many cups of gelato we've eaten in the [past few days](/food/foodventures/what-i-ate-north-italy-edition-emilia-romagna/)?
 
