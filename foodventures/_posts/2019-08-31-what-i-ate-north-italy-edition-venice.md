@@ -91,15 +91,21 @@ It looks kind of rustic, but oh man, at this point of our trip I had not yet tas
 
 ![il ridotto beef tripe stew with beans](/food/foodventures/images/il-ridotto-tripe-beans.jpg){:width="40%"}{: .image-right}
 
-I rarely use this word because sometimes I'm not sure what it means, but I can 100% say the taste of this next dish is the definition of rustic. It was a hearty, warm stew with beef tripe and kidney beans.
+I rarely use this word because sometimes I'm not sure what it means, but I can 100% say the taste of this next dish is the definition of rustic. It was a hearty, warm stew with beef tripe and kidney beans. Kevin ate all the tripe and I ate all the beans :-P As someone who has rarely eaten tripe outside of pho (which is a really low standard, I know), I was surprised by how tender and lovely the tripe was. Still wasn't enough to make me take more than a bite, though.
 
-![il ridotto with beans](/food/foodventures/images/il-ridotto-sausage-potatoes-beans.jpg){:width="40%"}{: .image-left}
+![il ridotto pork belly, mashed potatoes, and green beans](/food/foodventures/images/il-ridotto-pork-belly-potatoes-green-beans.jpg){:width="40%"}{: .image-left}
 
-The next course was also something Kevin loved, although I didn't really.
+Kevin loved this next dish, which is some sort of meat with pork belly, mashed potatoes, and a bundle of green beans, although the only things I ate were the potatoes (delicious) and beans (not very flavourful).
+
+I don't remember much about this one, and neither does Kevin except that he said it was really good.
 
 ![saffron ice cream with graham crumbs](/food/foodventures/images/il-ridotto-saffron-ice-cream.jpg){:width="40%"}{: .image-right}
 
-This ice
+This was hands-down the most amazing ice cream I had on this trip. And do you even know many cups of gelato we've eaten in the [past few days](/food/foodventures/what-i-ate-north-italy-edition-emilia-romagna/)?
+
+I've never had saffron ice cream before, and I couldn't really imagine what it would even taste like because all my experiences with saffron have been as part of a savoury dish. But saffron in sweet treats has to be seriously underrated, because this ice cream blew my mind. The graham cracker crumbs under the ice cream were delicious as well. They paired so well together. I could've done without the chocolate sauce, tbh, because the saffron flavour was so beautiful and rich on its own.
+
+Without a doubt, dessert was my favourite course of the evening.
 
 He also personally served a few of the dishes.
 
