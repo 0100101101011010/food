@@ -115,7 +115,21 @@ He also personally served a few of the dishes.
 
 ### Lunch at La Zucca
 
-*La zucca* means "the squash" in Italian. So of course, I ordered their pumpkin entree.
+We stumbled into this restaurant onto a whim, not having done much research beforehand, but La Zucca turned out to be a stellar choice for a restaurant in the middle of touristy Venice proper.
+
+![bread at la zucca](/food/foodventures/images/la-zucca-bread.jpg){:width="30%"}{: .image-left}
+
+First: the bread. Kevin and I both liked the selection here: *tarallini* (the little o-shaped crackers that are a popular snack from southern Italy), thick *grissini* (light, airy breadsticks), and underneath, a floury Italian loaf. The crust on this bread was actually soft enough to eat without chewing my teeth off, so that's a bonus.
+
+![pumpkin flan at la zucca](/food/foodventures/images/la-zucca-pumpkin-flan.jpg){:width="40%"}{: .image-right}
+
+Moving onto the mains: *zucca* means "squash" in Italian, so of course, I ordered their "pumpkin flan" entree. I wasn't sure what to expect, since I've only ever considered flan to be sweet. It turns out their "flan" is more a loaf of pumpkin puree, with the texture and consistency of pumpkin pie, topped with shredded smoked cheese and pumpkin seeds and a slightly tangy brine.
+
+It actually tastes better than you'd expect from that description, although I wouldn't order it again, since the loaf was a tad bland. If you are really into pumpkin, though, I think you would like to try this twist on what we usually think of as a sweet vegetable.
+
+![raspberry semifreddo at la zucca](/food/foodventures/images/la-zucca-semifreddo.jpg){:width="40%"}{: .image-right}
+
+While Kevin chose tiramisu for dessert (what a surprise), I went for their raspberry semifreddo. (I honestly can't remember if it was raspberry or strawberry flavoured, but I'm leaning towards raspberry.) Although the tart flavour of the raspberry was wonderful, as was the little hint of fresh mint, it was not my favourite dessert. Since I love mousse and I love ice cream, I figured I would love what is basically a frozen mousse, but the texture was more like shaved ice than the soft, creamy mouthfeel I was expecting.
 
 ## Wednesday
 
@@ -129,7 +143,7 @@ We made sure to shower in bug spray before we went, so mosquitoes weren't a prob
 
 The entrees themselves were ok, I ordered a linguine with pistachio pesto dish. I liked the subtle flavours, but it wasn't salted enough, and I would've like more of the pistachio to come through.
 
-Kevin's marinara pizza was really funny! It was a totally bare pizza, with just ~~tomato~~ marinara sauce and two whole cloves of garlic in the centre. This guy loved it, though, so who am I to judge :-)
+Kevin's marinara pizza was really funny! It was a practically bare pizza, topped with a thin layer of ~~tomato~~ marinara sauce and two whole cloves of roasted garlic in the centre. This guy loved it, though, so who am I to judge :-)
 
 ## Thursday
 
