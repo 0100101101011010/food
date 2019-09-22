@@ -107,7 +107,7 @@ I've never had saffron ice cream before, and I couldn't really imagine what it w
 
 Without a doubt, dessert was my favourite course of the evening.
 
-I also have to say something about the service of this restaurant. There was only one server for our table the entire evening, but she was very professional and prompt, and did a great job. The chef was also quite involved; he also personally served a few of the dishes. Although very upscale, the atmosphere is a little cozier and more casual than at [Contraste](/food/foodventures/what-i-ate-north-italy-edition-milan/#dinner-at-contraste), and I liked that.
+I also have to say something about the service of this restaurant. There was only one server for our table the entire evening, but she was very professional and prompt, and did a great job. The chef was also quite involved; he personally served a few of the dishes. Although very upscale, the atmosphere is a little cozier and more casual than at [Contraste](/food/foodventures/what-i-ate-north-italy-edition-milan/#dinner-at-contraste), and I liked that.
 
 ## Tuesday
 
@@ -188,7 +188,11 @@ Overall, together with one bottle of water (€4) and a cover charge of €3.50 
 
 ### Lunch at Rossopomodoro Pizzeria
 
+If you want a decent, inexpensive lunch in the middle of St Mark's Square, this is it.
+
 The service was friendly, but slow (and I don't mean that it was relaxed, in the typical Italian way, but rather that there didn't seem to be enough servers and we always had to wait for them to deal with two or three other issues before they got to us).
+
+![fried neapolitan snacks at rossopomodoro pizzeria](/food/foodventures/images/rossopomodoro-tiellina.jpg){:width="40%"}{: .image-right}
 
 And the food was just ok. I wasn't too hungry, so we ordered a plate of fried Neapolitan snacks to share (*tiellina*). Those corndog-looking things are potato-stuffed croquettes (*crocchè di patate*), and the smaller balls are fried dough with seaweed (*pasta cresciuta con alghe*). The croquettes are super duper filling. You may think that, at €12, it's not too big, but I strongly recommend sharing with at least one other person unless you're crazy hungry because it's quite a lot of food. I liked the fried dough balls as well, they were way chewier than I expected and had a mild herby flavour. I would like to try making them at home.
 
@@ -200,6 +204,10 @@ This was probably our cheapest meal in Venice, only €25.40 for everything.
 
 ### Lunch on Air Canada Rouge
 
-Ironically, we got better meals on Rouge than on the main Air Canada line that we flew in on.
+![air canada rouge mid-flight meal](/food/foodventures/images/air-canada-meal-2.jpg){:width="40%"}{: .image-left}
+
+Ironically, we got better meals on the trip back, flying with the budget carrier Rouge than on the [main Air Canada line](/food/foodventures/what-i-ate-aug-12-16/#air-canada-flight-meal) that we flew in on.
+
+
 
 We got apple pie for the breakfast before landing!
