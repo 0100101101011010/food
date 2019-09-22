@@ -115,7 +115,7 @@ He also personally served a few of the dishes.
 
 ### Lunch at La Zucca
 
-We stumbled into this restaurant onto a whim, not having done much research beforehand, but La Zucca turned out to be a stellar choice for a restaurant in the middle of touristy Venice proper.
+We stumbled into this tiny restaurant on a whim, not having done much research beforehand, but La Zucca turned out to be a stellar choice for a restaurant in the middle of touristy Venice proper.
 
 ![bread at la zucca](/food/foodventures/images/la-zucca-bread.jpg){:width="30%"}{: .image-left}
 
@@ -127,9 +127,17 @@ Moving onto the mains: *zucca* means "squash" in Italian, so of course, I ordere
 
 It actually tastes better than you'd expect from that description, although I wouldn't order it again, since the loaf was a tad bland. If you are really into pumpkin, though, I think you would like to try this twist on what we usually think of as a sweet vegetable.
 
+![lamb with potatoes at la zucca](/food/foodventures/images/la-zucca-lamb.jpg){:width="30%"}{: .image-left} ![tiramisu at la zucca](/food/foodventures/images/la-zucca-tiramisu.jpg){:width="30%"}{: .image-left}
+
+I didn't try Kevin's lamb entree with potato wedges, but boy did it smell inviting. According to him, it was one of his favourite dishes in Venice.
+
+For dessert, he ordered their tiramisu (what a surprise). It paid off, because he said this was probably his favourite tiramisu out of all the ones he's eaten on this trip! The presentation is definitely on the simpler side, but I think that only adds to how rich and decadent it looks.
+
 ![raspberry semifreddo at la zucca](/food/foodventures/images/la-zucca-semifreddo.jpg){:width="40%"}{: .image-right}
 
-While Kevin chose tiramisu for dessert (what a surprise), I went for their raspberry semifreddo. (I honestly can't remember if it was raspberry or strawberry flavoured, but I'm leaning towards raspberry.) Although the tart flavour of the raspberry was wonderful, as was the little hint of fresh mint, it was not my favourite dessert. Since I love mousse and I love ice cream, I figured I would love what is basically a frozen mousse, but the texture was more like shaved ice than the soft, creamy mouthfeel I was expecting.
+While Kevin chose tiramisu, I went for their raspberry semifreddo. (I honestly can't remember if it was raspberry or strawberry flavoured, but I'm leaning towards raspberry.) Although the tart flavour of the raspberry was wonderful, as was the little hint of fresh mint, it was not my favourite dessert. Since I love mousse and I love ice cream, I figured I would love what is basically a frozen mousse, but the texture was closer to shaved ice than the soft, creamy mouthfeel I was expecting.
+
+The service was quite fast, so a great experience all around at this restaurant, and at €53.50, not too bad in terms of price (especially for a spot next to the Grand Canal).
 
 ## Wednesday
 
@@ -142,29 +150,35 @@ Sadly this time wasn't too great, either. I have to conclude that although the r
 We made sure to shower in bug spray before we went, so mosquitoes weren't a problem. However, this time, there was a weird odour from near where we were sitting and it wasn't pleasant to smell right before a meal. Kevin's pizza was also served 5 minutes before my pasta, which is really weird and shouldn't
 happen in a full service restaurant.
 
-The entrees themselves were ok, I ordered a tagliolini with pistachio pesto dish. I liked the subtle flavours, but it wasn't salted enough, and I would've like more of the pistachio to come through.
+![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tagliolini.jpg){:width="40%"}{: .image-left} ![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tagliolini-1.jpg){:width="40%"}{: .image-left}
 
-Kevin's marinara pizza was really funny! It was a practically bare pizza, topped with a thin layer of ~~tomato~~ marinara sauce and two whole cloves of roasted garlic in the centre. This guy loved it, though, so who am I to judge :-)
+The entrees themselves were ok, I ordered the shrimp tagliolini with pistachio pesto. I liked the subtle flavours and the shrimp were substantial, but it wasn't salted enough, and I would've like more of the pistachio to come through.
+
+Kevin's marinara pizza was really funny! I didn't take a picture, but picture a naked pizza, topped with only a thin layer of ~~tomato~~ marinara sauce and two whole cloves of roasted garlic in the centre. This guy loved it, though, so who am I to judge :-)
+
+![tiramisu at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tiramisu.jpg){:width="40%"}{: .image-left}
+
+Dessert was, again, tiramisu, shared between the two of us. Not too much to say here, it was your standard tiramisu, really delicious and a good way to wrap up our dinner.
 
 ## Thursday
 
-For Thursday we decided to take a day trip to Burano, about a 20-minute boat ride from Venice proper, and holy shit if this isn't the prettiest little village ever.
+For Thursday we decided to take a day trip to Burano, about a 20-minute boat ride from Venice proper, and holy shit if this isn't the prettiest little village ever. You can see some of the photos we took around the island in my ["Italy Trip" blog post](/food/foodventures/images/italy-trip-venice-bologna-milan), but for this post I will only be talking about the food.
 
 ### Dinner at Trattoria da Romano
 
-![bread at trattoria da romano](trattoria-da-romano-bread.jpg){:width="40%"}{: .image-left}
+![bread at trattoria da romano](/food/foodventures/images/trattoria-da-romano-bread.jpg){:width="40%"}{: .image-left}
 
-You may think that such a small island wouldn't have a lot of food options, but there are actually several well-respected restaurants here.
+You may think that such a small island wouldn't have a lot of food options, but there are actually several well-recognized establishments here.
 
-The place we chose for dinner, Trattoria da Romano, has been visited by several celebrities, including Anthony Bourdain and Sylvester Stallone. That's why we were surprised when we ended up being the only ones eating in the restaurant for our entire meal. Obviously, though, those famous people knew what they were doing, because the food here was *mouthwatering*. This place has the softest bread we encountered yet in Italy, another bonus. I also loved the long, thin breadsticks.
+The place we chose for dinner, Trattoria da Romano, has been praised by several celebrities, including Anthony Bourdain and Sylvester Stallone. That's why we were surprised when we ended up being the only ones eating in the restaurant for our entire meal. Obviously, though, those famous people knew what they were doing, because the food here was *mouthwatering*. This place has the softest bread we encountered yet in Italy, another bonus. I also loved the long, thin breadsticks.
 
-![seafood risotto at trattoria da romano](trattoria-da-romano-risotto.jpg){:width="40%"}{: .image-right}
+![seafood risotto at trattoria da romano](/food/foodventures/images/trattoria-da-romano-risotto.jpg){:width="40%"}{: .image-right}
 
-We shared the *Risotto da Romano*, made with goby fish, which blew both our minds. I have never tasted a flavour more suited to risotto! I was afraid Kevin would find it fishy, but he loved it too. Sadly, it was also super expensive, at €21 per person.
+We shared the *Risotto da Romano*, the restaurant's signature dish, made with goby fish. It blew both our minds. I have never tasted a flavour more suited to risotto! I was afraid Kevin would find it fishy, but he loved it too. Sadly, it was also super expensive, at €21 per person.
 
 We weren't even completely full after licking our plates clean, so we ordered a platter of *scampi fritti* (fried shrimp) to share, clocking in at €30. Again, although delicious, the portions were small for the price.
 
-![fried shrimp plate at trattoria da romano](trattoria-da-romano-scampi-fritti.jpg){:width="40%"}{: .image-right}
+![fried shrimp plate at trattoria da romano](/food/foodventures/images/trattoria-da-romano-scampi-fritti.jpg){:width="40%"}{: .image-right}
 
 The fried polenta here was made with white cornmeal rather than the yellow cornmeal at [Osteria al Duomo](#lunch-at-osteria-al-duomo). Both of them tasted pretty similar. However, it paired with the rest of the *scampi fritti* a lot better than it paired with [cuttlefish](#lunch-at-osteria-al-duomo).
 
