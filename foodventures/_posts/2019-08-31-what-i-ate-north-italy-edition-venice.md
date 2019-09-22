@@ -43,7 +43,7 @@ Oh! and I totally forgot to mention one other issue that put a damper on the mea
 
 ### Lunch at Versus Meridianem
 
-Probably the most memorable aspect of this restaurant is its setting. It's located right on the tip of Murano, in a former glass factory (did you know our hotel also used to be a glass factory? Chances are, any old brick building you see on Murano was formerly a glass factory). The huge floor-to-ceiling windows give you a great view out onto the water. It's a nice spot to have a lunch while enjoying the sun and waves and watch boats zipping by, even though the food is not as exciting.
+Probably the most memorable aspect of this restaurant is its setting. It's located right on the tip of Murano, in a former glass factory (did you know our hotel also used to be a glass factory? Chances are, any old brick building you see in Murano was formerly a glass factory). The huge floor-to-ceiling windows give you a great view out onto the water. It's a nice spot to have a lunch while enjoying the sun and waves and watch boats zipping by, even though the food is not as exciting.
 
 ![spaghetti alla busara at versus meridianem](/food/foodventures/images/versus-meridianem-spaghetti.jpg){:width="40%"}{: .image-right} ![spaghetti alla busara at versus meridianem](/food/foodventures/images/versus-meridianem-pizza.jpg){:width="40%"}{: .image-right}
 
