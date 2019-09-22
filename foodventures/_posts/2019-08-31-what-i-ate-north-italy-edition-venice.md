@@ -154,11 +154,13 @@ happen in a full service restaurant.
 
 The entrees themselves were ok, I ordered the shrimp tagliolini with pistachio pesto. I liked the subtle flavours and the shrimp were substantial, but it wasn't salted enough, and I would've like more of the pistachio to come through.
 
-Kevin's marinara pizza was really funny! I didn't take a picture, but picture a naked pizza, topped with only a thin layer of ~~tomato~~ marinara sauce and two whole cloves of roasted garlic in the centre. This guy loved it, though, so who am I to judge :-)
+Kevin's "Amanda" pizza was really funny! I didn't take a picture, but picture a naked pizza, topped with only a thin layer of ~~tomato~~ marinara sauce and two whole cloves of roasted garlic in the centre. This guy loved it, though, so who am I to judge :-) I still can't get over how cheap pizza is in Italy, tbh. Kevin's pizza was only €10, and sure it didn't have a lot of toppings, but it was huge!
 
 ![tiramisu at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tiramisu.jpg){:width="40%"}{: .image-left}
 
-Dessert was, again, tiramisu, shared between the two of us. Not too much to say here, it was your standard tiramisu, really delicious and a good way to wrap up our dinner.
+Dessert was, again, tiramisu, shared between the two of us. Not too much to say here, it was your standard tiramisu, really delicious and a big portion especially given the price (€5).
+
+The bill on today's lunch came to €35 total.
 
 ## Thursday
 
