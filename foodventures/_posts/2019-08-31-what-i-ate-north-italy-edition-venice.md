@@ -139,37 +139,44 @@ Remember the restaurant where we were [massacred by mosquitoes](#lunch-at-osteri
 
 Sadly this time wasn't too great, either. I have to conclude that although the restaurant has a lengthy history, having been established in 1903 (that's earlier than Alberta became a province... omg), the food itself is average.
 
-We made sure to shower in bug spray before we went, so mosquitoes weren't a problem. However, this time, there was a weird smell near where we were sitting and it really wasn't pleasant to smell right before a meal.
+We made sure to shower in bug spray before we went, so mosquitoes weren't a problem. However, this time, there was a weird odour from near where we were sitting and it wasn't pleasant to smell right before a meal. Kevin's pizza was also served 5 minutes before my pasta, which is really weird and shouldn't
+happen in a full service restaurant.
 
-The entrees themselves were ok, I ordered a linguine with pistachio pesto dish. I liked the subtle flavours, but it wasn't salted enough, and I would've like more of the pistachio to come through.
+The entrees themselves were ok, I ordered a tagliolini with pistachio pesto dish. I liked the subtle flavours, but it wasn't salted enough, and I would've like more of the pistachio to come through.
 
 Kevin's marinara pizza was really funny! It was a practically bare pizza, topped with a thin layer of ~~tomato~~ marinara sauce and two whole cloves of roasted garlic in the centre. This guy loved it, though, so who am I to judge :-)
 
 ## Thursday
 
-For Thursday we decided to take a day trip to Burano (which always makes me laugh, 'cause Burano, Murano...) and holy shit this is the prettiest little village ever.
+For Thursday we decided to take a day trip to Burano, about a 20-minute boat ride from Venice proper, and holy shit if this isn't the prettiest little village ever.
 
 ### Dinner at Trattoria da Romano
 
-You may think that such a small island wouldn't have a lot of food options, but there are actually several restaurants here that have been recognized by the Michelin guide, among others.
+![bread at trattoria da romano](trattoria-da-romano-bread.jpg){:width="40%"}{: .image-left}
 
-The place we chose for dinner, Trattoria da Romano, has been visited by several celebrities according to its website. Obviously, those celebs knew what they were doing, because the food here was *mouthwatering*.
+You may think that such a small island wouldn't have a lot of food options, but there are actually several well-respected restaurants here.
 
-We shared the *Risotto da Romano*, which blew both our minds. I have never tasted a flavour more suited to risotto!
+The place we chose for dinner, Trattoria da Romano, has been visited by several celebrities, including Anthony Bourdain and Sylvester Stallone. That's why we were surprised when we ended up being the only ones eating in the restaurant for our entire meal. Obviously, though, those famous people knew what they were doing, because the food here was *mouthwatering*. This place has the softest bread we encountered yet in Italy, another bonus. I also loved the long, thin breadsticks.
 
-I was afraid Kevin would find it fishy, but he loved it too. Sadly, it was also super expensive, at €20 per person! And we weren't even completely full after licking our plates clean, so we ordered a fried seafood platter to share.
+![seafood risotto at trattoria da romano](trattoria-da-romano-risotto.jpg){:width="40%"}{: .image-right}
 
-Again, although delicious, the portions were small.
+We shared the *Risotto da Romano*, made with goby fish, which blew both our minds. I have never tasted a flavour more suited to risotto! I was afraid Kevin would find it fishy, but he loved it too. Sadly, it was also super expensive, at €21 per person.
 
-The polenta here was made with white cornmeal rather than the yellow cornmeal at [Osteria al Duomo](#lunch-at-osteria-al-duomo). Both of them tasted pretty similar. However, it pairs with the other fried veggies and seafood a lot better than it pairs with [cuttlefish](#lunch-at-osteria-al-duomo).
+We weren't even completely full after licking our plates clean, so we ordered a platter of *scampi fritti* (fried shrimp) to share, clocking in at €30. Again, although delicious, the portions were small for the price.
 
-This place also has the softest bread we encountered yet in Italy, another bonus. So overall thoughts: yes, it's very expensive, no doubt to price-gouge tourists, but I have yet to find another place that serves such flavourful risotto, so I would recommend a visit! Will totally change your expectations of what risotto can be.
+![fried shrimp plate at trattoria da romano](trattoria-da-romano-scampi-fritti.jpg){:width="40%"}{: .image-right}
+
+The fried polenta here was made with white cornmeal rather than the yellow cornmeal at [Osteria al Duomo](#lunch-at-osteria-al-duomo). Both of them tasted pretty similar. However, it paired with the rest of the *scampi fritti* a lot better than it paired with [cuttlefish](#lunch-at-osteria-al-duomo).
+
+Overall, together with one bottle of water (€4) and a cover charge of €3.50 per person, this ended up being our most expensive non-tasting menu dinner in Italy, at €83. Yes, it's pricy, no doubt to price-gouge tourists, but I have yet to find another place that serves such flavourful risotto, so I would still recommend a visit. Will totally change your expectations of what risotto can be.
 
 ## Friday
 
 ### Lunch at Rossopomodoro Pizzeria
 
 The service was friendly, but slow (and I don't mean that it was relaxed, in the typical Italian way, but rather that there didn't seem to be enough servers and we always had to wait for them to deal with two or three other issues before they got to us).
+
+And the food was just ok. I wasn't too hungry, so we ordered a plate of fried Neapolitan snacks to share, and Kevin got
 
 ## Saturday
 
