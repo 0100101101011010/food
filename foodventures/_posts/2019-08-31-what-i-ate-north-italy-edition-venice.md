@@ -208,6 +208,4 @@ This was probably our cheapest meal in Venice, only €25.40 for everything.
 
 Ironically, we got better meals on the trip back, flying with the budget carrier Rouge than on the [main Air Canada line](/food/foodventures/what-i-ate-aug-12-16/#air-canada-flight-meal) that we flew in on.
 
-
-
-We got apple pie for the breakfast before landing!
+The fruit plate I ordered was a lot more substantial this time around, and Kevin actually found his pasta meal palatable enough to finish. No picture of this, but we also got a hot savoury pie for the breakfast before landing!
