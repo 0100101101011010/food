@@ -47,11 +47,11 @@ Oh! and I totally forgot to mention one other issue that put a damper on the mea
 
 Probably the most memorable aspect of this restaurant is its setting. It's located right on the tip of Murano, in a former glass factory (did you know our hotel also used to be a glass factory? Chances are, any old brick building you see on Murano will have been a glass factory). The huge floor-to-ceiling windows give you a great view out onto the water. It's a nice spot to have a lunch while enjoying the sun and waves and watch boats zipping by, even though the food is not as exciting.
 
-![spaghetti alla busara at versus meridianem](/food/foodventures/images/versus-meridianem-spaghetti.jpg){:width="40%"}{: .image-right}
+![spaghetti alla busara at versus meridianem](/food/foodventures/images/versus-meridianem-spaghetti.jpg){:width="40%"}{: .image-right} ![spaghetti alla busara at versus meridianem](/food/foodventures/images/versus-meridianem-pizza.jpg){:width="40%"}{: .image-right}
 
 I ordered the spaghetti *alla busara* ("with langoustines", a species similar to crayfish that is local to Veneto), which just tastes like a regular tomato sauce spaghetti that I could whip up at home, with a few chunks of seafood thrown in. It was pretty expensive (€16), but then again, the portion was huge and I could barely finish it.
 
-Kevin ordered a pizza, I don't recall the name, but I do remember being in awe at how much meat was on the thing. So, maybe it wasn't an authentic Venetian dish, but he had a good time. :-)
+Kevin ordered a pizza, I don't recall the name, but I do remember being in awe at how much meat was on the thing. Maybe it wasn't a classic Venetian dish, but I know he had a good time with all that meat.
 
 ### Dinner at Il Ridotto
 
@@ -150,11 +150,11 @@ Sadly this time wasn't too great, either. I have to conclude that although the r
 We made sure to shower in bug spray before we went, so mosquitoes weren't a problem. However, this time, there was a weird odour from near where we were sitting and it wasn't pleasant to smell right before a meal. Kevin's pizza was also served 5 minutes before my pasta, which is really weird and shouldn't
 happen in a full service restaurant.
 
-![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tagliolini.jpg){:width="40%"}{: .image-left} ![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tagliolini-1.jpg){:width="40%"}{: .image-left}
+![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tagliolini.jpg){:width="30%"}{: .image-left} ![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tagliolini-1.jpg){:width="30%"}{: .image-left} ![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-amanda-pizza.jpg){:width="30%"}{: .image-left}
 
-The entrees themselves were ok, I ordered the shrimp tagliolini with pistachio pesto. I liked the subtle flavours and the shrimp were substantial, but it wasn't salted enough, and I would've like more of the pistachio to come through.
+The entrees were ok, but nothing too special. I ordered the shrimp tagliolini with pistachio pesto. I liked the subtle flavours and the shrimp were substantial, but it wasn't salted enough, and I would've like more of the pistachio to come through.
 
-Kevin's "Amanda" pizza was really funny! I didn't take a picture, but picture a naked pizza, topped with only a thin layer of ~~tomato~~ marinara sauce and two whole cloves of roasted garlic in the centre. This guy loved it, though, so who am I to judge :-) I still can't get over how cheap pizza is in Italy, tbh. Kevin's pizza was only €10, and sure it didn't have a lot of toppings, but it was huge!
+Kevin ordered the "Amanda" pizza, essentially Hawaiian pizza. Obviously not the most authentic choice but it smelled and looked pretty appetizing, with a generous amount of toppings, too.
 
 ![tiramisu at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tiramisu.jpg){:width="40%"}{: .image-left}
 
@@ -192,7 +192,11 @@ Overall, together with one bottle of water (€4) and a cover charge of €3.50 
 
 The service was friendly, but slow (and I don't mean that it was relaxed, in the typical Italian way, but rather that there didn't seem to be enough servers and we always had to wait for them to deal with two or three other issues before they got to us).
 
-And the food was just ok. I wasn't too hungry, so we ordered a plate of fried Neapolitan snacks to share, and Kevin got
+And the food was just ok. I wasn't too hungry, so we ordered a plate of fried Neapolitan snacks to share (*tiellina*). Those corndog-looking things are potato-stuffed croquettes (*crocchè di patate*), and the smaller balls are fried dough with seaweed (*pasta cresciuta con alghe*). The croquettes are super duper filling. You may think that, at €12, it's not too big, but I strongly recommend sharing with at least one other person unless you're crazy hungry because it's quite a lot of food. I liked the fried dough balls as well, they were way chewier than I expected and had a mild herby flavour. I would like to try making them at home.
+
+Kevin got a marinara pizza. It was really funny: I didn't take a picture, but picture a naked pizza, topped with only a thin layer of ~~tomato~~ marinara sauce and two whole cloves of roasted garlic in the centre. This guy loved it, though, so who am I to judge :-) I still can't get over how cheap pizza is in Italy, tbh. Kevin's pizza was only €7.50, and sure it didn't have a lot of toppings, but it was huge!
+
+This was probably our cheapest meal in Venice, only €25.40 for everything.
 
 ## Saturday
 
