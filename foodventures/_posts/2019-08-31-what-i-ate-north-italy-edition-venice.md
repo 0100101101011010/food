@@ -107,7 +107,7 @@ I've never had saffron ice cream before, and I couldn't really imagine what it w
 
 Without a doubt, dessert was my favourite course of the evening.
 
-He also personally served a few of the dishes.
+I also have to say something about the service of this restaurant. There was only one server for our table the entire evening, but she was very professional and prompt, and did a great job. The chef was also quite involved; he also personally served a few of the dishes.
 
 ## Tuesday
 
