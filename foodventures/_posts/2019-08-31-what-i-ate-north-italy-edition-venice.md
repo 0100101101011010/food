@@ -151,12 +151,16 @@ I got two flavours in a cone: the bottom scoop was watermelon. I wasn't a big fa
 
 Remember the restaurant where we were [massacred by mosquitoes](#lunch-at-osteria-al-duomo)? We decided to give them another try since neither of us had been in the right state of mind to enjoy our meal the last time around.
 
+![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tagliolini.jpg){:width="40%"}{: .image-left}
+
 Sadly this time wasn't too great, either. I have to conclude that although the restaurant has a lengthy history, having been established in 1903 (that's earlier than Alberta became a province... omg), the food itself is average.
+
+![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tagliolini-1.jpg){:width="30%"}{: .image-right}
 
 We made sure to shower in bug spray before we went, so mosquitoes weren't a problem. However, this time, there was a weird odour from near where we were sitting and it wasn't pleasant to smell right before a meal. Kevin's pizza was also served 5 minutes before my pasta, which is really weird and shouldn't
 happen in a full service restaurant.
 
-![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tagliolini.jpg){:width="30%"}{: .image-left} ![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-tagliolini-1.jpg){:width="30%"}{: .image-left} ![tagliolini at osteria al duomo](/food/foodventures/images/osteria-al-duomo-amanda-pizza.jpg){:width="30%"}{: .image-left}
+![hawaiian pizza at osteria al duomo](/food/foodventures/images/osteria-al-duomo-amanda-pizza.jpg){:width="40%"}{: .image-left}
 
 The entrees were ok, but nothing too special. I ordered the shrimp tagliolini with pistachio pesto. I liked the subtle flavours and the shrimp were substantial, but it wasn't salted enough, and I would've like more of the pistachio to come through.
 
