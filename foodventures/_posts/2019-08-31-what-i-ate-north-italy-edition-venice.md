@@ -184,7 +184,7 @@ The place we chose for dinner, Trattoria da Romano, has been praised by several 
 
 We shared the *Risotto da Romano*, the restaurant's signature dish, made with goby fish. It blew both our minds. I have never tasted a flavour more suited to risotto! I was afraid Kevin would find it fishy, but he loved it too. Sadly, it was also super expensive, at €21 per person.
 
-We weren't even completely full after licking our plates clean, so we ordered a platter of *scampi fritti* (fried shrimp) to share, clocking in at €30. Again, although delicious, the portions were small for the price.
+We weren't even completely full after licking our plates clean, so we ordered a platter of *scampi fritti* (fried shrimp) to share, clocking in at €30. Again, although delicious (dare I say I prefer this Italian seafood fry over tempura?), the portions were small for the price.
 
 ![fried shrimp plate at trattoria da romano](/food/foodventures/images/trattoria-da-romano-scampi-fritti.jpg){:width="40%"}{: .image-right}
 
