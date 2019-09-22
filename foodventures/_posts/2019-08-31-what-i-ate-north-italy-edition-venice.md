@@ -137,6 +137,10 @@ While Kevin chose tiramisu, I went for their raspberry semifreddo. (I honestly c
 
 The service was quite fast, so a great experience all around at this restaurant, and at €53.50, not too bad in terms of price (especially for a spot next to the Grand Canal).
 
+### Gelato at Gelatoteca SuSo
+
+The bottom scoop was watermelon. I wasn't a big fan of this one, it was too fruity and artificial for me, almost like a 7-Eleven Slurpee flavour? But the top scoop, called Manet (chocolate and pistachio butter), that's *my shit*.
+
 ## Wednesday
 
 ### Lunch, Take 2 at Osteria al Duomo
