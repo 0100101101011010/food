@@ -139,7 +139,9 @@ The service was quite fast, so a great experience all around at this restaurant,
 
 ### Gelato at Gelatoteca SuSo
 
-The bottom scoop was watermelon. I wasn't a big fan of this one, it was too fruity and artificial for me, almost like a 7-Eleven Slurpee flavour? But the top scoop, called Manet (chocolate and pistachio butter), that's *my shit*.
+Dessert Round 2, anyone?! It was on the way back to Murano that I started getting a craving for gelato, especially since the day was really hot then. Gelatoteca SuSo was on the way back, and even though it was pretty crowded, the line moved quickly.
+
+I got two flavours in a cone: the bottom scoop was watermelon. I wasn't a big fan of this one, it was too fruity and artificial for me, almost like a 7-Eleven Slurpee flavour? But the top scoop, Manet (chocolate and pistachio butter), omg, that's *my shit*. I could eat just that pistachio butter on its own all day, it was so creamy and nutty and sweet.
 
 ## Wednesday
 
