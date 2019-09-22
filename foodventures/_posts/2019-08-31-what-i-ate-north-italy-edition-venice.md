@@ -15,8 +15,6 @@ excerpt: "As the last stop on our Italian journey, Venice marks the last segment
 img: /food/foodventures/images/aug-31-2019.jpg
 comments: "0"
 
-published: false
-
 discussion_id: 2019-08-31
 ---
 
@@ -49,7 +47,7 @@ Probably the most memorable aspect of this restaurant is its setting. It's locat
 
 ![spaghetti alla busara at versus meridianem](/food/foodventures/images/versus-meridianem-spaghetti.jpg){:width="40%"}{: .image-right} ![spaghetti alla busara at versus meridianem](/food/foodventures/images/versus-meridianem-pizza.jpg){:width="40%"}{: .image-right}
 
-I ordered the spaghetti *alla busara* ("with langoustines", a species similar to crayfish that is local to Veneto), which just tastes like a regular tomato sauce spaghetti that I could whip up at home, with a few chunks of seafood thrown in. It was pretty expensive (€16), but then again, the portion was huge and I could barely finish it.
+I ordered the spaghetti *alla busara* ("with langoustines", a species similar to crayfish that is local to Veneto). It tasted like a regular tomato sauce spaghetti that I could whip up at home, with a few chunks of seafood thrown in. It was pretty expensive (€16), but then again, the portion was huge and I could barely finish it.
 
 Kevin ordered a pizza, I don't recall the name, but I do remember being in awe at how much meat was on the thing. Maybe it wasn't a classic Venetian dish, but I know he had a good time with all that meat.
 
