@@ -160,7 +160,7 @@ Sadly this time wasn't too great, either. I have to conclude that although the r
 We made sure to shower in bug spray before we went, so mosquitoes weren't a problem. However, this time, there was a weird odour from near where we were sitting and it wasn't pleasant to smell right before a meal. Kevin's pizza was also served 5 minutes before my pasta, which is really weird and shouldn't
 happen in a full service restaurant.
 
-![hawaiian pizza at osteria al duomo](/food/foodventures/images/osteria-al-duomo-amanda-pizza.jpg){:width="40%"}{: .image-left}
+![hawaiian pizza at osteria al duomo](/food/foodventures/images/osteria-al-duomo-amanda-pizza.jpg){:width="30%"}{: .image-left}
 
 The entrees were ok, but nothing too special. I ordered the shrimp tagliolini with pistachio pesto. I liked the subtle flavours and the shrimp were substantial, but it wasn't salted enough, and I would've like more of the pistachio to come through.
 
