@@ -49,8 +49,8 @@ I'm not too sure that I'll make the patty to go along with these, though. I stil
 
 ## Episode 4: Dairy
 
-I've gone about two months without buying dairy milk at this point and I really don't want to break my streak. But this week's challenge, frankly, is going to be pretty impossible to do without milk. I'm not sure what I'll do at this point
+I've gone about two months without buying dairy milk at this point and I really don't want to break my streak. But this week's challenge, frankly, is going to be pretty impossible to do without milk. I'm not sure what I'm going to do with this one yet.
 
 ## Episode 5: The Roaring 20's
 
-Like David, I've never made choux pastry before, never mind sabayon,
+Like David, I've never made choux pastry before, never mind sabayon, so this will be another great learning experience for me.
