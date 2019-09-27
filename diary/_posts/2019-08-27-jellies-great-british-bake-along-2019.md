@@ -43,11 +43,13 @@ The issue with this one is I don't usually have figs randomly lying around the h
 
 ## Episode 3: Bread
 
-Vegan burger buns (or as Paul Hollywood calls them, *baps*) are this season's challenge for the infamous Bread Week, complete with a vegan black bean patty! I'm pretty excited for this one—I've made a [pretty good batch](/food/foodventures/what-i-ate-jul-1-7/#hamburger-buns) of buns before, but have also had [less success](/food/foodventures/what-i-ate-jun-10-16/#hot-dog-and-hamburger-buns) with them at other times—and I want to put Paul's recipe to the test with these other ones I've made. I'm not too sure that I'll make the patty to go along with these, though. I still have some of the [okara crab cakes](#) from last week that would be perfect inside these buns, and since Kevin our resident bean-hater is coming over for the weekend, I will probably just make some traditional ground beef patties for him.
+Vegan burger buns (or as Paul Hollywood calls them, *baps*) are this season's challenge for the infamous Bread Week, complete with a vegan black bean patty! I'm pretty excited for this one—I've made a [pretty good batch](/food/foodventures/what-i-ate-jul-1-7/#hamburger-buns) of buns before, but have also had [less success](/food/foodventures/what-i-ate-jun-10-16/#hot-dog-and-hamburger-buns) with them at other times—and I want to put Paul's recipe to the test with these other ones I've made.
+
+I'm not too sure that I'll make the patty to go along with these, though. I still have some of the [okara crab cakes](#) from last week that would be perfect inside these buns, and since Kevin our resident bean-hater is coming over for the weekend, I will probably just make some traditional ground beef patties for him.
 
 ## Episode 4: Dairy
 
-I had to do some heavy modifications for this week's challenge of Maids of Honour, because I've gone about two months without buying dairy milk at this point and I'm not about to break my streak. So
+I've gone about two months without buying dairy milk at this point and I really don't want to break my streak. But this week's challenge, frankly, is going to be pretty impossible to do without milk. I'm not sure what I'll do at this point
 
 ## Episode 5: The Roaring 20's
 
