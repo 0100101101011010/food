@@ -30,7 +30,9 @@ After my disastrous results attempting the first challenge, [angel slices for Ca
 
 ![making date filling](/food/diary/images/gbbo-bake-along-biscuits-1.jpg){:width="40%"}{: .image-left}
 
-Since dried figs are hard to find, not to mention expensive, I used what I have at the moment: dried dates and raisins. I threw about 1/4 part raisins and 3/4 part dates into my saucepan with just enough water to cover, per recipe, and simmered them for ages and ages. When it looked like most of the water had boiled off and the mixture was basically mush, I turned off the heat to let it cool while I moved on to the dough.
+Since dried figs are hard to find, not to mention expensive, I used what I have at the moment: dried dates and raisins.
+
+I threw about 1/4 part raisins and 3/4 part dates into my saucepan with just enough water to cover, per recipe, and simmered them for ages and ages. When it looked like most of the water had boiled off and the mixture was basically mush, I turned off the heat to let it cool while I moved on to the dough. (I have to say, I wasn't a fan of the smell. It just smelled very... raisin-y. I don't like raisins but I do like dates, and I had hoped the dates would mask the raisin flavour but it was more like the other way around.)
 
 ![making shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-2.jpg){:width="40%"}{: .image-right} ![making shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-3.jpg){:width="40%"}{: .image-right}
 
