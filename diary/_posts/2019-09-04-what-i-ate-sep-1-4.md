@@ -65,29 +65,3 @@ I ordered their matcha latte (half sugar, no ice, as usual) and Kevin ordered th
 First, I appreciate the neatness and emptiness of the shop. Each table came with a cute little succulent. Maybe we came by at a downtime for bbt consumption, or maybe this brand hasn't yet established itself within the Toronto market, but there were only a couple of other people there.
 
 ### Sunday
-
-CCA = capital cost allowance
-UCC = unrecovered capital cost
-LOCP = lower of cost and proceeds
-
-non depreciables (eg. paintings, securities)
-
-- start with UCC at beginning of year
-- add: purchases in the year
-- deduct: dispositions in the year (LOCP)
-- = adjusted UCC
-- make first-year adjustments:
-  - accelerated investment incentive for EP
-  - if net changes are positive (more purchases than dispositions), deduct: half-year rule for NEP (50% * net additions in the year)
-- calculate maximum CCA = CCA rate * adjusted UCC (NOT including first-year adjustments)
-- calculate UCC at end of year = UCC - CCA
-
-note that first-year adjustments are only used to calculate max allowable CCA for the year, not the UCC balance
-
-for CCA, don't include HST in the cost of assets
-
-Sched 1 Reconciliation
-
-- add back: depreciation or amortization (under accounting), loss on disposal (under accounting), provision for income taxes (not an allowable reserve), writedowns of capital assets (not an allowable deduction)
-- add: recapture, taxable capital gains, deduct allowable capital losses
-- deduct: CCA, terminal loss, gain on disposal (under accounting)
