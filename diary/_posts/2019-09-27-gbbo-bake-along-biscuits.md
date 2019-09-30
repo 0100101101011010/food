@@ -40,7 +40,7 @@ The dough was very simple. It came together quickly in my stand mixer, and I wra
 
 Moving back to my now-cooled date mixture, I dumped that in my blender until it became a pretty homogenous looking paste. I then scraped it into a bowl and put it in the fridge as well, hopefully it would harden quite a bit because at the moment it was very gloopy and soft.
 
-![rolling shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-4.jpg){:width="50%"}{: .image-right} ![adding cinnamon and date paste to shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-5.jpg){:width="50%"}{: .image-right}
+![rolling shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-4.jpg){:width="49%"}{: .image-right} ![adding cinnamon and date paste to shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-5.jpg){:width="49%"}{: .image-right}
 
 After about an hour, I took the dough ball out of the fridge and rolled it about as thin as I could. Rolling it out on a piece of parchment paper as suggested in the recipe was a big help, because it didn't stick at all to the counter!
 
