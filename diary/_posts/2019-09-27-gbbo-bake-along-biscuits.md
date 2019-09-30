@@ -50,9 +50,9 @@ After about an hour, I took the dough ball out of the fridge and rolled it about
 
 At this point, I realized I completely forgot the cinnamon and ginger that I should've mixed in with the date mixture. Frankly, I didn't think the ginger would make such a big difference (especially since the taste was going to be altered anyway by using dates instead of figs), but I did coat the surface of the dough in cinnamon powder just to get that extra flavour in there.
 
-When I tried to grab the filling to shape it into sausages, I found that it was still just as soft as when I'd put it in the fridge; chilling hadn't helped it firm up at all. I'm thinking that I didn't reduce the water enough when I was simmering, but at this point it was too late to do anything about it, so I just sort of spooned the mixture into the middle of each strip of dough.
-
 ![cutting fig rolls](/food/diary/images/gbbo-bake-along-biscuits-6.jpg){:width="40%"}{: .image-left}
+
+When I tried to grab the filling to shape it into sausages, I found that it was still just as soft as when I'd put it in the fridge; chilling hadn't helped it firm up at all. I'm thinking that I didn't reduce the water enough when I was simmering, but at this point it was too late to do anything about it, so I just sort of spooned the mixture into the middle of each strip of dough.
 
 The super soft filling made things really messy when I started to roll and cut each pastry. It was threatening to spill out of both ends, but luckily it held together just well enough that I could transfer them into the baking tray.
 
