@@ -37,7 +37,7 @@ The first week's technical challenge for the bakers is [angel slices](/food/diar
 
 ## Episode 2: Biscuits
 
-The issue with this one is I don't usually have figs randomly lying around the house, and they are kinda difficult to find in the stores here (not to mention expensive).
+The issue with this one is I don't usually have figs randomly lying around the house, and they are kinda difficult to find in the stores here (not to mention expensive). I will have to think of a substitute for them when I get to this challenge.
 
 [See my results here](/food/diary/gbbo-bake-along-biscuits/).
 

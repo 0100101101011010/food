@@ -64,4 +64,4 @@ I can see myself making the dough from this recipe again, but not the filling. I
 
 ![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-8.jpg){:width="60%"}{: .image-left}
 
-Tune in a few days from now (hopefully) to see me tackle my next [Bake Off challenge](/food/diary/jellies-great-british-bake-along-2019/#episode-3-biscuits), fig rolls.
+Tune in a few days from now (hopefully) to see me tackle my next [Bake Off challenge](/food/diary/jellies-great-british-bake-along-2019/#episode-3-bread), burger baps.
