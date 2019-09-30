@@ -30,21 +30,17 @@ discussion_id: 2019-08-16
 * TOC
 {:toc}
 
-## Monday
+## Saturday
 
+### Noodles at
 
-### Coconut Chocolate Chip Blondies
+After [touching down in Toronto](/food/foodventures/what-i-ate-north-italy-edition-venice/), we took a rideshare back to Waterloo. Since there was nothing in the fridge, and I was too lazy to go out for groceries on our first day back, we went out to eat at a restaurant I've been meaning to try for some time.
 
-![coconut chocolate chip blondies](/food/foodventures/images/vegan-brownies-toasted-coconut.jpg){:width="30%"}{: .image-right}
+Located in the Plaza, it's right next to Kismet in the place where Vegetarian Fast Food used to be.
 
-Since Kevin thought the [brownies](/food/foodventures/what-i-ate-aug-5-11/#vegan-brownies-with-toasted-coconut) I made last week were too chocolatey and rich, I thought he would probably like blondies better than brownies. He did like the toasted coconut from the brownies, though, so I set out to find a recipe for coconut blondies.
+## Sunday
 
-The recipe [one I settled on](https://theconscientiouseater.com/vegan-coconut-chocolate-chunk-blondies/) calls for 1 cup of sugar (200 g), but I only used 75 g and it was plenty. I love sweets, but I can't understand how someone could eat something that sweet!!
-
-
-## Wednesday
-
-### Laughing Cow and Honey on Toast
+### Sbrisolona
 
 ![vegan brownies](/food/foodventures/images/laughing-cow-honey-toast.jpg){:width="30%"}{: .image-right}
 
@@ -52,9 +48,9 @@ This is the [second time]() I've made this combination, and although I'd much pr
 
 I didn't look too closely the last time I'd eaten it, but this time, I took a pretty clear picture, and as you can see... the cheese kind of... split. It looked gross, but I ate it anyway. I did some Googling afterwards and found out that the pH of honey is 3.9 on average!! That's so acidic (even more so than fresh tomatoes)! No wonder the cheese reacted badly.
 
-### Canadian War Cake
+### Momofuku Noodle Bar
 
-![canadian war cake](/food/foodventures/images/canadian-war-cake-1.jpg){:width="30%"}{: .image-right} ![canadian war cake](/food/foodventures/images/canadian-war-cake-2.jpg){:width="30%"}{: .image-right}
+![pork belly bao at momofuku noodle bar toronto](/food/diary/images/momofuku-bao.jpg){:width="49%"}{: .image-right} ![potato dashi ramen at momofuku noodle bar](/food/diary/images/momofuku-ramen.jpg){:width="49%"}{: .image-right}
 
 The name of the cake sounds a bit aggressive, but it's a fitting descriptor when you learn [this was a cake created during WWII](https://youtu.be/6o_1JqqfoZo). Food supplies in Canada were rationed at the time, and home cooks had to find creative ways to stretch their ingredients while still making something tasty. This batter uses no butter or eggs, and as a result, it's a super economical recipe.
 
@@ -105,6 +101,20 @@ http://www.isachandra.com/2008/10/spicy-tempeh-roll/
 
 ### Sunday
 
+CCA = capital cost allowance
+UCC = unrecovered capital cost
+LOCP = lower of cost and proceeds
 
+non depreciables (eg. paintings, securities)
 
-As usual, I'm not so impressed with [this curry](https://www.greensnchocolate.com/red-lentil-coconut-curry-stuffed-spaghetti-squash/) (followed recipe except for spinach, since I didn't have any on hand). I've eaten plenty of lentil curries in restaurants, so I know it's something I enjoy, but I can never quite replicate it at home.
+- start with UCC at beginning of year
+- add: purchases in the year
+- deduct: dispositions in the year (LOCP)
+- = adjusted UCC
+- make first-year adjustments:
+  - accelerated investment incentive for EP
+  - if net changes are positive (more purchases than dispositions), deduct: half-year rule for NEP (50% * net additions in the year)
+- calculate maximum CCA = CCA rate * adjusted UCC (NOT including first-year adjustments)
+- calculate UCC at end of year = UCC - CCA
+
+note that first-year adjustments are only used to calculate max allowable CCA for the year, not the UCC balance
