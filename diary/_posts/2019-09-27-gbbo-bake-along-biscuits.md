@@ -24,7 +24,7 @@ discussion_id: 2019-09-27
 
 {{page.excerpt}}
 
-Well, I've fallen further behind the [Bake Off schedule](/food/diary/jellies-great-british-bake-along-2019), but I'm planning to make the burger baps this weekend and maybe sneak in the Maids of Honour as well, so not to worry guys we will catch back up :-)
+I know I've fallen further behind the [Bake Off schedule](/food/diary/jellies-great-british-bake-along-2019), but I'm planning to make the burger baps this weekend and maybe sneak in the Maids of Honour as well, so not to worry guys we will catch back up :-)
 
 After my disastrous results attempting the first challenge, [angel slices for Cake Week](/food/diary/gbbo-bake-along-cake), I was feeling a bit discouraged from spending so much time and ultimately failing. Luckily, this week's technical challenge was [fig rolls](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywoods-fig-rolls/), and even though I had never tried one before, they turned out to be a lot more simple to make.
 
