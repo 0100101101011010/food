@@ -25,11 +25,11 @@ discussion_id: 2019-09-27
 
 {{page.excerpt}}
 
-Well, I've fallen further behind the [Bake Off schedule](/food/diary/jellies-great-british-bake-along-2019), but I'm planning to make the burger baps this weekend and maybe sneak in the Maids of Honour
+Well, I've fallen further behind the [Bake Off schedule](/food/diary/jellies-great-british-bake-along-2019), but I'm planning to make the burger baps this weekend and maybe sneak in the Maids of Honour as well, so not to worry guys we will catch back up :-)
 
-Yes, I know [Cake Week](/food/diary/jellies-great-british-bake-along-2019) already happened *ages ago*, but between recovering from jet lag, settling back into the school routine, and doing a total reorganization of my room, I only got around to attempting this complicated dessert today. And holy cow, is it complicated.
+After my disastrous results attempting the first challenge, [angel slices for Cake Week](/food/diary/gbbo-bake-along-cake), I was feeling a bit discouraged from spending so much time and ultimately failing. Luckily, this week's technical challenge was fig rolls, and even though I had never tried one before, they turned out to be a lot more simple to make.
 
-For those who aren't following the show, I'm making [Angel Slices](https://thegreatbritishbakeoff.co.uk/angel-slices/), which features several baking basics that I've never done before: genoise sponge, fondant icing, and food colouring. (OK, I have used food colouring, but never actually in food. I think I bought some for a science project back in elementary school, and that was the last time I touched it. I have a thing about using natural colourings wherever possible, but I know sometimes food colouring is necessary, so it's about time I got familiar with using it.)
+Since dried figs are hard to find, not to mention expensive, I used what I have at the moment: dried dates and raisins.
 
 Following the instructions, the first issue I ran into was the baking pan itself. In order to bake the three distinct layers for the cake, the recipe calls for you to separate a baking pan into three segments with foil-parchment paper. As far as I've seen here in Canada, foil and parchment are only ever sold separately, and I thought I could get away with using just parchment, without the foil. After finagling with the paper and trimming it down to the perfect width for my pan, I had three pretty even segments going on. But when I got to pouring the first bowl of batter, the paper was way too weak to hold its place, and it was collapsing and threatening to spill the batter into the next section! So I had to quickly work some aluminum foil under the paper. LESSON #1 LEARNED: when a recipe tells you to use parchment *and* foil, USE BOTH!
 
