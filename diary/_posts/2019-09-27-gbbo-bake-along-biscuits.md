@@ -58,14 +58,12 @@ The super soft filling made things really messy when I started to roll and cut e
 
 I realize that I should've made less cuts, because mine were wider than they were long. Also, there was no way I was applying a fork to the tops like the recipe wanted me to; at this point I was trying to handle them as little as possible because they seemed so soft and fragile! Praying for the best, I sent them into the oven.
 
-![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-9.jpg){:width="60%"}{: .image-left}
+![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-9.jpg){:width="100%"}{: .image-left}
 
 Well, they actually turned out so much better than I expected! The dough was fully baked and really nice and light. The dates didn't ooze out and make a mess as I feared. I overfilled them (could've done with less filling and more shortbread), and I wasn't the biggest fan of the flavour, but they were still quite tasty. I ate almost the entire plate for dinner.
 
-![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-7.jpg){:width="40%"}{: .image-right}
+![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-7.jpg){:width="40%"}{: .image-right} ![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-8.jpg){:width="40%"}{: .image-right}
 
 I can see myself making the dough from this recipe again, but not the filling. It would be a perfect dough for wrapping around some cocktail wieners or slices of spam for a snack when Kevin comes to visit. Maybe even for marmite scrolls!
-
-![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-8.jpg){:width="60%"}{: .image-left}
 
 Tune in a few days from now (hopefully) to see me tackle my next [Bake Off challenge](/food/diary/jellies-great-british-bake-along-2019/#episode-3-bread), burger baps.
