@@ -64,6 +64,6 @@ Well, they actually turned out so much better than I expected! The dough was ful
 
 ![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-7.jpg){:width="40%"}{: .image-right} ![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-8.jpg){:width="40%"}{: .image-right}
 
-I can see myself making the dough from this recipe again, but not the filling. It would be a perfect dough for wrapping around some cocktail wieners or slices of spam for a snack when Kevin comes to visit. Maybe even for marmite scrolls!
+I can see myself making the dough from this recipe again, but not the filling. Take out the vanilla and some of the sugar, and it would be a perfect dough for wrapping around some cocktail wieners or slices of spam for a snack when Kevin comes to visit. Maybe even for marmite scrolls!
 
 Tune in a few days from now (hopefully) to see me tackle my next [Bake Off challenge](/food/diary/jellies-great-british-bake-along-2019/#episode-3-bread), burger baps.
