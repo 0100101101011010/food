@@ -15,7 +15,7 @@ keywords:
  - home baking
  - british food
  - british junk food
-excerpt: "We're making fig rolls today!"
+excerpt: "We're making fig rolls today! Well, date rolls to be precise because I don't have figs. This is Week 2 of my bake-along with The Great British Bake Off. I've never eaten a fig roll before, although I did use to buy the occasional fig bar from my high school vending machine. I imagine they have to taste kind of similar."
 img: /food/diary/images/gbbo-bake-along-biscuits-cover.jpg
 comments: "0"
 
@@ -26,7 +26,7 @@ discussion_id: 2019-09-27
 
 Well, I've fallen further behind the [Bake Off schedule](/food/diary/jellies-great-british-bake-along-2019), but I'm planning to make the burger baps this weekend and maybe sneak in the Maids of Honour as well, so not to worry guys we will catch back up :-)
 
-After my disastrous results attempting the first challenge, [angel slices for Cake Week](/food/diary/gbbo-bake-along-cake), I was feeling a bit discouraged from spending so much time and ultimately failing. Luckily, this week's technical challenge was fig rolls, and even though I had never tried one before, they turned out to be a lot more simple to make.
+After my disastrous results attempting the first challenge, [angel slices for Cake Week](/food/diary/gbbo-bake-along-cake), I was feeling a bit discouraged from spending so much time and ultimately failing. Luckily, this week's technical challenge was [fig rolls](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywoods-fig-rolls/), and even though I had never tried one before, they turned out to be a lot more simple to make.
 
 ![making date filling](/food/diary/images/gbbo-bake-along-biscuits-1.jpg){:width="40%"}{: .image-left}
 
