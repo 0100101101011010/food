@@ -8,25 +8,26 @@ tags: television baking challenge
 keywords:
  - baking challenge
  - homemade cake
- - british cookies
- - british desserts
- - cookies from scratch
- - homemade desserts
+ - bread
+ - breadmaking
+ - food show
+ - bread from scratch
+ - burger buns
  - home baking
  - british food
- - british junk food
-excerpt: "We're making fig rolls today! Well, date rolls to be precise because I don't have figs. This is Week 2 of my bake-along with The Great British Bake Off. I've never eaten a fig roll before, although I did use to buy the occasional fig bar from my high school vending machine. I imagine they have to taste kind of similar."
+ - burger baps
+excerpt: "Although most contestants of GBBO are apprehensive about bread week, this is probably the week I was most excited to bake along to. Not that I'm a good bread baker—I just love eating bread!"
 img: /food/diary/images/gbbo-bake-along-bread-cover.jpg
 comments: "0"
 
 published: false
 
-discussion_id: 2019-09-27
+discussion_id: 2019-09-29
 ---
 
 {{page.excerpt}}
 
-I know I've fallen further behind the [Bake Off schedule](/food/diary/jellies-great-british-bake-along-2019), but I'm planning to make the burger baps this weekend and maybe sneak in the Maids of Honour as well, so not to worry guys we will catch back up :-)
+This is my favourite bake of the [season so far](/food/diary/jellies-great-british-bake-along-2019) (I know, it's only been three episodes).
 
 After my disastrous results attempting the first challenge, [angel slices for Cake Week](/food/diary/gbbo-bake-along-cake), I was feeling a bit discouraged from spending so much time and ultimately failing. Luckily, this week's technical challenge was [fig rolls](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywoods-fig-rolls/), and even though I had never tried one before, they turned out to be a lot more simple to make.
 
