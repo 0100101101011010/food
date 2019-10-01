@@ -87,3 +87,5 @@ Of course, we got their namesake, a plate of mixed bannock bread with hummus dip
 I ordered the Mac & Cheese V, made with Ontario cheddar and some mushrooms and kale to make it ~~healthy, and topped with some ketchup chips. Very Canadian! I could've done with slightly less mushrooms, but other than that, it was delicious. They definitely weren't sleeping on the cheese.
 
 Kevin ordered the Roast Duck Poutine, which our server specifically warned us that it would be "really, really big." I was apprehensive that she had to warn us about that, I mean it was only $21, how big can it be? As it turns out, she was right, I have never seen a more massive and loaded pizza in my life. It smelled amazingg. Kevin could only eat half before he was totally stuffed, and we packed the rest up to take home. It ended up being pretty tasty reheated the next day too.
+
+### "Dinner" at Kinka Izakaya
