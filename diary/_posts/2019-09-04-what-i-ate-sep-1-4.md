@@ -88,9 +88,9 @@ I ordered the Mac & Cheese V, made with Ontario cheddar and some mushrooms and k
 
 Kevin ordered the Roast Duck Poutine, which our server specifically warned us that it would be "really, really big." I was apprehensive that she had to warn us about that, I mean it was only $21, how big can it be? As it turns out, she was right, I have never seen a more massive and loaded pizza in my life. It smelled amazingg. Kevin could only eat half before he was totally stuffed, and we packed the rest up to take home. It ended up being pretty tasty reheated the next day too.
 
-### "Dinner" at Kinka Izakaya
+### "Dinner" at Zakkushi
 
-![mac and cheese from bannock toronto](/food/diary/images/kinka-izakaya-tofu.jpg){:width="40%"}{: .image-right}
+![mac and cheese from bannock toronto](/food/diary/images/zakkushi-tofu-hamachi.jpg){:width="40%"}{: .image-right}
 
 Dinner is in quotation marks here because we did *plan* on eating our dinner here...
 
