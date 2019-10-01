@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What to Do with Leftover Bread Crusts"
+title: "What to Do with Leftovers"
 author: Kelly Zhang
 permalink: :categories/:title/
 categories: discussion
@@ -15,4 +15,10 @@ published: false
 discussion_id: 2019-07-05
 ---
 
+## Old Bread:
+
 https://www.cottercrunch.com/hatch-green-chile-tomato-egg-casserole/
+
+## Extra Pie Crust Dough:
+
+https://bakingmischief.com/2016/11/04/what-to-do-with-leftover-pie-dough/
