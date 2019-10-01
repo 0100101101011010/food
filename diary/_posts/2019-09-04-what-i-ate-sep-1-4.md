@@ -92,4 +92,8 @@ Kevin ordered the Roast Duck Poutine, which our server specifically warned us th
 
 ![mac and cheese from bannock toronto](/food/diary/images/kinka-izakaya-tofu.jpg){:width="40%"}{: .image-right}
 
-Dinner is in quotation marks here because we did plan on eating our dinner here
+Dinner is in quotation marks here because we did *plan* on eating our dinner here...
+
+Kevin ordered a chicken donburi. According to him, it was tasty, but the portion was tiny.
+
+The worst, though, was the super loud atmosphere. I don't mind a crowded or noisy restaurant, but in this case, the staff would contribute to the noise level by yelling Japanese phrases in unison every 2 seconds. The space is small to begin with, so the noise just gets amplified. This is obviously part of their gimmick but it was so unnecessary in my opinion, it made it hard to carry on any kind of conversation.
