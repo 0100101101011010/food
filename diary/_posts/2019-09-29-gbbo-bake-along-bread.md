@@ -29,7 +29,7 @@ discussion_id: 2019-09-29
 
 This is my favourite bake of the [season so far](/food/diary/jellies-great-british-bake-along-2019) (I know, it's only been three episodes). I'm sure my experience would be very different had I actually been on the show, with Paul Hollywood breathing down my neck, but I love making bread at home and burger buns seems to be such a simple, yet versatile challenge!
 
-I did not attempt the black bean patty included in the recipe, since I had a couple of vegan okara patties sitting in the fridge from last week. Kevin the enemy of all beans came over on Friday, and no way was I serving him black bean burgers, so 
+I did not attempt the black bean patty included in the recipe, since I had a couple of vegan okara patties sitting in the fridge from last week. Kevin the enemy of all beans came over on Friday, and no way was I serving him black bean burgers, so I'll also be making some 
 
 After my disastrous results attempting the first challenge, [angel slices for Cake Week](/food/diary/gbbo-bake-along-cake), I was feeling a bit discouraged from spending so much time and ultimately failing. Luckily, this week's technical challenge was [fig rolls](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywoods-fig-rolls/), and even though I had never tried one before, they turned out to be a lot more simple to make.
 
