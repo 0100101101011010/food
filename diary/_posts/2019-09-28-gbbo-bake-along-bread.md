@@ -20,8 +20,6 @@ excerpt: "Although most contestants of GBBO are apprehensive about Bread Week, t
 img: /food/diary/images/gbbo-bake-along-bread-cover.jpg
 comments: "0"
 
-published: false
-
 discussion_id: 2019-09-28
 ---
 
