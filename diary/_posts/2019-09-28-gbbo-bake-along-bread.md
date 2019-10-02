@@ -49,7 +49,7 @@ Then I covered them with a hand towel and let them sit for about 15 minutes (sho
 
 They didn't seem to rise much in the short time, but I went ahead and flattened them with a rolling pin as the recipe said. Now it was time for the second prove, which I did for about an hour.
 
-![freshly baked buns](/food/diary/images/gbbo-bake-along-bread-5.jpg){:width="49%"}{: .image-right} ![floury baps with burger patties](/food/diary/images/gbbo-bake-along-bread-6.jpg){:width="49%"}{: .image-right}
+![floury baps with burger patties](/food/diary/images/gbbo-bake-along-bread-6.jpg){:width="49%"}{: .image-right} ![freshly baked buns](/food/diary/images/gbbo-bake-along-bread-5.jpg){:width="49%"}{: .image-right}
 
 You can really see the difference in oven power in the photo on the left. I baked six buns on one baking tray, in the microwave convection oven, and the other two I baked in the toaster oven. The toaster oven buns were *significantly* darker than the ones baked in the microwave (although they all tasted great!
 
