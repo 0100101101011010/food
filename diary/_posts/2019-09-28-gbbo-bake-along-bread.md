@@ -16,7 +16,7 @@ keywords:
  - home baking
  - british food
  - burger baps
-excerpt: "Although most contestants of GBBO are apprehensive about bread week, this is probably the week I was most excited to bake along to. Not that I'm a good bread baker—I just love eating bread!"
+excerpt: "Although most contestants of GBBO are apprehensive about Bread Week, this is probably the week I was most excited to bake along to. Not that I'm a good bread baker—I just love eating bread!"
 img: /food/diary/images/gbbo-bake-along-bread-cover.jpg
 comments: "0"
 
@@ -27,50 +27,38 @@ discussion_id: 2019-09-28
 
 {{page.excerpt}}
 
-This is my favourite bake of the [season so far](/food/diary/jellies-great-british-bake-along-2019) (I know, it's only been three episodes). I'm sure my experience would be very different had I actually been on the show, with Paul Hollywood breathing down my neck, but I love making bread at home and burger buns seems to be such a simple, yet versatile challenge!
+This is my favourite bake of the [season so far](/food/diary/jellies-great-british-bake-along-2019) (I know, it's only been three episodes). I'm sure my experience would be very different had I actually been on the show, with Paul Hollywood breathing down my neck, but I love making bread at home and burger buns seem to be such a simple, yet versatile challenge!
 
-Fun fact: this is the first time I've heard of hamburger buns referred to as "floury baps." UK people are so weird.
+Fun fact: this is the first time I've heard of hamburger buns referred to as "floury baps." Is this standard nomenclature throughout the UK? British residents, write in.
 
 I did not attempt the vegie burger included in the [recipe](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywoods-floury-baps-veggie-burgers/), since I had a couple of vegan okara patties sitting in the fridge from last week. Kevin the enemy of all beans came over on Friday, and no way was I serving him black bean burgers, so I also made a bunch of ground beef patties for him.
 
-After my disastrous results attempting the first challenge, [angel slices for Cake Week](/food/diary/gbbo-bake-along-cake), I was feeling a bit discouraged from spending so much time and ultimately failing. Luckily, this week's technical challenge was [fig rolls](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywoods-fig-rolls/), and even though I had never tried one before, they turned out to be a lot more simple to make.
+![burger bap bread dough, unproved](/food/diary/images/gbbo-bake-along-bread-1.jpg){:width="49%"}{: .image-right} ![burger bap bread dough, after first prove](/food/diary/images/gbbo-bake-along-bread-2.jpg){:width="49%"}{: .image-right}
 
-![making date filling](/food/diary/images/gbbo-bake-along-biscuits-1.jpg){:width="40%"}{: .image-left}
+I was out of white bread flour, so I used whole wheat instead, sifting the bran out. I used Crisco for the shortening, dropping it in by spoonfuls until I got 30 g. I kneaded it in my stand mixer on the lowest speed for about 8 minutes. The dough came together very easily, no fuss, and I think this is the first bread dough I've made that's come close to passing the [windowpane test](http://www.thefreshloaf.com/node/26723/my-dough-never-passes-windowpane-tests-what-wrong)! I only used about 230 mL of water. Next time, I think I could add even less, maybe 220 mL.
 
-Since dried figs are hard to find, not to mention expensive, I used what I have at the moment: dried dates and raisins.
+![dividing bread dough into balls](/food/diary/images/gbbo-bake-along-bread-3.jpg){:width="40%"}{: .image-left}
 
-I threw about 1/4 part raisins and 3/4 part dates into my saucepan with just enough water to cover, per recipe, and simmered them for ages and ages. When it looked like most of the water had boiled off and the mixture was basically mush, I turned off the heat to let it cool while I moved on to the dough.
+I went out for a quick grocery run after leaving it to prove, and came back a bit late—maybe 1.5 hours—but the dough was looking pretty good, about doubled in size.
 
-(I have to say, I wasn't a fan of the smell. It just smelled very... raisin-y. I don't like raisins but I do like dates, and I had hoped the dates would mask the raisin flavour but it was more like the other way around.)
+I split the dough in two, then cut each half roughly into quarters. On the show, I think most of the contestants weigh their pieces meticulously to achieve identical buns, but since no one's here to judge me at home, I didn't bother.
 
-![making shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-2.jpg){:width="40%"}{: .image-right} ![making shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-3.jpg){:width="40%"}{: .image-right}
+(It was hard to shape them into balls, because they had the opposite problem of most of my doughs: they weren't sticky at all! I had been generous with the flour dusting, so when it came time to shape them by rolling them on the counter, there was no tension and they slid right off.)
 
-(Added way too much vanilla extract, but whatever)
+Then I covered them with a hand towel and let them sit for about 15 minutes (should've been 10; I should really start paying more attention to the time).
 
-The dough was very simple. It came together quickly in my stand mixer, and I wrapped it in cling film to chill in the fridge.
+![flattening the bread dough before second prove](/food/diary/images/gbbo-bake-along-bread-4.jpg){:width="50%"}{: .image-right}
 
-Moving back to my now-cooled date mixture, I dumped that in my blender until it became a pretty homogenous looking paste. I then scraped it into a bowl and put it in the fridge as well, hopefully it would harden quite a bit because at the moment it was very gloopy and soft.
+They didn't seem to rise much in the short time, but I went ahead and flattened them with a rolling pin as the recipe said. Now it was time for the second prove, which I did for about an hour.
 
-![rolling shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-4.jpg){:width="49%"}{: .image-right} ![adding cinnamon and date paste to shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-5.jpg){:width="49%"}{: .image-right}
+![freshly baked buns](/food/diary/images/gbbo-bake-along-bread-5.jpg){:width="49%"}{: .image-right} ![floury baps with burger patties](/food/diary/images/gbbo-bake-along-bread-6.jpg){:width="49%"}{: .image-right}
 
-After about an hour, I took the dough ball out of the fridge and rolled it about as thin as I could. Rolling it out on a piece of parchment paper as suggested in the recipe was a big help, because it didn't stick at all to the counter!
+You can really see the difference in oven power in the photo on the left. I baked six buns on one baking tray, in the microwave convection oven, and the other two I baked in the toaster oven. The toaster oven buns were *significantly* darker than the ones baked in the microwave (although they all tasted great!
 
-At this point, I realized I completely forgot the cinnamon and ginger that I should've mixed in with the date mixture. Frankly, I didn't think the ginger would make such a big difference (especially since the taste was going to be altered anyway by using dates instead of figs), but I did coat the surface of the dough in cinnamon powder just to get that extra flavour in there.
+It ended up being a good thing that I cut back on the sugar in this recipe—I used about 20 g when the recipe called for 30 g, but even with just 2/3, the buns had a good amount of sweetness. But that sweetness turns out to be a pretty addition! Since buns are typically made to hold savoury stuff, I hadn't thought of adding sugar, but now that I think back, most grocery store buns do seem to have a somewhat sweet taste.
 
-![cutting fig rolls](/food/diary/images/gbbo-bake-along-biscuits-6.jpg){:width="40%"}{: .image-left}
+I think I overproved the dough slightly, since Kevin said the bread was a bit dense. Possibly it was also because I sliced into the dough when they were still hot from the oven, and cutting bread before it's fully cooled is a big no-no. The buns that I let cool before cutting open seemed to do a lot better.
 
-When I tried to grab the filling to shape it into sausages, I found that it was still just as soft as when I'd put it in the fridge; chilling hadn't helped it firm up at all. I'm thinking that I didn't reduce the water enough when I was simmering, but at this point it was too late to do anything about it, so I just sort of spooned the mixture into the middle of each strip of dough.
+Overall, this is probably my most successful Bake Along result yet. Next time I'll keep a stricter watch on the time, and they'll hopefully turn out even better. I can see myself returning to this recipe time and again as my new go-to burger recipe.
 
-The super soft filling made things really messy when I started to roll and cut each pastry. It was threatening to spill out of both ends, but luckily it held together just well enough that I could transfer them into the baking tray.
-
-I realize that I should've made less cuts, because mine were wider than they were long. Also, there was no way I was applying a fork to the tops like the recipe wanted me to; at this point I was trying to handle them as little as possible because they seemed so soft and fragile! Praying for the best, I sent them into the oven.
-
-![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-9.jpg){:width="100%"}{: .image-left}
-
-Well, they actually turned out so much better than I expected! The dough was fully baked and really nice and light. The dates didn't ooze out and make a mess as I feared. I overfilled them (could've done with less filling and more shortbread), and I wasn't the biggest fan of the flavour, but they were still quite tasty. I ate almost the entire plate for dinner.
-
-![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-7.jpg){:width="40%"}{: .image-right} ![fig rolls](/food/diary/images/gbbo-bake-along-biscuits-8.jpg){:width="40%"}{: .image-right}
-
-I can see myself making the dough from this recipe again, but not the filling. Take out the vanilla and some of the sugar, and it would be a perfect dough for wrapping around some cocktail wieners or slices of spam for a snack when Kevin comes to visit. Maybe even for marmite scrolls!
-
-Tune in a few days from now (hopefully) to see me tackle my next [Bake Off challenge](/food/diary/jellies-great-british-bake-along-2019/#episode-3-bread), burger baps.
+Tune in next week to see me tackle my next [Bake Off challenge](/food/diary/jellies-great-british-bake-along-2019/#episode-4-dairy), "maids of honour."
