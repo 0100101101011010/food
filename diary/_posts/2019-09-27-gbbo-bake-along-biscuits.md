@@ -36,7 +36,7 @@ I threw about 1/4 part raisins and 3/4 part dates into my saucepan with just eno
 
 I have to say, I wasn't a fan of the smell. It just smelled very... sour and raisin-y. I don't like raisins but I do like dates, and I had hoped the dates would mask the raisin flavour but it was more like the other way around.
 
-![making shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-2.jpg){:width="40%"}{: .image-right} ![making shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-3.jpg){:width="40%"}{: .image-right}
+![making shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-3.jpg){:width="40%"}{: .image-right} ![making shortbread dough](/food/diary/images/gbbo-bake-along-biscuits-2.jpg){:width="40%"}{: .image-right}
 
 (Added way too much vanilla extract, but whatever)
 
