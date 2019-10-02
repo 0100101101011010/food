@@ -49,6 +49,8 @@ Then I covered them with a hand towel and let them sit for about 15 minutes (sho
 
 They didn't seem to rise much in the short time, but I went ahead and flattened them with a rolling pin as the recipe said. Now it was time for the second prove, which I did for about an hour.
 
+I was a bit worried that maybe I'd flattened them out too much, but in the end there was no need for concern. They puffed back up during the second prove, and rose a good amount in the oven too, so it looks like you do have to flatten them quite a lot for them to have that nice burger shape.
+
 You can really see the difference in oven power in the photo below on the left. I baked six buns on one baking tray, in the microwave convection oven, and the other two I baked in the toaster oven. The toaster oven buns were *significantly* darker than the ones baked in the microwave (although they all tasted great!
 
 ![floury baps with burger patties](/food/diary/images/gbbo-bake-along-bread-6.jpg){:width="49%"}{: .image-right} ![freshly baked buns](/food/diary/images/gbbo-bake-along-bread-5.jpg){:width="49%"}{: .image-right}
