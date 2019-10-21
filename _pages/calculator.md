@@ -420,10 +420,11 @@ Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable
 
 Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable-101221)
 
-### Winter Squash (Butternut Squash, Acorn Squash)
+### Winter Squash (Kabocha Squash, Butternut Squash, Acorn Squash)
 
-> 20–60 min (after 20, check every 10 min)
+> for slices: 20–60 min (after 20, check every 10 min)
+> for whole: 60 min (pierce skin several times with a sharp knife before roasting)
 
-Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable-101221)
+Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable-101221) and [The View from Great Island](https://theviewfromgreatisland.com/how-to-roast-whole-kabocha-squash-recipe/)
 
 ### Rule of Thumb for Roasting a New Vegetable
