@@ -19,6 +19,7 @@ comments: "0"
 published: false
 
 discussion_id: 2019-02-03
+redirect_to: "https://www.realordinaryfood.com/food-diary-jan-28-feb-3/"
 ---
 
 {{page.excerpt}}
