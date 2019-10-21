@@ -425,6 +425,6 @@ Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable
 > for slices: 20–60 min (after 20, check every 10 min)
 > for whole: 60 min (pierce skin several times with a sharp knife before roasting)
 
-Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable-101221) and [The View from Great Island](https://theviewfromgreatisland.com/how-to-roast-whole-kabocha-squash-recipe/)
+Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable-101221), [Sweet Simple Vegan](https://sweetsimplevegan.com/2017/02/how-to-roast-kabocha-squash/), and [The View from Great Island](https://theviewfromgreatisland.com/how-to-roast-whole-kabocha-squash-recipe/)
 
 ### Rule of Thumb for Roasting a New Vegetable
