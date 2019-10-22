@@ -427,4 +427,6 @@ Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable
 
 Recipe credit: [The Kitchn](https://www.thekitchn.com/how-to-roast-any-vegetable-101221), [Sweet Simple Vegan](https://sweetsimplevegan.com/2017/02/how-to-roast-kabocha-squash/), and [The View from Great Island](https://theviewfromgreatisland.com/how-to-roast-whole-kabocha-squash-recipe/)
 
+2415 g raw or roasted = 1300 g pureed
+
 ### Rule of Thumb for Roasting a New Vegetable
