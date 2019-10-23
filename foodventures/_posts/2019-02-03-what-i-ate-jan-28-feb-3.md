@@ -13,7 +13,7 @@ keywords:
  - MealPrepSunday
  - plant-based
  - office lunches
-excerpt: "Happy Chinese New Year! Successfully achieved a milestone of only eating homemade meals for this week's food diary."
+excerpt: "Happy Chinese New Year! Successfully achieved a milestone of only eating homemade meals for this week's food diary. This week's successful dishes include spinach cheddar waffles, a savoury vegan oatmeal, and homemade fries! Among the fails are an attempt at protein donuts and an avocado alfredo sauce."
 img: /food/foodventures/images/feb-3-2019.jpg
 comments: "0"
 
