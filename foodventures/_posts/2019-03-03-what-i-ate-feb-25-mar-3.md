@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Ate This Week: Feb 11–17"
+title: "What I Ate This Week: Feb 25 – Mar 3"
 author: Kelly Zhang
 permalink: :categories/:title/
 categories: foodventures
@@ -16,7 +16,7 @@ keywords:
 excerpt: "Didn't cook as much this week since I went back to Waterloo for the weekend and went out for every meal. Lots of misses in the kitchen this week, but discovered a few bombshell successes too!!"
 img: /food/foodventures/images/jan-27-2019.jpg
 comments: "0"
-
+redirect_to: "https://www.realordinaryfood.com/food-diary-feb-25-mar-3/"
 discussion_id: 2019-01-27
 published: false
 ---

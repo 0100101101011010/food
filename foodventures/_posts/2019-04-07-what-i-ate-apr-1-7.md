@@ -14,7 +14,7 @@ excerpt: "Using ."
 img: /food/foodventures/images/apr-7-2019.jpg
 comments: "2"
 published: false
-
+redirect_to: "https://www.realordinaryfood.com/food-diary-apr-1-7/"
 discussion_id: 2019-04-07
 ---
 
