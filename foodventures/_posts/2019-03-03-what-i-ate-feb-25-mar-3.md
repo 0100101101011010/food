@@ -19,5 +19,3 @@ comments: "0"
 redirect_to: "https://www.realordinaryfood.com/food-diary-feb-25-mar-3/"
 discussion_id: 2019-01-27
 ---
-
-{{page.excerpt}}
