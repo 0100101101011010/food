@@ -16,6 +16,8 @@ keywords:
  - health recipes
  - pulses
 
+redirect_to: "https://www.realordinaryfood.com/savoury-lentil-soup/"
+
 cooktime: "PT10M"
 preptime: "PT10M"
 totaltime: "PT20M"
