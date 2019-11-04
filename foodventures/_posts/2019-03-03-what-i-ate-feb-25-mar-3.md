@@ -13,12 +13,9 @@ keywords:
  - MealPrepSunday
  - plant-based
  - office lunches
-excerpt: "Didn't cook as much this week since I went back to Waterloo for the weekend and went out for every meal. Lots of misses in the kitchen this week, but discovered a few bombshell successes too!!"
-img: /food/foodventures/images/jan-27-2019.jpg
+excerpt: "Tried something new this week: baking with marmite! Nope, it's not as weird as it sounds and it tastes awesome. Other things I made this week include cassava cake and taquitos."
+img: /food/foodventures/images/feb-25-2019-mar-3-2019.jpg
 comments: "0"
 redirect_to: "https://www.realordinaryfood.com/food-diary-feb-25-mar-3/"
 discussion_id: 2019-01-27
-published: false
 ---
-
-{{page.excerpt}}

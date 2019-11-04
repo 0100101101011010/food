@@ -54,6 +54,8 @@ instructions:
  - For Instant Pot PRESSURE COOK mode, leave on HIGH for 5 minutes, then natural release (or 8 minutes for quick release).
 
 discussion_id: 2019-01-14
+
+redirect_to: "https://www.realordinaryfood.com/savoury-lentil-soup/"
 ---
 
 *{{page.excerpt}}*
