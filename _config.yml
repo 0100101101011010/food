@@ -2,14 +2,14 @@
 # This file contains configuration flags to customize your site
 #
 
-title: Jellie Noms
+title: I've Moved! → RealOrdinaryFood.com
 
 # Name of your site (displayed in the header)
 name: Kelly Zhang
 
 # Short bio or description (displayed in the header)
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi I'm Kelly, and I love food! Original recipes, food hacks and experiments, and discussions about food. All on a student budget.
+  I've moved! Please visit my new website at RealOrdinaryFood.com
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://kellyzhang.me/thumbs/favicon2.png
@@ -24,10 +24,10 @@ footer-links:
   email:
   facebook: jelliesbakery
   flickr:
-  instagram: jellieeats
+  instagram: real.ordinary.food
   linkedin:
   rss: # just type anything here for a working RSS icon
-  twitter:
+  twitter: ordinaryfood
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Talkyard comments
@@ -72,7 +72,7 @@ built-by: webjeda
 
 copyright:
    name: kelly zhang
-   link: 'https://kellyzhang.me'
+   link: 'https://realordinaryfood.com'
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
