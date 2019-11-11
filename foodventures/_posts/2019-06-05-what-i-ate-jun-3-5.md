@@ -16,6 +16,7 @@ img: /food/foodventures/images/jun-5-2019.jpg
 comments: "0"
 
 discussion_id: 2019-06-05
+redirect_to: "https://www.realordinaryfood.com/food-diary-jun-3-5/"
 ---
 
 {{page.excerpt}}
