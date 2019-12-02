@@ -13,10 +13,6 @@ keywords:
 excerpt: "The goal of these posts is to keep an accurate log of what I eat every day, even when those meals may not be particularly glamorous. That’s the case for this week’s food diary."
 img: /food/foodventures/images/apr-7-2019.jpg
 comments: "2"
-published: false
 redirect_to: "https://www.realordinaryfood.com/food-diary-apr-1-7/"
 discussion_id: 2019-04-07
 ---
-
-
-{{page.excerpt}}
