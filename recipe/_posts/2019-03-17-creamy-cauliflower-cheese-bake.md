@@ -52,7 +52,6 @@ instructions:
  - Bake at 375° F on the second-to-top rack for 25–30 minutes, or until golden on top.
 
 discussion_id: 2019-03-17
-redirect_to: "https://www.realordinaryfood.com/creamy-cauliflower-cheese-bake/"
 ---
 
 
