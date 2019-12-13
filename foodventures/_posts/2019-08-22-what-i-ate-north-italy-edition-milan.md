@@ -14,7 +14,7 @@ keywords:
 excerpt: "The cosmopolitan nature of Milan is reflected through its varied cuisine. We ate everything from modern Italian dishes at a Michelin-starred restaurant to Brazilian-Japanese fusion sushi."
 img: /food/foodventures/images/aug-22-2019.jpg
 comments: "0"
-
+redirect_to: "https://www.realordinaryfood.com/food-diary-north-italy-edition-milan/"
 discussion_id: 2019-08-22
 ---
 

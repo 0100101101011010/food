@@ -14,6 +14,7 @@ keywords:
 excerpt: "As the last stop on our Italian journey, Venice marks the last segment of this summer's holiday food updates. Even as I'm writing this (when I should really be reading textbooks), I miss Venezia so much. 😢"
 img: /food/foodventures/images/aug-31-2019.jpg
 comments: "0"
+redirect_to: "https://www.realordinaryfood.com/food-diary-north-italy-edition-venice/"
 
 discussion_id: 2019-08-31
 ---

@@ -17,6 +17,8 @@ keywords:
  - filling recipe
  - high fiber
 
+redirect_to: "https://www.realordinaryfood.com/creamy-cauliflower-cheese-bake/"
+
 cooktime: "PT4H"
 preptime: "PT15M"
 totaltime: "PT4H"
