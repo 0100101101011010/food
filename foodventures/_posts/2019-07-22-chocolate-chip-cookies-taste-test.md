@@ -16,6 +16,6 @@ excerpt: "Welcome to Jellie's Taste Kitchen. Today we're studying how changes to
 img: /food/foodventures/images/chocolate-chip-cookies-cover.jpg
 comments: "2"
 
-redirect_to: "https://www.realordinaryfood.com/old-fashioned-chocolate-chip-cookies/"
+redirect_to: "https://www.realordinaryfood.com/chocolate-chip-cookies-recipe-test/"
 discussion_id: 2019-07-22
 ---
