@@ -36,7 +36,7 @@ After [touching down in Toronto](/food/foodventures/what-i-ate-north-italy-editi
 
 ### Noodles at 白家老汤 (Northwestern Chinese Cuisine)
 
-Located in the University Shops Plaza, it's right next to Kismet in the place where Vegetarian Fast Food used to be, and opened earlier this year, but we haven't had an opportunity to visit until now. According to their [website](http://baijialaotang.com/), the English name of this restaurant is "Northwestern Chinese Cuisine" even though this is nowhere on their storefront sign. Mostly, it serves noodles, along with some hearty rice dishes.
+Located in the University Shops Plaza, it's right next to Kismet in the place where Vegetarian Fast Food used to be, and opened earlier this year, but we haven't had an opportunity to visit until now. According to their [website](http://baijialaotang.com/), the English name of this restaurant is "Northwestern Chinese Cuisine" even though this is nowhere on their storefront sign. Kinda confusing! Mostly, it serves noodles, along with some hearty rice dishes.
 
 ![multigrain rice noodle soup at baijialaotang](/food/diary/images/baijialaotang.jpg){:width="49%"}{: .image-left}
 
