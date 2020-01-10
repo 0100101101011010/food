@@ -16,5 +16,5 @@ img: /food/diary/images/gbbo-bake-along-cover.jpg
 comments: "0"
 
 discussion_id: 2019-08-27
-redirect_to: "https://www.realordinaryfood.com/food-diary-jan-7-13/"
+redirect_to: "https://www.realordinaryfood.com/2019-great-british-bake-along/"
 ---
