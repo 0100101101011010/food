@@ -17,9 +17,6 @@ input[type=text], input[type=number], select {
 }
 </style>
 
-* Table of Contents
-{:toc}
-
 ## Cookbooks of Antiquity
 
 ### Ancient Greece
