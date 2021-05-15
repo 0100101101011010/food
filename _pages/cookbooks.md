@@ -3,7 +3,7 @@ layout: page
 author: Kelly Zhang
 title: Free Cookbooks
 permalink: /cookbooks/
-excerpt: "A cooking conversion calculator to give you ratios and cooking times for common foods."
+excerpt: "A bunch of old cookbooks that have been digitized and are now in the public domain."
 ---
 <style>
 input[type=text], input[type=number], select {
