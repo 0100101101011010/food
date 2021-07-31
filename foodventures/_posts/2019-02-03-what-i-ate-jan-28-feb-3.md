@@ -18,6 +18,7 @@ img: /food/foodventures/images/feb-3-2019.jpg
 comments: "0"
 
 discussion_id: 2019-02-03
+
 ---
 
 {{page.excerpt}}
@@ -29,9 +30,9 @@ discussion_id: 2019-02-03
 
 ### Avocado Alfredo
 
-![avocado alfredo](/food/foodventures/images/avocado-alfredo-1.jpg){:width="48%"}{: .image-left}
-
-![avocado alfredo](/food/foodventures/images/avocado-alfredo-2.jpg){:width="48%"}{: .image-left}
+![avocado alfredo](/food/foodventures/images/avocado-alfredo-1.jpg){:width="28%"}{: .image-left}
+![avocado alfredo](/food/foodventures/images/avocado-alfredo-2.jpg){:width="28%"}{: .image-left}
+![avocado alfredo](/food/foodventures/images/avocado-alfredo-3.jpg){:width="28%"}{: .image-left}
 
 Tonight I tried making Chocolate Covered Katie's avocado alfredo sauce. Is it just me or does avocado develop a weird taste when it's heated? I'm finding that I don't like it in grilled cheese, or this alfredo thing. The flavour of the avocado overpowered the milk so much that it lost its alfredo identity completely. Also, since the only noodles I had at the moment were shiritaki, they really didn't help the taste issue.
 
@@ -41,7 +42,7 @@ Nope. All I could taste was the weird heated-up avocado smell, which gets more t
 
 ### Oven-Poached Eggs
 
-![oven-poached eggs](/food/foodventures/images/oven-poached-eggs.jpg){:width="40%"}{: .image-right}
+![oven-poached egg](/food/foodventures/images/oven-poached-egg.jpg){:width="40%"}{: .image-right}
 
 While the avocado sauce was cooking, I also prepared a pan of 12 poached eggs, using the [oven method](https://www.eggs.ca/recipes/muffin-pan-poached-eggs). I've never attempted poaching an egg the regular way, but it seems intimidating so I'm going to see if this method is successful.
 
@@ -51,7 +52,7 @@ Out of the oven, they look pretty good! Obviously, the shape is very... muffin c
 
 ### Spinach Cheddar Waffles
 
-![spinach-cheddar-waffles](/food/foodventures/images/spinach-cheddar-waffles.jpg){:width="50%"}{: .image-right}
+![spinach-cheddar-waffles](/food/foodventures/images/office-meal-2.jpg){:width="40%"}{: .image-left}
 
 I made a batch of [spinach waffles](http://www.onceuponarecipeblog.com/2014/04/savory-spinach-cheese-waffles/) last night, and man am I blown away by this recipe. I accidentally use double the amount of oil called for, most of which leaked out of my waffle maker as I was cooking, but they tasted amazing regardless. Perfectly crispy and rich.
 
@@ -71,7 +72,7 @@ I think this is the first time in years that I've had to boil macaroni pasta... 
 
 ### Apple Cinnamon Overnight Oats
 
-![apple cinnamon overnight oats](/food/foodventures/images/apple-cinnamon-overnight-oats.jpg){:width="50%"}{: .image-right}
+![apple cinnamon overnight oats](/food/foodventures/images/office-meal-1.jpg){:width="50%"}{: .image-right}
 
 Another day, another [overnight oats recipe](https://www.realordinaryfood.com/food-diary-jan-28-feb-3/)… This one was quite good! Next time, I would chop the apples into smaller pieces to make them easier to scoop up, but no changes otherwise. It’s been really fun trying out all these overnight oats recipes (here’s another fun one [with blackberries](https://www.realordinaryfood.com/blackberry-protein-overnight-oats/))! Oatmeal every day for breakfast may seem boring, but not when I’m switching it up every day.
 
@@ -97,7 +98,7 @@ There is a frosting that comes with the recipe, but after tasting the cupcakes, 
 
 ### Takeout-Style Lentil Curry
 
-![lentil-curry](/food/foodventures/images/lentil-curry.jpg){:width="50%"}{: .image-right}
+![lentil curry](/food/foodventures/images/takeout-style-lentil-curry.jpg){:width="50%"}{: .image-right}
 
 Something about this curry, in those black meal prep containers… I can’t help thinking that this looks totally like something you’d get for takeaway at an Indian restaurant.
 
@@ -113,21 +114,32 @@ No pictures for today. I went to a family friend’s house for an early Chinese 
 
 Was feeling like junk food today, so I found this [oil-free french fry recipe](https://runningonrealfood.com/oil-free-baked-fries-vegan-dips/) with an accompanying garlic ranch dip made from tofu.
 
+![oil-free baked fries](/food/foodventures/images/baked-oil-free-fries-1.jpg){:width="30%"}{: .image-left}
+![oil-free baked fries](/food/foodventures/images/baked-oil-free-fries-2.jpg){:width="30%"}{: .image-left}
+![oil-free baked fries](/food/foodventures/images/baked-oil-free-fries-3.jpg){:width="30%"}{: .image-left}
+
 I sprinkled the fries with a little of everything: paprika, chili powder, black pepper, salt, cumin… but I should’ve been more generous with the seasoning because I couldn’t taste it in the end. Still, it was definitely tasty and hit the spot for my carb craving for today.
 
 The dip has a beautiful consistency, but tasted like there was a little something missing. Needs some fat, or needs some more salt, maybe? Also, it made soooo much dip! I used maybe a quarter to finish all the fries (dipping very generously) and there’s so much leftover I don’t know what to do with.
 
 ### Greek Yogurt Bagels
 
+![skinnytaste bagels](/food/foodventures/images/skinnytaste-bagels-1.jpg){:width="50%"}{: .image-right}
+![skinnytaste bagels](/food/foodventures/images/skinnytaste-bagels-2.jpg){:width="50%"}{: .image-right}
+
 There’s a lot of buzz about these [Greek yogurt bagels from Skinnytaste](https://www.skinnytaste.com/easy-bagel-recipe/)… and I confirm they live up to the hype. Mine came out to 152 cal each, which is like half the calories of a store-bought bagel! I did make them a bit smaller, but still that’s quite a lot of calories saved without sacrificing any flavour. I made three of them plain and sprinkled one with dried onion flakes, which was my favourite.
 
 ### Protein Donuts
+
+![protein donuts](/food/foodventures/images/protein-donuts.jpg){:width="50%"}{: .image-right}
 
 At the same time the bagels were in the oven, I was mixing up another batter, this one for [protein donuts](http://www.bruisesandcalluses.com/2014/11/protein-donut-recipe.html). (Mainly I was just excited to try out my doughnut pan.) I don’t have such a glowing review for this recipe. Sure, you do save over half the calories of a regular doughnut (mine were 94 cal each), but the taste is also probably half as satisfying.
 
 More importantly, guys, do you spell it “donut” or “doughnut?” My autocorrect is telling me it’s “doughnut” so I guess that’s I’ll be going with from now on. Is this one of those British vs American things?
 
 ###  Cinnamon Apples with Greek Yogurt 
+
+![cinnamon apple yogurt](/food/foodventures/images/cinnamon-apples-yogurt.jpg){:width="50%"}{: .image-right}
 
 I had a tub of Greek yogurt that was closing in on expiry, and even though I use a good part of it for the bagels earlier, I had a bit leftover. I followed [this recipe](https://aseasyasapplepie.com/apple-pie-yogurt-parfait/#wprm-recipe-container-12354) for making cinnamon apples (skipping the sugar, they were sweet enough already!), and tossed them in with the yogurt to make a little dessert.
 
