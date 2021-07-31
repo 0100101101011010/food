@@ -52,7 +52,7 @@ Out of the oven, they look pretty good! Obviously, the shape is very... muffin c
 
 ### Spinach Cheddar Waffles
 
-![spinach-cheddar-waffles](/food/foodventures/images/office-meal-2.jpg){:width="40%"}{: .image-left}
+![spinach-cheddar-waffles](/food/foodventures/images/office-meal-2.jpg){:width="25%"}{: .image-left}
 
 I made a batch of [spinach waffles](http://www.onceuponarecipeblog.com/2014/04/savory-spinach-cheese-waffles/) last night, and man am I blown away by this recipe. I accidentally use double the amount of oil called for, most of which leaked out of my waffle maker as I was cooking, but they tasted amazing regardless. Perfectly crispy and rich.
 
@@ -114,9 +114,9 @@ No pictures for today. I went to a family friend’s house for an early Chinese 
 
 Was feeling like junk food today, so I found this [oil-free french fry recipe](https://runningonrealfood.com/oil-free-baked-fries-vegan-dips/) with an accompanying garlic ranch dip made from tofu.
 
-![oil-free baked fries](/food/foodventures/images/baked-oil-free-fries-1.jpg){:width="30%"}{: .image-left}
-![oil-free baked fries](/food/foodventures/images/baked-oil-free-fries-2.jpg){:width="30%"}{: .image-left}
-![oil-free baked fries](/food/foodventures/images/baked-oil-free-fries-3.jpg){:width="30%"}{: .image-left}
+![oil-free baked fries](/food/foodventures/images/baked-oil-free-fries-1.jpg){:width="32%"}{: .image-left}
+![oil-free baked fries](/food/foodventures/images/baked-oil-free-fries-2.jpg){:width="32%"}{: .image-left}
+![oil-free baked fries](/food/foodventures/images/baked-oil-free-fries-3.jpg){:width="32%"}{: .image-left}
 
 I sprinkled the fries with a little of everything: paprika, chili powder, black pepper, salt, cumin… but I should’ve been more generous with the seasoning because I couldn’t taste it in the end. Still, it was definitely tasty and hit the spot for my carb craving for today.
 
@@ -124,8 +124,8 @@ The dip has a beautiful consistency, but tasted like there was a little somethin
 
 ### Greek Yogurt Bagels
 
-![skinnytaste bagels](/food/foodventures/images/skinnytaste-bagels-1.jpg){:width="50%"}{: .image-right}
-![skinnytaste bagels](/food/foodventures/images/skinnytaste-bagels-2.jpg){:width="50%"}{: .image-right}
+![skinnytaste bagels](/food/foodventures/images/skinnytaste-bagels-1.jpg){:width="30%"}{: .image-right}
+![skinnytaste bagels](/food/foodventures/images/skinnytaste-bagels-2.jpg){:width="30%"}{: .image-right}
 
 There’s a lot of buzz about these [Greek yogurt bagels from Skinnytaste](https://www.skinnytaste.com/easy-bagel-recipe/)… and I confirm they live up to the hype. Mine came out to 152 cal each, which is like half the calories of a store-bought bagel! I did make them a bit smaller, but still that’s quite a lot of calories saved without sacrificing any flavour. I made three of them plain and sprinkled one with dried onion flakes, which was my favourite.
 
