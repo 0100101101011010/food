@@ -118,4 +118,4 @@ I'm also preparing a vegan-ish cheesecake with pistachio crust, recipe courtesy 
 
 The pistachios didn't get blended as fine as I'd have liked for a crust; I should've blended them first on their own before adding the honey.
 
-UPDATE: See [finished cheezecake here](https://www.realordinaryfood.com/food-diary-apr-8-14/#pistachio-cheezecake) in my next post.
+UPDATE: See [finished cheezecake here](food/foodventures/what-i-ate-apr-8-14/#pistachio-cheezecake) in my next post.
