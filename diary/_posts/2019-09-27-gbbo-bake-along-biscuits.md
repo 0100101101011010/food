@@ -20,7 +20,7 @@ img: /food/diary/images/gbbo-bake-along-biscuits-cover.jpg
 comments: "0"
 
 discussion_id: 2019-09-27
-redirect_to: "https://www.realordinaryfood.com/gbbo-bake-along-week-2-fig-rolls/"
+
 ---
 
 {{page.excerpt}}
